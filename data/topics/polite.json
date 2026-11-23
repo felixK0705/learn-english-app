@@ -34,12 +34,12 @@
       "exZh": "謝謝你載我。"
     },
     {
-      "en": "you are welcome",
+      "en": "you're welcome",
       "kk": "",
       "zh": "不客氣",
       "emoji": "😊",
       "type": "phrase",
-      "ex": "You are welcome. Any time.",
+      "ex": "You're welcome. Anytime.",
       "exZh": "不客氣，隨時都可以。"
     },
     {
@@ -48,7 +48,7 @@
       "zh": "抱歉的",
       "emoji": "😔",
       "type": "word",
-      "ex": "I am sorry I am late.",
+      "ex": "I'm sorry I'm late.",
       "exZh": "抱歉我遲到了。"
     },
     {
@@ -66,7 +66,7 @@
       "zh": "請再說一次；原諒",
       "emoji": "👂",
       "type": "word",
-      "ex": "Pardon? I did not hear you.",
+      "ex": "Pardon? I didn't hear you.",
       "exZh": "請再說一次？我沒聽到。"
     },
     {
@@ -84,7 +84,7 @@
       "zh": "不要緊；算了",
       "emoji": "🤷",
       "type": "phrase",
-      "ex": "Never mind. It is not important.",
+      "ex": "Never mind. It's not important.",
       "exZh": "沒關係，那不重要。"
     },
     {
@@ -100,9 +100,9 @@
       "en": "sure",
       "kk": "ʃʊr",
       "zh": "當然；好的",
-      "emoji": "👍🏻",
+      "emoji": "🙆",
       "type": "word",
-      "ex": "Sure, I would love to.",
+      "ex": "Sure, I'd love to.",
       "exZh": "當然，我很樂意。"
     },
     {
@@ -172,7 +172,7 @@
       "en": "favor",
       "kk": "ˋfevɚ",
       "zh": "幫忙；恩惠",
-      "emoji": "🎗️",
+      "emoji": "🤝",
       "type": "word",
       "ex": "Can you do me a favor?",
       "exZh": "你可以幫我一個忙嗎？"
@@ -201,7 +201,7 @@
       "zh": "乾杯",
       "emoji": "🥂",
       "type": "word",
-      "ex": "Cheers! Here is to us.",
+      "ex": "Cheers! Here's to us.",
       "exZh": "乾杯！敬我們。"
     },
     {
@@ -246,7 +246,7 @@
       "zh": "請便；請進行",
       "emoji": "➡️",
       "type": "phrase",
-      "ex": "Go ahead. I am not in a hurry.",
+      "ex": "Go ahead. I'm not in a hurry.",
       "exZh": "請便，我不急。"
     },
     {
@@ -264,7 +264,7 @@
       "zh": "一點也不；不客氣",
       "emoji": "🙅‍♂️",
       "type": "phrase",
-      "ex": "Not at all. I am glad to help.",
+      "ex": "Not at all. I'm glad to help.",
       "exZh": "一點也不會，我很樂意幫忙。"
     },
     {
@@ -277,21 +277,21 @@
       "exZh": "請再說一遍，可以嗎？"
     },
     {
-      "en": "that is all right",
+      "en": "that's all right",
       "kk": "",
       "zh": "沒關係",
       "emoji": "😌",
       "type": "phrase",
-      "ex": "That is all right. It happens.",
+      "ex": "That's all right. It happens.",
       "exZh": "沒關係，難免會發生。"
     },
     {
-      "en": "it is my pleasure",
+      "en": "it's my pleasure",
       "kk": "",
       "zh": "這是我的榮幸",
       "emoji": "🌹",
       "type": "phrase",
-      "ex": "It is my pleasure to help.",
+      "ex": "It's my pleasure to help.",
       "exZh": "能幫上忙是我的榮幸。"
     },
     {
@@ -334,17 +334,17 @@
       "note": "表達感謝時"
     },
     {
-      "en": "You are welcome.",
+      "en": "You're welcome.",
       "zh": "不客氣。",
       "note": "回應別人的感謝時"
     },
     {
-      "en": "I am sorry for being late.",
-      "zh": "我為遲到道歉。",
+      "en": "I'm sorry I'm late.",
+      "zh": "抱歉我遲到了。",
       "note": "遲到時"
     },
     {
-      "en": "That is all right. Do not worry.",
+      "en": "That's all right. Don't worry.",
       "zh": "沒關係，別擔心。",
       "note": "回應道歉時"
     },
@@ -420,7 +420,7 @@
         },
         {
           "who": "B",
-          "en": "You are welcome.",
+          "en": "You're welcome.",
           "zh": "不客氣。"
         }
       ]

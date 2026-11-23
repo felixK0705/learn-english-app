@@ -12,7 +12,7 @@
       "zh": "爐子",
       "emoji": "🔥",
       "type": "word",
-      "ex": "Do not touch the hot stove.",
+      "ex": "Don't touch the hot stove.",
       "exZh": "不要碰熱的爐子。"
     },
     {
@@ -43,13 +43,13 @@
       "exZh": "水槽裡堆滿了碗盤。"
     },
     {
-      "en": "faucet",
-      "kk": "ˋfɔsɪt",
-      "zh": "水龍頭",
-      "emoji": "🚿",
+      "en": "sponge",
+      "kk": "spʌndʒ",
+      "zh": "海綿；菜瓜布",
+      "emoji": "🧽",
       "type": "word",
-      "ex": "Turn off the faucet, please.",
-      "exZh": "請把水龍頭關上。"
+      "ex": "Wash the pan with a sponge.",
+      "exZh": "用海綿把平底鍋洗乾淨。"
     },
     {
       "en": "counter",
@@ -98,12 +98,12 @@
     },
     {
       "en": "kettle",
-      "kk": "ˋkɛtl",
+      "kk": "ˋkɛtl̩",
       "zh": "水壺",
       "emoji": "🫖",
       "type": "word",
       "ex": "The kettle is boiling.",
-      "exZh": "水壺裡的水燒開了。"
+      "exZh": "水壺裡的水煮開了。"
     },
     {
       "en": "knife",
@@ -156,7 +156,7 @@
       "zh": "碗",
       "emoji": "🥣",
       "type": "word",
-      "ex": "I would like a bowl of rice.",
+      "ex": "I'd like a bowl of rice.",
       "exZh": "我想要一碗飯。"
     },
     {
@@ -178,22 +178,13 @@
       "exZh": "這是我最愛的馬克杯。"
     },
     {
-      "en": "spatula",
-      "kk": "ˋspætʃʊlə",
-      "zh": "鍋鏟",
-      "emoji": "🥄",
+      "en": "salt shaker",
+      "kk": "ˋsɔlt ˏʃekɚ",
+      "zh": "鹽罐",
+      "emoji": "🧂",
       "type": "word",
-      "ex": "Use a spatula to flip the pancake.",
-      "exZh": "用鍋鏟把鬆餅翻面。"
-    },
-    {
-      "en": "ladle",
-      "kk": "ˋledl",
-      "zh": "湯勺",
-      "emoji": "🥄",
-      "type": "word",
-      "ex": "Dad served the soup with a ladle.",
-      "exZh": "爸爸用湯勺盛湯。"
+      "ex": "Can you pass me the salt shaker?",
+      "exZh": "可以把鹽罐遞給我嗎？"
     },
     {
       "en": "cutting board",
@@ -214,22 +205,22 @@
       "exZh": "媽媽穿上了圍裙。"
     },
     {
-      "en": "lid",
-      "kk": "lɪd",
-      "zh": "鍋蓋；蓋子",
+      "en": "wok",
+      "kk": "wɑk",
+      "zh": "炒菜鍋",
       "emoji": "🥘",
       "type": "word",
-      "ex": "Put the lid on the pot.",
-      "exZh": "把鍋蓋蓋上。"
+      "ex": "Dad stir-fries vegetables in a wok.",
+      "exZh": "爸爸用炒菜鍋炒青菜。"
     },
     {
-      "en": "tray",
-      "kk": "tre",
-      "zh": "托盤",
-      "emoji": "🛒",
+      "en": "timer",
+      "kk": "ˋtaɪmɚ",
+      "zh": "計時器",
+      "emoji": "⏲️",
       "type": "word",
-      "ex": "She carried the cups on a tray.",
-      "exZh": "她用托盤端著杯子。"
+      "ex": "Set the timer for ten minutes.",
+      "exZh": "把計時器設定十分鐘。"
     },
     {
       "en": "jar",
@@ -266,6 +257,24 @@
       "type": "word",
       "ex": "Use a whisk to beat the eggs.",
       "exZh": "用打蛋器打蛋。"
+    },
+    {
+      "en": "faucet",
+      "kk": "ˋfɔsɪt",
+      "zh": "水龍頭",
+      "emoji": "🚰",
+      "type": "word",
+      "ex": "Turn off the faucet, please.",
+      "exZh": "請把水龍頭關上。"
+    },
+    {
+      "en": "spatula",
+      "kk": "ˋspætʃʊlə",
+      "zh": "鍋鏟",
+      "emoji": "🥄",
+      "type": "word",
+      "ex": "Use a spatula to flip the pancake.",
+      "exZh": "用鍋鏟把鬆餅翻面。"
     },
     {
       "en": "set the table",
@@ -333,7 +342,7 @@
   ],
   "sentences": [
     {
-      "en": "What is for dinner tonight?",
+      "en": "What's for dinner tonight?",
       "zh": "今晚晚餐吃什麼？",
       "note": "詢問晚餐內容時"
     },
@@ -363,7 +372,7 @@
       "note": "詢問烹調時間時"
     },
     {
-      "en": "We are out of eggs.",
+      "en": "We're out of eggs.",
       "zh": "我們的蛋用完了。",
       "note": "發現食材不夠時"
     },
@@ -393,7 +402,7 @@
       "note": "招待客人時"
     },
     {
-      "en": "I am full. Thank you for the delicious meal.",
+      "en": "I'm full. Thank you for the delicious meal.",
       "zh": "我吃飽了，謝謝你準備的美味餐點。",
       "note": "用餐結束時"
     },
@@ -414,17 +423,17 @@
         },
         {
           "who": "B",
-          "en": "I am making fried rice. Can you chop the onion?",
+          "en": "I'm making fried rice. Can you chop the onion?",
           "zh": "我在做炒飯。你可以切洋蔥嗎？"
         },
         {
           "who": "A",
-          "en": "Sure. Where is the cutting board?",
+          "en": "Sure. Where's the cutting board?",
           "zh": "好啊。砧板在哪裡？"
         },
         {
           "who": "B",
-          "en": "It is in the cupboard under the sink.",
+          "en": "It's in the cupboard under the sink.",
           "zh": "在水槽下面的櫃子裡。"
         },
         {

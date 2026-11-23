@@ -26,7 +26,7 @@
     },
     {
       "en": "cell phone",
-      "kk": "",
+      "kk": "ˋsɛl ˏfon",
       "zh": "行動電話",
       "emoji": "📲",
       "type": "word",
@@ -48,7 +48,7 @@
       "zh": "號碼",
       "emoji": "🔢",
       "type": "word",
-      "ex": "What is your phone number?",
+      "ex": "What's your phone number?",
       "exZh": "你的電話號碼是多少？"
     },
     {
@@ -76,7 +76,7 @@
       "emoji": "🔋",
       "type": "word",
       "ex": "My battery is almost dead.",
-      "exZh": "我的電池快沒電了。"
+      "exZh": "我的手機快沒電了。"
     },
     {
       "en": "charger",
@@ -111,7 +111,7 @@
       "zh": "簡訊；傳簡訊",
       "emoji": "✉️",
       "type": "word",
-      "ex": "I will text you later.",
+      "ex": "I'll text you later.",
       "exZh": "我晚點傳簡訊給你。"
     },
     {
@@ -125,7 +125,7 @@
     },
     {
       "en": "photo message",
-      "kk": "",
+      "kk": "ˋfoto ˏmɛsɪdʒ",
       "zh": "照片訊息",
       "emoji": "🖼️",
       "type": "word",
@@ -134,7 +134,7 @@
     },
     {
       "en": "video call",
-      "kk": "",
+      "kk": "ˋvɪdɪo ˏkɔl",
       "zh": "視訊通話",
       "emoji": "🎥",
       "type": "word",
@@ -152,11 +152,11 @@
     },
     {
       "en": "voice mail",
-      "kk": "",
+      "kk": "ˋvɔɪs ˏmel",
       "zh": "語音信箱",
-      "emoji": "📼",
+      "emoji": "🎙️",
       "type": "word",
-      "ex": "Leave a voice mail, please.",
+      "ex": "Please leave a voice mail.",
       "exZh": "請留下語音留言。"
     },
     {
@@ -174,7 +174,7 @@
       "zh": "密碼",
       "emoji": "🔐",
       "type": "word",
-      "ex": "Do not tell anyone your password.",
+      "ex": "Don't tell anyone your password.",
       "exZh": "不要告訴任何人你的密碼。"
     },
     {
@@ -219,7 +219,7 @@
       "zh": "打電話",
       "emoji": "🤙",
       "type": "word",
-      "ex": "I will call you tonight.",
+      "ex": "I'll call you tonight.",
       "exZh": "我今晚會打電話給你。"
     },
     {
@@ -237,7 +237,7 @@
       "zh": "掛斷電話",
       "emoji": "📵",
       "type": "phrase",
-      "ex": "Do not hang up yet.",
+      "ex": "Don't hang up yet.",
       "exZh": "先不要掛電話。"
     },
     {
@@ -255,7 +255,7 @@
       "zh": "回電",
       "emoji": "↩️",
       "type": "phrase",
-      "ex": "I will call you back soon.",
+      "ex": "I'll call you back soon.",
       "exZh": "我很快會回電給你。"
     },
     {
@@ -300,7 +300,7 @@
       "zh": "傳簡訊",
       "emoji": "📤",
       "type": "phrase",
-      "ex": "I will send a text to Mom.",
+      "ex": "I'll send a text to Mom.",
       "exZh": "我要傳簡訊給媽媽。"
     },
     {
@@ -309,7 +309,7 @@
       "zh": "接通",
       "emoji": "🔗",
       "type": "phrase",
-      "ex": "I cannot get through to him.",
+      "ex": "I can't get through to him.",
       "exZh": "我打不通他的電話。"
     },
     {
@@ -344,7 +344,7 @@
       "note": "請對方等候時"
     },
     {
-      "en": "She is not here right now.",
+      "en": "She isn't here right now.",
       "zh": "她現在不在。",
       "note": "說明對方不在時"
     },
@@ -364,7 +364,7 @@
       "note": "對方打錯電話時"
     },
     {
-      "en": "I am sorry, I cannot hear you well.",
+      "en": "I'm sorry, I can't hear you very well.",
       "zh": "抱歉，我聽不太清楚。",
       "note": "訊號不好時"
     },
@@ -374,12 +374,12 @@
       "note": "聽不懂或聽不清楚時"
     },
     {
-      "en": "I will text you the address.",
+      "en": "I'll text you the address.",
       "zh": "我會把地址傳給你。",
       "note": "答應傳訊息時"
     },
     {
-      "en": "What is your phone number?",
+      "en": "What's your phone number?",
       "zh": "你的電話號碼是多少？",
       "note": "詢問聯絡方式時"
     },
@@ -389,7 +389,7 @@
       "note": "請求借充電器時"
     },
     {
-      "en": "Let us have a video call tonight.",
+      "en": "Let's have a video call tonight.",
       "zh": "我們今晚來視訊吧。",
       "note": "約時間視訊時"
     },
@@ -455,8 +455,8 @@
         },
         {
           "who": "A",
-          "en": "No, thanks. I can charge it for a minute.",
-          "zh": "不用，謝謝，我充一下電就好。"
+          "en": "No, thanks. I'll just charge mine for a few minutes.",
+          "zh": "不用了，謝謝，我把我的手機充幾分鐘電就好。"
         }
       ]
     }

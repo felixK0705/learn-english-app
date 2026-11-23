@@ -10,7 +10,7 @@
       "en": "drink",
       "kk": "drɪŋk",
       "zh": "飲料；喝",
-      "emoji": "🥤",
+      "emoji": "🫗",
       "type": "word",
       "ex": "What kind of drink do you want?",
       "exZh": "你想喝哪一種飲料？"
@@ -43,13 +43,13 @@
       "exZh": "咖啡讓我早上清醒。"
     },
     {
-      "en": "latte",
-      "kk": "ˋlɑte",
-      "zh": "拿鐵",
-      "emoji": "☕",
+      "en": "fruit punch",
+      "kk": "ˋfrut ˏpʌntʃ",
+      "zh": "水果賓治；水果調飲",
+      "emoji": "🍹",
       "type": "word",
-      "ex": "I will have a hot latte.",
-      "exZh": "我要一杯熱拿鐵。"
+      "ex": "We made fruit punch for the class party.",
+      "exZh": "我們為班級派對調了水果賓治。"
     },
     {
       "en": "tea",
@@ -61,17 +61,17 @@
       "exZh": "綠茶對你有益。"
     },
     {
-      "en": "milk tea",
-      "kk": "ˋmɪlk ti",
-      "zh": "奶茶",
-      "emoji": "🧋",
+      "en": "tea shop",
+      "kk": "ˋti ˏʃɑp",
+      "zh": "手搖飲料店；茶飲店",
+      "emoji": "🏪",
       "type": "word",
-      "ex": "Milk tea with less sugar, please.",
-      "exZh": "請給我少糖奶茶。"
+      "ex": "There is a tea shop on almost every corner in Taiwan.",
+      "exZh": "在台灣幾乎每個街角都有手搖飲料店。"
     },
     {
       "en": "bubble tea",
-      "kk": "ˋbʌbḷ ti",
+      "kk": "ˋbʌbḷ ˏti",
       "zh": "珍珠奶茶",
       "emoji": "🧋",
       "type": "word",
@@ -80,7 +80,7 @@
     },
     {
       "en": "tapioca pearls",
-      "kk": "ˏtæpɪˋokə pɝlz",
+      "kk": "ˏtæpɪˋokə ˏpɝlz",
       "zh": "珍珠；粉圓",
       "emoji": "⚫",
       "type": "word",
@@ -88,13 +88,13 @@
       "exZh": "珍珠軟軟又有嚼勁。"
     },
     {
-      "en": "grass jelly",
-      "kk": "græs ˋdʒɛlɪ",
-      "zh": "仙草",
-      "emoji": "🍮",
+      "en": "red beans",
+      "kk": "ˋrɛd ˏbinz",
+      "zh": "紅豆",
+      "emoji": "🫘",
       "type": "word",
-      "ex": "Grass jelly is good in summer.",
-      "exZh": "仙草在夏天很消暑。"
+      "ex": "I want red beans on my shaved ice.",
+      "exZh": "我的剉冰要加紅豆。"
     },
     {
       "en": "soda",
@@ -108,20 +108,20 @@
     {
       "en": "lemonade",
       "kk": "ˏlɛməˋned",
-      "zh": "檸檬汁",
+      "zh": "檸檬水",
       "emoji": "🍋",
       "type": "word",
       "ex": "Cold lemonade tastes great in summer.",
-      "exZh": "冰檸檬汁在夏天超好喝。"
+      "exZh": "冰檸檬水在夏天超好喝。"
     },
     {
-      "en": "smoothie",
-      "kk": "ˋsmuði",
-      "zh": "冰沙；果昔",
-      "emoji": "🥤",
+      "en": "coconut water",
+      "kk": "ˋkokəˏnʌt ˏwɔtɚ",
+      "zh": "椰子水",
+      "emoji": "🥥",
       "type": "word",
-      "ex": "She ordered a mango smoothie.",
-      "exZh": "她點了一杯芒果冰沙。"
+      "ex": "Cold coconut water is perfect on a hot day.",
+      "exZh": "大熱天喝冰椰子水最棒了。"
     },
     {
       "en": "beer",
@@ -151,22 +151,13 @@
       "exZh": "我的飲料可以加冰塊嗎？"
     },
     {
-      "en": "straw",
-      "kk": "strɔ",
-      "zh": "吸管",
-      "emoji": "🥤",
+      "en": "teapot",
+      "kk": "ˋtiˏpɑt",
+      "zh": "茶壺",
+      "emoji": "🫖",
       "type": "word",
-      "ex": "Please give me a straw.",
-      "exZh": "請給我一支吸管。"
-    },
-    {
-      "en": "cup",
-      "kk": "kʌp",
-      "zh": "杯子",
-      "emoji": "🥤",
-      "type": "word",
-      "ex": "The cup is too hot to hold.",
-      "exZh": "這個杯子燙得拿不住。"
+      "ex": "Grandpa poured tea from the teapot.",
+      "exZh": "爺爺從茶壺裡倒茶。"
     },
     {
       "en": "sugar",
@@ -183,7 +174,7 @@
       "zh": "甜點",
       "emoji": "🍨",
       "type": "word",
-      "ex": "What is for dessert tonight?",
+      "ex": "What's for dessert tonight?",
       "exZh": "今晚的甜點是什麼？"
     },
     {
@@ -197,7 +188,7 @@
     },
     {
       "en": "shaved ice",
-      "kk": "ʃevd aɪs",
+      "kk": "ˋʃevd ˏaɪs",
       "zh": "剉冰；刨冰",
       "emoji": "🍧",
       "type": "word",
@@ -241,13 +232,13 @@
       "exZh": "黑巧克力有點苦。"
     },
     {
-      "en": "candy",
-      "kk": "ˋkændɪ",
-      "zh": "糖果",
-      "emoji": "🍬",
+      "en": "popcorn",
+      "kk": "ˋpɑpˏkɔrn",
+      "zh": "爆米花",
+      "emoji": "🍿",
       "type": "word",
-      "ex": "Do not eat too much candy.",
-      "exZh": "不要吃太多糖果。"
+      "ex": "Let's get some popcorn before the movie.",
+      "exZh": "電影開演前我們去買些爆米花吧。"
     },
     {
       "en": "pudding",
@@ -277,12 +268,39 @@
       "exZh": "奶奶做了一個蘋果派。"
     },
     {
+      "en": "milk tea",
+      "kk": "ˋmɪlk ti",
+      "zh": "奶茶",
+      "emoji": "🥛",
+      "type": "word",
+      "ex": "Milk tea with less sugar, please.",
+      "exZh": "請給我少糖奶茶。"
+    },
+    {
+      "en": "cup",
+      "kk": "ˋkʌp",
+      "zh": "杯子",
+      "emoji": "🥤",
+      "type": "word",
+      "ex": "The cup is too hot to hold.",
+      "exZh": "這個杯子燙得拿不住。"
+    },
+    {
+      "en": "candy",
+      "kk": "ˋkændɪ",
+      "zh": "糖果",
+      "emoji": "🍬",
+      "type": "word",
+      "ex": "Don't eat too much candy.",
+      "exZh": "不要吃太多糖果。"
+    },
+    {
       "en": "less sugar",
       "kk": "",
       "zh": "少糖",
       "emoji": "🍬",
       "type": "phrase",
-      "ex": "I would like less sugar, please.",
+      "ex": "I'd like less sugar, please.",
       "exZh": "我想要少糖。"
     },
     {
@@ -333,7 +351,7 @@
   ],
   "sentences": [
     {
-      "en": "I would like a large bubble tea.",
+      "en": "I'd like a large bubble tea.",
       "zh": "我要一杯大杯珍珠奶茶。",
       "note": "點飲料時"
     },
@@ -363,7 +381,7 @@
       "note": "不知道喝什麼時"
     },
     {
-      "en": "I will have the same.",
+      "en": "I'll have the same.",
       "zh": "我也要一樣的。",
       "note": "跟朋友點同樣的東西"
     },
@@ -388,13 +406,13 @@
       "note": "點甜點時"
     },
     {
-      "en": "Let us share a dessert.",
+      "en": "Let's share a dessert.",
       "zh": "我們一起分一份甜點吧。",
       "note": "邀請朋友共享時"
     },
     {
-      "en": "Could you put it in a cup holder?",
-      "zh": "可以幫我放進杯架嗎？",
+      "en": "Could you put them in a drink carrier?",
+      "zh": "可以幫我放進飲料提袋嗎？",
       "note": "外帶多杯飲料時"
     },
     {
@@ -414,7 +432,7 @@
         },
         {
           "who": "B",
-          "en": "Hot or iced? How about the sugar?",
+          "en": "Hot or iced? And how much sugar?",
           "zh": "要熱的還是冰的？甜度呢？"
         },
         {
@@ -424,7 +442,7 @@
         },
         {
           "who": "B",
-          "en": "Sure. That will be sixty-five dollars.",
+          "en": "Sure. That'll be sixty-five dollars.",
           "zh": "好的，一共六十五元。"
         }
       ]
@@ -444,12 +462,12 @@
         },
         {
           "who": "A",
-          "en": "Great. I will have a slice, and a cup of tea.",
+          "en": "Great. I'll have a slice and a cup of tea.",
           "zh": "太好了，我要一片，再加一杯茶。"
         },
         {
           "who": "B",
-          "en": "Please take a seat. I will bring it to you.",
+          "en": "Please take a seat. I'll bring it to you.",
           "zh": "請入座，我送到你的位子上。"
         }
       ]

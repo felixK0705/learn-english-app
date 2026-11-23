@@ -16,13 +16,13 @@
       "exZh": "早餐已經擺在桌上了。"
     },
     {
-      "en": "brunch",
-      "kk": "brʌntʃ",
-      "zh": "早午餐",
-      "emoji": "🥞",
+      "en": "rice ball",
+      "kk": "ˋraɪs ˏbɔl",
+      "zh": "飯糰",
+      "emoji": "🍙",
       "type": "word",
-      "ex": "We have brunch on Sundays.",
-      "exZh": "我們週日吃早午餐。"
+      "ex": "This rice ball has egg and pork floss inside.",
+      "exZh": "這個飯糰裡面包了蛋和肉鬆。"
     },
     {
       "en": "egg",
@@ -46,7 +46,7 @@
       "en": "bread",
       "kk": "brɛd",
       "zh": "麵包",
-      "emoji": "🍞",
+      "emoji": "🥖",
       "type": "word",
       "ex": "The bread is still warm.",
       "exZh": "麵包還是熱的。"
@@ -70,13 +70,13 @@
       "exZh": "草莓醬是我的最愛。"
     },
     {
-      "en": "spread",
-      "kk": "sprɛd",
-      "zh": "抹醬",
-      "emoji": "🧈",
+      "en": "orange juice",
+      "kk": "ˋɔrɪndʒ ˏdʒus",
+      "zh": "柳橙汁",
+      "emoji": "🧃",
       "type": "word",
-      "ex": "Chocolate spread is very sweet.",
-      "exZh": "巧克力抹醬很甜。"
+      "ex": "Can I have a glass of orange juice?",
+      "exZh": "可以給我一杯柳橙汁嗎？"
     },
     {
       "en": "honey",
@@ -88,13 +88,13 @@
       "exZh": "蜂蜜和鬆餅很搭。"
     },
     {
-      "en": "syrup",
-      "kk": "ˋsɪrəp",
-      "zh": "糖漿",
-      "emoji": "🍯",
+      "en": "black tea",
+      "kk": "ˋblæk ˏti",
+      "zh": "紅茶",
+      "emoji": "☕",
       "type": "word",
-      "ex": "Pour maple syrup on the waffle.",
-      "exZh": "把楓糖漿淋在鬆餅上。"
+      "ex": "A large iced black tea, please.",
+      "exZh": "請給我一杯大杯冰紅茶。"
     },
     {
       "en": "cereal",
@@ -106,13 +106,13 @@
       "exZh": "我的孩子每天早上吃穀片。"
     },
     {
-      "en": "oatmeal",
-      "kk": "ˋotˏmil",
-      "zh": "燕麥粥",
-      "emoji": "🥣",
+      "en": "ham",
+      "kk": "hæm",
+      "zh": "火腿",
+      "emoji": "🍖",
       "type": "word",
-      "ex": "Oatmeal keeps me full for hours.",
-      "exZh": "燕麥粥讓我撐好幾個小時不餓。"
+      "ex": "I want ham and egg on my toast.",
+      "exZh": "我的吐司要加火腿和蛋。"
     },
     {
       "en": "milk",
@@ -125,21 +125,21 @@
     },
     {
       "en": "soy milk",
-      "kk": "ˋsɔɪ mɪlk",
+      "kk": "ˋsɔɪ ˏmɪlk",
       "zh": "豆漿",
-      "emoji": "🥛",
+      "emoji": "🫘",
       "type": "word",
       "ex": "Hot soy milk is a classic breakfast.",
       "exZh": "熱豆漿是經典的早餐。"
     },
     {
-      "en": "yogurt",
-      "kk": "ˋjogɚt",
-      "zh": "優格",
-      "emoji": "🥛",
+      "en": "breakfast shop",
+      "kk": "ˋbrɛkfəst ˏʃɑp",
+      "zh": "早餐店",
+      "emoji": "🏪",
       "type": "word",
-      "ex": "Yogurt with fruit is light and healthy.",
-      "exZh": "水果優格清爽又健康。"
+      "ex": "There is a breakfast shop near my school.",
+      "exZh": "我學校附近有一家早餐店。"
     },
     {
       "en": "cheese",
@@ -147,17 +147,17 @@
       "zh": "起司",
       "emoji": "🧀",
       "type": "word",
-      "ex": "I like cheese on my omelet.",
-      "exZh": "我喜歡在蛋捲上加起司。"
+      "ex": "I like cheese in my egg pancake.",
+      "exZh": "我喜歡在蛋餅裡加起司。"
     },
     {
-      "en": "omelet",
-      "kk": "ˋɑmlɪt",
-      "zh": "歐姆蛋；蛋捲",
-      "emoji": "🍳",
+      "en": "egg pancake",
+      "kk": "ˋɛg ˏpænˏkek",
+      "zh": "蛋餅",
+      "emoji": "🌯",
       "type": "word",
-      "ex": "She made a cheese omelet.",
-      "exZh": "她做了一份起司歐姆蛋。"
+      "ex": "I ordered an egg pancake with corn.",
+      "exZh": "我點了一份玉米蛋餅。"
     },
     {
       "en": "pancake",
@@ -201,8 +201,8 @@
       "zh": "可頌；牛角麵包",
       "emoji": "🥐",
       "type": "word",
-      "ex": "A croissant and coffee is a nice start.",
-      "exZh": "可頌配咖啡是美好的開始。"
+      "ex": "A croissant and coffee is a nice way to start the day.",
+      "exZh": "可頌配咖啡是展開一天的好方式。"
     },
     {
       "en": "muffin",
@@ -214,13 +214,13 @@
       "exZh": "她烤了藍莓瑪芬。"
     },
     {
-      "en": "bun",
-      "kk": "bʌn",
-      "zh": "小圓麵包；包子",
-      "emoji": "🍞",
+      "en": "sesame flatbread",
+      "kk": "ˋsɛsəmɪ ˏflætˏbrɛd",
+      "zh": "燒餅",
+      "emoji": "🫓",
       "type": "word",
-      "ex": "The steamed bun is filled with meat.",
-      "exZh": "這個包子包著肉餡。"
+      "ex": "Grandpa eats sesame flatbread with soy milk.",
+      "exZh": "爺爺吃燒餅配豆漿。"
     },
     {
       "en": "dumpling",
@@ -242,7 +242,7 @@
     },
     {
       "en": "hash browns",
-      "kk": "hæʃ braunz",
+      "kk": "ˋhæʃ ˏbraʊnz",
       "zh": "薯餅",
       "emoji": "🥔",
       "type": "word",
@@ -250,13 +250,13 @@
       "exZh": "薯餅外皮酥脆。"
     },
     {
-      "en": "pastry",
-      "kk": "ˋpestrɪ",
-      "zh": "糕點；酥皮點心",
-      "emoji": "🥐",
+      "en": "corn soup",
+      "kk": "ˋkɔrn ˏsup",
+      "zh": "玉米濃湯",
+      "emoji": "🌽",
       "type": "word",
-      "ex": "She bought a fresh pastry for breakfast.",
-      "exZh": "她買了一個新鮮糕點當早餐。"
+      "ex": "A bowl of hot corn soup warms me up.",
+      "exZh": "一碗熱玉米濃湯讓我暖和起來。"
     },
     {
       "en": "fried egg",
@@ -265,7 +265,7 @@
       "emoji": "🍳",
       "type": "phrase",
       "ex": "I like my fried egg sunny side up.",
-      "exZh": "我喜歡太陽蛋。"
+      "exZh": "我的荷包蛋要單面煎的太陽蛋。"
     },
     {
       "en": "scrambled eggs",
@@ -291,7 +291,7 @@
       "zh": "不吃早餐",
       "emoji": "🚫",
       "type": "phrase",
-      "ex": "Do not skip breakfast before school.",
+      "ex": "Don't skip breakfast before school.",
       "exZh": "上學前不要不吃早餐。"
     },
     {
@@ -300,8 +300,8 @@
       "zh": "隨便吃點東西",
       "emoji": "🏃",
       "type": "phrase",
-      "ex": "Let us grab a bite before work.",
-      "exZh": "上班前我們去隨便吃點東西。"
+      "ex": "Let's grab a bite before work.",
+      "exZh": "上班前我們去隨便吃點東西吧。"
     },
     {
       "en": "breakfast set",
@@ -309,7 +309,7 @@
       "zh": "早餐套餐",
       "emoji": "🍱",
       "type": "phrase",
-      "ex": "I will have the breakfast set.",
+      "ex": "I'll have the breakfast set.",
       "exZh": "我要點早餐套餐。"
     }
   ],
@@ -320,7 +320,7 @@
       "note": "店員招呼客人時"
     },
     {
-      "en": "I would like a ham sandwich, please.",
+      "en": "I'd like a ham sandwich, please.",
       "zh": "我要一個火腿三明治。",
       "note": "點餐時"
     },
@@ -370,12 +370,12 @@
       "note": "請店員切開時"
     },
     {
-      "en": "What is today’s special?",
+      "en": "What’s today’s special?",
       "zh": "今天的特餐是什麼？",
       "note": "想看推薦時"
     },
     {
-      "en": "I am in a hurry. Please make it quick.",
+      "en": "I'm in a hurry. Please make it quick.",
       "zh": "我在趕時間，麻煩快一點。",
       "note": "趕上班上課時"
     }
@@ -406,7 +406,7 @@
         },
         {
           "who": "A",
-          "en": "Okay. That will be sixty dollars.",
+          "en": "Okay. That'll be sixty dollars.",
           "zh": "好的，一共六十元。"
         }
       ]
@@ -426,12 +426,12 @@
         },
         {
           "who": "A",
-          "en": "Sounds good. I will have scrambled eggs and toast.",
+          "en": "Sounds good. I'll have scrambled eggs and toast.",
           "zh": "聽起來不錯，我要炒蛋和吐司。"
         },
         {
           "who": "B",
-          "en": "Let us grab a table by the window.",
+          "en": "Let's grab a table by the window.",
           "zh": "我們去坐靠窗的位子吧。"
         }
       ]

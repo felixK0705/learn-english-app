@@ -39,8 +39,8 @@
       "zh": "重的；胖的",
       "emoji": "🏋️",
       "type": "word",
-      "ex": "The box is too heavy.",
-      "exZh": "這個箱子太重了。"
+      "ex": "The heavy box is hard to carry.",
+      "exZh": "那個重箱子很難搬。"
     },
     {
       "en": "strong",
@@ -48,8 +48,8 @@
       "zh": "強壯的",
       "emoji": "💪",
       "type": "word",
-      "ex": "He is strong enough to lift it.",
-      "exZh": "他夠強壯可以把它舉起來。"
+      "ex": "He is strong enough to lift the table.",
+      "exZh": "他力氣大到可以把桌子抬起來。"
     },
     {
       "en": "young",
@@ -73,7 +73,7 @@
       "en": "handsome",
       "kk": "ˋhænsəm",
       "zh": "英俊的",
-      "emoji": "🕴️",
+      "emoji": "🤵",
       "type": "word",
       "ex": "He is a handsome actor.",
       "exZh": "他是個英俊的演員。"
@@ -129,8 +129,8 @@
       "zh": "金髮的",
       "emoji": "👱",
       "type": "word",
-      "ex": "The little girl is blond.",
-      "exZh": "那個小女孩是金髮。"
+      "ex": "The little girl has blond hair.",
+      "exZh": "那個小女孩有一頭金髮。"
     },
     {
       "en": "bald",
@@ -228,7 +228,7 @@
       "zh": "誠實的",
       "emoji": "⚖️",
       "type": "word",
-      "ex": "Be honest with me.",
+      "ex": "Please be honest with me.",
       "exZh": "請對我誠實。"
     },
     {
@@ -264,8 +264,8 @@
       "zh": "慷慨的",
       "emoji": "🎁",
       "type": "word",
-      "ex": "He is generous with his time.",
-      "exZh": "他很樂意付出時間。"
+      "ex": "He is generous and always shares his snacks.",
+      "exZh": "他很大方，總是和別人分享零食。"
     },
     {
       "en": "look alike",
@@ -344,7 +344,7 @@
       "note": "詢問身高時"
     },
     {
-      "en": "I am about 160 centimeters tall.",
+      "en": "I'm about 160 centimeters tall.",
       "zh": "我大約一百六十公分高。",
       "note": "回答身高時"
     },
@@ -384,7 +384,7 @@
       "note": "稱讚別人的個性時"
     },
     {
-      "en": "He is not lazy at all.",
+      "en": "He isn't lazy at all.",
       "zh": "他一點也不懶惰。",
       "note": "否定某種個性時"
     },
@@ -394,7 +394,7 @@
       "note": "介紹好朋友時"
     },
     {
-      "en": "Do not judge people by how they look.",
+      "en": "Don't judge people by how they look.",
       "zh": "不要以貌取人。",
       "note": "提醒別人時"
     }
@@ -405,7 +405,7 @@
       "lines": [
         {
           "who": "A",
-          "en": "Excuse me, I am looking for my friend.",
+          "en": "Excuse me, I'm looking for my friend.",
           "zh": "不好意思，我在找我的朋友。"
         },
         {

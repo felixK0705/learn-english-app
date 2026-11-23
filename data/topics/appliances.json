@@ -228,7 +228,7 @@
       "zh": "電線",
       "emoji": "🪢",
       "type": "word",
-      "ex": "Do not step on the cord.",
+      "ex": "Don't step on the cord.",
       "exZh": "不要踩到電線。"
     },
     {
@@ -309,7 +309,7 @@
       "zh": "拔掉插頭",
       "emoji": "🪫",
       "type": "phrase",
-      "ex": "Unplug the iron after using it.",
+      "ex": "Unplug the iron after you use it.",
       "exZh": "用完熨斗要拔掉插頭。"
     },
     {
@@ -347,17 +347,17 @@
       "note": "覺得熱時"
     },
     {
-      "en": "It is too cold. Please turn it off.",
+      "en": "It's too cold. Please turn it off.",
       "zh": "太冷了，請把它關掉。",
       "note": "覺得冷氣太強時"
     },
     {
-      "en": "Where is the remote for the fan?",
+      "en": "Where's the remote for the fan?",
       "zh": "電風扇的遙控器在哪裡？",
       "note": "找不到遙控器時"
     },
     {
-      "en": "The washing machine is not working.",
+      "en": "The washing machine isn't working.",
       "zh": "洗衣機壞了。",
       "note": "電器故障時"
     },
@@ -392,7 +392,7 @@
       "note": "提醒用電安全時"
     },
     {
-      "en": "Turn down the TV. I am studying.",
+      "en": "Turn down the TV. I'm studying.",
       "zh": "電視小聲一點，我在念書。",
       "note": "需要安靜時"
     },
@@ -402,12 +402,12 @@
       "note": "食物加熱好時"
     },
     {
-      "en": "Do not leave the heater on at night.",
+      "en": "Don't leave the heater on at night.",
       "zh": "晚上不要一直開著暖氣機。",
       "note": "提醒用電安全時"
     },
     {
-      "en": "Let me know if the dryer finishes.",
+      "en": "Let me know when the dryer is done.",
       "zh": "烘乾機好了請告訴我。",
       "note": "請人留意時"
     }
@@ -418,7 +418,7 @@
       "lines": [
         {
           "who": "A",
-          "en": "It is so hot in here.",
+          "en": "It's so hot in here.",
           "zh": "這裡好熱。"
         },
         {
@@ -428,17 +428,17 @@
         },
         {
           "who": "A",
-          "en": "Thanks. Where is the remote?",
+          "en": "Thanks. Where's the remote?",
           "zh": "謝謝。遙控器在哪裡？"
         },
         {
           "who": "B",
-          "en": "It is on the shelf. Set it to twenty-six degrees.",
+          "en": "It's on the shelf. Set it to twenty-six degrees.",
           "zh": "在架子上。設定二十六度。"
         },
         {
           "who": "A",
-          "en": "Okay. Oh, now it is a little cold.",
+          "en": "Okay. Oh, now it's a little cold.",
           "zh": "好。喔，現在有點冷了。"
         }
       ]

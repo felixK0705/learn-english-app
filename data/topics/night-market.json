@@ -8,7 +8,7 @@
   "words": [
     {
       "en": "night market",
-      "kk": "ˋnaɪt ˋmɑrkɪt",
+      "kk": "ˋnaɪt ˏmɑrkɪt",
       "zh": "夜市",
       "emoji": "🏮",
       "type": "word",
@@ -21,7 +21,7 @@
       "zh": "攤位",
       "emoji": "🏪",
       "type": "word",
-      "ex": "That stall sells the best fried chicken.",
+      "ex": "That stall sells the best fried chicken cutlets.",
       "exZh": "那個攤位賣最好吃的炸雞排。"
     },
     {
@@ -44,7 +44,7 @@
     },
     {
       "en": "stinky tofu",
-      "kk": "ˋstɪŋkɪ ˋtofu",
+      "kk": "ˋstɪŋkɪ ˏtofu",
       "zh": "臭豆腐",
       "emoji": "🍢",
       "type": "word",
@@ -53,7 +53,7 @@
     },
     {
       "en": "scallion pancake",
-      "kk": "ˋskæljən ˋpænˏkek",
+      "kk": "ˋskæljən ˏpænˏkek",
       "zh": "蔥油餅",
       "emoji": "🥞",
       "type": "word",
@@ -61,26 +61,26 @@
       "exZh": "我要一份加蛋的蔥油餅。"
     },
     {
-      "en": "meatball",
-      "kk": "ˋmitˏbɔl",
-      "zh": "肉圓；肉丸",
-      "emoji": "🍡",
+      "en": "potsticker",
+      "kk": "ˋpɑtˏstɪkɚ",
+      "zh": "鍋貼",
+      "emoji": "🥟",
       "type": "word",
-      "ex": "Taiwanese meatballs have a chewy skin.",
-      "exZh": "台灣的肉圓外皮很Ｑ彈。"
+      "ex": "I ordered ten potstickers.",
+      "exZh": "我點了十個鍋貼。"
     },
     {
-      "en": "skewer",
-      "kk": "ˋskjuɚ",
-      "zh": "烤串；籤",
-      "emoji": "🍢",
+      "en": "grilled squid",
+      "kk": "ˋgrɪld ˏskwɪd",
+      "zh": "烤魷魚",
+      "emoji": "🦑",
       "type": "word",
-      "ex": "Grilled skewers are my favorite.",
-      "exZh": "烤肉串是我的最愛。"
+      "ex": "Grilled squid smells great.",
+      "exZh": "烤魷魚聞起來好香。"
     },
     {
       "en": "oyster omelet",
-      "kk": "ˋɔɪstɚ ˋɑmlɪt",
+      "kk": "ˋɔɪstɚ ˏɑmlɪt",
       "zh": "蚵仔煎",
       "emoji": "🍳",
       "type": "word",
@@ -89,7 +89,7 @@
     },
     {
       "en": "beef noodle soup",
-      "kk": "bif ˋnudḷ sup",
+      "kk": "ˋbif ˏnudḷ ˏsup",
       "zh": "牛肉麵",
       "emoji": "🍜",
       "type": "word",
@@ -97,17 +97,17 @@
       "exZh": "牛肉麵是台灣的經典美食。"
     },
     {
-      "en": "noodles",
-      "kk": "ˋnudḷz",
-      "zh": "麵條",
-      "emoji": "🍜",
+      "en": "darts",
+      "kk": "dɑrts",
+      "zh": "射飛鏢",
+      "emoji": "🎯",
       "type": "word",
-      "ex": "She slurped her noodles.",
-      "exZh": "她呼嚕呼嚕地吃著麵。"
+      "ex": "We threw darts at balloons to win a toy.",
+      "exZh": "我們射飛鏢打氣球來贏玩具。"
     },
     {
       "en": "popcorn chicken",
-      "kk": "ˋpɑpˏkɔrn ˋtʃɪkɪn",
+      "kk": "ˋpɑpˏkɔrn ˏtʃɪkɪn",
       "zh": "鹽酥雞",
       "emoji": "🍗",
       "type": "word",
@@ -115,17 +115,17 @@
       "exZh": "鹽酥雞會加九層塔。"
     },
     {
-      "en": "rice cake",
-      "kk": "raɪs kek",
-      "zh": "年糕；米糕",
-      "emoji": "🍡",
+      "en": "grilled corn",
+      "kk": "ˋgrɪld ˏkɔrn",
+      "zh": "烤玉米",
+      "emoji": "🌽",
       "type": "word",
-      "ex": "Grilled rice cake is soft and sticky.",
-      "exZh": "烤年糕軟軟黏黏的。"
+      "ex": "The grilled corn is brushed with sweet soy sauce.",
+      "exZh": "烤玉米刷上了甜甜的醬油。"
     },
     {
       "en": "fish ball",
-      "kk": "fɪʃ bɔl",
+      "kk": "ˋfɪʃ ˏbɔl",
       "zh": "魚丸",
       "emoji": "🍥",
       "type": "word",
@@ -134,7 +134,7 @@
     },
     {
       "en": "tea egg",
-      "kk": "ti ɛg",
+      "kk": "ˋti ˏɛg",
       "zh": "茶葉蛋",
       "emoji": "🥚",
       "type": "word",
@@ -143,12 +143,12 @@
     },
     {
       "en": "peanut",
-      "kk": "ˋpinʌt",
+      "kk": "ˋpiˏnʌt",
       "zh": "花生",
       "emoji": "🥜",
       "type": "word",
-      "ex": "Peanut powder makes it sweet.",
-      "exZh": "花生粉讓它變得香甜。"
+      "ex": "This snack is covered in peanut powder.",
+      "exZh": "這道小吃上面撒滿了花生粉。"
     },
     {
       "en": "taro",
@@ -170,7 +170,7 @@
     },
     {
       "en": "hot pot",
-      "kk": "hɑt pɑt",
+      "kk": "ˋhɑt ˏpɑt",
       "zh": "火鍋",
       "emoji": "🍲",
       "type": "word",
@@ -214,13 +214,13 @@
       "exZh": "這些鞋子真的很划算。"
     },
     {
-      "en": "lantern",
-      "kk": "ˋlæntɚn",
-      "zh": "燈籠",
-      "emoji": "🏮",
+      "en": "goldfish scooping",
+      "kk": "ˋgoldˏfɪʃ ˏskupɪŋ",
+      "zh": "撈金魚",
+      "emoji": "🐠",
       "type": "word",
-      "ex": "Red lanterns light up the street.",
-      "exZh": "紅燈籠照亮了街道。"
+      "ex": "Goldfish scooping is a classic night market game.",
+      "exZh": "撈金魚是經典的夜市遊戲。"
     },
     {
       "en": "coin",
@@ -233,7 +233,7 @@
     },
     {
       "en": "claw machine",
-      "kk": "klɔ məˋʃin",
+      "kk": "ˋklɔ məˏʃin",
       "zh": "夾娃娃機",
       "emoji": "🧸",
       "type": "word",
@@ -242,7 +242,7 @@
     },
     {
       "en": "ring toss",
-      "kk": "rɪŋ tɔs",
+      "kk": "ˋrɪŋ ˏtɔs",
       "zh": "套圈圈",
       "emoji": "⭕",
       "type": "word",
@@ -251,12 +251,30 @@
     },
     {
       "en": "bubble waffle",
-      "kk": "ˋbʌbḷ ˋwɑfḷ",
+      "kk": "ˋbʌbḷ ˏwɑfḷ",
       "zh": "雞蛋仔",
       "emoji": "🧇",
       "type": "word",
       "ex": "Bubble waffles are crispy and sweet.",
       "exZh": "雞蛋仔又酥又甜。"
+    },
+    {
+      "en": "skewer",
+      "kk": "ˋskjuɚ",
+      "zh": "烤串；籤",
+      "emoji": "🍢",
+      "type": "word",
+      "ex": "Grilled skewers are my favorite.",
+      "exZh": "烤肉串是我的最愛。"
+    },
+    {
+      "en": "noodles",
+      "kk": "ˋnudḷz",
+      "zh": "麵條",
+      "emoji": "🍜",
+      "type": "word",
+      "ex": "She slurped her noodles.",
+      "exZh": "她呼嚕呼嚕地吃著麵。"
     },
     {
       "en": "stand in line",
@@ -300,8 +318,8 @@
       "zh": "咬一口",
       "emoji": "😋",
       "type": "phrase",
-      "ex": "Take a bite and you will love it.",
-      "exZh": "咬一口你就會愛上它。"
+      "ex": "Take a bite. You'll love it.",
+      "exZh": "咬一口，你會愛上它的。"
     },
     {
       "en": "walk around",
@@ -309,8 +327,8 @@
       "zh": "到處逛逛",
       "emoji": "🚶",
       "type": "phrase",
-      "ex": "Let us walk around and see.",
-      "exZh": "我們到處逛逛看看。"
+      "ex": "Let's walk around and look.",
+      "exZh": "我們到處逛逛看看吧。"
     },
     {
       "en": "sold out",
@@ -324,7 +342,7 @@
   ],
   "sentences": [
     {
-      "en": "What is that? It smells interesting.",
+      "en": "What's that? It smells interesting.",
       "zh": "那是什麼？聞起來好特別。",
       "note": "對新食物好奇時"
     },
@@ -374,7 +392,7 @@
       "note": "詢問人氣時"
     },
     {
-      "en": "Let us share this one.",
+      "en": "Let's share this one.",
       "zh": "我們一起分這個吧。",
       "note": "想分食時"
     },
@@ -384,7 +402,7 @@
       "note": "結帳時"
     },
     {
-      "en": "I have never tried this before.",
+      "en": "I've never tried this before.",
       "zh": "我從來沒吃過這個。",
       "note": "嘗試新東西時"
     },
@@ -400,7 +418,7 @@
       "lines": [
         {
           "who": "A",
-          "en": "Hi! I would like one oyster omelet.",
+          "en": "Hi! I'd like one oyster omelet.",
           "zh": "你好！我要一份蚵仔煎。"
         },
         {
@@ -415,7 +433,7 @@
         },
         {
           "who": "B",
-          "en": "Okay. It will take five minutes.",
+          "en": "Okay. It'll take five minutes.",
           "zh": "好，要等五分鐘。"
         },
         {
@@ -435,17 +453,17 @@
         },
         {
           "who": "B",
-          "en": "Fried chicken cutlet. It is really famous.",
+          "en": "Fried chicken cutlet. It's really famous.",
           "zh": "炸雞排，很有名的。"
         },
         {
           "who": "A",
-          "en": "Let us stand in line and try it.",
+          "en": "Let's stand in line and try it.",
           "zh": "我們去排隊試試吧。"
         },
         {
           "who": "B",
-          "en": "Good idea. I am so hungry.",
+          "en": "Good idea. I'm so hungry.",
           "zh": "好主意，我好餓。"
         }
       ]

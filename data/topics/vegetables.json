@@ -70,15 +70,6 @@
       "exZh": "高麗菜在冬天很便宜。"
     },
     {
-      "en": "lettuce",
-      "kk": "ˋlɛtɪs",
-      "zh": "萵苣；生菜",
-      "emoji": "🥬",
-      "type": "word",
-      "ex": "Put some lettuce in the sandwich.",
-      "exZh": "在三明治裡放一些生菜。"
-    },
-    {
       "en": "spinach",
       "kk": "ˋspɪnɪtʃ",
       "zh": "菠菜",
@@ -93,7 +84,7 @@
       "zh": "花椰菜；青花菜",
       "emoji": "🥦",
       "type": "word",
-      "ex": "My son does not like broccoli.",
+      "ex": "My son doesn't like broccoli.",
       "exZh": "我兒子不喜歡青花菜。"
     },
     {
@@ -117,7 +108,7 @@
     {
       "en": "pepper",
       "kk": "ˋpɛpɚ",
-      "zh": "甜椒；胡椒",
+      "zh": "甜椒；青椒",
       "emoji": "🫑",
       "type": "word",
       "ex": "I like red and yellow peppers.",
@@ -160,26 +151,17 @@
       "exZh": "烤地瓜在冬天很受歡迎。"
     },
     {
-      "en": "radish",
-      "kk": "ˋrædɪʃ",
-      "zh": "蘿蔔",
-      "emoji": "🌱",
-      "type": "word",
-      "ex": "Radish soup is good for the cold weather.",
-      "exZh": "蘿蔔湯很適合冷天喝。"
-    },
-    {
       "en": "ginger",
       "kk": "ˋdʒɪndʒɚ",
       "zh": "薑",
-      "emoji": "🌿",
+      "emoji": "🫚",
       "type": "word",
       "ex": "Add some ginger to the fish.",
       "exZh": "在魚裡加一點薑。"
     },
     {
       "en": "bean sprouts",
-      "kk": "bin sprauts",
+      "kk": "ˋbin ˏspraʊts",
       "zh": "豆芽菜",
       "emoji": "🌱",
       "type": "word",
@@ -188,7 +170,7 @@
     },
     {
       "en": "bamboo shoot",
-      "kk": "bæmˋbu ʃut",
+      "kk": "bæmˋbu ˏʃut",
       "zh": "竹筍",
       "emoji": "🎋",
       "type": "word",
@@ -196,19 +178,19 @@
       "exZh": "竹筍在春天最新鮮。"
     },
     {
-      "en": "celery",
-      "kk": "ˋsɛlərɪ",
-      "zh": "芹菜",
-      "emoji": "🥬",
+      "en": "harvest",
+      "kk": "ˋhɑrvɪst",
+      "zh": "收成；收割",
+      "emoji": "🌾",
       "type": "word",
-      "ex": "Celery has a special smell.",
-      "exZh": "芹菜有特殊的味道。"
+      "ex": "Farmers in Taiwan harvest rice twice a year.",
+      "exZh": "台灣的農夫一年收割兩次稻米。"
     },
     {
       "en": "seaweed",
       "kk": "ˋsiˏwid",
       "zh": "海帶；海苔",
-      "emoji": "🌿",
+      "emoji": "🍙",
       "type": "word",
       "ex": "Rice balls are wrapped in seaweed.",
       "exZh": "飯糰是用海苔包起來的。"
@@ -241,6 +223,33 @@
       "exZh": "每天多吃蔬菜。"
     },
     {
+      "en": "herb",
+      "kk": "ɝb",
+      "zh": "香草；香料植物",
+      "emoji": "🪴",
+      "type": "word",
+      "ex": "Basil is a common herb in Taiwanese cooking.",
+      "exZh": "九層塔是台灣料理中常見的香草。"
+    },
+    {
+      "en": "peas",
+      "kk": "piz",
+      "zh": "豌豆",
+      "emoji": "🫛",
+      "type": "word",
+      "ex": "The baby loves mashed peas.",
+      "exZh": "寶寶愛吃豌豆泥。"
+    },
+    {
+      "en": "lettuce",
+      "kk": "ˋlɛtɪs",
+      "zh": "萵苣；生菜",
+      "emoji": "🥗",
+      "type": "word",
+      "ex": "Put some lettuce in the sandwich.",
+      "exZh": "在三明治裡放一些生菜。"
+    },
+    {
       "en": "green onion",
       "kk": "grin ˋʌnjən",
       "zh": "青蔥",
@@ -250,13 +259,13 @@
       "exZh": "在麵上撒一些蔥花。"
     },
     {
-      "en": "peas",
-      "kk": "piz",
-      "zh": "豌豆",
-      "emoji": "🌱",
+      "en": "radish",
+      "kk": "ˋrædɪʃ",
+      "zh": "蘿蔔",
+      "emoji": "⚪",
       "type": "word",
-      "ex": "The baby loves mashed peas.",
-      "exZh": "寶寶愛吃豌豆泥。"
+      "ex": "Radish soup is good for the cold weather.",
+      "exZh": "蘿蔔湯很適合冷天喝。"
     },
     {
       "en": "wash the vegetables",
@@ -335,7 +344,7 @@
       "note": "稱讚食材時"
     },
     {
-      "en": "I do not like carrots.",
+      "en": "I don't like carrots.",
       "zh": "我不喜歡紅蘿蔔。",
       "note": "表達不愛吃時"
     },
@@ -350,12 +359,12 @@
       "note": "請人幫忙備料時"
     },
     {
-      "en": "I am a vegetarian.",
+      "en": "I'm a vegetarian.",
       "zh": "我吃素。",
       "note": "說明飲食習慣時"
     },
     {
-      "en": "Please do not put any ginger in it.",
+      "en": "Please don't put any ginger in it.",
       "zh": "請不要放薑。",
       "note": "點餐不要某種配料時"
     },
@@ -370,7 +379,7 @@
       "note": "建議別人時"
     },
     {
-      "en": "Let us make a vegetable stir-fry.",
+      "en": "Let's make a vegetable stir-fry.",
       "zh": "我們來做一道炒青菜吧。",
       "note": "決定煮什麼時"
     },
@@ -406,7 +415,7 @@
         },
         {
           "who": "A",
-          "en": "Great. I will take four.",
+          "en": "Great. I'll take four.",
           "zh": "太好了，我要四顆。"
         }
       ]

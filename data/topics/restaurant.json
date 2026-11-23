@@ -57,7 +57,7 @@
       "zh": "訂位；預約",
       "emoji": "📅",
       "type": "word",
-      "ex": "I have a reservation for seven.",
+      "ex": "I have a reservation for seven o’clock.",
       "exZh": "我七點有訂位。"
     },
     {
@@ -75,7 +75,7 @@
       "zh": "餐桌",
       "emoji": "🍽️",
       "type": "word",
-      "ex": "We would like a table by the window.",
+      "ex": "We'd like a table by the window.",
       "exZh": "我們想要靠窗的桌子。"
     },
     {
@@ -97,13 +97,13 @@
       "exZh": "今日特餐是炸魚薯條。"
     },
     {
-      "en": "appetizer",
-      "kk": "ˋæpəˏtaɪzɚ",
-      "zh": "開胃菜",
-      "emoji": "🥗",
+      "en": "fried rice",
+      "kk": "ˋfraɪd ˏraɪs",
+      "zh": "炒飯",
+      "emoji": "🍚",
       "type": "word",
-      "ex": "We shared an appetizer first.",
-      "exZh": "我們先分著吃一份開胃菜。"
+      "ex": "I'll have the shrimp fried rice.",
+      "exZh": "我要點蝦仁炒飯。"
     },
     {
       "en": "salad",
@@ -111,7 +111,7 @@
       "zh": "沙拉",
       "emoji": "🥗",
       "type": "word",
-      "ex": "I will have a Caesar salad.",
+      "ex": "I'll have a Caesar salad.",
       "exZh": "我要一份凱薩沙拉。"
     },
     {
@@ -142,13 +142,13 @@
       "exZh": "我們點了一個大披薩。"
     },
     {
-      "en": "plate",
-      "kk": "plet",
-      "zh": "盤子",
-      "emoji": "🍽️",
+      "en": "sushi",
+      "kk": "ˋsuʃɪ",
+      "zh": "壽司",
+      "emoji": "🍣",
       "type": "word",
-      "ex": "The plate is very hot.",
-      "exZh": "盤子很燙。"
+      "ex": "This restaurant serves fresh sushi.",
+      "exZh": "這家餐廳供應新鮮的壽司。"
     },
     {
       "en": "bowl",
@@ -156,7 +156,7 @@
       "zh": "碗",
       "emoji": "🥣",
       "type": "word",
-      "ex": "I would like a bowl of soup.",
+      "ex": "I'd like a bowl of soup.",
       "exZh": "我要一碗湯。"
     },
     {
@@ -223,13 +223,13 @@
       "exZh": "請幫我們結帳。"
     },
     {
-      "en": "receipt",
-      "kk": "rɪˋsit",
-      "zh": "收據；發票",
-      "emoji": "🧾",
+      "en": "doggy bag",
+      "kk": "ˋdɔgɪ ˏbæg",
+      "zh": "（剩菜）打包袋；打包盒",
+      "emoji": "🥡",
       "type": "word",
-      "ex": "May I have a receipt?",
-      "exZh": "我可以拿收據嗎？"
+      "ex": "Could I have a doggy bag for the leftovers?",
+      "exZh": "可以給我一個打包盒裝剩菜嗎？"
     },
     {
       "en": "tip",
@@ -253,7 +253,7 @@
       "en": "vegetarian",
       "kk": "ˏvɛdʒəˋtɛrɪən",
       "zh": "素食者；素食的",
-      "emoji": "🥗",
+      "emoji": "🌱",
       "type": "word",
       "ex": "Do you have vegetarian dishes?",
       "exZh": "你們有素食餐點嗎？"
@@ -277,6 +277,24 @@
       "exZh": "這份量大到可以分著吃。"
     },
     {
+      "en": "plate",
+      "kk": "ˋplet",
+      "zh": "盤子",
+      "emoji": "🍽️",
+      "type": "word",
+      "ex": "The plate is very hot.",
+      "exZh": "盤子很燙。"
+    },
+    {
+      "en": "receipt",
+      "kk": "rɪˋsit",
+      "zh": "收據；發票",
+      "emoji": "🧾",
+      "type": "word",
+      "ex": "May I have a receipt?",
+      "exZh": "我可以拿收據嗎？"
+    },
+    {
       "en": "a table for two",
       "kk": "",
       "zh": "兩人桌",
@@ -291,7 +309,7 @@
       "zh": "準備好點餐",
       "emoji": "🙋",
       "type": "phrase",
-      "ex": "We are ready to order now.",
+      "ex": "We're ready to order now.",
       "exZh": "我們現在準備好要點餐了。"
     },
     {
@@ -300,7 +318,7 @@
       "zh": "各付各的；分帳",
       "emoji": "💸",
       "type": "phrase",
-      "ex": "Let us split the bill.",
+      "ex": "Let's split the bill.",
       "exZh": "我們各付各的吧。"
     },
     {
@@ -345,7 +363,7 @@
       "zh": "幫你們點餐",
       "emoji": "✍️",
       "type": "phrase",
-      "ex": "I will be back to take your order.",
+      "ex": "I'll be back to take your order.",
       "exZh": "我等一下回來幫你們點餐。"
     }
   ],
@@ -376,7 +394,7 @@
       "note": "不知道點什麼時"
     },
     {
-      "en": "I will have the chicken pasta.",
+      "en": "I'll have the chicken pasta.",
       "zh": "我要點雞肉義大利麵。",
       "note": "決定餐點時"
     },
@@ -391,8 +409,8 @@
       "note": "詢問辣度時"
     },
     {
-      "en": "I am allergic to nuts. Does it have any?",
-      "zh": "我對堅果過敏，裡面有嗎？",
+      "en": "I'm allergic to nuts. Are there any nuts in it?",
+      "zh": "我對堅果過敏，裡面有堅果嗎？",
       "note": "說明過敏時"
     },
     {
@@ -401,7 +419,7 @@
       "note": "需要加水時"
     },
     {
-      "en": "Excuse me, I did not order this.",
+      "en": "Excuse me, I didn't order this.",
       "zh": "不好意思，我沒有點這個。",
       "note": "上錯菜時"
     },
@@ -452,7 +470,7 @@
         },
         {
           "who": "A",
-          "en": "Of course. I will be right back.",
+          "en": "Of course. I'll be right back.",
           "zh": "當然，我馬上回來。"
         }
       ]
@@ -467,7 +485,7 @@
         },
         {
           "who": "B",
-          "en": "I will have the steak, medium rare, and a salad.",
+          "en": "I'll have the steak, medium rare, and a salad.",
           "zh": "我要牛排三分熟，還有一份沙拉。"
         },
         {
@@ -477,8 +495,23 @@
         },
         {
           "who": "B",
-          "en": "Just water, please. And the bill when you can.",
-          "zh": "只要水，等一下麻煩幫我結帳。"
+          "en": "Just water, please.",
+          "zh": "只要水就好，謝謝。"
+        },
+        {
+          "who": "A",
+          "en": "Here's your bill. Did you enjoy your meal?",
+          "zh": "這是您的帳單。餐點還滿意嗎？"
+        },
+        {
+          "who": "B",
+          "en": "Yes, it was delicious. Can I pay by credit card?",
+          "zh": "很滿意，很好吃。我可以刷信用卡嗎？"
+        },
+        {
+          "who": "A",
+          "en": "Of course.",
+          "zh": "當然可以。"
         }
       ]
     }

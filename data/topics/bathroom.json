@@ -30,17 +30,8 @@
       "zh": "淋浴",
       "emoji": "🚿",
       "type": "word",
-      "ex": "The shower is cold this morning.",
-      "exZh": "今天早上的淋浴水是冷的。"
-    },
-    {
-      "en": "basin",
-      "kk": "ˋbesn",
-      "zh": "洗臉盆",
-      "emoji": "🫧",
-      "type": "word",
-      "ex": "Fill the basin with warm water.",
-      "exZh": "把洗臉盆裝滿溫水。"
+      "ex": "The water in the shower is cold this morning.",
+      "exZh": "今天早上淋浴的水是冷的。"
     },
     {
       "en": "towel",
@@ -70,15 +61,6 @@
       "exZh": "這瓶洗髮精聞起來像蘋果。"
     },
     {
-      "en": "conditioner",
-      "kk": "kənˋdɪʃənɚ",
-      "zh": "潤髮乳",
-      "emoji": "🧴",
-      "type": "word",
-      "ex": "I use conditioner after shampoo.",
-      "exZh": "我洗完頭會用潤髮乳。"
-    },
-    {
       "en": "toothbrush",
       "kk": "ˋtuθˏbrʌʃ",
       "zh": "牙刷",
@@ -93,7 +75,7 @@
       "zh": "牙膏",
       "emoji": "🦷",
       "type": "word",
-      "ex": "We are out of toothpaste.",
+      "ex": "We're out of toothpaste.",
       "exZh": "我們的牙膏用完了。"
     },
     {
@@ -125,7 +107,7 @@
     },
     {
       "en": "shower curtain",
-      "kk": "ˋʃaʊɚ ˋkɝtn",
+      "kk": "ˋʃaʊɚ ˏkɝtn̩",
       "zh": "浴簾",
       "emoji": "🪟",
       "type": "word",
@@ -151,15 +133,6 @@
       "exZh": "我需要一張面紙擤鼻涕。"
     },
     {
-      "en": "hairbrush",
-      "kk": "ˋhɛrˏbrʌʃ",
-      "zh": "髮梳",
-      "emoji": "🖌️",
-      "type": "word",
-      "ex": "Where is my hairbrush?",
-      "exZh": "我的髮梳在哪裡？"
-    },
-    {
       "en": "scale",
       "kk": "skel",
       "zh": "體重計",
@@ -167,15 +140,6 @@
       "type": "word",
       "ex": "I stepped on the scale this morning.",
       "exZh": "我今天早上站上了體重計。"
-    },
-    {
-      "en": "cotton swab",
-      "kk": "ˋkɑtn swɑb",
-      "zh": "棉花棒",
-      "emoji": "🥢",
-      "type": "word",
-      "ex": "Do not put a cotton swab deep in your ear.",
-      "exZh": "不要把棉花棒伸進耳朵很深。"
     },
     {
       "en": "nail clipper",
@@ -187,13 +151,13 @@
       "exZh": "我可以用你的指甲剪嗎？"
     },
     {
-      "en": "lotion",
-      "kk": "ˋloʃən",
-      "zh": "乳液",
-      "emoji": "🧴",
+      "en": "wastebasket",
+      "kk": "ˋwestˏbæskɪt",
+      "zh": "垃圾桶；字紙簍",
+      "emoji": "🗑️",
       "type": "word",
-      "ex": "She put some lotion on her hands.",
-      "exZh": "她在手上擦了一點乳液。"
+      "ex": "Throw the tissue in the wastebasket.",
+      "exZh": "把面紙丟進垃圾桶。"
     },
     {
       "en": "drain",
@@ -241,17 +205,17 @@
       "exZh": "穿上拖鞋，地板是濕的。"
     },
     {
-      "en": "mouthwash",
-      "kk": "ˋmaʊθˏwɔʃ",
-      "zh": "漱口水",
-      "emoji": "🫧",
+      "en": "rubber duck",
+      "kk": "ˋrʌbɚ ˏdʌk",
+      "zh": "橡皮小鴨",
+      "emoji": "🦆",
       "type": "word",
-      "ex": "I rinse with mouthwash every night.",
-      "exZh": "我每天晚上用漱口水漱口。"
+      "ex": "The baby plays with a rubber duck in the bath.",
+      "exZh": "寶寶洗澡時玩橡皮小鴨。"
     },
     {
       "en": "dental floss",
-      "kk": "ˋdɛntl flɔs",
+      "kk": "ˋdɛntl̩ ˏflɔs",
       "zh": "牙線",
       "emoji": "🧵",
       "type": "word",
@@ -269,12 +233,30 @@
     },
     {
       "en": "bubble",
-      "kk": "ˋbʌbl",
+      "kk": "ˋbʌbl̩",
       "zh": "泡泡",
       "emoji": "🫧",
       "type": "word",
       "ex": "The baby blew bubbles in the bath.",
       "exZh": "寶寶在洗澡時吹泡泡。"
+    },
+    {
+      "en": "hairbrush",
+      "kk": "ˋhɛrˏbrʌʃ",
+      "zh": "髮梳",
+      "emoji": "🪮",
+      "type": "word",
+      "ex": "Where is my hairbrush?",
+      "exZh": "我的髮梳在哪裡？"
+    },
+    {
+      "en": "lotion",
+      "kk": "ˋloʃən",
+      "zh": "乳液",
+      "emoji": "🧴",
+      "type": "word",
+      "ex": "She put some lotion on her hands.",
+      "exZh": "她在手上擦了一點乳液。"
     },
     {
       "en": "take a shower",
@@ -291,7 +273,7 @@
       "zh": "泡澡",
       "emoji": "🛀",
       "type": "phrase",
-      "ex": "She likes to take a long bath.",
+      "ex": "She likes to take long baths.",
       "exZh": "她喜歡泡很久的澡。"
     },
     {
@@ -342,7 +324,7 @@
   ],
   "sentences": [
     {
-      "en": "Where is the bathroom?",
+      "en": "Where's the bathroom?",
       "zh": "請問洗手間在哪裡？",
       "note": "在外面或別人家詢問時"
     },
@@ -377,7 +359,7 @@
       "note": "水不夠熱時"
     },
     {
-      "en": "We are out of toilet paper.",
+      "en": "We're out of toilet paper.",
       "zh": "我們沒有衛生紙了。",
       "note": "需要補貨時"
     },
@@ -387,12 +369,12 @@
       "note": "洗完澡需要毛巾時"
     },
     {
-      "en": "Do not forget to brush your teeth.",
+      "en": "Don't forget to brush your teeth.",
       "zh": "別忘了刷牙。",
       "note": "提醒孩子時"
     },
     {
-      "en": "Please do not leave the floor wet.",
+      "en": "Please don't leave the floor wet.",
       "zh": "請不要把地板弄得濕濕的。",
       "note": "提醒家人時"
     },
@@ -407,7 +389,7 @@
       "note": "提醒節約用水時"
     },
     {
-      "en": "I am done. The bathroom is free now.",
+      "en": "I'm done. The bathroom is free now.",
       "zh": "我好了，浴室現在沒人了。",
       "note": "用完浴室通知別人時"
     }
@@ -423,7 +405,7 @@
         },
         {
           "who": "B",
-          "en": "Almost. I am rinsing off the shampoo.",
+          "en": "Almost. I'm rinsing off the shampoo.",
           "zh": "快好了，我在沖掉洗髮精。"
         },
         {
@@ -438,7 +420,7 @@
         },
         {
           "who": "A",
-          "en": "Here you go. Do not forget your slippers.",
+          "en": "Here you go. Don't forget your slippers.",
           "zh": "給你。別忘了穿拖鞋。"
         }
       ]
@@ -453,7 +435,7 @@
         },
         {
           "who": "B",
-          "en": "Sure. It is the second door on the left.",
+          "en": "Sure. It's the second door on the left.",
           "zh": "當然，左邊第二道門。"
         },
         {
@@ -463,7 +445,7 @@
         },
         {
           "who": "B",
-          "en": "Yes, it is next to the basin.",
+          "en": "Yes, it's next to the basin.",
           "zh": "有，在洗臉盆旁邊。"
         }
       ]

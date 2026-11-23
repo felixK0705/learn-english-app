@@ -21,7 +21,7 @@
       "zh": "節慶",
       "emoji": "🎪",
       "type": "word",
-      "ex": "The lantern festival is fun.",
+      "ex": "The Lantern Festival is fun.",
       "exZh": "元宵燈會很好玩。"
     },
     {
@@ -35,16 +35,16 @@
     },
     {
       "en": "Lunar New Year",
-      "kk": "",
+      "kk": "ˋlunɚ nju ˋjɪr",
       "zh": "農曆新年",
-      "emoji": "🧧",
+      "emoji": "🐉",
       "type": "word",
       "ex": "We visit relatives at Lunar New Year.",
       "exZh": "農曆新年我們會拜訪親戚。"
     },
     {
       "en": "red envelope",
-      "kk": "",
+      "kk": "rɛd ˋɛnvəˏlop",
       "zh": "紅包",
       "emoji": "🧧",
       "type": "word",
@@ -84,21 +84,21 @@
       "zh": "餃子",
       "emoji": "🥟",
       "type": "word",
-      "ex": "We make dumplings on New Year Eve.",
+      "ex": "We make dumplings on New Year’s Eve.",
       "exZh": "除夕我們包餃子。"
     },
     {
       "en": "rice dumpling",
-      "kk": "",
+      "kk": "raɪs ˋdʌmplɪŋ",
       "zh": "粽子",
       "emoji": "🍙",
       "type": "word",
-      "ex": "We eat rice dumplings in June.",
-      "exZh": "我們六月吃粽子。"
+      "ex": "We eat rice dumplings at the Dragon Boat Festival.",
+      "exZh": "端午節時我們吃粽子。"
     },
     {
       "en": "Dragon Boat Festival",
-      "kk": "",
+      "kk": "ˋdrægən bot ˋfɛstəvl̩",
       "zh": "端午節",
       "emoji": "🐲",
       "type": "word",
@@ -107,7 +107,7 @@
     },
     {
       "en": "dragon boat",
-      "kk": "",
+      "kk": "ˋdrægən ˏbot",
       "zh": "龍舟",
       "emoji": "🚣",
       "type": "word",
@@ -116,7 +116,7 @@
     },
     {
       "en": "Moon Festival",
-      "kk": "",
+      "kk": "ˋmun ˏfɛstəvl̩",
       "zh": "中秋節",
       "emoji": "🌕",
       "type": "word",
@@ -138,7 +138,7 @@
       "zh": "文旦；柚子",
       "emoji": "🍊",
       "type": "word",
-      "ex": "We eat pomelos on Moon Festival.",
+      "ex": "We eat pomelos at the Moon Festival.",
       "exZh": "中秋節我們吃文旦。"
     },
     {
@@ -147,8 +147,8 @@
       "zh": "烤肉",
       "emoji": "🍖",
       "type": "word",
-      "ex": "Many families have a barbecue then.",
-      "exZh": "那時許多家庭會烤肉。"
+      "ex": "Many families have a barbecue at the Moon Festival.",
+      "exZh": "中秋節時許多家庭會烤肉。"
     },
     {
       "en": "Christmas",
@@ -184,20 +184,20 @@
       "emoji": "🎃",
       "type": "word",
       "ex": "We wear costumes on Halloween.",
-      "exZh": "萬聖節我們會穿戲服。"
+      "exZh": "萬聖節我們會穿變裝服。"
     },
     {
       "en": "costume",
       "kk": "ˋkɑstjum",
-      "zh": "戲服；服裝",
-      "emoji": "🦇",
+      "zh": "服裝；變裝服",
+      "emoji": "🧛",
       "type": "word",
-      "ex": "Her costume is a witch.",
-      "exZh": "她的戲服是女巫。"
+      "ex": "She wore a witch costume.",
+      "exZh": "她穿了一套女巫裝。"
     },
     {
       "en": "Valentine’s Day",
-      "kk": "",
+      "kk": "ˋvæləntaɪnz ˏde",
       "zh": "情人節",
       "emoji": "💝",
       "type": "word",
@@ -224,7 +224,7 @@
     },
     {
       "en": "Mother’s Day",
-      "kk": "",
+      "kk": "ˋmʌðɚz ˏde",
       "zh": "母親節",
       "emoji": "💐",
       "type": "word",
@@ -282,8 +282,8 @@
       "zh": "聖誕快樂",
       "emoji": "🎄",
       "type": "phrase",
-      "ex": "Merry Christmas and best wishes.",
-      "exZh": "聖誕快樂，獻上最好的祝福。"
+      "ex": "Merry Christmas and Happy New Year!",
+      "exZh": "聖誕快樂，新年快樂！"
     },
     {
       "en": "New Year’s Eve",
@@ -300,7 +300,7 @@
       "zh": "不給糖就搗蛋",
       "emoji": "🍬",
       "type": "phrase",
-      "ex": "The kids shout trick or treat.",
+      "ex": "The kids shout, “Trick or treat!”",
       "exZh": "孩子們喊著不給糖就搗蛋。"
     },
     {
@@ -309,8 +309,8 @@
       "zh": "聚會",
       "emoji": "👨‍👩‍👧‍👦",
       "type": "phrase",
-      "ex": "Our family gets together at New Year.",
-      "exZh": "我們全家在新年團聚。"
+      "ex": "Our family gets together at Lunar New Year.",
+      "exZh": "我們全家在農曆新年團聚。"
     },
     {
       "en": "make a wish",
@@ -377,7 +377,7 @@
       "note": "介紹節慶食物時"
     },
     {
-      "en": "Let us have a barbecue for the Moon Festival.",
+      "en": "Let's have a barbecue for the Moon Festival.",
       "zh": "我們中秋節來烤肉吧。",
       "note": "邀約過中秋時"
     },
@@ -428,7 +428,7 @@
         },
         {
           "who": "B",
-          "en": "Happy New Year! Here is a red envelope for you.",
+          "en": "Happy New Year! Here's a red envelope for you.",
           "zh": "新年快樂！這個紅包給你。"
         },
         {
@@ -438,12 +438,12 @@
         },
         {
           "who": "B",
-          "en": "You are a good child. Let us eat dumplings.",
+          "en": "You're a good child. Let's eat dumplings.",
           "zh": "你真乖，我們來吃餃子吧。"
         },
         {
           "who": "A",
-          "en": "Great! I am hungry.",
+          "en": "Great! I'm hungry.",
           "zh": "太棒了，我肚子餓了。"
         }
       ]
@@ -458,7 +458,7 @@
         },
         {
           "who": "B",
-          "en": "Yes. We will have a barbecue in the park.",
+          "en": "Yes. We'll have a barbecue in the park.",
           "zh": "有，我們要在公園烤肉。"
         },
         {

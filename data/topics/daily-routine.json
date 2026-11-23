@@ -282,7 +282,7 @@
       "zh": "起床",
       "emoji": "🛌",
       "type": "phrase",
-      "ex": "Get up! It is time for school.",
+      "ex": "Get up! It's time for school.",
       "exZh": "起床了！該上學了。"
     },
     {
@@ -361,12 +361,12 @@
       "note": "說明自己的作息時"
     },
     {
-      "en": "What is your daily routine like?",
+      "en": "What's your daily routine like?",
       "zh": "你每天的作息是怎麼樣的？",
       "note": "想了解別人的生活時"
     },
     {
-      "en": "I eat breakfast and then I go to school.",
+      "en": "I eat breakfast, and then I go to school.",
       "zh": "我吃完早餐就去上學。",
       "note": "描述早上的事情時"
     },
@@ -391,7 +391,7 @@
       "note": "說明上課時間時"
     },
     {
-      "en": "I am running late!",
+      "en": "I'm running late!",
       "zh": "我要遲到了！",
       "note": "趕時間時"
     },
@@ -416,7 +416,7 @@
       "note": "叫家人起床時"
     },
     {
-      "en": "It is getting late. Let us go home.",
+      "en": "It's getting late. Let's go home.",
       "zh": "時間不早了，我們回家吧。",
       "note": "準備結束活動時"
     }
@@ -437,18 +437,18 @@
         },
         {
           "who": "A",
-          "en": "Wow, that is early! What do you do next?",
+          "en": "Wow, that's early! What do you do next?",
           "zh": "哇，好早！然後你做什麼？"
         },
         {
           "who": "B",
-          "en": "I brush my teeth, get dressed, and eat breakfast.",
-          "zh": "我刷牙、換衣服，然後吃早餐。"
+          "en": "I brush my teeth, get dressed, and eat breakfast. Then I take the bus to school.",
+          "zh": "我刷牙、換衣服，然後吃早餐。接著我搭公車去上學。"
         },
         {
           "who": "A",
-          "en": "Then I take the bus to school.",
-          "zh": "然後我搭公車去上學。"
+          "en": "That sounds like a busy morning!",
+          "zh": "聽起來早上很忙呢！"
         }
       ]
     },

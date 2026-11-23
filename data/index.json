@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-23T16:41:18.945Z",
+ "generated": "2026-11-23T17:16:05.121Z",
  "categories": [
   {
    "id": "people",
@@ -45,7 +45,7 @@
      "backdrop": "hospital",
      "intro": "認識身體各部位，並學會說明哪裡不舒服。",
      "counts": {
-      "words": 29,
+      "words": 33,
       "phrases": 6,
       "sentences": 15,
       "dialogues": 2
@@ -153,7 +153,7 @@
      "backdrop": "home",
      "intro": "認識房子的各個部分，學會描述自己住的地方。",
      "counts": {
-      "words": 30,
+      "words": 31,
       "phrases": 7,
       "sentences": 14,
       "dialogues": 2
@@ -181,7 +181,7 @@
      "backdrop": "kitchen",
      "intro": "認識廚房裡的設備與餐具，學會說煮飯和擺餐桌。",
      "counts": {
-      "words": 29,
+      "words": 30,
       "phrases": 7,
       "sentences": 14,
       "dialogues": 2
@@ -195,7 +195,7 @@
      "backdrop": "bathroom",
      "intro": "認識浴室裡的用品，學會說洗澡、洗手和整理儀容。",
      "counts": {
-      "words": 30,
+      "words": 28,
       "phrases": 7,
       "sentences": 14,
       "dialogues": 2
@@ -289,7 +289,7 @@
      "backdrop": "shop",
      "intro": "在水果攤認識各種水果，學會挑選與購買的說法。",
      "counts": {
-      "words": 28,
+      "words": 30,
       "phrases": 6,
       "sentences": 14,
       "dialogues": 2
@@ -303,7 +303,7 @@
      "backdrop": "farm",
      "intro": "認識常見的蔬菜，學會在菜市場與廚房裡談論它們。",
      "counts": {
-      "words": 28,
+      "words": 29,
       "phrases": 6,
       "sentences": 13,
       "dialogues": 2
@@ -317,7 +317,7 @@
      "backdrop": "shop",
      "intro": "在傳統市場與超市認識各種肉類和海鮮的說法。",
      "counts": {
-      "words": 29,
+      "words": 30,
       "phrases": 6,
       "sentences": 14,
       "dialogues": 2
@@ -345,7 +345,7 @@
      "backdrop": "shop",
      "intro": "在飲料店與甜點店點飲料、客製甜度冰塊，並認識各種甜點。",
      "counts": {
-      "words": 30,
+      "words": 32,
       "phrases": 6,
       "sentences": 14,
       "dialogues": 2
@@ -359,7 +359,7 @@
      "backdrop": "restaurant",
      "intro": "學會在餐廳訂位、點餐、詢問菜色和結帳的實用說法。",
      "counts": {
-      "words": 30,
+      "words": 32,
       "phrases": 8,
       "sentences": 15,
       "dialogues": 2
@@ -373,7 +373,7 @@
      "backdrop": "night",
      "intro": "逛夜市時，用英文介紹台灣小吃、點餐和跟老闆聊天。",
      "counts": {
-      "words": 28,
+      "words": 30,
       "phrases": 7,
       "sentences": 14,
       "dialogues": 2
@@ -401,7 +401,7 @@
      "backdrop": "restaurant",
      "intro": "在速食店點套餐、客製餐點、選擇內用或外帶的實用英文。",
      "counts": {
-      "words": 29,
+      "words": 32,
       "phrases": 7,
       "sentences": 15,
       "dialogues": 2
@@ -425,7 +425,7 @@
      "backdrop": "classroom",
      "intro": "認識教室裡的物品與文具，學會上課時常用的說法。",
      "counts": {
-      "words": 28,
+      "words": 33,
       "phrases": 7,
       "sentences": 14,
       "dialogues": 2
@@ -453,7 +453,7 @@
      "backdrop": "music",
      "intro": "認識各種樂器與音樂相關的說法，一起在音樂教室練習。",
      "counts": {
-      "words": 31,
+      "words": 37,
       "phrases": 7,
       "sentences": 14,
       "dialogues": 2
@@ -467,7 +467,7 @@
      "backdrop": "stadium",
      "intro": "認識各種運動項目和比賽用語，聊聊你喜歡的運動。",
      "counts": {
-      "words": 32,
+      "words": 34,
       "phrases": 6,
       "sentences": 14,
       "dialogues": 2
@@ -481,7 +481,7 @@
      "backdrop": "home",
      "intro": "談談你的興趣與休閒活動，學會介紹自己的嗜好。",
      "counts": {
-      "words": 31,
+      "words": 33,
       "phrases": 7,
       "sentences": 14,
       "dialogues": 2
@@ -495,7 +495,7 @@
      "backdrop": "park",
      "intro": "在公園與遊樂場玩耍時會用到的單字和句子。",
      "counts": {
-      "words": 31,
+      "words": 35,
       "phrases": 7,
       "sentences": 14,
       "dialogues": 2
@@ -523,7 +523,7 @@
      "backdrop": "office",
      "intro": "學會電腦設備和上網操作的英文，讓使用科技更得心應手。",
      "counts": {
-      "words": 28,
+      "words": 29,
       "phrases": 10,
       "sentences": 14,
       "dialogues": 2
@@ -617,7 +617,7 @@
      "backdrop": "shop",
      "intro": "認識各種衣服和配件，學會試穿與購買衣物的用語。",
      "counts": {
-      "words": 30,
+      "words": 32,
       "phrases": 7,
       "sentences": 14,
       "dialogues": 2
@@ -645,7 +645,7 @@
      "backdrop": "airport",
      "intro": "學會在機場報到、通關和登機時會用到的單字與句子。",
      "counts": {
-      "words": 30,
+      "words": 31,
       "phrases": 6,
       "sentences": 15,
       "dialogues": 2
@@ -697,7 +697,7 @@
      "backdrop": "zoo",
      "intro": "逛動物園時會看到的動物，以及描述牠們的簡單句子。",
      "counts": {
-      "words": 29,
+      "words": 30,
       "phrases": 7,
       "sentences": 15,
       "dialogues": 2
@@ -711,7 +711,7 @@
      "backdrop": "farm",
      "intro": "認識常見的寵物與農場動物，學會說照顧牠們的日常用語。",
      "counts": {
-      "words": 30,
+      "words": 31,
       "phrases": 7,
       "sentences": 15,
       "dialogues": 2
@@ -725,7 +725,7 @@
      "backdrop": "sea",
      "intro": "認識海裡的生物與沙灘上的東西，學會說去海邊玩的句子。",
      "counts": {
-      "words": 29,
+      "words": 30,
       "phrases": 7,
       "sentences": 15,
       "dialogues": 2
@@ -753,7 +753,7 @@
      "backdrop": "garden",
      "intro": "認識花草樹木的各部分，學會描述種植與照顧植物。",
      "counts": {
-      "words": 29,
+      "words": 32,
       "phrases": 7,
       "sentences": 15,
       "dialogues": 2
@@ -767,7 +767,7 @@
      "backdrop": "sky",
      "intro": "學會用英文描述今天的天氣、四季的變化與穿著。",
      "counts": {
-      "words": 31,
+      "words": 33,
       "phrases": 6,
       "sentences": 15,
       "dialogues": 2
@@ -781,7 +781,7 @@
      "backdrop": "classroom",
      "intro": "學會基數、序數、次數與分數的說法，數數與買東西都用得上。",
      "counts": {
-      "words": 27,
+      "words": 34,
       "phrases": 9,
       "sentences": 15,
       "dialogues": 2
@@ -820,10 +820,10 @@
  ],
  "totals": {
   "topics": 54,
-  "words": 1565,
+  "words": 1620,
   "phrases": 402,
   "sentences": 778,
   "dialogues": 108,
-  "entries": 2745
+  "entries": 2800
  }
 }

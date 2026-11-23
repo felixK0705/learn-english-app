@@ -84,7 +84,7 @@
       "zh": "舌頭",
       "emoji": "👅",
       "type": "word",
-      "ex": "Do not burn your tongue.",
+      "ex": "Don't burn your tongue.",
       "exZh": "不要燙到舌頭。"
     },
     {
@@ -115,13 +115,13 @@
       "exZh": "我在體育課弄傷了手臂。"
     },
     {
-      "en": "elbow",
-      "kk": "ˋɛlbo",
-      "zh": "手肘",
-      "emoji": "🦾",
+      "en": "fingernail",
+      "kk": "ˋfɪŋgɚˏnel",
+      "zh": "指甲",
+      "emoji": "💅",
       "type": "word",
-      "ex": "Do not put your elbows on the table.",
-      "exZh": "不要把手肘放在桌上。"
+      "ex": "Please cut your fingernails.",
+      "exZh": "請剪你的指甲。"
     },
     {
       "en": "hand",
@@ -147,26 +147,26 @@
       "zh": "拇指",
       "emoji": "👍",
       "type": "word",
-      "ex": "He gave me a thumbs up.",
+      "ex": "He gave me a thumbs-up.",
       "exZh": "他對我比了個讚。"
     },
     {
-      "en": "chest",
-      "kk": "tʃɛst",
-      "zh": "胸膛；胸部",
+      "en": "lungs",
+      "kk": "lʌŋz",
+      "zh": "肺",
       "emoji": "🫁",
       "type": "word",
-      "ex": "My chest feels tight.",
-      "exZh": "我覺得胸口很悶。"
+      "ex": "Smoking is bad for your lungs.",
+      "exZh": "抽菸對你的肺不好。"
     },
     {
-      "en": "back",
-      "kk": "bæk",
-      "zh": "背",
-      "emoji": "🔙",
+      "en": "lip",
+      "kk": "lɪp",
+      "zh": "嘴唇",
+      "emoji": "🫦",
       "type": "word",
-      "ex": "My back hurts after sitting all day.",
-      "exZh": "我坐了一整天後背很痛。"
+      "ex": "My lips get dry in winter.",
+      "exZh": "冬天我的嘴唇會變乾。"
     },
     {
       "en": "stomach",
@@ -187,13 +187,13 @@
       "exZh": "她滑雪時摔斷了腿。"
     },
     {
-      "en": "knee",
-      "kk": "ni",
-      "zh": "膝蓋",
-      "emoji": "🦿",
+      "en": "blood",
+      "kk": "blʌd",
+      "zh": "血；血液",
+      "emoji": "🩸",
       "type": "word",
-      "ex": "I fell and hurt my knee.",
-      "exZh": "我跌倒傷到膝蓋。"
+      "ex": "The nurse took some blood from my arm.",
+      "exZh": "護士從我的手臂抽了一些血。"
     },
     {
       "en": "foot",
@@ -208,7 +208,7 @@
       "en": "toe",
       "kk": "to",
       "zh": "腳趾",
-      "emoji": "🐾",
+      "emoji": "👣",
       "type": "word",
       "ex": "He hit his toe on a chair.",
       "exZh": "他的腳趾撞到了椅子。"
@@ -257,6 +257,42 @@
       "type": "word",
       "ex": "Exercise is good for your body.",
       "exZh": "運動對你的身體有益。"
+    },
+    {
+      "en": "knee",
+      "kk": "ˋni",
+      "zh": "膝蓋",
+      "emoji": "🦵",
+      "type": "word",
+      "ex": "I fell and hurt my knee.",
+      "exZh": "我跌倒傷到膝蓋。"
+    },
+    {
+      "en": "back",
+      "kk": "ˋbæk",
+      "zh": "背",
+      "emoji": "🧍",
+      "type": "word",
+      "ex": "My back hurts after sitting all day.",
+      "exZh": "我坐了一整天後背很痛。"
+    },
+    {
+      "en": "elbow",
+      "kk": "ˋɛlbo",
+      "zh": "手肘",
+      "emoji": "💪",
+      "type": "word",
+      "ex": "Don't put your elbows on the table.",
+      "exZh": "不要把手肘放在桌上。"
+    },
+    {
+      "en": "chest",
+      "kk": "ˋtʃɛst",
+      "zh": "胸膛；胸部",
+      "emoji": "👕",
+      "type": "word",
+      "ex": "My chest feels tight.",
+      "exZh": "我覺得胸口很悶。"
     },
     {
       "en": "wash your hands",
@@ -324,7 +360,7 @@
   ],
   "sentences": [
     {
-      "en": "What is wrong?",
+      "en": "What's wrong?",
       "zh": "怎麼了？",
       "note": "關心對方不舒服時"
     },
@@ -405,7 +441,7 @@
       "lines": [
         {
           "who": "A",
-          "en": "What is wrong?",
+          "en": "What's wrong?",
           "zh": "怎麼了？"
         },
         {
@@ -445,7 +481,7 @@
         },
         {
           "who": "A",
-          "en": "Stop and sit down. Do not hurt yourself.",
+          "en": "Stop and sit down. Don't hurt yourself.",
           "zh": "停下來坐下，不要弄傷自己。"
         },
         {

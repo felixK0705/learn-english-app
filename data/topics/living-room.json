@@ -53,7 +53,7 @@
     },
     {
       "en": "curtain",
-      "kk": "ˋkɝtn",
+      "kk": "ˋkɝtn̩",
       "zh": "窗簾",
       "emoji": "🪟",
       "type": "word",
@@ -152,7 +152,7 @@
     },
     {
       "en": "light switch",
-      "kk": "laɪt swɪtʃ",
+      "kk": "ˋlaɪt ˏswɪtʃ",
       "zh": "電燈開關",
       "emoji": "💡",
       "type": "word",
@@ -190,10 +190,10 @@
       "en": "blanket",
       "kk": "ˋblæŋkɪt",
       "zh": "毯子",
-      "emoji": "🧣",
+      "emoji": "🛌",
       "type": "word",
       "ex": "Cover yourself with a blanket.",
-      "exZh": "用毯子蓋著吧。"
+      "exZh": "蓋條毯子吧。"
     },
     {
       "en": "piano",
@@ -215,7 +215,7 @@
     },
     {
       "en": "candle",
-      "kk": "ˋkændl",
+      "kk": "ˋkændl̩",
       "zh": "蠟燭",
       "emoji": "🕯️",
       "type": "word",
@@ -223,13 +223,13 @@
       "exZh": "她在桌上點了一根蠟燭。"
     },
     {
-      "en": "furniture",
-      "kk": "ˋfɝnɪtʃɚ",
-      "zh": "家具",
-      "emoji": "🛋️",
+      "en": "fish tank",
+      "kk": "ˋfɪʃ ˏtæŋk",
+      "zh": "魚缸",
+      "emoji": "🐠",
       "type": "word",
-      "ex": "We need new furniture for the living room.",
-      "exZh": "我們客廳需要新家具。"
+      "ex": "There are five goldfish in our fish tank.",
+      "exZh": "我們的魚缸裡有五條金魚。"
     },
     {
       "en": "decoration",
@@ -241,13 +241,13 @@
       "exZh": "這些裝飾品讓房間很溫馨。"
     },
     {
-      "en": "rocking chair",
-      "kk": "ˋrɑkɪŋ ˏtʃɛr",
-      "zh": "搖椅",
-      "emoji": "🪑",
+      "en": "game console",
+      "kk": "ˋgem ˏkɑnsol",
+      "zh": "遊戲機",
+      "emoji": "🎮",
       "type": "word",
-      "ex": "Grandma sits in the rocking chair.",
-      "exZh": "奶奶坐在搖椅上。"
+      "ex": "My brother plays on the game console after dinner.",
+      "exZh": "我弟弟晚餐後玩遊戲機。"
     },
     {
       "en": "bean bag",
@@ -273,7 +273,7 @@
       "zh": "請坐",
       "emoji": "🪑",
       "type": "phrase",
-      "ex": "Have a seat. I will bring some tea.",
+      "ex": "Have a seat. I'll bring some tea.",
       "exZh": "請坐，我去拿茶來。"
     },
     {
@@ -354,12 +354,12 @@
       "note": "覺得太吵時"
     },
     {
-      "en": "It is a little dark in here. Let me turn on the light.",
+      "en": "It's a little dark in here. Let me turn on the light.",
       "zh": "這裡有點暗，我來開燈。",
       "note": "房間光線不足時"
     },
     {
-      "en": "I love your sofa. It is so comfortable.",
+      "en": "I love your sofa. It's so comfortable.",
       "zh": "我好喜歡你的沙發，坐起來好舒服。",
       "note": "稱讚別人的家時"
     },
@@ -374,7 +374,7 @@
       "note": "想讓空氣流通時"
     },
     {
-      "en": "Let us move the sofa closer to the window.",
+      "en": "Let's move the sofa closer to the window.",
       "zh": "我們把沙發移近窗邊吧。",
       "note": "討論家具擺放時"
     },
@@ -430,12 +430,12 @@
       "lines": [
         {
           "who": "A",
-          "en": "Where is the remote control?",
+          "en": "Where's the remote control?",
           "zh": "遙控器在哪裡？"
         },
         {
           "who": "B",
-          "en": "I think it is under the cushion.",
+          "en": "I think it's under the cushion.",
           "zh": "我想它在靠墊下面。"
         },
         {

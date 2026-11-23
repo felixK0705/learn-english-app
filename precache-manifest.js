@@ -1,5 +1,5 @@
 // 自動產生，請勿手動編輯（node tools/build-index.mjs）
-self.CACHE_VERSION = "46fd81c640";
+self.CACHE_VERSION = "956ef70560";
 self.PRECACHE = [
  "./",
  "index.html",
@@ -7,6 +7,7 @@ self.PRECACHE = [
  "css/app.css",
  "js/app.js",
  "js/backdrops.js",
+ "js/icons.js",
  "js/quiz.js",
  "js/scene.js",
  "js/speech.js",

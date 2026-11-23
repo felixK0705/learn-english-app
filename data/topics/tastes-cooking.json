@@ -48,7 +48,7 @@
       "zh": "辣的",
       "emoji": "🌶️",
       "type": "word",
-      "ex": "I cannot eat spicy food.",
+      "ex": "I can't eat spicy food.",
       "exZh": "我不能吃辣的食物。"
     },
     {
@@ -109,9 +109,9 @@
       "en": "raw",
       "kk": "rɔ",
       "zh": "生的",
-      "emoji": "🥩",
+      "emoji": "🍣",
       "type": "word",
-      "ex": "Do not eat raw chicken.",
+      "ex": "Don't eat raw chicken.",
       "exZh": "不要吃生的雞肉。"
     },
     {
@@ -183,7 +183,7 @@
       "zh": "快炒；炒",
       "emoji": "🥘",
       "type": "word",
-      "ex": "I will stir-fry some vegetables.",
+      "ex": "I'll stir-fry some vegetables.",
       "exZh": "我來炒一些蔬菜。"
     },
     {
@@ -244,7 +244,7 @@
       "en": "slice",
       "kk": "slaɪs",
       "zh": "切片",
-      "emoji": "🔪",
+      "emoji": "🍞",
       "type": "word",
       "ex": "Please slice the bread.",
       "exZh": "請把麵包切片。"
@@ -259,13 +259,13 @@
       "exZh": "慢慢攪拌湯。"
     },
     {
-      "en": "season",
-      "kk": "ˋsizṇ",
-      "zh": "調味",
-      "emoji": "🧂",
+      "en": "smell",
+      "kk": "smɛl",
+      "zh": "聞起來；氣味",
+      "emoji": "👃",
       "type": "word",
-      "ex": "Season the meat with salt.",
-      "exZh": "用鹽幫肉調味。"
+      "ex": "This soup smells great.",
+      "exZh": "這碗湯聞起來好香。"
     },
     {
       "en": "sweet and sour",
@@ -343,7 +343,7 @@
       "note": "稱讚食物時"
     },
     {
-      "en": "It is a little too salty.",
+      "en": "It's a little too salty.",
       "zh": "有點太鹹了。",
       "note": "覺得味道偏重時"
     },
@@ -363,7 +363,7 @@
       "note": "表達喜好時"
     },
     {
-      "en": "What is the secret ingredient?",
+      "en": "What's the secret ingredient?",
       "zh": "秘方食材是什麼？",
       "note": "好奇料理時"
     },
@@ -373,7 +373,7 @@
       "note": "說明食譜步驟時"
     },
     {
-      "en": "Then fry it until it is golden brown.",
+      "en": "Then fry it until it's golden brown.",
       "zh": "然後煎到金黃色。",
       "note": "說明烹調步驟時"
     },
@@ -419,12 +419,12 @@
         },
         {
           "who": "B",
-          "en": "It is delicious, but a little salty.",
+          "en": "It's delicious, but a little salty.",
           "zh": "很好喝，但有點鹹。"
         },
         {
           "who": "A",
-          "en": "I will add some water.",
+          "en": "I'll add some water.",
           "zh": "我再加一點水。"
         },
         {
@@ -435,7 +435,7 @@
       ]
     },
     {
-      "title": "教朋友煮蛋炒飯",
+      "title": "教朋友做蛋炒飯",
       "lines": [
         {
           "who": "A",
@@ -449,7 +449,7 @@
         },
         {
           "who": "A",
-          "en": "Okay. Now I can fry the egg?",
+          "en": "Okay. Can I fry the egg now?",
           "zh": "好了，現在可以煎蛋了嗎？"
         },
         {

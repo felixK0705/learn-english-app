@@ -12,8 +12,8 @@
       "zh": "家事；雜務",
       "emoji": "📋",
       "type": "word",
-      "ex": "Washing the car is my chore.",
-      "exZh": "洗車是我的家事。"
+      "ex": "Washing the car is one of my chores.",
+      "exZh": "洗車是我負責的家事之一。"
     },
     {
       "en": "sweep",
@@ -28,7 +28,7 @@
       "en": "mop",
       "kk": "mɑp",
       "zh": "拖地；拖把",
-      "emoji": "🧽",
+      "emoji": "🪣",
       "type": "word",
       "ex": "Please mop the kitchen floor.",
       "exZh": "請把廚房的地板拖乾淨。"
@@ -48,7 +48,7 @@
       "zh": "擦灰塵；灰塵",
       "emoji": "🌫️",
       "type": "word",
-      "ex": "Dust the shelves before guests come.",
+      "ex": "Dust the shelves before the guests arrive.",
       "exZh": "客人來之前把架子擦乾淨。"
     },
     {
@@ -115,22 +115,13 @@
       "exZh": "我們需要更多洗衣精。"
     },
     {
-      "en": "broom",
-      "kk": "brum",
-      "zh": "掃把",
-      "emoji": "🧹",
+      "en": "ladder",
+      "kk": "ˋlædɚ",
+      "zh": "梯子",
+      "emoji": "🪜",
       "type": "word",
-      "ex": "The broom is behind the door.",
-      "exZh": "掃把在門後面。"
-    },
-    {
-      "en": "dustpan",
-      "kk": "ˋdʌstˏpæn",
-      "zh": "畚箕",
-      "emoji": "🗑️",
-      "type": "word",
-      "ex": "Hold the dustpan, please.",
-      "exZh": "請拿好畚箕。"
+      "ex": "Hold the ladder while I clean the window.",
+      "exZh": "我擦窗戶的時候幫我扶著梯子。"
     },
     {
       "en": "duster",
@@ -154,14 +145,14 @@
       "en": "trash",
       "kk": "træʃ",
       "zh": "垃圾",
-      "emoji": "🗑️",
+      "emoji": "🚮",
       "type": "word",
       "ex": "The trash smells bad.",
       "exZh": "垃圾聞起來很臭。"
     },
     {
       "en": "recycle",
-      "kk": "riˋsaɪkl",
+      "kk": "riˋsaɪkl̩",
       "zh": "回收",
       "emoji": "♻️",
       "type": "word",
@@ -188,7 +179,7 @@
     },
     {
       "en": "shovel",
-      "kk": "ˋʃʌvl",
+      "kk": "ˋʃʌvl̩",
       "zh": "鏟子",
       "emoji": "⛏️",
       "type": "word",
@@ -215,7 +206,7 @@
     },
     {
       "en": "spray bottle",
-      "kk": "ˋspre ˏbɑtl",
+      "kk": "ˋspre ˏbɑtl̩",
       "zh": "噴霧瓶",
       "emoji": "🔫",
       "type": "word",
@@ -246,7 +237,7 @@
       "zh": "髒亂；亂七八糟",
       "emoji": "🌪️",
       "type": "word",
-      "ex": "What a mess! Let us clean it up.",
+      "ex": "What a mess! Let's clean it up.",
       "exZh": "好亂啊！我們來整理吧。"
     },
     {
@@ -277,6 +268,15 @@
       "exZh": "地板現在很乾淨了。"
     },
     {
+      "en": "broom",
+      "kk": "ˋbrum",
+      "zh": "掃把",
+      "emoji": "🧹",
+      "type": "word",
+      "ex": "The broom is behind the door.",
+      "exZh": "掃把在門後面。"
+    },
+    {
       "en": "do the dishes",
       "kk": "",
       "zh": "洗碗",
@@ -300,7 +300,7 @@
       "zh": "打掃；收拾乾淨",
       "emoji": "🧼",
       "type": "phrase",
-      "ex": "Let us clean up the kitchen.",
+      "ex": "Let's clean up the kitchen.",
       "exZh": "我們來把廚房收拾乾淨吧。"
     },
     {
@@ -356,7 +356,7 @@
       "note": "請人幫忙時"
     },
     {
-      "en": "It is your turn to do the dishes.",
+      "en": "It's your turn to do the dishes.",
       "zh": "輪到你洗碗了。",
       "note": "分配家事時"
     },
@@ -366,7 +366,7 @@
       "note": "討論分工時"
     },
     {
-      "en": "I will sweep the floor if you mop it.",
+      "en": "I'll sweep the floor if you mop it.",
       "zh": "你拖地的話，我就來掃地。",
       "note": "互相分工時"
     },
@@ -376,12 +376,12 @@
       "note": "請孩子整理房間時"
     },
     {
-      "en": "Let us do the chores together.",
+      "en": "Let's do the chores together.",
       "zh": "我們一起做家事吧。",
       "note": "邀請家人一起做時"
     },
     {
-      "en": "I have already folded the clothes.",
+      "en": "I've already folded the clothes.",
       "zh": "我已經把衣服摺好了。",
       "note": "報告完成進度時"
     },
@@ -391,7 +391,7 @@
       "note": "洗衣完成後"
     },
     {
-      "en": "Do not forget to recycle the bottles.",
+      "en": "Don't forget to recycle the bottles.",
       "zh": "別忘了回收瓶子。",
       "note": "提醒家人時"
     },
@@ -401,7 +401,7 @@
       "note": "看到房間太亂時"
     },
     {
-      "en": "I will take care of the dishes tonight.",
+      "en": "I'll take care of the dishes tonight.",
       "zh": "今晚的碗我來洗。",
       "note": "主動承擔時"
     },
@@ -447,7 +447,7 @@
         },
         {
           "who": "A",
-          "en": "Sure. I will also do the laundry.",
+          "en": "Sure. I'll also do the laundry.",
           "zh": "沒問題。我還會洗衣服。"
         }
       ]
@@ -462,22 +462,22 @@
         },
         {
           "who": "B",
-          "en": "Let us clean up together.",
+          "en": "Let's clean up together.",
           "zh": "我們一起整理吧。"
         },
         {
           "who": "A",
-          "en": "I will dust the shelves. You wipe the table.",
+          "en": "I'll dust the shelves. You wipe the table.",
           "zh": "我來擦架子，你擦桌子。"
         },
         {
           "who": "B",
-          "en": "Deal. Where is the rag?",
+          "en": "Deal. Where's the rag?",
           "zh": "好。抹布在哪裡？"
         },
         {
           "who": "A",
-          "en": "It is in the bucket by the door.",
+          "en": "It's in the bucket by the door.",
           "zh": "在門邊的水桶裡。"
         }
       ]

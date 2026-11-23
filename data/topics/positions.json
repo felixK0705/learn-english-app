@@ -93,7 +93,7 @@
       "zh": "在裡面",
       "emoji": "🔲",
       "type": "word",
-      "ex": "It is warm inside the house.",
+      "ex": "It's warm inside the house.",
       "exZh": "屋子裡面很溫暖。"
     },
     {
@@ -224,7 +224,7 @@
     },
     {
       "en": "middle",
-      "kk": "ˋmɪdl",
+      "kk": "ˋmɪdl̩",
       "zh": "中間",
       "emoji": "🎯",
       "type": "word",
@@ -342,12 +342,12 @@
   ],
   "sentences": [
     {
-      "en": "Where is my phone?",
+      "en": "Where's my phone?",
       "zh": "我的手機在哪裡？",
       "note": "找東西時"
     },
     {
-      "en": "It is on the table.",
+      "en": "It's on the table.",
       "zh": "它在桌子上。",
       "note": "回答位置時"
     },
@@ -357,7 +357,7 @@
       "note": "提示尋找位置時"
     },
     {
-      "en": "It is between the sofa and the lamp.",
+      "en": "It's between the sofa and the lamp.",
       "zh": "它在沙發和檯燈之間。",
       "note": "說明東西的位置時"
     },
@@ -377,7 +377,7 @@
       "note": "指路時"
     },
     {
-      "en": "It is across from the park.",
+      "en": "It's across from the park.",
       "zh": "它在公園對面。",
       "note": "描述地點位置時"
     },
@@ -397,12 +397,12 @@
       "note": "安排座位時"
     },
     {
-      "en": "I am standing in front of the school.",
+      "en": "I'm standing in front of the school.",
       "zh": "我正站在學校前面。",
       "note": "告訴朋友自己位置時"
     },
     {
-      "en": "It is far from here. We should take a bus.",
+      "en": "It's far from here. We should take the bus.",
       "zh": "離這裡很遠，我們應該搭公車。",
       "note": "討論距離時"
     },
@@ -418,7 +418,7 @@
       "lines": [
         {
           "who": "A",
-          "en": "Where is my phone?",
+          "en": "Where's my phone?",
           "zh": "我的手機在哪裡？"
         },
         {
@@ -428,7 +428,7 @@
         },
         {
           "who": "A",
-          "en": "No, it is not there.",
+          "en": "No, it isn't there.",
           "zh": "不在那裡。"
         },
         {
@@ -463,7 +463,7 @@
         },
         {
           "who": "B",
-          "en": "No, it is next to the bank.",
+          "en": "No, it's next to the bank.",
           "zh": "不遠，它在銀行旁邊。"
         },
         {

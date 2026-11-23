@@ -12,17 +12,17 @@
       "zh": "漢堡",
       "emoji": "🍔",
       "type": "word",
-      "ex": "I would like a burger, please.",
+      "ex": "I'd like a burger, please.",
       "exZh": "我要一個漢堡。"
     },
     {
-      "en": "cheeseburger",
-      "kk": "ˋtʃizˏbɝgɚ",
-      "zh": "起司漢堡",
-      "emoji": "🍔",
+      "en": "apple pie",
+      "kk": "ˋæpḷ ˏpaɪ",
+      "zh": "蘋果派",
+      "emoji": "🥧",
       "type": "word",
-      "ex": "One cheeseburger without onions.",
-      "exZh": "一個起司漢堡，不要洋蔥。"
+      "ex": "The hot apple pie is crispy outside.",
+      "exZh": "熱蘋果派外皮酥脆。"
     },
     {
       "en": "fries",
@@ -53,7 +53,7 @@
     },
     {
       "en": "onion rings",
-      "kk": "ˋʌnjən rɪŋz",
+      "kk": "ˋʌnjən ˏrɪŋz",
       "zh": "洋蔥圈",
       "emoji": "🧅",
       "type": "word",
@@ -63,11 +63,11 @@
     {
       "en": "taco",
       "kk": "ˋtɑko",
-      "zh": "墨西哥捲餅",
+      "zh": "墨西哥夾餅；塔可",
       "emoji": "🌮",
       "type": "word",
-      "ex": "I will have two tacos.",
-      "exZh": "我要兩個墨西哥捲餅。"
+      "ex": "I'll have two tacos.",
+      "exZh": "我要兩個塔可。"
     },
     {
       "en": "wrap",
@@ -115,13 +115,13 @@
       "exZh": "我可以多要一些番茄醬嗎？"
     },
     {
-      "en": "mustard",
-      "kk": "ˋmʌstɚd",
-      "zh": "黃芥末醬",
-      "emoji": "🌭",
+      "en": "salt",
+      "kk": "sɔlt",
+      "zh": "鹽",
+      "emoji": "🧂",
       "type": "word",
-      "ex": "Mustard goes on hot dogs.",
-      "exZh": "黃芥末醬是配熱狗的。"
+      "ex": "These fries need more salt.",
+      "exZh": "這些薯條需要多一點鹽。"
     },
     {
       "en": "mayonnaise",
@@ -129,7 +129,7 @@
       "zh": "美乃滋",
       "emoji": "🥫",
       "type": "word",
-      "ex": "I do not like mayonnaise.",
+      "ex": "I don't like mayonnaise.",
       "exZh": "我不喜歡美乃滋。"
     },
     {
@@ -138,7 +138,7 @@
       "zh": "套餐",
       "emoji": "🍱",
       "type": "word",
-      "ex": "I will take the combo.",
+      "ex": "I'll take the combo.",
       "exZh": "我要點套餐。"
     },
     {
@@ -154,46 +154,46 @@
       "en": "small",
       "kk": "smɔl",
       "zh": "小的",
-      "emoji": "🥤",
+      "emoji": "🤏",
       "type": "word",
-      "ex": "I will have a small cola.",
+      "ex": "I'll have a small cola.",
       "exZh": "我要一杯小杯可樂。"
     },
     {
-      "en": "medium",
-      "kk": "ˋmidɪəm",
-      "zh": "中的",
-      "emoji": "🥤",
+      "en": "pretzel",
+      "kk": "ˋprɛtsḷ",
+      "zh": "椒鹽卷餅",
+      "emoji": "🥨",
       "type": "word",
-      "ex": "A medium fries, please.",
-      "exZh": "請給我一份中薯。"
+      "ex": "He bought a soft pretzel at the mall.",
+      "exZh": "他在商場買了一個軟式椒鹽卷餅。"
     },
     {
-      "en": "large",
-      "kk": "lɑrdʒ",
-      "zh": "大的",
-      "emoji": "🥤",
+      "en": "baked potato",
+      "kk": "ˋbekt pəˋteto",
+      "zh": "烤馬鈴薯",
+      "emoji": "🥔",
       "type": "word",
-      "ex": "Make the drink large.",
-      "exZh": "飲料要換大杯。"
+      "ex": "I want a baked potato with cheese.",
+      "exZh": "我要一個加起司的烤馬鈴薯。"
     },
     {
       "en": "refill",
       "kk": "ˋriˏfɪl",
       "zh": "續杯；再裝滿",
-      "emoji": "🥤",
+      "emoji": "🔄",
       "type": "word",
       "ex": "Soft drinks come with free refills.",
       "exZh": "汽水可以免費續杯。"
     },
     {
-      "en": "lid",
-      "kk": "lɪd",
-      "zh": "杯蓋；蓋子",
-      "emoji": "🥤",
+      "en": "kids’ meal",
+      "kk": "ˋkɪdz ˏmil",
+      "zh": "兒童餐",
+      "emoji": "🧸",
       "type": "word",
-      "ex": "Please put a lid on the cup.",
-      "exZh": "請幫我蓋上杯蓋。"
+      "ex": "The kids’ meal comes with a toy.",
+      "exZh": "兒童餐附一個玩具。"
     },
     {
       "en": "tray",
@@ -268,6 +268,33 @@
       "exZh": "你可以用 app 點餐。"
     },
     {
+      "en": "cheeseburger",
+      "kk": "ˋtʃizˏbɝgɚ",
+      "zh": "起司漢堡",
+      "emoji": "🧀",
+      "type": "word",
+      "ex": "One cheeseburger without onions.",
+      "exZh": "一個起司漢堡，不要洋蔥。"
+    },
+    {
+      "en": "medium",
+      "kk": "ˋmidɪəm",
+      "zh": "中的",
+      "emoji": "🥤",
+      "type": "word",
+      "ex": "A medium fries, please.",
+      "exZh": "請給我一份中薯。"
+    },
+    {
+      "en": "large",
+      "kk": "ˋlɑrdʒ",
+      "zh": "大的",
+      "emoji": "🪣",
+      "type": "word",
+      "ex": "Make the drink large.",
+      "exZh": "飲料要換大杯。"
+    },
+    {
       "en": "fried chicken",
       "kk": "",
       "zh": "炸雞",
@@ -309,7 +336,7 @@
       "zh": "多加番茄醬",
       "emoji": "🍅",
       "type": "phrase",
-      "ex": "I would like extra ketchup, please.",
+      "ex": "I'd like extra ketchup, please.",
       "exZh": "請多給我一些番茄醬。"
     },
     {
@@ -327,8 +354,8 @@
       "zh": "取餐",
       "emoji": "🛍️",
       "type": "phrase",
-      "ex": "I am here to pick up the order.",
-      "exZh": "我來取餐。"
+      "ex": "I'm here to pick up the order for Lin.",
+      "exZh": "我來幫林先生取餐。"
     }
   ],
   "sentences": [
@@ -368,7 +395,7 @@
       "note": "店員詢問時"
     },
     {
-      "en": "It is for here.",
+      "en": "It's for here.",
       "zh": "內用。",
       "note": "選擇內用時"
     },
@@ -378,7 +405,7 @@
       "note": "店員確認時"
     },
     {
-      "en": "That is all, thanks.",
+      "en": "That's all, thanks.",
       "zh": "這樣就好，謝謝。",
       "note": "點完餐時"
     },
@@ -444,7 +471,7 @@
       "lines": [
         {
           "who": "A",
-          "en": "Hello. I would like six nuggets and a small cola.",
+          "en": "Hello. I'd like six nuggets and a small cola.",
           "zh": "你好，我要六塊雞塊和一杯小可樂。"
         },
         {
@@ -454,8 +481,8 @@
         },
         {
           "who": "A",
-          "en": "I would like extra ketchup, please.",
-          "zh": "請多給我一些番茄醬。"
+          "en": "Yes, some extra ketchup, please.",
+          "zh": "有，請多給我一些番茄醬。"
         },
         {
           "who": "B",

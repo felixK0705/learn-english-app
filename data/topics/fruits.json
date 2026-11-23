@@ -39,7 +39,7 @@
       "zh": "葡萄",
       "emoji": "🍇",
       "type": "word",
-      "ex": "These grapes are sweet and cold.",
+      "ex": "These grapes are cold and sweet.",
       "exZh": "這些葡萄又甜又冰。"
     },
     {
@@ -120,8 +120,8 @@
       "zh": "奇異果",
       "emoji": "🥝",
       "type": "word",
-      "ex": "A kiwi has a lot of vitamin C.",
-      "exZh": "奇異果含有很多維生素 C。"
+      "ex": "Cut the kiwi in half and eat it with a spoon.",
+      "exZh": "把奇異果切成兩半，用湯匙挖來吃。"
     },
     {
       "en": "guava",
@@ -133,35 +133,26 @@
       "exZh": "台灣的芭樂又脆又甜。"
     },
     {
-      "en": "persimmon",
-      "kk": "pɚˋsɪmən",
-      "zh": "柿子",
+      "en": "cherry tomato",
+      "kk": "ˋtʃɛrɪ təˏmeto",
+      "zh": "小番茄",
       "emoji": "🍅",
       "type": "word",
-      "ex": "Persimmons turn orange in autumn.",
-      "exZh": "柿子在秋天會變成橘紅色。"
+      "ex": "In Taiwan, cherry tomatoes are often eaten as a fruit.",
+      "exZh": "在台灣，小番茄常被當成水果吃。"
     },
     {
-      "en": "lychee",
-      "kk": "ˋlaɪtʃi",
-      "zh": "荔枝",
-      "emoji": "🍓",
+      "en": "olive",
+      "kk": "ˋɑlɪv",
+      "zh": "橄欖",
+      "emoji": "🫒",
       "type": "word",
-      "ex": "Lychee season starts in early summer.",
-      "exZh": "荔枝季從初夏開始。"
-    },
-    {
-      "en": "pomelo",
-      "kk": "ˋpɑməlo",
-      "zh": "柚子",
-      "emoji": "🍋",
-      "type": "word",
-      "ex": "We eat pomelo during the Moon Festival.",
-      "exZh": "我們中秋節吃柚子。"
+      "ex": "I like olives on my pizza.",
+      "exZh": "我喜歡在披薩上放橄欖。"
     },
     {
       "en": "dragon fruit",
-      "kk": "ˋdrægən frut",
+      "kk": "ˋdrægən ˏfrut",
       "zh": "火龍果",
       "emoji": "🐉",
       "type": "word",
@@ -205,22 +196,22 @@
       "exZh": "她喜歡在吐司上放酪梨。"
     },
     {
-      "en": "wax apple",
-      "kk": "wæks ˋæpḷ",
-      "zh": "蓮霧",
-      "emoji": "🍎",
+      "en": "chestnut",
+      "kk": "ˋtʃɛsˏnʌt",
+      "zh": "栗子",
+      "emoji": "🌰",
       "type": "word",
-      "ex": "A wax apple is light and watery.",
-      "exZh": "蓮霧口感清爽多汁。"
+      "ex": "Roasted chestnuts are a popular winter snack.",
+      "exZh": "糖炒栗子是很受歡迎的冬季點心。"
     },
     {
-      "en": "durian",
-      "kk": "ˋdʊriən",
-      "zh": "榴槤",
-      "emoji": "🍈",
+      "en": "fruit basket",
+      "kk": "ˋfrut ˏbæskɪt",
+      "zh": "水果籃",
+      "emoji": "🧺",
       "type": "word",
-      "ex": "Durian has a very strong smell.",
-      "exZh": "榴槤的味道非常濃。"
+      "ex": "We gave Grandma a fruit basket.",
+      "exZh": "我們送奶奶一個水果籃。"
     },
     {
       "en": "seed",
@@ -228,23 +219,14 @@
       "zh": "種子；果籽",
       "emoji": "🌱",
       "type": "word",
-      "ex": "Spit out the seeds before you swallow.",
-      "exZh": "吞下去之前先把籽吐出來。"
-    },
-    {
-      "en": "ripe",
-      "kk": "raɪp",
-      "zh": "成熟的",
-      "emoji": "🍌",
-      "type": "word",
-      "ex": "The bananas are ripe and yellow.",
-      "exZh": "這些香蕉熟了，黃黃的。"
+      "ex": "Spit out the seeds. Don't swallow them.",
+      "exZh": "把籽吐出來，不要吞下去。"
     },
     {
       "en": "juicy",
       "kk": "ˋdʒusɪ",
       "zh": "多汁的",
-      "emoji": "🍑",
+      "emoji": "💦",
       "type": "word",
       "ex": "What a juicy orange!",
       "exZh": "好多汁的柳橙啊！"
@@ -253,10 +235,46 @@
       "en": "peel",
       "kk": "pil",
       "zh": "果皮；剝皮",
-      "emoji": "🍊",
+      "emoji": "🔪",
       "type": "word",
       "ex": "Please peel the apple for me.",
       "exZh": "請幫我削蘋果皮。"
+    },
+    {
+      "en": "lychee",
+      "kk": "ˋlaɪtʃi",
+      "zh": "荔枝",
+      "emoji": "🔴",
+      "type": "word",
+      "ex": "Lychee season starts in early summer.",
+      "exZh": "荔枝季從初夏開始。"
+    },
+    {
+      "en": "wax apple",
+      "kk": "wæks ˋæpḷ",
+      "zh": "蓮霧",
+      "emoji": "🔔",
+      "type": "word",
+      "ex": "A wax apple is light and watery.",
+      "exZh": "蓮霧口感清爽多汁。"
+    },
+    {
+      "en": "persimmon",
+      "kk": "pɚˋsɪmən",
+      "zh": "柿子",
+      "emoji": "🟠",
+      "type": "word",
+      "ex": "Persimmons turn orange in autumn.",
+      "exZh": "柿子在秋天會變成橘紅色。"
+    },
+    {
+      "en": "pomelo",
+      "kk": "ˋpɑməlo",
+      "zh": "柚子",
+      "emoji": "🟢",
+      "type": "word",
+      "ex": "We eat pomelo during the Moon Festival.",
+      "exZh": "我們中秋節吃柚子。"
     },
     {
       "en": "fruit salad",
@@ -335,7 +353,7 @@
       "note": "請老闆挑水果時"
     },
     {
-      "en": "I would like two pounds of apples.",
+      "en": "I'd like two pounds of apples.",
       "zh": "我要兩磅蘋果。",
       "note": "指定購買重量時"
     },
@@ -355,7 +373,7 @@
       "note": "討價還價時"
     },
     {
-      "en": "I am allergic to kiwi.",
+      "en": "I'm allergic to kiwi.",
       "zh": "我對奇異果過敏。",
       "note": "說明過敏時"
     },
@@ -365,7 +383,7 @@
       "note": "表達口味偏好時"
     },
     {
-      "en": "What is your favorite fruit?",
+      "en": "What's your favorite fruit?",
       "zh": "你最喜歡的水果是什麼？",
       "note": "聊天找話題時"
     },
@@ -396,7 +414,7 @@
         },
         {
           "who": "B",
-          "en": "They are one hundred dollars a bunch.",
+          "en": "They're a hundred dollars a bunch.",
           "zh": "一串一百元。"
         },
         {
@@ -406,12 +424,12 @@
         },
         {
           "who": "B",
-          "en": "Sure. They are very sweet.",
+          "en": "Sure. They're very sweet.",
           "zh": "當然，它們很甜。"
         },
         {
           "who": "A",
-          "en": "Great! I will take two bunches.",
+          "en": "Great! I'll take two bunches.",
           "zh": "太好了！我要兩串。"
         }
       ]

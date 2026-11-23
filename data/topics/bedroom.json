@@ -52,13 +52,13 @@
       "exZh": "這張床墊有點硬。"
     },
     {
-      "en": "pillowcase",
-      "kk": "ˋpɪloˏkes",
-      "zh": "枕頭套",
-      "emoji": "🧺",
+      "en": "doll",
+      "kk": "dɑl",
+      "zh": "洋娃娃",
+      "emoji": "🪆",
       "type": "word",
-      "ex": "The pillowcase has little stars on it.",
-      "exZh": "這個枕頭套上有小星星。"
+      "ex": "My little sister sleeps with her doll.",
+      "exZh": "我妹妹抱著她的洋娃娃睡覺。"
     },
     {
       "en": "wardrobe",
@@ -120,8 +120,8 @@
       "zh": "雙層床",
       "emoji": "🪜",
       "type": "word",
-      "ex": "My brother sleeps on the top bunk bed.",
-      "exZh": "我弟弟睡在雙層床的上鋪。"
+      "ex": "My brother and I share a bunk bed.",
+      "exZh": "我和弟弟睡同一張雙層床。"
     },
     {
       "en": "hanger",
@@ -169,13 +169,13 @@
       "exZh": "把你的髒衣服放進洗衣籃。"
     },
     {
-      "en": "headboard",
-      "kk": "ˋhɛdˏbɔrd",
-      "zh": "床頭板",
-      "emoji": "🛏",
+      "en": "piggy bank",
+      "kk": "ˋpɪgɪ ˏbæŋk",
+      "zh": "小豬撲滿",
+      "emoji": "🐷",
       "type": "word",
-      "ex": "There is a shelf behind the headboard.",
-      "exZh": "床頭板後面有個置物架。"
+      "ex": "I keep my coins in a piggy bank.",
+      "exZh": "我把硬幣存在小豬撲滿裡。"
     },
     {
       "en": "quilt",
@@ -255,17 +255,17 @@
       "zh": "襪子",
       "emoji": "🧦",
       "type": "word",
-      "ex": "I cannot find my other sock.",
+      "ex": "I can't find my other sock.",
       "exZh": "我找不到另一隻襪子。"
     },
     {
-      "en": "bedspread",
-      "kk": "ˋbɛdˏsprɛd",
-      "zh": "床罩",
-      "emoji": "🛏️",
+      "en": "storybook",
+      "kk": "ˋstorɪˏbʊk",
+      "zh": "故事書",
+      "emoji": "📖",
       "type": "word",
-      "ex": "The bedspread is blue and white.",
-      "exZh": "這條床罩是藍白相間的。"
+      "ex": "Dad reads me a storybook at bedtime.",
+      "exZh": "爸爸睡前念故事書給我聽。"
     },
     {
       "en": "go to bed",
@@ -300,7 +300,7 @@
       "zh": "鑽進被子裡",
       "emoji": "🛌",
       "type": "phrase",
-      "ex": "It is cold, so I get under the covers.",
+      "ex": "It's cold, so I get under the covers.",
       "exZh": "天氣冷，所以我鑽進被子裡。"
     },
     {
@@ -309,7 +309,7 @@
       "zh": "設定鬧鐘",
       "emoji": "⏰",
       "type": "phrase",
-      "ex": "Do not forget to set the alarm.",
+      "ex": "Don't forget to set the alarm.",
       "exZh": "別忘了設定鬧鐘。"
     },
     {
@@ -336,13 +336,13 @@
       "zh": "熬夜",
       "emoji": "🦉",
       "type": "phrase",
-      "ex": "Do not stay up late tonight.",
+      "ex": "Don't stay up late tonight.",
       "exZh": "今晚不要熬夜。"
     }
   ],
   "sentences": [
     {
-      "en": "It is time for bed.",
+      "en": "It's time for bed.",
       "zh": "該睡覺了。",
       "note": "提醒孩子就寢時"
     },
@@ -362,12 +362,12 @@
       "note": "早上見面時"
     },
     {
-      "en": "I could not fall asleep last night.",
+      "en": "I couldn't fall asleep last night.",
       "zh": "我昨晚睡不著。",
       "note": "睡眠不好時"
     },
     {
-      "en": "I am so sleepy.",
+      "en": "I'm so sleepy.",
       "zh": "我好睏。",
       "note": "想睡覺時"
     },
@@ -377,7 +377,7 @@
       "note": "準備睡覺時"
     },
     {
-      "en": "Do not forget to set your alarm.",
+      "en": "Don't forget to set your alarm.",
       "zh": "別忘了設鬧鐘。",
       "note": "提醒隔天要早起時"
     },
@@ -397,12 +397,12 @@
       "note": "請孩子打掃房間時"
     },
     {
-      "en": "I need another blanket. It is cold.",
+      "en": "I need another blanket. It's cold.",
       "zh": "我需要多一條毯子，好冷。",
       "note": "覺得冷時"
     },
     {
-      "en": "Wake up! You will be late.",
+      "en": "Wake up! You'll be late.",
       "zh": "起床了！你會遲到的。",
       "note": "叫人起床時"
     },
@@ -418,7 +418,7 @@
       "lines": [
         {
           "who": "A",
-          "en": "It is ten o'clock. Time for bed.",
+          "en": "It's ten o'clock. Time for bed.",
           "zh": "十點了，該睡覺了。"
         },
         {
@@ -448,7 +448,7 @@
       "lines": [
         {
           "who": "A",
-          "en": "Wake up! It is already seven.",
+          "en": "Wake up! It's already seven.",
           "zh": "起床了！已經七點了。"
         },
         {
@@ -458,7 +458,7 @@
         },
         {
           "who": "A",
-          "en": "No way. You will be late for school.",
+          "en": "No way. You'll be late for school.",
           "zh": "不行，你上學會遲到。"
         },
         {

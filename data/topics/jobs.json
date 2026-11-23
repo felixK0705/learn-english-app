@@ -44,11 +44,11 @@
     },
     {
       "en": "police officer",
-      "kk": "",
+      "kk": "pəˋlis ˏɔfəsɚ",
       "zh": "警察",
       "emoji": "👮",
       "type": "word",
-      "ex": "The police officer helped us cross.",
+      "ex": "The police officer helped us cross the street.",
       "exZh": "警察協助我們過馬路。"
     },
     {
@@ -90,7 +90,7 @@
     {
       "en": "cook",
       "kk": "kʊk",
-      "zh": "廚師；烹飪",
+      "zh": "廚師",
       "emoji": "👨‍🍳",
       "type": "word",
       "ex": "The cook makes great noodles.",
@@ -189,11 +189,11 @@
     {
       "en": "banker",
       "kk": "ˋbæŋkɚ",
-      "zh": "銀行員",
+      "zh": "銀行家；銀行行員",
       "emoji": "🏦",
       "type": "word",
-      "ex": "The banker helped me open an account.",
-      "exZh": "銀行員協助我開了戶頭。"
+      "ex": "Her father is a banker.",
+      "exZh": "她的爸爸是銀行家。"
     },
     {
       "en": "barber",
@@ -291,7 +291,7 @@
       "zh": "擅長",
       "emoji": "🏅",
       "type": "phrase",
-      "ex": "I am good at drawing.",
+      "ex": "I'm good at drawing.",
       "exZh": "我很擅長畫畫。"
     },
     {
@@ -310,7 +310,7 @@
       "emoji": "🕒",
       "type": "phrase",
       "ex": "She works part-time at a cafe.",
-      "exZh": "她在咖啡店兼職。"
+      "exZh": "她在咖啡店打工。"
     },
     {
       "en": "grow up to be",
@@ -338,7 +338,7 @@
       "note": "詢問對方職業時"
     },
     {
-      "en": "I am a teacher.",
+      "en": "I'm a teacher.",
       "zh": "我是老師。",
       "note": "說明自己的職業時"
     },
@@ -403,7 +403,7 @@
       "note": "詢問工作資歷時"
     },
     {
-      "en": "That is a very important job.",
+      "en": "That's a very important job.",
       "zh": "那是個很重要的工作。",
       "note": "表達敬意時"
     }
@@ -419,17 +419,17 @@
         },
         {
           "who": "B",
-          "en": "I am a firefighter. How about you?",
+          "en": "I'm a firefighter. How about you?",
           "zh": "我是消防員。你呢？"
         },
         {
           "who": "A",
-          "en": "I am a nurse at the city hospital.",
+          "en": "I'm a nurse at the city hospital.",
           "zh": "我是市立醫院的護士。"
         },
         {
           "who": "B",
-          "en": "That is a very important job.",
+          "en": "That's a very important job.",
           "zh": "那是個很重要的工作。"
         },
         {
@@ -454,7 +454,7 @@
         },
         {
           "who": "A",
-          "en": "You are good at taking care of pets.",
+          "en": "You're good at taking care of pets.",
           "zh": "你很擅長照顧寵物。"
         },
         {

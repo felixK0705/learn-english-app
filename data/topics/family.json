@@ -18,11 +18,11 @@
     {
       "en": "parent",
       "kk": "ˋpɛrənt",
-      "zh": "父親或母親",
+      "zh": "父親或母親；家長",
       "emoji": "👫",
       "type": "word",
-      "ex": "My parent works at a bank.",
-      "exZh": "我的家長在銀行工作。"
+      "ex": "My parents work at a bank.",
+      "exZh": "我的父母在銀行工作。"
     },
     {
       "en": "father",
@@ -127,7 +127,7 @@
       "en": "son",
       "kk": "sʌn",
       "zh": "兒子",
-      "emoji": "👶",
+      "emoji": "👨‍👦",
       "type": "word",
       "ex": "Their son is two years old.",
       "exZh": "他們的兒子兩歲。"
@@ -136,7 +136,7 @@
       "en": "daughter",
       "kk": "ˋdɔtɚ",
       "zh": "女兒",
-      "emoji": "👧🏻",
+      "emoji": "👩‍👧",
       "type": "word",
       "ex": "She has one daughter.",
       "exZh": "她有一個女兒。"
@@ -163,7 +163,7 @@
       "en": "baby",
       "kk": "ˋbebɪ",
       "zh": "嬰兒",
-      "emoji": "🍼",
+      "emoji": "👶",
       "type": "word",
       "ex": "The baby is sleeping now.",
       "exZh": "寶寶現在正在睡覺。"
@@ -181,7 +181,7 @@
       "en": "relative",
       "kk": "ˋrɛlətɪv",
       "zh": "親戚",
-      "emoji": "🧑‍🧑‍🧒‍🧒",
+      "emoji": "👨‍👩‍👧‍👦",
       "type": "word",
       "ex": "Many relatives visit us at New Year.",
       "exZh": "許多親戚在新年來看我們。"
@@ -193,7 +193,7 @@
       "emoji": "🧍",
       "type": "phrase",
       "ex": "I am an only child.",
-      "exZh": "我是獨生子。"
+      "exZh": "我是獨生子（女）。"
     },
     {
       "en": "married",
@@ -235,7 +235,7 @@
       "en": "together",
       "kk": "təˋɡɛðɚ",
       "zh": "一起",
-      "emoji": "👨‍👩‍👦‍👦",
+      "emoji": "🧑‍🤝‍🧑",
       "type": "word",
       "ex": "We eat dinner together.",
       "exZh": "我們一起吃晚餐。"
@@ -411,7 +411,7 @@
         },
         {
           "who": "B",
-          "en": "That is my cousin, Jack.",
+          "en": "That's my cousin, Jack.",
           "zh": "那是我的表哥傑克。"
         },
         {
@@ -436,7 +436,7 @@
         },
         {
           "who": "A",
-          "en": "I am an only child.",
+          "en": "I'm an only child.",
           "zh": "我是獨生子。"
         },
         {

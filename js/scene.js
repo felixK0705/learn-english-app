@@ -3,15 +3,16 @@ import { backdropSVG } from './backdrops.js';
 import { esc } from './util.js';
 import { icon } from './icons.js';
 
-const ROWS = 5;
 const PEOPLE = ['🧒', '👧', '👦', '🧑', '👩', '👨', '🧓', '👱‍♀️'];
 
 // 只放 type=word 的單字（片語另列清單）；回傳 { html, items }
 export function buildScene(topic) {
   const words = topic.words.map((w, i) => ({ ...w, i })).filter(w => w.type !== 'phrase');
   const bubbles = topic.sentences.slice(0, 2);
+  // 依單字數量決定格線：字越多，列數與欄數越多，避免互相重疊
+  const ROWS = words.length > 30 ? 6 : 5;
   const need = words.length + 4 + bubbles.length * 3;
-  const cols = Math.max(9, Math.ceil(need / ROWS));
+  const cols = Math.max(9, Math.ceil(need / ROWS) + (words.length > 24 ? 1 : 0));
   const used = new Set();
   const cell = (r, c) => `${r},${c}`;
   [[0, 0], [0, 1], [1, 0], [1, 1]].forEach(([r, c]) => used.add(cell(r, c))); // 左上角標題
