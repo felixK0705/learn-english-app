@@ -1,0 +1,472 @@
+{
+  "id": "hotel",
+  "title": "Hotel",
+  "zh": "飯店住宿",
+  "emoji": "🏨",
+  "backdrop": "city",
+  "intro": "學會訂房、辦理入住以及向飯店人員提出需求。",
+  "words": [
+    {
+      "en": "hotel",
+      "kk": "hoˋtɛl",
+      "zh": "飯店",
+      "emoji": "🏨",
+      "type": "word",
+      "ex": "We stayed at a nice hotel.",
+      "exZh": "我們住在一間不錯的飯店。"
+    },
+    {
+      "en": "lobby",
+      "kk": "ˋlɑbɪ",
+      "zh": "大廳",
+      "emoji": "🛋️",
+      "type": "word",
+      "ex": "Let’s meet in the lobby.",
+      "exZh": "我們在大廳碰面吧。"
+    },
+    {
+      "en": "front desk",
+      "kk": "ˋfrʌnt ˏdɛsk",
+      "zh": "櫃台",
+      "emoji": "🛎️",
+      "type": "word",
+      "ex": "Please ask at the front desk.",
+      "exZh": "請到櫃台詢問。"
+    },
+    {
+      "en": "receptionist",
+      "kk": "rɪˋsɛpʃənɪst",
+      "zh": "接待人員",
+      "emoji": "🧑‍💼",
+      "type": "word",
+      "ex": "The receptionist smiled at us.",
+      "exZh": "接待人員對我們微笑。"
+    },
+    {
+      "en": "guest",
+      "kk": "gɛst",
+      "zh": "房客；客人",
+      "emoji": "🙆",
+      "type": "word",
+      "ex": "The hotel has two hundred guests.",
+      "exZh": "這間飯店有兩百位房客。"
+    },
+    {
+      "en": "reservation",
+      "kk": "ˏrɛzɚˋveʃən",
+      "zh": "訂房；預約",
+      "emoji": "📖",
+      "type": "word",
+      "ex": "I have a reservation under Lin.",
+      "exZh": "我用林的名字訂了房。"
+    },
+    {
+      "en": "single room",
+      "kk": "ˋsɪŋgl̩ ˏrum",
+      "zh": "單人房",
+      "emoji": "🛏️",
+      "type": "word",
+      "ex": "I need a single room for two nights.",
+      "exZh": "我要訂一間單人房住兩晚。"
+    },
+    {
+      "en": "double room",
+      "kk": "ˋdʌbl̩ ˏrum",
+      "zh": "雙人房",
+      "emoji": "🛌",
+      "type": "word",
+      "ex": "A double room has a large bed.",
+      "exZh": "雙人房有一張大床。"
+    },
+    {
+      "en": "suite",
+      "kk": "swit",
+      "zh": "套房",
+      "emoji": "🏩",
+      "type": "word",
+      "ex": "They stayed in the honeymoon suite.",
+      "exZh": "他們住在蜜月套房。"
+    },
+    {
+      "en": "key card",
+      "kk": "ˋki ˏkɑrd",
+      "zh": "房卡",
+      "emoji": "🔑",
+      "type": "word",
+      "ex": "I lost my key card.",
+      "exZh": "我弄丟了我的房卡。"
+    },
+    {
+      "en": "room number",
+      "kk": "ˋrum ˏnʌmbɚ",
+      "zh": "房號",
+      "emoji": "🔢",
+      "type": "word",
+      "ex": "What is your room number?",
+      "exZh": "您的房號是幾號？"
+    },
+    {
+      "en": "floor",
+      "kk": "flɔr",
+      "zh": "樓層",
+      "emoji": "🏢",
+      "type": "word",
+      "ex": "Our room is on the fifth floor.",
+      "exZh": "我們的房間在五樓。"
+    },
+    {
+      "en": "elevator",
+      "kk": "ˋɛləˏvetɚ",
+      "zh": "電梯",
+      "emoji": "🛗",
+      "type": "word",
+      "ex": "The elevator is on the left.",
+      "exZh": "電梯在左邊。"
+    },
+    {
+      "en": "pillow",
+      "kk": "ˋpɪlo",
+      "zh": "枕頭",
+      "emoji": "🪶",
+      "type": "word",
+      "ex": "Could I have an extra pillow?",
+      "exZh": "我可以多要一個枕頭嗎？"
+    },
+    {
+      "en": "blanket",
+      "kk": "ˋblæŋkɪt",
+      "zh": "毯子",
+      "emoji": "💤",
+      "type": "word",
+      "ex": "It is cold. I need another blanket.",
+      "exZh": "好冷，我需要多一條毯子。"
+    },
+    {
+      "en": "towel",
+      "kk": "ˋtaʊəl",
+      "zh": "毛巾",
+      "emoji": "🧖",
+      "type": "word",
+      "ex": "There are no clean towels.",
+      "exZh": "沒有乾淨的毛巾了。"
+    },
+    {
+      "en": "shower",
+      "kk": "ˋʃaʊɚ",
+      "zh": "淋浴",
+      "emoji": "🚿",
+      "type": "word",
+      "ex": "The shower has hot water.",
+      "exZh": "淋浴間有熱水。"
+    },
+    {
+      "en": "bathtub",
+      "kk": "ˋbæθˏtʌb",
+      "zh": "浴缸",
+      "emoji": "🛁",
+      "type": "word",
+      "ex": "I want to relax in the bathtub.",
+      "exZh": "我想在浴缸裡放鬆。"
+    },
+    {
+      "en": "air conditioner",
+      "kk": "ˋɛr kənˏdɪʃənɚ",
+      "zh": "冷氣機",
+      "emoji": "❄️",
+      "type": "word",
+      "ex": "The air conditioner doesn’t work.",
+      "exZh": "冷氣壞了。"
+    },
+    {
+      "en": "remote control",
+      "kk": "rɪˋmot kənˋtrol",
+      "zh": "遙控器",
+      "emoji": "📺",
+      "type": "word",
+      "ex": "Where is the remote control?",
+      "exZh": "遙控器在哪裡？"
+    },
+    {
+      "en": "hair dryer",
+      "kk": "ˋhɛr ˏdraɪɚ",
+      "zh": "吹風機",
+      "emoji": "💨",
+      "type": "word",
+      "ex": "Does the room have a hair dryer?",
+      "exZh": "房間有吹風機嗎？"
+    },
+    {
+      "en": "Wi-Fi",
+      "kk": "ˋwaɪˏfaɪ",
+      "zh": "無線網路",
+      "emoji": "📶",
+      "type": "word",
+      "ex": "What is the Wi-Fi password?",
+      "exZh": "無線網路的密碼是什麼？"
+    },
+    {
+      "en": "password",
+      "kk": "ˋpæsˏwɝd",
+      "zh": "密碼",
+      "emoji": "🔐",
+      "type": "word",
+      "ex": "The password is on the card.",
+      "exZh": "密碼寫在卡片上。"
+    },
+    {
+      "en": "breakfast",
+      "kk": "ˋbrɛkfəst",
+      "zh": "早餐",
+      "emoji": "🍳",
+      "type": "word",
+      "ex": "Breakfast is served from seven.",
+      "exZh": "早餐從七點開始供應。"
+    },
+    {
+      "en": "room service",
+      "kk": "ˋrum ˏsɝvɪs",
+      "zh": "客房服務",
+      "emoji": "🍴",
+      "type": "word",
+      "ex": "We ordered room service for dinner.",
+      "exZh": "我們點了客房服務當晚餐。"
+    },
+    {
+      "en": "housekeeping",
+      "kk": "ˋhaʊsˏkipɪŋ",
+      "zh": "房務清潔",
+      "emoji": "🧹",
+      "type": "word",
+      "ex": "Housekeeping will clean your room.",
+      "exZh": "房務人員會打掃您的房間。"
+    },
+    {
+      "en": "balcony",
+      "kk": "ˋbælkənɪ",
+      "zh": "陽台",
+      "emoji": "🌇",
+      "type": "word",
+      "ex": "We had coffee on the balcony.",
+      "exZh": "我們在陽台上喝咖啡。"
+    },
+    {
+      "en": "swimming pool",
+      "kk": "ˋswɪmɪŋ ˏpul",
+      "zh": "游泳池",
+      "emoji": "🏊",
+      "type": "word",
+      "ex": "The swimming pool is on the roof.",
+      "exZh": "游泳池在屋頂上。"
+    },
+    {
+      "en": "gym",
+      "kk": "dʒɪm",
+      "zh": "健身房",
+      "emoji": "🏋️",
+      "type": "word",
+      "ex": "I work out in the hotel gym.",
+      "exZh": "我在飯店健身房運動。"
+    },
+    {
+      "en": "laundry",
+      "kk": "ˋlɔndrɪ",
+      "zh": "洗衣；待洗衣物",
+      "emoji": "🧺",
+      "type": "word",
+      "ex": "Is there a laundry service?",
+      "exZh": "有洗衣服務嗎？"
+    },
+    {
+      "en": "check out",
+      "kk": "",
+      "zh": "退房",
+      "emoji": "✅",
+      "type": "phrase",
+      "ex": "Check out is at eleven.",
+      "exZh": "退房時間是十一點。"
+    },
+    {
+      "en": "book a room",
+      "kk": "",
+      "zh": "訂房",
+      "emoji": "📞",
+      "type": "phrase",
+      "ex": "I want to book a room for Friday.",
+      "exZh": "我想訂星期五的房間。"
+    },
+    {
+      "en": "stay at",
+      "kk": "",
+      "zh": "住在（某處）",
+      "emoji": "🛌",
+      "type": "phrase",
+      "ex": "We will stay at a hotel near the beach.",
+      "exZh": "我們會住在海灘附近的飯店。"
+    },
+    {
+      "en": "wake-up call",
+      "kk": "",
+      "zh": "晨喚電話",
+      "emoji": "☎️",
+      "type": "phrase",
+      "ex": "Can I get a wake-up call at six?",
+      "exZh": "可以六點打電話叫我起床嗎？"
+    },
+    {
+      "en": "be fully booked",
+      "kk": "",
+      "zh": "客滿",
+      "emoji": "🈵",
+      "type": "phrase",
+      "ex": "The hotel is fully booked tonight.",
+      "exZh": "飯店今晚客滿了。"
+    },
+    {
+      "en": "do not disturb",
+      "kk": "",
+      "zh": "請勿打擾",
+      "emoji": "🔕",
+      "type": "phrase",
+      "ex": "Hang the do not disturb sign outside.",
+      "exZh": "把請勿打擾的牌子掛在門外。"
+    },
+    {
+      "en": "ask for",
+      "kk": "",
+      "zh": "要求；索取",
+      "emoji": "🙋",
+      "type": "phrase",
+      "ex": "I’d like to ask for a late checkout.",
+      "exZh": "我想要求延後退房。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "I have a reservation under Chen.",
+      "zh": "我用陳的名字訂了房。",
+      "note": "辦理入住時"
+    },
+    {
+      "en": "Do you have any rooms available tonight?",
+      "zh": "你們今晚有空房嗎？",
+      "note": "臨時詢問空房"
+    },
+    {
+      "en": "I’d like to check in, please.",
+      "zh": "我想辦理入住。",
+      "note": "抵達飯店時"
+    },
+    {
+      "en": "How much is a room per night?",
+      "zh": "一晚房價多少？",
+      "note": "詢問房價"
+    },
+    {
+      "en": "Is breakfast included?",
+      "zh": "有包含早餐嗎？",
+      "note": "確認房價內容"
+    },
+    {
+      "en": "What time is check out?",
+      "zh": "幾點退房？",
+      "note": "詢問退房時間"
+    },
+    {
+      "en": "Could I have a late check out?",
+      "zh": "我可以延後退房嗎？",
+      "note": "想晚一點離開時"
+    },
+    {
+      "en": "Could you send up some extra towels?",
+      "zh": "可以送幾條毛巾上來嗎？",
+      "note": "向櫃台提出需求"
+    },
+    {
+      "en": "The air conditioner isn’t working.",
+      "zh": "冷氣壞了。",
+      "note": "回報設施問題"
+    },
+    {
+      "en": "What is the Wi-Fi password?",
+      "zh": "無線網路密碼是什麼？",
+      "note": "要連網時"
+    },
+    {
+      "en": "Can I leave my luggage here until noon?",
+      "zh": "我可以把行李寄放到中午嗎？",
+      "note": "退房後還要逛街時"
+    },
+    {
+      "en": "Could you call a taxi for me?",
+      "zh": "可以幫我叫計程車嗎？",
+      "note": "請櫃台協助"
+    },
+    {
+      "en": "I’d like a wake-up call at seven.",
+      "zh": "我想要七點的晨喚服務。",
+      "note": "需要早起時"
+    },
+    {
+      "en": "Where is the nearest convenience store?",
+      "zh": "最近的便利商店在哪裡？",
+      "note": "向櫃台詢問周邊"
+    }
+  ],
+  "dialogues": [
+    {
+      "title": "辦理入住",
+      "lines": [
+        {
+          "who": "A",
+          "en": "Welcome. Do you have a reservation?",
+          "zh": "歡迎光臨，請問有訂房嗎？"
+        },
+        {
+          "who": "B",
+          "en": "Yes, under Wang. Two nights, one double room.",
+          "zh": "有，用王的名字，雙人房兩晚。"
+        },
+        {
+          "who": "A",
+          "en": "Here is your key card. You are in room 806.",
+          "zh": "這是您的房卡，您的房間是806。"
+        },
+        {
+          "who": "B",
+          "en": "Is breakfast included?",
+          "zh": "有包含早餐嗎？"
+        },
+        {
+          "who": "A",
+          "en": "Yes, from seven to ten on the first floor.",
+          "zh": "有的，一樓早上七點到十點供應。"
+        }
+      ]
+    },
+    {
+      "title": "房間有問題",
+      "lines": [
+        {
+          "who": "A",
+          "en": "Hello. This is room 806. The air conditioner isn’t working.",
+          "zh": "您好，這裡是806房，冷氣壞了。"
+        },
+        {
+          "who": "B",
+          "en": "I’m sorry. I will send someone right away.",
+          "zh": "很抱歉，我立刻派人過去。"
+        },
+        {
+          "who": "A",
+          "en": "Thank you. Could I also have an extra pillow?",
+          "zh": "謝謝，我還可以多要一個枕頭嗎？"
+        },
+        {
+          "who": "B",
+          "en": "Of course. Housekeeping will bring one up.",
+          "zh": "當然，房務人員會送上去。"
+        }
+      ]
+    }
+  ]
+}

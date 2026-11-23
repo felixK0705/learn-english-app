@@ -1,0 +1,472 @@
+{
+  "id": "bathroom",
+  "title": "Bathroom",
+  "zh": "浴室與盥洗",
+  "emoji": "🛁",
+  "backdrop": "bathroom",
+  "intro": "認識浴室裡的用品，學會說洗澡、洗手和整理儀容。",
+  "words": [
+    {
+      "en": "toilet",
+      "kk": "ˋtɔɪlɪt",
+      "zh": "馬桶；廁所",
+      "emoji": "🚽",
+      "type": "word",
+      "ex": "Please put the toilet seat down.",
+      "exZh": "請把馬桶蓋放下來。"
+    },
+    {
+      "en": "bathtub",
+      "kk": "ˋbæθˏtʌb",
+      "zh": "浴缸",
+      "emoji": "🛁",
+      "type": "word",
+      "ex": "The baby loves the bathtub.",
+      "exZh": "寶寶很愛浴缸。"
+    },
+    {
+      "en": "shower",
+      "kk": "ˋʃaʊɚ",
+      "zh": "淋浴",
+      "emoji": "🚿",
+      "type": "word",
+      "ex": "The shower is cold this morning.",
+      "exZh": "今天早上的淋浴水是冷的。"
+    },
+    {
+      "en": "basin",
+      "kk": "ˋbesn",
+      "zh": "洗臉盆",
+      "emoji": "🫧",
+      "type": "word",
+      "ex": "Fill the basin with warm water.",
+      "exZh": "把洗臉盆裝滿溫水。"
+    },
+    {
+      "en": "towel",
+      "kk": "ˋtaʊəl",
+      "zh": "毛巾",
+      "emoji": "🧖",
+      "type": "word",
+      "ex": "Can I borrow a clean towel?",
+      "exZh": "我可以借一條乾淨的毛巾嗎？"
+    },
+    {
+      "en": "soap",
+      "kk": "sop",
+      "zh": "肥皂",
+      "emoji": "🧼",
+      "type": "word",
+      "ex": "Use soap to wash your hands.",
+      "exZh": "用肥皂洗手。"
+    },
+    {
+      "en": "shampoo",
+      "kk": "ʃæmˋpu",
+      "zh": "洗髮精",
+      "emoji": "🧴",
+      "type": "word",
+      "ex": "This shampoo smells like apples.",
+      "exZh": "這瓶洗髮精聞起來像蘋果。"
+    },
+    {
+      "en": "conditioner",
+      "kk": "kənˋdɪʃənɚ",
+      "zh": "潤髮乳",
+      "emoji": "🧴",
+      "type": "word",
+      "ex": "I use conditioner after shampoo.",
+      "exZh": "我洗完頭會用潤髮乳。"
+    },
+    {
+      "en": "toothbrush",
+      "kk": "ˋtuθˏbrʌʃ",
+      "zh": "牙刷",
+      "emoji": "🪥",
+      "type": "word",
+      "ex": "I need a new toothbrush.",
+      "exZh": "我需要一支新牙刷。"
+    },
+    {
+      "en": "toothpaste",
+      "kk": "ˋtuθˏpest",
+      "zh": "牙膏",
+      "emoji": "🦷",
+      "type": "word",
+      "ex": "We are out of toothpaste.",
+      "exZh": "我們的牙膏用完了。"
+    },
+    {
+      "en": "comb",
+      "kk": "kom",
+      "zh": "梳子",
+      "emoji": "💇",
+      "type": "word",
+      "ex": "She combed her hair with a small comb.",
+      "exZh": "她用一把小梳子梳頭髮。"
+    },
+    {
+      "en": "razor",
+      "kk": "ˋrezɚ",
+      "zh": "刮鬍刀",
+      "emoji": "🪒",
+      "type": "word",
+      "ex": "Dad uses a razor every morning.",
+      "exZh": "爸爸每天早上用刮鬍刀。"
+    },
+    {
+      "en": "bath mat",
+      "kk": "ˋbæθ ˏmæt",
+      "zh": "浴室踏墊",
+      "emoji": "🟦",
+      "type": "word",
+      "ex": "Step on the bath mat, not the wet floor.",
+      "exZh": "踩在浴室踏墊上，不要踩濕地板。"
+    },
+    {
+      "en": "shower curtain",
+      "kk": "ˋʃaʊɚ ˋkɝtn",
+      "zh": "浴簾",
+      "emoji": "🪟",
+      "type": "word",
+      "ex": "Pull the shower curtain closed.",
+      "exZh": "把浴簾拉上。"
+    },
+    {
+      "en": "toilet paper",
+      "kk": "ˋtɔɪlɪt ˏpepɚ",
+      "zh": "衛生紙",
+      "emoji": "🧻",
+      "type": "word",
+      "ex": "There is no toilet paper left.",
+      "exZh": "衛生紙沒有了。"
+    },
+    {
+      "en": "tissue",
+      "kk": "ˋtɪʃu",
+      "zh": "面紙",
+      "emoji": "🤧",
+      "type": "word",
+      "ex": "I need a tissue for my nose.",
+      "exZh": "我需要一張面紙擤鼻涕。"
+    },
+    {
+      "en": "hairbrush",
+      "kk": "ˋhɛrˏbrʌʃ",
+      "zh": "髮梳",
+      "emoji": "🖌️",
+      "type": "word",
+      "ex": "Where is my hairbrush?",
+      "exZh": "我的髮梳在哪裡？"
+    },
+    {
+      "en": "scale",
+      "kk": "skel",
+      "zh": "體重計",
+      "emoji": "⚖️",
+      "type": "word",
+      "ex": "I stepped on the scale this morning.",
+      "exZh": "我今天早上站上了體重計。"
+    },
+    {
+      "en": "cotton swab",
+      "kk": "ˋkɑtn swɑb",
+      "zh": "棉花棒",
+      "emoji": "🥢",
+      "type": "word",
+      "ex": "Do not put a cotton swab deep in your ear.",
+      "exZh": "不要把棉花棒伸進耳朵很深。"
+    },
+    {
+      "en": "nail clipper",
+      "kk": "ˋnel ˏklɪpɚ",
+      "zh": "指甲剪",
+      "emoji": "✂️",
+      "type": "word",
+      "ex": "Can I use your nail clipper?",
+      "exZh": "我可以用你的指甲剪嗎？"
+    },
+    {
+      "en": "lotion",
+      "kk": "ˋloʃən",
+      "zh": "乳液",
+      "emoji": "🧴",
+      "type": "word",
+      "ex": "She put some lotion on her hands.",
+      "exZh": "她在手上擦了一點乳液。"
+    },
+    {
+      "en": "drain",
+      "kk": "dren",
+      "zh": "排水孔",
+      "emoji": "🕳️",
+      "type": "word",
+      "ex": "The drain is blocked by hair.",
+      "exZh": "排水孔被頭髮堵住了。"
+    },
+    {
+      "en": "bucket",
+      "kk": "ˋbʌkɪt",
+      "zh": "水桶",
+      "emoji": "🪣",
+      "type": "word",
+      "ex": "Fill the bucket with water.",
+      "exZh": "把水桶裝滿水。"
+    },
+    {
+      "en": "washcloth",
+      "kk": "ˋwɔʃˏklɔθ",
+      "zh": "洗臉小方巾",
+      "emoji": "🧽",
+      "type": "word",
+      "ex": "Use a washcloth to wash your face.",
+      "exZh": "用小方巾洗臉。"
+    },
+    {
+      "en": "bathrobe",
+      "kk": "ˋbæθˏrob",
+      "zh": "浴袍",
+      "emoji": "🥋",
+      "type": "word",
+      "ex": "He wore a bathrobe after the bath.",
+      "exZh": "他洗完澡穿上了浴袍。"
+    },
+    {
+      "en": "slippers",
+      "kk": "ˋslɪpɚz",
+      "zh": "拖鞋",
+      "emoji": "🩴",
+      "type": "word",
+      "ex": "Put on your slippers; the floor is wet.",
+      "exZh": "穿上拖鞋，地板是濕的。"
+    },
+    {
+      "en": "mouthwash",
+      "kk": "ˋmaʊθˏwɔʃ",
+      "zh": "漱口水",
+      "emoji": "🫧",
+      "type": "word",
+      "ex": "I rinse with mouthwash every night.",
+      "exZh": "我每天晚上用漱口水漱口。"
+    },
+    {
+      "en": "dental floss",
+      "kk": "ˋdɛntl flɔs",
+      "zh": "牙線",
+      "emoji": "🧵",
+      "type": "word",
+      "ex": "The dentist told me to use dental floss.",
+      "exZh": "牙醫要我使用牙線。"
+    },
+    {
+      "en": "plunger",
+      "kk": "ˋplʌndʒɚ",
+      "zh": "馬桶吸盤",
+      "emoji": "🪠",
+      "type": "word",
+      "ex": "Dad used a plunger to fix the toilet.",
+      "exZh": "爸爸用馬桶吸盤通馬桶。"
+    },
+    {
+      "en": "bubble",
+      "kk": "ˋbʌbl",
+      "zh": "泡泡",
+      "emoji": "🫧",
+      "type": "word",
+      "ex": "The baby blew bubbles in the bath.",
+      "exZh": "寶寶在洗澡時吹泡泡。"
+    },
+    {
+      "en": "take a shower",
+      "kk": "",
+      "zh": "淋浴；沖澡",
+      "emoji": "🚿",
+      "type": "phrase",
+      "ex": "I take a shower every evening.",
+      "exZh": "我每天晚上沖澡。"
+    },
+    {
+      "en": "take a bath",
+      "kk": "",
+      "zh": "泡澡",
+      "emoji": "🛀",
+      "type": "phrase",
+      "ex": "She likes to take a long bath.",
+      "exZh": "她喜歡泡很久的澡。"
+    },
+    {
+      "en": "flush the toilet",
+      "kk": "",
+      "zh": "沖馬桶",
+      "emoji": "🚽",
+      "type": "phrase",
+      "ex": "Remember to flush the toilet.",
+      "exZh": "記得要沖馬桶。"
+    },
+    {
+      "en": "wash your hands",
+      "kk": "",
+      "zh": "洗手",
+      "emoji": "🙌",
+      "type": "phrase",
+      "ex": "Wash your hands before dinner.",
+      "exZh": "吃飯前要洗手。"
+    },
+    {
+      "en": "wash your face",
+      "kk": "",
+      "zh": "洗臉",
+      "emoji": "😊",
+      "type": "phrase",
+      "ex": "He washes his face with cold water.",
+      "exZh": "他用冷水洗臉。"
+    },
+    {
+      "en": "dry your hair",
+      "kk": "",
+      "zh": "把頭髮吹乾；擦乾頭髮",
+      "emoji": "💆",
+      "type": "phrase",
+      "ex": "Dry your hair before you go out.",
+      "exZh": "出門前把頭髮吹乾。"
+    },
+    {
+      "en": "rinse off",
+      "kk": "",
+      "zh": "沖洗乾淨",
+      "emoji": "💦",
+      "type": "phrase",
+      "ex": "Rinse off the soap with warm water.",
+      "exZh": "用溫水把肥皂沖乾淨。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Where is the bathroom?",
+      "zh": "請問洗手間在哪裡？",
+      "note": "在外面或別人家詢問時"
+    },
+    {
+      "en": "May I use the bathroom?",
+      "zh": "我可以借用洗手間嗎？",
+      "note": "向別人借廁所時"
+    },
+    {
+      "en": "Someone is in there.",
+      "zh": "裡面有人。",
+      "note": "廁所被占用時"
+    },
+    {
+      "en": "Hurry up! I need to use the toilet.",
+      "zh": "快一點！我要上廁所。",
+      "note": "很急的時候"
+    },
+    {
+      "en": "Can I take a shower first?",
+      "zh": "我可以先洗澡嗎？",
+      "note": "與家人輪流使用浴室時"
+    },
+    {
+      "en": "The water is too hot.",
+      "zh": "水太燙了。",
+      "note": "調整水溫時"
+    },
+    {
+      "en": "Could you turn up the hot water?",
+      "zh": "可以把熱水開大一點嗎？",
+      "note": "水不夠熱時"
+    },
+    {
+      "en": "We are out of toilet paper.",
+      "zh": "我們沒有衛生紙了。",
+      "note": "需要補貨時"
+    },
+    {
+      "en": "Pass me a towel, please.",
+      "zh": "請把毛巾遞給我。",
+      "note": "洗完澡需要毛巾時"
+    },
+    {
+      "en": "Do not forget to brush your teeth.",
+      "zh": "別忘了刷牙。",
+      "note": "提醒孩子時"
+    },
+    {
+      "en": "Please do not leave the floor wet.",
+      "zh": "請不要把地板弄得濕濕的。",
+      "note": "提醒家人時"
+    },
+    {
+      "en": "The sink is clogged.",
+      "zh": "洗手台堵住了。",
+      "note": "排水不通時"
+    },
+    {
+      "en": "Turn off the water when you brush.",
+      "zh": "刷牙時要把水關掉。",
+      "note": "提醒節約用水時"
+    },
+    {
+      "en": "I am done. The bathroom is free now.",
+      "zh": "我好了，浴室現在沒人了。",
+      "note": "用完浴室通知別人時"
+    }
+  ],
+  "dialogues": [
+    {
+      "title": "早上搶浴室",
+      "lines": [
+        {
+          "who": "A",
+          "en": "Are you done in the bathroom yet?",
+          "zh": "你在浴室好了嗎？"
+        },
+        {
+          "who": "B",
+          "en": "Almost. I am rinsing off the shampoo.",
+          "zh": "快好了，我在沖掉洗髮精。"
+        },
+        {
+          "who": "A",
+          "en": "Please hurry. I need to wash my face.",
+          "zh": "請快一點，我要洗臉。"
+        },
+        {
+          "who": "B",
+          "en": "Okay. Pass me a towel, please.",
+          "zh": "好，請把毛巾遞給我。"
+        },
+        {
+          "who": "A",
+          "en": "Here you go. Do not forget your slippers.",
+          "zh": "給你。別忘了穿拖鞋。"
+        }
+      ]
+    },
+    {
+      "title": "在朋友家",
+      "lines": [
+        {
+          "who": "A",
+          "en": "Excuse me, may I use the bathroom?",
+          "zh": "不好意思，我可以借用洗手間嗎？"
+        },
+        {
+          "who": "B",
+          "en": "Sure. It is the second door on the left.",
+          "zh": "當然，左邊第二道門。"
+        },
+        {
+          "who": "A",
+          "en": "Thanks. Is there any soap?",
+          "zh": "謝謝。有肥皂嗎？"
+        },
+        {
+          "who": "B",
+          "en": "Yes, it is next to the basin.",
+          "zh": "有，在洗臉盆旁邊。"
+        }
+      ]
+    }
+  ]
+}

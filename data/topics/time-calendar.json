@@ -1,0 +1,481 @@
+{
+  "id": "time-calendar",
+  "title": "Time and Calendar",
+  "zh": "時間、星期與月份",
+  "emoji": "🕒",
+  "backdrop": "office",
+  "intro": "學會看時間、說星期和月份，安排每天的行程。",
+  "words": [
+    {
+      "en": "time",
+      "kk": "taɪm",
+      "zh": "時間",
+      "emoji": "⏰",
+      "type": "word",
+      "ex": "What time is it now?",
+      "exZh": "現在幾點？"
+    },
+    {
+      "en": "minute",
+      "kk": "ˋmɪnɪt",
+      "zh": "分鐘",
+      "emoji": "⏱️",
+      "type": "word",
+      "ex": "Wait a minute, please.",
+      "exZh": "請稍等一下。"
+    },
+    {
+      "en": "hour",
+      "kk": "aʊr",
+      "zh": "小時",
+      "emoji": "⌛",
+      "type": "word",
+      "ex": "The movie is two hours long.",
+      "exZh": "這部電影有兩個小時長。"
+    },
+    {
+      "en": "day",
+      "kk": "de",
+      "zh": "天；日",
+      "emoji": "📅",
+      "type": "word",
+      "ex": "I walk to school every day.",
+      "exZh": "我每天走路上學。"
+    },
+    {
+      "en": "week",
+      "kk": "wik",
+      "zh": "週；星期",
+      "emoji": "🗓️",
+      "type": "word",
+      "ex": "I have three classes this week.",
+      "exZh": "我這週有三堂課。"
+    },
+    {
+      "en": "month",
+      "kk": "mʌnθ",
+      "zh": "月",
+      "emoji": "📆",
+      "type": "word",
+      "ex": "My birthday is next month.",
+      "exZh": "我的生日在下個月。"
+    },
+    {
+      "en": "year",
+      "kk": "jɪr",
+      "zh": "年",
+      "emoji": "🎆",
+      "type": "word",
+      "ex": "We visit Grandma once a year.",
+      "exZh": "我們一年去看外婆一次。"
+    },
+    {
+      "en": "morning",
+      "kk": "ˋmɔrnɪŋ",
+      "zh": "早上",
+      "emoji": "🌅",
+      "type": "word",
+      "ex": "I drink milk every morning.",
+      "exZh": "我每天早上喝牛奶。"
+    },
+    {
+      "en": "afternoon",
+      "kk": "ˏæftɚˋnun",
+      "zh": "下午",
+      "emoji": "🌞",
+      "type": "word",
+      "ex": "We have art class this afternoon.",
+      "exZh": "我們今天下午有美術課。"
+    },
+    {
+      "en": "evening",
+      "kk": "ˋivnɪŋ",
+      "zh": "傍晚；晚上",
+      "emoji": "🌆",
+      "type": "word",
+      "ex": "We eat dinner in the evening.",
+      "exZh": "我們晚上吃晚餐。"
+    },
+    {
+      "en": "noon",
+      "kk": "nun",
+      "zh": "中午；正午",
+      "emoji": "🕛",
+      "type": "word",
+      "ex": "Lunch is at noon.",
+      "exZh": "午餐在中午。"
+    },
+    {
+      "en": "midnight",
+      "kk": "ˋmɪdˏnaɪt",
+      "zh": "午夜",
+      "emoji": "🌃",
+      "type": "word",
+      "ex": "The party ended at midnight.",
+      "exZh": "派對在午夜結束。"
+    },
+    {
+      "en": "today",
+      "kk": "təˋde",
+      "zh": "今天",
+      "emoji": "📍",
+      "type": "word",
+      "ex": "Today is my lucky day.",
+      "exZh": "今天是我的幸運日。"
+    },
+    {
+      "en": "tomorrow",
+      "kk": "təˋmɑro",
+      "zh": "明天",
+      "emoji": "➡️",
+      "type": "word",
+      "ex": "I will see you tomorrow.",
+      "exZh": "我明天會見到你。"
+    },
+    {
+      "en": "yesterday",
+      "kk": "ˋjɛstɚdɪ",
+      "zh": "昨天",
+      "emoji": "⬅️",
+      "type": "word",
+      "ex": "I was sick yesterday.",
+      "exZh": "我昨天生病了。"
+    },
+    {
+      "en": "weekend",
+      "kk": "ˋwikˋɛnd",
+      "zh": "週末",
+      "emoji": "🎉",
+      "type": "word",
+      "ex": "What are you doing this weekend?",
+      "exZh": "你這個週末要做什麼？"
+    },
+    {
+      "en": "calendar",
+      "kk": "ˋkæləndɚ",
+      "zh": "日曆；行事曆",
+      "emoji": "🗓️",
+      "type": "word",
+      "ex": "Mark it on the calendar.",
+      "exZh": "把它標在日曆上。"
+    },
+    {
+      "en": "clock",
+      "kk": "klɑk",
+      "zh": "時鐘",
+      "emoji": "🕰️",
+      "type": "word",
+      "ex": "The clock on the wall is slow.",
+      "exZh": "牆上的時鐘慢了。"
+    },
+    {
+      "en": "Monday",
+      "kk": "ˋmʌndɪ",
+      "zh": "星期一",
+      "emoji": "1️⃣",
+      "type": "word",
+      "ex": "I hate Monday mornings.",
+      "exZh": "我討厭星期一早上。"
+    },
+    {
+      "en": "Tuesday",
+      "kk": "ˋtjuzdɪ",
+      "zh": "星期二",
+      "emoji": "2️⃣",
+      "type": "word",
+      "ex": "We have a test on Tuesday.",
+      "exZh": "我們星期二有考試。"
+    },
+    {
+      "en": "Wednesday",
+      "kk": "ˋwɛnzdɪ",
+      "zh": "星期三",
+      "emoji": "3️⃣",
+      "type": "word",
+      "ex": "Wednesday is halfway through the week.",
+      "exZh": "星期三是一週的一半。"
+    },
+    {
+      "en": "Thursday",
+      "kk": "ˋθɝzdɪ",
+      "zh": "星期四",
+      "emoji": "4️⃣",
+      "type": "word",
+      "ex": "I play basketball on Thursday.",
+      "exZh": "我星期四打籃球。"
+    },
+    {
+      "en": "Friday",
+      "kk": "ˋfraɪdɪ",
+      "zh": "星期五",
+      "emoji": "5️⃣",
+      "type": "word",
+      "ex": "Friday is my favorite day.",
+      "exZh": "星期五是我最喜歡的日子。"
+    },
+    {
+      "en": "Saturday",
+      "kk": "ˋsætɚdɪ",
+      "zh": "星期六",
+      "emoji": "6️⃣",
+      "type": "word",
+      "ex": "We go hiking on Saturday.",
+      "exZh": "我們星期六去健行。"
+    },
+    {
+      "en": "Sunday",
+      "kk": "ˋsʌndɪ",
+      "zh": "星期日",
+      "emoji": "7️⃣",
+      "type": "word",
+      "ex": "Sunday is a day of rest.",
+      "exZh": "星期日是休息的日子。"
+    },
+    {
+      "en": "January",
+      "kk": "ˋdʒænjuˏɛrɪ",
+      "zh": "一月",
+      "emoji": "❄️",
+      "type": "word",
+      "ex": "New Year's Day is in January.",
+      "exZh": "元旦在一月。"
+    },
+    {
+      "en": "April",
+      "kk": "ˋeprəl",
+      "zh": "四月",
+      "emoji": "🌦️",
+      "type": "word",
+      "ex": "It rains a lot in April.",
+      "exZh": "四月常常下雨。"
+    },
+    {
+      "en": "July",
+      "kk": "dʒuˋlaɪ",
+      "zh": "七月",
+      "emoji": "☀️",
+      "type": "word",
+      "ex": "Summer vacation starts in July.",
+      "exZh": "暑假從七月開始。"
+    },
+    {
+      "en": "October",
+      "kk": "ɑkˋtobɚ",
+      "zh": "十月",
+      "emoji": "🎃",
+      "type": "word",
+      "ex": "Halloween is in October.",
+      "exZh": "萬聖節在十月。"
+    },
+    {
+      "en": "December",
+      "kk": "dɪˋsɛmbɚ",
+      "zh": "十二月",
+      "emoji": "🎄",
+      "type": "word",
+      "ex": "Christmas is in December.",
+      "exZh": "聖誕節在十二月。"
+    },
+    {
+      "en": "half past",
+      "kk": "",
+      "zh": "（幾點）半",
+      "emoji": "🕧",
+      "type": "phrase",
+      "ex": "It is half past three.",
+      "exZh": "現在是三點半。"
+    },
+    {
+      "en": "a quarter to",
+      "kk": "",
+      "zh": "差十五分（幾點）",
+      "emoji": "🕒",
+      "type": "phrase",
+      "ex": "The class starts at a quarter to nine.",
+      "exZh": "課在八點四十五分開始。"
+    },
+    {
+      "en": "on time",
+      "kk": "",
+      "zh": "準時",
+      "emoji": "✅",
+      "type": "phrase",
+      "ex": "Please be on time for school.",
+      "exZh": "上學請準時。"
+    },
+    {
+      "en": "in the morning",
+      "kk": "",
+      "zh": "在早上",
+      "emoji": "🌄",
+      "type": "phrase",
+      "ex": "I jog in the morning.",
+      "exZh": "我早上慢跑。"
+    },
+    {
+      "en": "every day",
+      "kk": "",
+      "zh": "每天",
+      "emoji": "🔁",
+      "type": "phrase",
+      "ex": "I read English every day.",
+      "exZh": "我每天讀英文。"
+    },
+    {
+      "en": "days of the week",
+      "kk": "",
+      "zh": "一週七天",
+      "emoji": "🗓️",
+      "type": "phrase",
+      "ex": "Can you say the days of the week?",
+      "exZh": "你會說一週七天嗎？"
+    },
+    {
+      "en": "next week",
+      "kk": "",
+      "zh": "下週",
+      "emoji": "⏭️",
+      "type": "phrase",
+      "ex": "We have a trip next week.",
+      "exZh": "我們下週有一趟旅行。"
+    },
+    {
+      "en": "last year",
+      "kk": "",
+      "zh": "去年",
+      "emoji": "⏮️",
+      "type": "phrase",
+      "ex": "I moved here last year.",
+      "exZh": "我去年搬來這裡。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "What time is it?",
+      "zh": "現在幾點？",
+      "note": "詢問時間"
+    },
+    {
+      "en": "It's a quarter to eight.",
+      "zh": "現在是七點四十五分。",
+      "note": "回答時間"
+    },
+    {
+      "en": "What day is it today?",
+      "zh": "今天星期幾？",
+      "note": "問星期"
+    },
+    {
+      "en": "Today is Wednesday.",
+      "zh": "今天是星期三。",
+      "note": "回答星期"
+    },
+    {
+      "en": "What's the date today?",
+      "zh": "今天是幾月幾號？",
+      "note": "問日期"
+    },
+    {
+      "en": "It's November twenty-third.",
+      "zh": "今天是十一月二十三日。",
+      "note": "回答日期"
+    },
+    {
+      "en": "When is your birthday?",
+      "zh": "你的生日是什麼時候？",
+      "note": "聊生日"
+    },
+    {
+      "en": "My birthday is on March fifth.",
+      "zh": "我的生日是三月五日。",
+      "note": "回答生日"
+    },
+    {
+      "en": "I'm free on Saturday afternoon.",
+      "zh": "我星期六下午有空。",
+      "note": "約時間"
+    },
+    {
+      "en": "What time does the class start?",
+      "zh": "課幾點開始？",
+      "note": "詢問時間表"
+    },
+    {
+      "en": "Sorry, I'm running late.",
+      "zh": "抱歉，我快遲到了。",
+      "note": "通知會遲到"
+    },
+    {
+      "en": "Let's meet at half past six.",
+      "zh": "我們六點半見面吧。",
+      "note": "約定時間"
+    },
+    {
+      "en": "See you next week.",
+      "zh": "下週見。",
+      "note": "道別"
+    },
+    {
+      "en": "How long does it take?",
+      "zh": "這要花多久？",
+      "note": "問所需時間"
+    },
+    {
+      "en": "I get up at seven every morning.",
+      "zh": "我每天早上七點起床。",
+      "note": "描述作息"
+    }
+  ],
+  "dialogues": [
+    {
+      "title": "約時間",
+      "lines": [
+        {
+          "who": "A",
+          "en": "Are you free this weekend?",
+          "zh": "你這個週末有空嗎？"
+        },
+        {
+          "who": "B",
+          "en": "I'm busy on Saturday, but free on Sunday.",
+          "zh": "我星期六很忙，但星期日有空。"
+        },
+        {
+          "who": "A",
+          "en": "Great! Let's meet at ten in the morning.",
+          "zh": "太好了！我們早上十點見面吧。"
+        },
+        {
+          "who": "B",
+          "en": "Okay. I'll be there on time.",
+          "zh": "好，我會準時到。"
+        }
+      ]
+    },
+    {
+      "title": "問時間",
+      "lines": [
+        {
+          "who": "A",
+          "en": "Excuse me, what time is it?",
+          "zh": "不好意思，請問現在幾點？"
+        },
+        {
+          "who": "B",
+          "en": "It's half past four.",
+          "zh": "現在四點半。"
+        },
+        {
+          "who": "A",
+          "en": "Oh no! The bus leaves at a quarter to five.",
+          "zh": "糟了！公車四點四十五分開。"
+        },
+        {
+          "who": "B",
+          "en": "Hurry up. You still have fifteen minutes.",
+          "zh": "快點，你還有十五分鐘。"
+        }
+      ]
+    }
+  ]
+}

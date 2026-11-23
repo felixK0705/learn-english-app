@@ -1,0 +1,473 @@
+{
+  "id": "transportation",
+  "title": "Transportation",
+  "zh": "交通工具",
+  "emoji": "🚌",
+  "backdrop": "street",
+  "intro": "認識各種交通工具與搭車用語，學會在台灣搭捷運和公車。",
+  "words": [
+    {
+      "en": "bus",
+      "kk": "bʌs",
+      "zh": "公車",
+      "emoji": "🚌",
+      "type": "word",
+      "ex": "I take the bus to work.",
+      "exZh": "我搭公車上班。"
+    },
+    {
+      "en": "train",
+      "kk": "tren",
+      "zh": "火車",
+      "emoji": "🚆",
+      "type": "word",
+      "ex": "The train leaves in ten minutes.",
+      "exZh": "火車十分鐘後出發。"
+    },
+    {
+      "en": "MRT",
+      "kk": "ˋɛmˋarˋti",
+      "zh": "捷運",
+      "emoji": "🚇",
+      "type": "word",
+      "ex": "The MRT is fast and convenient.",
+      "exZh": "捷運又快又方便。"
+    },
+    {
+      "en": "taxi",
+      "kk": "ˋtæksɪ",
+      "zh": "計程車",
+      "emoji": "🚕",
+      "type": "word",
+      "ex": "Let’s take a taxi to the station.",
+      "exZh": "我們搭計程車去車站吧。"
+    },
+    {
+      "en": "bicycle",
+      "kk": "ˋbaɪsɪkl̩",
+      "zh": "腳踏車",
+      "emoji": "🚲",
+      "type": "word",
+      "ex": "She rides a bicycle to school.",
+      "exZh": "她騎腳踏車上學。"
+    },
+    {
+      "en": "scooter",
+      "kk": "ˋskutɚ",
+      "zh": "機車；小型速克達",
+      "emoji": "🛵",
+      "type": "word",
+      "ex": "Many people in Taiwan ride scooters.",
+      "exZh": "台灣有很多人騎機車。"
+    },
+    {
+      "en": "motorcycle",
+      "kk": "ˋmotɚˏsaɪkl̩",
+      "zh": "重型機車",
+      "emoji": "🏍️",
+      "type": "word",
+      "ex": "He bought a red motorcycle.",
+      "exZh": "他買了一輛紅色重機。"
+    },
+    {
+      "en": "car",
+      "kk": "kɑr",
+      "zh": "汽車",
+      "emoji": "🚗",
+      "type": "word",
+      "ex": "My father drives a small car.",
+      "exZh": "我爸爸開一輛小汽車。"
+    },
+    {
+      "en": "truck",
+      "kk": "trʌk",
+      "zh": "卡車",
+      "emoji": "🚚",
+      "type": "word",
+      "ex": "A big truck blocked the road.",
+      "exZh": "一輛大卡車擋住了路。"
+    },
+    {
+      "en": "ferry",
+      "kk": "ˋfɛrɪ",
+      "zh": "渡輪",
+      "emoji": "⛴️",
+      "type": "word",
+      "ex": "We took the ferry to the island.",
+      "exZh": "我們搭渡輪去小島。"
+    },
+    {
+      "en": "high-speed rail",
+      "kk": "ˋhaɪˋspid ˏrel",
+      "zh": "高鐵",
+      "emoji": "🚄",
+      "type": "word",
+      "ex": "The high-speed rail goes to Kaohsiung.",
+      "exZh": "高鐵可以到高雄。"
+    },
+    {
+      "en": "bus stop",
+      "kk": "ˋbʌs ˏstɑp",
+      "zh": "公車站",
+      "emoji": "🚏",
+      "type": "word",
+      "ex": "I wait at the bus stop every morning.",
+      "exZh": "我每天早上在公車站等車。"
+    },
+    {
+      "en": "platform",
+      "kk": "ˋplætˏfɔrm",
+      "zh": "月台",
+      "emoji": "🚉",
+      "type": "word",
+      "ex": "Your train is on platform two.",
+      "exZh": "你的火車在二號月台。"
+    },
+    {
+      "en": "ticket",
+      "kk": "ˋtɪkɪt",
+      "zh": "車票；票",
+      "emoji": "🎫",
+      "type": "word",
+      "ex": "I need to buy a train ticket.",
+      "exZh": "我得買一張火車票。"
+    },
+    {
+      "en": "fare",
+      "kk": "fɛr",
+      "zh": "車資",
+      "emoji": "💵",
+      "type": "word",
+      "ex": "The bus fare is fifteen dollars.",
+      "exZh": "公車車資是十五元。"
+    },
+    {
+      "en": "EasyCard",
+      "kk": "ˋizɪˏkɑrd",
+      "zh": "悠遊卡",
+      "emoji": "💳",
+      "type": "word",
+      "ex": "Tap your EasyCard on the reader.",
+      "exZh": "把悠遊卡靠在感應器上。"
+    },
+    {
+      "en": "passenger",
+      "kk": "ˋpæsndʒɚ",
+      "zh": "乘客",
+      "emoji": "🙋",
+      "type": "word",
+      "ex": "The bus was full of passengers.",
+      "exZh": "公車上擠滿了乘客。"
+    },
+    {
+      "en": "driver",
+      "kk": "ˋdraɪvɚ",
+      "zh": "駕駛；司機",
+      "emoji": "🚘",
+      "type": "word",
+      "ex": "The driver stopped at the corner.",
+      "exZh": "司機在轉角停了車。"
+    },
+    {
+      "en": "seat",
+      "kk": "sit",
+      "zh": "座位",
+      "emoji": "💺",
+      "type": "word",
+      "ex": "Is this seat taken?",
+      "exZh": "這個座位有人坐嗎？"
+    },
+    {
+      "en": "seat belt",
+      "kk": "ˋsit ˏbɛlt",
+      "zh": "安全帶",
+      "emoji": "🔒",
+      "type": "word",
+      "ex": "Always wear your seat belt.",
+      "exZh": "一定要繫好安全帶。"
+    },
+    {
+      "en": "helmet",
+      "kk": "ˋhɛlmɪt",
+      "zh": "安全帽",
+      "emoji": "⛑️",
+      "type": "word",
+      "ex": "You must wear a helmet on a scooter.",
+      "exZh": "騎機車一定要戴安全帽。"
+    },
+    {
+      "en": "traffic jam",
+      "kk": "ˋtræfɪk ˏdʒæm",
+      "zh": "塞車",
+      "emoji": "🚧",
+      "type": "word",
+      "ex": "We were stuck in a traffic jam.",
+      "exZh": "我們被困在車陣裡。"
+    },
+    {
+      "en": "highway",
+      "kk": "ˋhaɪˏwe",
+      "zh": "高速公路",
+      "emoji": "🛣️",
+      "type": "word",
+      "ex": "The highway is busy on holidays.",
+      "exZh": "假日的高速公路很繁忙。"
+    },
+    {
+      "en": "route",
+      "kk": "rut",
+      "zh": "路線",
+      "emoji": "📍",
+      "type": "word",
+      "ex": "Which route does this bus take?",
+      "exZh": "這班公車走哪條路線？"
+    },
+    {
+      "en": "schedule",
+      "kk": "ˋskɛdʒul",
+      "zh": "時刻表",
+      "emoji": "🕒",
+      "type": "word",
+      "ex": "Check the train schedule online.",
+      "exZh": "上網查一下火車時刻表。"
+    },
+    {
+      "en": "tire",
+      "kk": "taɪr",
+      "zh": "輪胎",
+      "emoji": "🛞",
+      "type": "word",
+      "ex": "The car has a flat tire.",
+      "exZh": "這輛車爆胎了。"
+    },
+    {
+      "en": "engine",
+      "kk": "ˋɛndʒən",
+      "zh": "引擎",
+      "emoji": "⚙️",
+      "type": "word",
+      "ex": "The engine makes a strange noise.",
+      "exZh": "引擎發出奇怪的聲音。"
+    },
+    {
+      "en": "crowded",
+      "kk": "ˋkraʊdɪd",
+      "zh": "擁擠的",
+      "emoji": "👥",
+      "type": "word",
+      "ex": "The MRT is crowded at rush hour.",
+      "exZh": "尖峰時刻的捷運很擁擠。"
+    },
+    {
+      "en": "get on",
+      "kk": "",
+      "zh": "上（車、船、飛機）",
+      "emoji": "🔛",
+      "type": "phrase",
+      "ex": "Get on the bus at the front door.",
+      "exZh": "請從前門上公車。"
+    },
+    {
+      "en": "get off",
+      "kk": "",
+      "zh": "下（車、船、飛機）",
+      "emoji": "🔚",
+      "type": "phrase",
+      "ex": "I will get off at the next stop.",
+      "exZh": "我會在下一站下車。"
+    },
+    {
+      "en": "change trains",
+      "kk": "",
+      "zh": "換車；轉乘",
+      "emoji": "🔀",
+      "type": "phrase",
+      "ex": "You need to change trains at Taipei Main Station.",
+      "exZh": "你得在台北車站換車。"
+    },
+    {
+      "en": "miss the bus",
+      "kk": "",
+      "zh": "錯過公車",
+      "emoji": "😩",
+      "type": "phrase",
+      "ex": "I missed the bus this morning.",
+      "exZh": "我今天早上錯過了公車。"
+    },
+    {
+      "en": "give someone a ride",
+      "kk": "",
+      "zh": "載某人一程",
+      "emoji": "🤝",
+      "type": "phrase",
+      "ex": "Can you give me a ride to the station?",
+      "exZh": "你可以載我去車站嗎？"
+    },
+    {
+      "en": "pull over",
+      "kk": "",
+      "zh": "把車靠邊停",
+      "emoji": "🛑",
+      "type": "phrase",
+      "ex": "Please pull over here.",
+      "exZh": "請在這裡靠邊停車。"
+    },
+    {
+      "en": "rush hour",
+      "kk": "",
+      "zh": "尖峰時刻",
+      "emoji": "⏱️",
+      "type": "phrase",
+      "ex": "Avoid the MRT during rush hour.",
+      "exZh": "尖峰時間盡量別搭捷運。"
+    },
+    {
+      "en": "catch a train",
+      "kk": "",
+      "zh": "趕上火車",
+      "emoji": "🏃",
+      "type": "phrase",
+      "ex": "We ran to catch the last train.",
+      "exZh": "我們跑著去趕最後一班火車。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "How do I get to the station?",
+      "zh": "我要怎麼去車站？",
+      "note": "詢問交通方式"
+    },
+    {
+      "en": "Which bus goes to the night market?",
+      "zh": "哪一班公車會到夜市？",
+      "note": "在公車站詢問路線"
+    },
+    {
+      "en": "How much is the fare?",
+      "zh": "車資是多少？",
+      "note": "詢問票價"
+    },
+    {
+      "en": "Where can I buy a ticket?",
+      "zh": "我可以在哪裡買票？",
+      "note": "找售票處或售票機"
+    },
+    {
+      "en": "Does this train stop at Taichung?",
+      "zh": "這班火車有停台中嗎？",
+      "note": "確認停靠站"
+    },
+    {
+      "en": "Is this seat taken?",
+      "zh": "這個位子有人坐嗎？",
+      "note": "想坐在別人旁邊時"
+    },
+    {
+      "en": "Excuse me, I’m getting off here.",
+      "zh": "不好意思，我要在這裡下車。",
+      "note": "在擁擠車廂請人讓路"
+    },
+    {
+      "en": "Please take me to the airport.",
+      "zh": "請載我到機場。",
+      "note": "對計程車司機說"
+    },
+    {
+      "en": "I need to top up my EasyCard.",
+      "zh": "我需要儲值悠遊卡。",
+      "note": "在便利商店或捷運站加值"
+    },
+    {
+      "en": "How long does it take to get there?",
+      "zh": "到那裡要多久？",
+      "note": "詢問所需時間"
+    },
+    {
+      "en": "The next train leaves at nine thirty.",
+      "zh": "下一班火車九點半出發。",
+      "note": "告知發車時間"
+    },
+    {
+      "en": "Please give up your seat to those in need.",
+      "zh": "請把座位讓給需要的人。",
+      "note": "提醒禮讓博愛座"
+    },
+    {
+      "en": "We are stuck in traffic.",
+      "zh": "我們塞在車陣中。",
+      "note": "告訴朋友會遲到"
+    },
+    {
+      "en": "Can you drop me off at the next corner?",
+      "zh": "你可以在下個轉角讓我下車嗎？",
+      "note": "請司機或朋友停車"
+    }
+  ],
+  "dialogues": [
+    {
+      "title": "在捷運站",
+      "lines": [
+        {
+          "who": "A",
+          "en": "Excuse me, how do I get to Taipei 101?",
+          "zh": "不好意思，我要怎麼去台北101？"
+        },
+        {
+          "who": "B",
+          "en": "Take the red line and change trains at Daan.",
+          "zh": "搭紅線，在大安站換車。"
+        },
+        {
+          "who": "A",
+          "en": "How long does it take?",
+          "zh": "要多久？"
+        },
+        {
+          "who": "B",
+          "en": "About twenty minutes.",
+          "zh": "大約二十分鐘。"
+        },
+        {
+          "who": "A",
+          "en": "Thanks! Do I need a ticket?",
+          "zh": "謝謝！我需要買票嗎？"
+        },
+        {
+          "who": "B",
+          "en": "You can use an EasyCard.",
+          "zh": "你可以用悠遊卡。"
+        }
+      ]
+    },
+    {
+      "title": "搭計程車",
+      "lines": [
+        {
+          "who": "A",
+          "en": "Where to, ma’am?",
+          "zh": "女士，請問去哪裡？"
+        },
+        {
+          "who": "B",
+          "en": "Please take me to the train station.",
+          "zh": "請載我到火車站。"
+        },
+        {
+          "who": "A",
+          "en": "No problem. Please fasten your seat belt.",
+          "zh": "沒問題，請繫好安全帶。"
+        },
+        {
+          "who": "B",
+          "en": "Is there a traffic jam today?",
+          "zh": "今天會塞車嗎？"
+        },
+        {
+          "who": "A",
+          "en": "A little, but we will be there in fifteen minutes.",
+          "zh": "有一點，不過十五分鐘就會到。"
+        }
+      ]
+    }
+  ]
+}

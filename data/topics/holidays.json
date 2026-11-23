@@ -1,0 +1,477 @@
+{
+  "id": "holidays",
+  "title": "Holidays & Festivals",
+  "zh": "節日與慶典",
+  "emoji": "🎆",
+  "backdrop": "party",
+  "intro": "認識台灣與西方的重要節日，學會說祝福的話。",
+  "words": [
+    {
+      "en": "holiday",
+      "kk": "ˋhɑləˏde",
+      "zh": "假日；節日",
+      "emoji": "🎌",
+      "type": "word",
+      "ex": "Is Monday a holiday?",
+      "exZh": "星期一是假日嗎？"
+    },
+    {
+      "en": "festival",
+      "kk": "ˋfɛstəvl̩",
+      "zh": "節慶",
+      "emoji": "🎪",
+      "type": "word",
+      "ex": "The lantern festival is fun.",
+      "exZh": "元宵燈會很好玩。"
+    },
+    {
+      "en": "celebrate",
+      "kk": "ˋsɛləˏbret",
+      "zh": "慶祝",
+      "emoji": "🥳",
+      "type": "word",
+      "ex": "We celebrate with a big meal.",
+      "exZh": "我們用一頓大餐來慶祝。"
+    },
+    {
+      "en": "Lunar New Year",
+      "kk": "",
+      "zh": "農曆新年",
+      "emoji": "🧧",
+      "type": "word",
+      "ex": "We visit relatives at Lunar New Year.",
+      "exZh": "農曆新年我們會拜訪親戚。"
+    },
+    {
+      "en": "red envelope",
+      "kk": "",
+      "zh": "紅包",
+      "emoji": "🧧",
+      "type": "word",
+      "ex": "Grandma gave me a red envelope.",
+      "exZh": "奶奶給了我一個紅包。"
+    },
+    {
+      "en": "firecracker",
+      "kk": "ˋfaɪrˏkrækɚ",
+      "zh": "鞭炮",
+      "emoji": "🧨",
+      "type": "word",
+      "ex": "The firecrackers are very loud.",
+      "exZh": "鞭炮聲很大。"
+    },
+    {
+      "en": "fireworks",
+      "kk": "ˋfaɪrˏwɝks",
+      "zh": "煙火",
+      "emoji": "🎆",
+      "type": "word",
+      "ex": "We watched the fireworks at night.",
+      "exZh": "我們晚上看了煙火。"
+    },
+    {
+      "en": "lantern",
+      "kk": "ˋlæntɚn",
+      "zh": "燈籠",
+      "emoji": "🏮",
+      "type": "word",
+      "ex": "The children carry paper lanterns.",
+      "exZh": "孩子們提著紙燈籠。"
+    },
+    {
+      "en": "dumpling",
+      "kk": "ˋdʌmplɪŋ",
+      "zh": "餃子",
+      "emoji": "🥟",
+      "type": "word",
+      "ex": "We make dumplings on New Year Eve.",
+      "exZh": "除夕我們包餃子。"
+    },
+    {
+      "en": "rice dumpling",
+      "kk": "",
+      "zh": "粽子",
+      "emoji": "🍙",
+      "type": "word",
+      "ex": "We eat rice dumplings in June.",
+      "exZh": "我們六月吃粽子。"
+    },
+    {
+      "en": "Dragon Boat Festival",
+      "kk": "",
+      "zh": "端午節",
+      "emoji": "🐲",
+      "type": "word",
+      "ex": "The Dragon Boat Festival is in summer.",
+      "exZh": "端午節在夏天。"
+    },
+    {
+      "en": "dragon boat",
+      "kk": "",
+      "zh": "龍舟",
+      "emoji": "🚣",
+      "type": "word",
+      "ex": "The dragon boat team practiced hard.",
+      "exZh": "龍舟隊努力練習。"
+    },
+    {
+      "en": "Moon Festival",
+      "kk": "",
+      "zh": "中秋節",
+      "emoji": "🌕",
+      "type": "word",
+      "ex": "The Moon Festival is in autumn.",
+      "exZh": "中秋節在秋天。"
+    },
+    {
+      "en": "mooncake",
+      "kk": "ˋmunˏkek",
+      "zh": "月餅",
+      "emoji": "🥮",
+      "type": "word",
+      "ex": "I like mooncakes with egg yolk.",
+      "exZh": "我喜歡蛋黃月餅。"
+    },
+    {
+      "en": "pomelo",
+      "kk": "ˋpɑməlo",
+      "zh": "文旦；柚子",
+      "emoji": "🍊",
+      "type": "word",
+      "ex": "We eat pomelos on Moon Festival.",
+      "exZh": "中秋節我們吃文旦。"
+    },
+    {
+      "en": "barbecue",
+      "kk": "ˋbɑrbɪˏkju",
+      "zh": "烤肉",
+      "emoji": "🍖",
+      "type": "word",
+      "ex": "Many families have a barbecue then.",
+      "exZh": "那時許多家庭會烤肉。"
+    },
+    {
+      "en": "Christmas",
+      "kk": "ˋkrɪsməs",
+      "zh": "聖誕節",
+      "emoji": "🎄",
+      "type": "word",
+      "ex": "We decorate a tree for Christmas.",
+      "exZh": "我們為聖誕節裝飾聖誕樹。"
+    },
+    {
+      "en": "Santa Claus",
+      "kk": "ˋsæntəˏklɔz",
+      "zh": "聖誕老人",
+      "emoji": "🎅",
+      "type": "word",
+      "ex": "Santa Claus brings gifts.",
+      "exZh": "聖誕老人帶來禮物。"
+    },
+    {
+      "en": "gift",
+      "kk": "ɡɪft",
+      "zh": "禮物",
+      "emoji": "🎁",
+      "type": "word",
+      "ex": "I got a gift from my aunt.",
+      "exZh": "我收到阿姨送的禮物。"
+    },
+    {
+      "en": "Halloween",
+      "kk": "ˏhæloˋin",
+      "zh": "萬聖節",
+      "emoji": "🎃",
+      "type": "word",
+      "ex": "We wear costumes on Halloween.",
+      "exZh": "萬聖節我們會穿戲服。"
+    },
+    {
+      "en": "costume",
+      "kk": "ˋkɑstjum",
+      "zh": "戲服；服裝",
+      "emoji": "🦇",
+      "type": "word",
+      "ex": "Her costume is a witch.",
+      "exZh": "她的戲服是女巫。"
+    },
+    {
+      "en": "Valentine’s Day",
+      "kk": "",
+      "zh": "情人節",
+      "emoji": "💝",
+      "type": "word",
+      "ex": "He gave her flowers on Valentine’s Day.",
+      "exZh": "他在情人節送她花。"
+    },
+    {
+      "en": "Easter",
+      "kk": "ˋistɚ",
+      "zh": "復活節",
+      "emoji": "🐰",
+      "type": "word",
+      "ex": "Children hunt for eggs at Easter.",
+      "exZh": "孩子們在復活節找彩蛋。"
+    },
+    {
+      "en": "Thanksgiving",
+      "kk": "ˏθæŋksˋɡɪvɪŋ",
+      "zh": "感恩節",
+      "emoji": "🦃",
+      "type": "word",
+      "ex": "We eat turkey on Thanksgiving.",
+      "exZh": "感恩節我們吃火雞。"
+    },
+    {
+      "en": "Mother’s Day",
+      "kk": "",
+      "zh": "母親節",
+      "emoji": "💐",
+      "type": "word",
+      "ex": "I made a card for Mother’s Day.",
+      "exZh": "我為母親節做了一張卡片。"
+    },
+    {
+      "en": "birthday",
+      "kk": "ˋbɝθˏde",
+      "zh": "生日",
+      "emoji": "🎂",
+      "type": "word",
+      "ex": "Tomorrow is my birthday.",
+      "exZh": "明天是我的生日。"
+    },
+    {
+      "en": "card",
+      "kk": "kɑrd",
+      "zh": "卡片",
+      "emoji": "💌",
+      "type": "word",
+      "ex": "I sent her a holiday card.",
+      "exZh": "我寄了一張節日卡片給她。"
+    },
+    {
+      "en": "parade",
+      "kk": "pəˋred",
+      "zh": "遊行",
+      "emoji": "🥁",
+      "type": "word",
+      "ex": "The parade goes down Main Street.",
+      "exZh": "遊行隊伍走過大街。"
+    },
+    {
+      "en": "decoration",
+      "kk": "ˏdɛkəˋreʃən",
+      "zh": "裝飾",
+      "emoji": "🪅",
+      "type": "word",
+      "ex": "The decorations look beautiful.",
+      "exZh": "這些裝飾很漂亮。"
+    },
+    {
+      "en": "Happy New Year",
+      "kk": "",
+      "zh": "新年快樂",
+      "emoji": "🎉",
+      "type": "phrase",
+      "ex": "Happy New Year, everyone!",
+      "exZh": "大家新年快樂！"
+    },
+    {
+      "en": "Merry Christmas",
+      "kk": "",
+      "zh": "聖誕快樂",
+      "emoji": "🎄",
+      "type": "phrase",
+      "ex": "Merry Christmas and best wishes.",
+      "exZh": "聖誕快樂，獻上最好的祝福。"
+    },
+    {
+      "en": "New Year’s Eve",
+      "kk": "",
+      "zh": "除夕；跨年夜",
+      "emoji": "🕛",
+      "type": "phrase",
+      "ex": "We stay up late on New Year’s Eve.",
+      "exZh": "除夕夜我們熬夜守歲。"
+    },
+    {
+      "en": "trick or treat",
+      "kk": "",
+      "zh": "不給糖就搗蛋",
+      "emoji": "🍬",
+      "type": "phrase",
+      "ex": "The kids shout trick or treat.",
+      "exZh": "孩子們喊著不給糖就搗蛋。"
+    },
+    {
+      "en": "get together",
+      "kk": "",
+      "zh": "聚會",
+      "emoji": "👨‍👩‍👧‍👦",
+      "type": "phrase",
+      "ex": "Our family gets together at New Year.",
+      "exZh": "我們全家在新年團聚。"
+    },
+    {
+      "en": "make a wish",
+      "kk": "",
+      "zh": "許願",
+      "emoji": "🌠",
+      "type": "phrase",
+      "ex": "Blow out the candles and make a wish.",
+      "exZh": "吹熄蠟燭並許個願。"
+    },
+    {
+      "en": "hand out",
+      "kk": "",
+      "zh": "分發",
+      "emoji": "🤲",
+      "type": "phrase",
+      "ex": "Adults hand out red envelopes.",
+      "exZh": "大人們分發紅包。"
+    },
+    {
+      "en": "wish you",
+      "kk": "",
+      "zh": "祝福你",
+      "emoji": "💫",
+      "type": "phrase",
+      "ex": "I wish you good health.",
+      "exZh": "我祝福你身體健康。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Happy New Year!",
+      "zh": "新年快樂！",
+      "note": "新年時互相祝福"
+    },
+    {
+      "en": "Wishing you good health and happiness.",
+      "zh": "祝你健康又快樂。",
+      "note": "寫賀卡或祝福時"
+    },
+    {
+      "en": "What do you usually do on holidays?",
+      "zh": "你放假時通常做什麼？",
+      "note": "詢問假日安排時"
+    },
+    {
+      "en": "We get together with our relatives.",
+      "zh": "我們與親戚團聚。",
+      "note": "說明過節習慣時"
+    },
+    {
+      "en": "I got a red envelope from my grandma.",
+      "zh": "奶奶給了我紅包。",
+      "note": "談論新年收穫時"
+    },
+    {
+      "en": "The Dragon Boat Festival is in the fifth lunar month.",
+      "zh": "端午節在農曆五月。",
+      "note": "介紹節日日期時"
+    },
+    {
+      "en": "We eat rice dumplings on that day.",
+      "zh": "那一天我們吃粽子。",
+      "note": "介紹節慶食物時"
+    },
+    {
+      "en": "Let us have a barbecue for the Moon Festival.",
+      "zh": "我們中秋節來烤肉吧。",
+      "note": "邀約過中秋時"
+    },
+    {
+      "en": "Merry Christmas! This gift is for you.",
+      "zh": "聖誕快樂！這份禮物送給你。",
+      "note": "送聖誕禮物時"
+    },
+    {
+      "en": "Trick or treat!",
+      "zh": "不給糖就搗蛋！",
+      "note": "萬聖節討糖果時"
+    },
+    {
+      "en": "Happy birthday! Make a wish.",
+      "zh": "生日快樂！許個願吧。",
+      "note": "慶祝生日時"
+    },
+    {
+      "en": "Thank you for the lovely card.",
+      "zh": "謝謝你寄來的可愛卡片。",
+      "note": "收到賀卡時"
+    },
+    {
+      "en": "Are you going to watch the fireworks?",
+      "zh": "你要去看煙火嗎？",
+      "note": "詢問節慶活動時"
+    },
+    {
+      "en": "Which holiday do you like best?",
+      "zh": "你最喜歡哪個節日？",
+      "note": "聊節日話題時"
+    },
+    {
+      "en": "Have a wonderful holiday!",
+      "zh": "祝你假期愉快！",
+      "note": "放假前道別時"
+    }
+  ],
+  "dialogues": [
+    {
+      "title": "談新年",
+      "lines": [
+        {
+          "who": "A",
+          "en": "Happy New Year, Grandma!",
+          "zh": "奶奶，新年快樂！"
+        },
+        {
+          "who": "B",
+          "en": "Happy New Year! Here is a red envelope for you.",
+          "zh": "新年快樂！這個紅包給你。"
+        },
+        {
+          "who": "A",
+          "en": "Thank you. I wish you good health.",
+          "zh": "謝謝，祝您身體健康。"
+        },
+        {
+          "who": "B",
+          "en": "You are a good child. Let us eat dumplings.",
+          "zh": "你真乖，我們來吃餃子吧。"
+        },
+        {
+          "who": "A",
+          "en": "Great! I am hungry.",
+          "zh": "太棒了，我肚子餓了。"
+        }
+      ]
+    },
+    {
+      "title": "中秋節計畫",
+      "lines": [
+        {
+          "who": "A",
+          "en": "Are you free on the Moon Festival?",
+          "zh": "你中秋節有空嗎？"
+        },
+        {
+          "who": "B",
+          "en": "Yes. We will have a barbecue in the park.",
+          "zh": "有，我們要在公園烤肉。"
+        },
+        {
+          "who": "A",
+          "en": "That sounds good. Can I bring pomelos?",
+          "zh": "聽起來不錯，我可以帶文旦嗎？"
+        },
+        {
+          "who": "B",
+          "en": "Of course! We also have mooncakes.",
+          "zh": "當然！我們也有月餅。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,440 @@
+{
+  "id": "breakfast",
+  "title": "Breakfast",
+  "zh": "早餐店與早餐",
+  "emoji": "🍳",
+  "backdrop": "restaurant",
+  "intro": "在早餐店點餐，認識中西式早餐的食物與說法。",
+  "words": [
+    {
+      "en": "breakfast",
+      "kk": "ˋbrɛkfəst",
+      "zh": "早餐",
+      "emoji": "🍳",
+      "type": "word",
+      "ex": "Breakfast is ready on the table.",
+      "exZh": "早餐已經擺在桌上了。"
+    },
+    {
+      "en": "brunch",
+      "kk": "brʌntʃ",
+      "zh": "早午餐",
+      "emoji": "🥞",
+      "type": "word",
+      "ex": "We have brunch on Sundays.",
+      "exZh": "我們週日吃早午餐。"
+    },
+    {
+      "en": "egg",
+      "kk": "ɛg",
+      "zh": "蛋；雞蛋",
+      "emoji": "🥚",
+      "type": "word",
+      "ex": "I want two eggs and toast.",
+      "exZh": "我要兩顆蛋和吐司。"
+    },
+    {
+      "en": "toast",
+      "kk": "tost",
+      "zh": "吐司",
+      "emoji": "🍞",
+      "type": "word",
+      "ex": "He ate toast with jam.",
+      "exZh": "他吃了抹果醬的吐司。"
+    },
+    {
+      "en": "bread",
+      "kk": "brɛd",
+      "zh": "麵包",
+      "emoji": "🍞",
+      "type": "word",
+      "ex": "The bread is still warm.",
+      "exZh": "麵包還是熱的。"
+    },
+    {
+      "en": "butter",
+      "kk": "ˋbʌtɚ",
+      "zh": "奶油",
+      "emoji": "🧈",
+      "type": "word",
+      "ex": "Spread some butter on the bread.",
+      "exZh": "在麵包上抹一些奶油。"
+    },
+    {
+      "en": "jam",
+      "kk": "dʒæm",
+      "zh": "果醬",
+      "emoji": "🍓",
+      "type": "word",
+      "ex": "Strawberry jam is my favorite.",
+      "exZh": "草莓醬是我的最愛。"
+    },
+    {
+      "en": "spread",
+      "kk": "sprɛd",
+      "zh": "抹醬",
+      "emoji": "🧈",
+      "type": "word",
+      "ex": "Chocolate spread is very sweet.",
+      "exZh": "巧克力抹醬很甜。"
+    },
+    {
+      "en": "honey",
+      "kk": "ˋhʌnɪ",
+      "zh": "蜂蜜",
+      "emoji": "🍯",
+      "type": "word",
+      "ex": "Honey goes well with pancakes.",
+      "exZh": "蜂蜜和鬆餅很搭。"
+    },
+    {
+      "en": "syrup",
+      "kk": "ˋsɪrəp",
+      "zh": "糖漿",
+      "emoji": "🍯",
+      "type": "word",
+      "ex": "Pour maple syrup on the waffle.",
+      "exZh": "把楓糖漿淋在鬆餅上。"
+    },
+    {
+      "en": "cereal",
+      "kk": "ˋsɪrɪəl",
+      "zh": "穀片；麥片",
+      "emoji": "🥣",
+      "type": "word",
+      "ex": "My kids eat cereal every morning.",
+      "exZh": "我的孩子每天早上吃穀片。"
+    },
+    {
+      "en": "oatmeal",
+      "kk": "ˋotˏmil",
+      "zh": "燕麥粥",
+      "emoji": "🥣",
+      "type": "word",
+      "ex": "Oatmeal keeps me full for hours.",
+      "exZh": "燕麥粥讓我撐好幾個小時不餓。"
+    },
+    {
+      "en": "milk",
+      "kk": "mɪlk",
+      "zh": "牛奶",
+      "emoji": "🥛",
+      "type": "word",
+      "ex": "A glass of milk, please.",
+      "exZh": "請給我一杯牛奶。"
+    },
+    {
+      "en": "soy milk",
+      "kk": "ˋsɔɪ mɪlk",
+      "zh": "豆漿",
+      "emoji": "🥛",
+      "type": "word",
+      "ex": "Hot soy milk is a classic breakfast.",
+      "exZh": "熱豆漿是經典的早餐。"
+    },
+    {
+      "en": "yogurt",
+      "kk": "ˋjogɚt",
+      "zh": "優格",
+      "emoji": "🥛",
+      "type": "word",
+      "ex": "Yogurt with fruit is light and healthy.",
+      "exZh": "水果優格清爽又健康。"
+    },
+    {
+      "en": "cheese",
+      "kk": "tʃiz",
+      "zh": "起司",
+      "emoji": "🧀",
+      "type": "word",
+      "ex": "I like cheese on my omelet.",
+      "exZh": "我喜歡在蛋捲上加起司。"
+    },
+    {
+      "en": "omelet",
+      "kk": "ˋɑmlɪt",
+      "zh": "歐姆蛋；蛋捲",
+      "emoji": "🍳",
+      "type": "word",
+      "ex": "She made a cheese omelet.",
+      "exZh": "她做了一份起司歐姆蛋。"
+    },
+    {
+      "en": "pancake",
+      "kk": "ˋpænˏkek",
+      "zh": "鬆餅；薄煎餅",
+      "emoji": "🥞",
+      "type": "word",
+      "ex": "The pancakes are soft and fluffy.",
+      "exZh": "這些鬆餅又軟又蓬鬆。"
+    },
+    {
+      "en": "waffle",
+      "kk": "ˋwɑfḷ",
+      "zh": "格子鬆餅",
+      "emoji": "🧇",
+      "type": "word",
+      "ex": "He added fruit to his waffle.",
+      "exZh": "他在格子鬆餅上加了水果。"
+    },
+    {
+      "en": "bagel",
+      "kk": "ˋbegḷ",
+      "zh": "貝果",
+      "emoji": "🥯",
+      "type": "word",
+      "ex": "I ordered a bagel with cream cheese.",
+      "exZh": "我點了一個奶油起司貝果。"
+    },
+    {
+      "en": "sandwich",
+      "kk": "ˋsændwɪtʃ",
+      "zh": "三明治",
+      "emoji": "🥪",
+      "type": "word",
+      "ex": "Can I have a ham sandwich?",
+      "exZh": "我可以點一個火腿三明治嗎？"
+    },
+    {
+      "en": "croissant",
+      "kk": "krwɑˋsɑnt",
+      "zh": "可頌；牛角麵包",
+      "emoji": "🥐",
+      "type": "word",
+      "ex": "A croissant and coffee is a nice start.",
+      "exZh": "可頌配咖啡是美好的開始。"
+    },
+    {
+      "en": "muffin",
+      "kk": "ˋmʌfɪn",
+      "zh": "瑪芬",
+      "emoji": "🧁",
+      "type": "word",
+      "ex": "She baked blueberry muffins.",
+      "exZh": "她烤了藍莓瑪芬。"
+    },
+    {
+      "en": "bun",
+      "kk": "bʌn",
+      "zh": "小圓麵包；包子",
+      "emoji": "🍞",
+      "type": "word",
+      "ex": "The steamed bun is filled with meat.",
+      "exZh": "這個包子包著肉餡。"
+    },
+    {
+      "en": "dumpling",
+      "kk": "ˋdʌmplɪŋ",
+      "zh": "水餃；餃子",
+      "emoji": "🥟",
+      "type": "word",
+      "ex": "We had dumplings for breakfast.",
+      "exZh": "我們早餐吃水餃。"
+    },
+    {
+      "en": "porridge",
+      "kk": "ˋpɔrɪdʒ",
+      "zh": "稀飯；粥",
+      "emoji": "🍲",
+      "type": "word",
+      "ex": "Porridge is easy on the stomach.",
+      "exZh": "稀飯對腸胃溫和。"
+    },
+    {
+      "en": "hash browns",
+      "kk": "hæʃ braunz",
+      "zh": "薯餅",
+      "emoji": "🥔",
+      "type": "word",
+      "ex": "Hash browns are crispy outside.",
+      "exZh": "薯餅外皮酥脆。"
+    },
+    {
+      "en": "pastry",
+      "kk": "ˋpestrɪ",
+      "zh": "糕點；酥皮點心",
+      "emoji": "🥐",
+      "type": "word",
+      "ex": "She bought a fresh pastry for breakfast.",
+      "exZh": "她買了一個新鮮糕點當早餐。"
+    },
+    {
+      "en": "fried egg",
+      "kk": "",
+      "zh": "荷包蛋；煎蛋",
+      "emoji": "🍳",
+      "type": "phrase",
+      "ex": "I like my fried egg sunny side up.",
+      "exZh": "我喜歡太陽蛋。"
+    },
+    {
+      "en": "scrambled eggs",
+      "kk": "",
+      "zh": "炒蛋",
+      "emoji": "🍳",
+      "type": "phrase",
+      "ex": "Scrambled eggs are quick to make.",
+      "exZh": "炒蛋很快就能做好。"
+    },
+    {
+      "en": "peanut butter",
+      "kk": "",
+      "zh": "花生醬",
+      "emoji": "🥜",
+      "type": "phrase",
+      "ex": "Peanut butter toast is my favorite.",
+      "exZh": "花生醬吐司是我的最愛。"
+    },
+    {
+      "en": "skip breakfast",
+      "kk": "",
+      "zh": "不吃早餐",
+      "emoji": "🚫",
+      "type": "phrase",
+      "ex": "Do not skip breakfast before school.",
+      "exZh": "上學前不要不吃早餐。"
+    },
+    {
+      "en": "grab a bite",
+      "kk": "",
+      "zh": "隨便吃點東西",
+      "emoji": "🏃",
+      "type": "phrase",
+      "ex": "Let us grab a bite before work.",
+      "exZh": "上班前我們去隨便吃點東西。"
+    },
+    {
+      "en": "breakfast set",
+      "kk": "",
+      "zh": "早餐套餐",
+      "emoji": "🍱",
+      "type": "phrase",
+      "ex": "I will have the breakfast set.",
+      "exZh": "我要點早餐套餐。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Good morning. What would you like?",
+      "zh": "早安，請問想吃什麼？",
+      "note": "店員招呼客人時"
+    },
+    {
+      "en": "I would like a ham sandwich, please.",
+      "zh": "我要一個火腿三明治。",
+      "note": "點餐時"
+    },
+    {
+      "en": "Can I have a cup of soy milk too?",
+      "zh": "我也可以點一杯豆漿嗎？",
+      "note": "加點飲料時"
+    },
+    {
+      "en": "Is that for here or to go?",
+      "zh": "內用還是外帶？",
+      "note": "店員詢問時"
+    },
+    {
+      "en": "To go, please.",
+      "zh": "麻煩外帶。",
+      "note": "選擇外帶時"
+    },
+    {
+      "en": "No butter, please.",
+      "zh": "請不要加奶油。",
+      "note": "不要某種配料時"
+    },
+    {
+      "en": "Could you add an egg?",
+      "zh": "可以幫我加一顆蛋嗎？",
+      "note": "加料時"
+    },
+    {
+      "en": "Is the soy milk sweet or plain?",
+      "zh": "豆漿是甜的還是無糖的？",
+      "note": "詢問口味時"
+    },
+    {
+      "en": "How long will it take?",
+      "zh": "大概要等多久？",
+      "note": "趕時間時"
+    },
+    {
+      "en": "Can I get a set meal?",
+      "zh": "我可以點套餐嗎？",
+      "note": "想點套餐時"
+    },
+    {
+      "en": "Please cut the sandwich in half.",
+      "zh": "請把三明治切成一半。",
+      "note": "請店員切開時"
+    },
+    {
+      "en": "What is today’s special?",
+      "zh": "今天的特餐是什麼？",
+      "note": "想看推薦時"
+    },
+    {
+      "en": "I am in a hurry. Please make it quick.",
+      "zh": "我在趕時間，麻煩快一點。",
+      "note": "趕上班上課時"
+    }
+  ],
+  "dialogues": [
+    {
+      "title": "在早餐店點餐",
+      "lines": [
+        {
+          "who": "A",
+          "en": "Good morning! What can I get you?",
+          "zh": "早安！要點什麼？"
+        },
+        {
+          "who": "B",
+          "en": "An egg pancake and a medium soy milk.",
+          "zh": "一份蛋餅和一杯中杯豆漿。"
+        },
+        {
+          "who": "A",
+          "en": "Hot or iced?",
+          "zh": "要熱的還是冰的？"
+        },
+        {
+          "who": "B",
+          "en": "Hot, with no sugar, please.",
+          "zh": "熱的，不加糖。"
+        },
+        {
+          "who": "A",
+          "en": "Okay. That will be sixty dollars.",
+          "zh": "好的，一共六十元。"
+        }
+      ]
+    },
+    {
+      "title": "週末的早午餐",
+      "lines": [
+        {
+          "who": "A",
+          "en": "What do you want for brunch?",
+          "zh": "你早午餐想吃什麼？"
+        },
+        {
+          "who": "B",
+          "en": "Pancakes with honey and fruit.",
+          "zh": "鬆餅配蜂蜜和水果。"
+        },
+        {
+          "who": "A",
+          "en": "Sounds good. I will have scrambled eggs and toast.",
+          "zh": "聽起來不錯，我要炒蛋和吐司。"
+        },
+        {
+          "who": "B",
+          "en": "Let us grab a table by the window.",
+          "zh": "我們去坐靠窗的位子吧。"
+        }
+      ]
+    }
+  ]
+}

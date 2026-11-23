@@ -1,0 +1,467 @@
+{
+  "id": "subjects",
+  "title": "School Subjects",
+  "zh": "學科與校園生活",
+  "emoji": "📖",
+  "backdrop": "classroom",
+  "intro": "學會各種學科、考試和校園活動的英文說法。",
+  "words": [
+    {
+      "en": "subject",
+      "kk": "ˋsʌbdʒɪkt",
+      "zh": "科目",
+      "emoji": "📘",
+      "type": "word",
+      "ex": "My favorite subject is science.",
+      "exZh": "我最喜歡的科目是自然科學。"
+    },
+    {
+      "en": "math",
+      "kk": "ˋmæθ",
+      "zh": "數學",
+      "emoji": "➗",
+      "type": "word",
+      "ex": "We have math at nine o'clock.",
+      "exZh": "我們九點上數學課。"
+    },
+    {
+      "en": "science",
+      "kk": "ˋsaɪəns",
+      "zh": "自然科學",
+      "emoji": "🔬",
+      "type": "word",
+      "ex": "Science class is always interesting.",
+      "exZh": "自然課總是很有趣。"
+    },
+    {
+      "en": "English",
+      "kk": "ˋɪŋglɪʃ",
+      "zh": "英文",
+      "emoji": "🔤",
+      "type": "word",
+      "ex": "I practice English every day.",
+      "exZh": "我每天練習英文。"
+    },
+    {
+      "en": "Chinese",
+      "kk": "tʃaɪˋniz",
+      "zh": "國文；中文",
+      "emoji": "🀄",
+      "type": "word",
+      "ex": "Our Chinese teacher loves poems.",
+      "exZh": "我們的國文老師喜歡詩。"
+    },
+    {
+      "en": "history",
+      "kk": "ˋhɪstṛɪ",
+      "zh": "歷史",
+      "emoji": "🏛️",
+      "type": "word",
+      "ex": "History is about the past.",
+      "exZh": "歷史是關於過去的事。"
+    },
+    {
+      "en": "geography",
+      "kk": "dʒiˋɑgrəfɪ",
+      "zh": "地理",
+      "emoji": "🌍",
+      "type": "word",
+      "ex": "In geography we learn about rivers.",
+      "exZh": "在地理課我們學習河流。"
+    },
+    {
+      "en": "art",
+      "kk": "ˋɑrt",
+      "zh": "美術",
+      "emoji": "🎨",
+      "type": "word",
+      "ex": "We paint pictures in art class.",
+      "exZh": "我們在美術課畫畫。"
+    },
+    {
+      "en": "P.E.",
+      "kk": "ˏpiˋi",
+      "zh": "體育課",
+      "emoji": "🤸",
+      "type": "word",
+      "ex": "We play dodgeball in P.E.",
+      "exZh": "我們在體育課玩躲避球。"
+    },
+    {
+      "en": "social studies",
+      "kk": "ˋsoʃəl ˋstʌdɪz",
+      "zh": "社會（科）",
+      "emoji": "🧑‍🤝‍🧑",
+      "type": "word",
+      "ex": "Social studies teaches us about cultures.",
+      "exZh": "社會課教我們認識各種文化。"
+    },
+    {
+      "en": "homework",
+      "kk": "ˋhomˏwɝk",
+      "zh": "家庭作業",
+      "emoji": "📝",
+      "type": "word",
+      "ex": "I finish my homework before dinner.",
+      "exZh": "我在晚餐前寫完作業。"
+    },
+    {
+      "en": "test",
+      "kk": "ˋtɛst",
+      "zh": "測驗",
+      "emoji": "📋",
+      "type": "word",
+      "ex": "We have a spelling test tomorrow.",
+      "exZh": "我們明天有拼字測驗。"
+    },
+    {
+      "en": "exam",
+      "kk": "ɪgˋzæm",
+      "zh": "考試",
+      "emoji": "📃",
+      "type": "word",
+      "ex": "The final exam is next week.",
+      "exZh": "期末考在下週。"
+    },
+    {
+      "en": "quiz",
+      "kk": "ˋkwɪz",
+      "zh": "小考",
+      "emoji": "❓",
+      "type": "word",
+      "ex": "Today we had a short quiz.",
+      "exZh": "今天我們有一個小考。"
+    },
+    {
+      "en": "grade",
+      "kk": "ˋgred",
+      "zh": "成績；年級",
+      "emoji": "💯",
+      "type": "word",
+      "ex": "She got a good grade in math.",
+      "exZh": "她數學得到好成績。"
+    },
+    {
+      "en": "schedule",
+      "kk": "ˋskɛdʒul",
+      "zh": "課表；時間表",
+      "emoji": "🗓️",
+      "type": "word",
+      "ex": "Check your class schedule.",
+      "exZh": "看一下你的課表。"
+    },
+    {
+      "en": "lesson",
+      "kk": "ˋlɛsn̩",
+      "zh": "課；一堂課",
+      "emoji": "👩‍🏫",
+      "type": "word",
+      "ex": "Today's lesson is about animals.",
+      "exZh": "今天的課程是關於動物。"
+    },
+    {
+      "en": "recess",
+      "kk": "rɪˋsɛs",
+      "zh": "（課間）休息時間",
+      "emoji": "⏸️",
+      "type": "word",
+      "ex": "We play outside at recess.",
+      "exZh": "下課時間我們在外面玩。"
+    },
+    {
+      "en": "cafeteria",
+      "kk": "ˏkæfəˋtɪrɪə",
+      "zh": "學生餐廳",
+      "emoji": "🍱",
+      "type": "word",
+      "ex": "Lunch is served in the cafeteria.",
+      "exZh": "午餐在學生餐廳供應。"
+    },
+    {
+      "en": "library",
+      "kk": "ˋlaɪˏbrɛrɪ",
+      "zh": "圖書館",
+      "emoji": "🏛",
+      "type": "word",
+      "ex": "I borrow books from the library.",
+      "exZh": "我從圖書館借書。"
+    },
+    {
+      "en": "principal",
+      "kk": "ˋprɪnsəpl̩",
+      "zh": "校長",
+      "emoji": "🧓",
+      "type": "word",
+      "ex": "The principal gave a short speech.",
+      "exZh": "校長發表了簡短的演說。"
+    },
+    {
+      "en": "uniform",
+      "kk": "ˋjunəˏfɔrm",
+      "zh": "制服",
+      "emoji": "👔",
+      "type": "word",
+      "ex": "We wear a uniform to school.",
+      "exZh": "我們穿制服上學。"
+    },
+    {
+      "en": "gym",
+      "kk": "ˋdʒɪm",
+      "zh": "體育館",
+      "emoji": "🏟️",
+      "type": "word",
+      "ex": "The gym is big and bright.",
+      "exZh": "體育館又大又明亮。"
+    },
+    {
+      "en": "bell",
+      "kk": "ˋbɛl",
+      "zh": "鐘；鈴",
+      "emoji": "🔔",
+      "type": "word",
+      "ex": "The bell rings at eight thirty.",
+      "exZh": "鐘聲在八點半響起。"
+    },
+    {
+      "en": "hallway",
+      "kk": "ˋhɔlˏwe",
+      "zh": "走廊",
+      "emoji": "🚪",
+      "type": "word",
+      "ex": "Do not run in the hallway.",
+      "exZh": "不要在走廊上奔跑。"
+    },
+    {
+      "en": "dictionary",
+      "kk": "ˋdɪkʃəˏnɛrɪ",
+      "zh": "字典",
+      "emoji": "📖",
+      "type": "word",
+      "ex": "I use a dictionary to check words.",
+      "exZh": "我用字典查單字。"
+    },
+    {
+      "en": "report card",
+      "kk": "rɪˋpɔrt ˏkɑrd",
+      "zh": "成績單",
+      "emoji": "🧾",
+      "type": "word",
+      "ex": "My report card came home today.",
+      "exZh": "我的成績單今天拿回家了。"
+    },
+    {
+      "en": "semester",
+      "kk": "səˋmɛstɚ",
+      "zh": "學期",
+      "emoji": "🍂",
+      "type": "word",
+      "ex": "The new semester starts in September.",
+      "exZh": "新學期九月開始。"
+    },
+    {
+      "en": "club",
+      "kk": "ˋklʌb",
+      "zh": "社團",
+      "emoji": "🧩",
+      "type": "word",
+      "ex": "I joined the chess club.",
+      "exZh": "我參加了西洋棋社。"
+    },
+    {
+      "en": "assembly",
+      "kk": "əˋsɛmblɪ",
+      "zh": "朝會；集會",
+      "emoji": "🎤",
+      "type": "word",
+      "ex": "We have an assembly every Monday.",
+      "exZh": "我們每週一有朝會。"
+    },
+    {
+      "en": "take a test",
+      "kk": "",
+      "zh": "參加測驗",
+      "emoji": "✍️",
+      "type": "phrase",
+      "ex": "We take a test after each unit.",
+      "exZh": "每個單元後我們都會考試。"
+    },
+    {
+      "en": "do homework",
+      "kk": "",
+      "zh": "寫作業",
+      "emoji": "📚",
+      "type": "phrase",
+      "ex": "I do my homework at the kitchen table.",
+      "exZh": "我在廚房的桌子上寫作業。"
+    },
+    {
+      "en": "pass the exam",
+      "kk": "",
+      "zh": "通過考試",
+      "emoji": "✅",
+      "type": "phrase",
+      "ex": "She studied hard to pass the exam.",
+      "exZh": "她用功讀書才通過考試。"
+    },
+    {
+      "en": "get good grades",
+      "kk": "",
+      "zh": "得到好成績",
+      "emoji": "🌟",
+      "type": "phrase",
+      "ex": "He gets good grades in every subject.",
+      "exZh": "他每一科都拿到好成績。"
+    },
+    {
+      "en": "be late for school",
+      "kk": "",
+      "zh": "上學遲到",
+      "emoji": "⏰",
+      "type": "phrase",
+      "ex": "I was late for school this morning.",
+      "exZh": "我今天早上上學遲到了。"
+    },
+    {
+      "en": "go on a field trip",
+      "kk": "",
+      "zh": "去校外教學",
+      "emoji": "🚌",
+      "type": "phrase",
+      "ex": "Our class goes on a field trip next week.",
+      "exZh": "我們班下週要去校外教學。"
+    },
+    {
+      "en": "study for",
+      "kk": "",
+      "zh": "為……而準備（考試）",
+      "emoji": "🧠",
+      "type": "phrase",
+      "ex": "I need to study for the math test.",
+      "exZh": "我需要準備數學考試。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "What is your favorite subject?",
+      "zh": "你最喜歡的科目是什麼？",
+      "note": "聊學校生活時"
+    },
+    {
+      "en": "I am good at math, but weak in English.",
+      "zh": "我數學很好，但英文比較弱。",
+      "note": "談自己的強項與弱項"
+    },
+    {
+      "en": "What time does the first class start?",
+      "zh": "第一堂課幾點開始？",
+      "note": "詢問課程時間"
+    },
+    {
+      "en": "Do we have homework today?",
+      "zh": "我們今天有作業嗎？",
+      "note": "放學前確認作業"
+    },
+    {
+      "en": "When is the next test?",
+      "zh": "下一次考試是什麼時候？",
+      "note": "詢問考試時間"
+    },
+    {
+      "en": "I got a hundred on the quiz!",
+      "zh": "我小考得了一百分！",
+      "note": "分享好成績"
+    },
+    {
+      "en": "Let us study together after school.",
+      "zh": "我們放學後一起讀書吧。",
+      "note": "邀請同學一起複習"
+    },
+    {
+      "en": "Which club are you in?",
+      "zh": "你參加哪個社團？",
+      "note": "認識新朋友時"
+    },
+    {
+      "en": "Where is the library?",
+      "zh": "圖書館在哪裡？",
+      "note": "新生問路時"
+    },
+    {
+      "en": "Lunch break is from twelve to one.",
+      "zh": "午休時間是十二點到一點。",
+      "note": "說明作息時間"
+    },
+    {
+      "en": "I have P.E. on Tuesday and Thursday.",
+      "zh": "我星期二和星期四有體育課。",
+      "note": "談論課表"
+    },
+    {
+      "en": "Can I see your class schedule?",
+      "zh": "我可以看你的課表嗎？",
+      "note": "和同學比較課表"
+    },
+    {
+      "en": "I am nervous about the exam.",
+      "zh": "我對這次考試感到緊張。",
+      "note": "表達考前心情"
+    },
+    {
+      "en": "Our school trip is next Friday.",
+      "zh": "我們的校外教學在下週五。",
+      "note": "宣布活動時"
+    }
+  ],
+  "dialogues": [
+    {
+      "title": "聊聊課表",
+      "lines": [
+        {
+          "who": "A",
+          "en": "What do you have after recess?",
+          "zh": "下課後你有什麼課？"
+        },
+        {
+          "who": "B",
+          "en": "I have English and then art.",
+          "zh": "我有英文，接著是美術。"
+        },
+        {
+          "who": "A",
+          "en": "I like art class the most.",
+          "zh": "我最喜歡美術課。"
+        },
+        {
+          "who": "B",
+          "en": "Me too. We can sit together.",
+          "zh": "我也是，我們可以坐在一起。"
+        }
+      ]
+    },
+    {
+      "title": "考試前",
+      "lines": [
+        {
+          "who": "A",
+          "en": "Are you ready for the science test?",
+          "zh": "你準備好自然科考試了嗎？"
+        },
+        {
+          "who": "B",
+          "en": "Not really. I studied only one hour.",
+          "zh": "還沒，我只讀了一個小時。"
+        },
+        {
+          "who": "A",
+          "en": "Let us review in the library at lunch.",
+          "zh": "我們午餐時間到圖書館複習吧。"
+        },
+        {
+          "who": "B",
+          "en": "Great idea. Thank you!",
+          "zh": "好主意，謝謝你！"
+        }
+      ]
+    }
+  ]
+}

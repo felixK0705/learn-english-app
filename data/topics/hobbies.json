@@ -1,0 +1,476 @@
+{
+  "id": "hobbies",
+  "title": "Hobbies",
+  "zh": "興趣與嗜好",
+  "emoji": "🎨",
+  "backdrop": "home",
+  "intro": "談談你的興趣與休閒活動，學會介紹自己的嗜好。",
+  "words": [
+    {
+      "en": "hobby",
+      "kk": "ˋhɑbɪ",
+      "zh": "嗜好；興趣",
+      "emoji": "🎯",
+      "type": "word",
+      "ex": "My hobby is collecting coins.",
+      "exZh": "我的嗜好是收集硬幣。"
+    },
+    {
+      "en": "collection",
+      "kk": "kəˋlɛkʃən",
+      "zh": "收藏品",
+      "emoji": "🗃️",
+      "type": "word",
+      "ex": "He has a big stamp collection.",
+      "exZh": "他有很多郵票收藏。"
+    },
+    {
+      "en": "stamp",
+      "kk": "ˋstæmp",
+      "zh": "郵票",
+      "emoji": "📮",
+      "type": "word",
+      "ex": "I got a rare stamp from Japan.",
+      "exZh": "我得到一張來自日本的珍貴郵票。"
+    },
+    {
+      "en": "puzzle",
+      "kk": "ˋpʌzl̩",
+      "zh": "拼圖；謎題",
+      "emoji": "🧩",
+      "type": "word",
+      "ex": "We finished the puzzle in an hour.",
+      "exZh": "我們一小時就拼完了拼圖。"
+    },
+    {
+      "en": "board game",
+      "kk": "ˋbord ˏgem",
+      "zh": "桌遊",
+      "emoji": "🎲",
+      "type": "word",
+      "ex": "We play a board game on rainy days.",
+      "exZh": "下雨天我們玩桌遊。"
+    },
+    {
+      "en": "camera",
+      "kk": "ˋkæmərə",
+      "zh": "相機",
+      "emoji": "📷",
+      "type": "word",
+      "ex": "She takes pictures with an old camera.",
+      "exZh": "她用舊相機拍照。"
+    },
+    {
+      "en": "photo",
+      "kk": "ˋfoto",
+      "zh": "照片",
+      "emoji": "🖼️",
+      "type": "word",
+      "ex": "This photo was taken at the beach.",
+      "exZh": "這張照片是在海邊拍的。"
+    },
+    {
+      "en": "painting",
+      "kk": "ˋpentɪŋ",
+      "zh": "繪畫；畫作",
+      "emoji": "🖼",
+      "type": "word",
+      "ex": "The painting is full of colors.",
+      "exZh": "這幅畫色彩豐富。"
+    },
+    {
+      "en": "paintbrush",
+      "kk": "ˋpentˏbrʌʃ",
+      "zh": "畫筆",
+      "emoji": "🖌️",
+      "type": "word",
+      "ex": "Wash your paintbrush after use.",
+      "exZh": "用完後要洗畫筆。"
+    },
+    {
+      "en": "sketchbook",
+      "kk": "ˋskɛtʃˏbʊk",
+      "zh": "素描本",
+      "emoji": "📒",
+      "type": "word",
+      "ex": "She always carries a sketchbook.",
+      "exZh": "她總是帶著素描本。"
+    },
+    {
+      "en": "knitting",
+      "kk": "ˋnɪtɪŋ",
+      "zh": "編織",
+      "emoji": "🧶",
+      "type": "word",
+      "ex": "Grandma enjoys knitting scarves.",
+      "exZh": "奶奶喜歡織圍巾。"
+    },
+    {
+      "en": "yarn",
+      "kk": "ˋjɑrn",
+      "zh": "毛線",
+      "emoji": "🧵",
+      "type": "word",
+      "ex": "I bought red yarn for the hat.",
+      "exZh": "我買了紅色毛線來織帽子。"
+    },
+    {
+      "en": "origami",
+      "kk": "ˏɔrɪˋgɑmɪ",
+      "zh": "摺紙",
+      "emoji": "🦢",
+      "type": "word",
+      "ex": "He made a crane with origami.",
+      "exZh": "他用摺紙做了一隻鶴。"
+    },
+    {
+      "en": "craft",
+      "kk": "ˋkræft",
+      "zh": "手工藝",
+      "emoji": "✂",
+      "type": "word",
+      "ex": "We made crafts for the school fair.",
+      "exZh": "我們為園遊會做了手工藝品。"
+    },
+    {
+      "en": "cooking",
+      "kk": "ˋkʊkɪŋ",
+      "zh": "烹飪",
+      "emoji": "🍳",
+      "type": "word",
+      "ex": "Cooking is my favorite hobby.",
+      "exZh": "烹飪是我最愛的嗜好。"
+    },
+    {
+      "en": "baking",
+      "kk": "ˋbekɪŋ",
+      "zh": "烘焙",
+      "emoji": "🍪",
+      "type": "word",
+      "ex": "Baking cookies makes the house smell sweet.",
+      "exZh": "烤餅乾讓家裡充滿甜香。"
+    },
+    {
+      "en": "gardening",
+      "kk": "ˋgɑrdnɪŋ",
+      "zh": "園藝",
+      "emoji": "🌱",
+      "type": "word",
+      "ex": "Gardening is relaxing.",
+      "exZh": "園藝讓人放鬆。"
+    },
+    {
+      "en": "fishing",
+      "kk": "ˋfɪʃɪŋ",
+      "zh": "釣魚",
+      "emoji": "🎣",
+      "type": "word",
+      "ex": "My dad likes fishing by the lake.",
+      "exZh": "我爸爸喜歡在湖邊釣魚。"
+    },
+    {
+      "en": "camping",
+      "kk": "ˋkæmpɪŋ",
+      "zh": "露營",
+      "emoji": "⛺",
+      "type": "word",
+      "ex": "Camping is fun in the summer.",
+      "exZh": "夏天露營很有趣。"
+    },
+    {
+      "en": "hiking",
+      "kk": "ˋhaɪkɪŋ",
+      "zh": "健行",
+      "emoji": "🥾",
+      "type": "word",
+      "ex": "We enjoy hiking in the mountains.",
+      "exZh": "我們喜歡在山裡健行。"
+    },
+    {
+      "en": "dancing",
+      "kk": "ˋdænsɪŋ",
+      "zh": "跳舞",
+      "emoji": "💃",
+      "type": "word",
+      "ex": "Dancing makes me happy.",
+      "exZh": "跳舞讓我快樂。"
+    },
+    {
+      "en": "singing",
+      "kk": "ˋsɪŋɪŋ",
+      "zh": "唱歌",
+      "emoji": "🎤",
+      "type": "word",
+      "ex": "Singing helps me relax.",
+      "exZh": "唱歌能讓我放鬆。"
+    },
+    {
+      "en": "magic trick",
+      "kk": "ˋmædʒɪk ˏtrɪk",
+      "zh": "魔術",
+      "emoji": "🪄",
+      "type": "word",
+      "ex": "He showed us a magic trick.",
+      "exZh": "他表演了一個魔術給我們看。"
+    },
+    {
+      "en": "chess",
+      "kk": "ˋtʃɛs",
+      "zh": "西洋棋",
+      "emoji": "♟️",
+      "type": "word",
+      "ex": "My grandfather taught me chess.",
+      "exZh": "我爺爺教我下西洋棋。"
+    },
+    {
+      "en": "comic book",
+      "kk": "ˋkɑmɪk ˏbʊk",
+      "zh": "漫畫書",
+      "emoji": "📕",
+      "type": "word",
+      "ex": "I read a comic book every night.",
+      "exZh": "我每晚讀一本漫畫書。"
+    },
+    {
+      "en": "novel",
+      "kk": "ˋnɑvl̩",
+      "zh": "小說",
+      "emoji": "📙",
+      "type": "word",
+      "ex": "This novel is about a brave girl.",
+      "exZh": "這本小說是關於一位勇敢的女孩。"
+    },
+    {
+      "en": "video game",
+      "kk": "ˋvɪdɪˏo ˏgem",
+      "zh": "電玩遊戲",
+      "emoji": "🎮",
+      "type": "word",
+      "ex": "He plays a video game after dinner.",
+      "exZh": "他晚餐後玩電玩。"
+    },
+    {
+      "en": "movie",
+      "kk": "ˋmuvɪ",
+      "zh": "電影",
+      "emoji": "🎬",
+      "type": "word",
+      "ex": "We watched a funny movie last night.",
+      "exZh": "我們昨晚看了一部好笑的電影。"
+    },
+    {
+      "en": "album",
+      "kk": "ˋælbəm",
+      "zh": "相簿；專輯",
+      "emoji": "📔",
+      "type": "word",
+      "ex": "She keeps all her photos in an album.",
+      "exZh": "她把所有照片放在相簿裡。"
+    },
+    {
+      "en": "telescope",
+      "kk": "ˋtɛləˏskop",
+      "zh": "望遠鏡",
+      "emoji": "🔭",
+      "type": "word",
+      "ex": "We looked at the moon through a telescope.",
+      "exZh": "我們用望遠鏡看月亮。"
+    },
+    {
+      "en": "diary",
+      "kk": "ˋdaɪərɪ",
+      "zh": "日記",
+      "emoji": "📔",
+      "type": "word",
+      "ex": "I write in my diary every day.",
+      "exZh": "我每天寫日記。"
+    },
+    {
+      "en": "take photos",
+      "kk": "",
+      "zh": "拍照",
+      "emoji": "🤳",
+      "type": "phrase",
+      "ex": "I like to take photos of flowers.",
+      "exZh": "我喜歡拍花的照片。"
+    },
+    {
+      "en": "go fishing",
+      "kk": "",
+      "zh": "去釣魚",
+      "emoji": "🐟",
+      "type": "phrase",
+      "ex": "We go fishing every summer.",
+      "exZh": "我們每年夏天都去釣魚。"
+    },
+    {
+      "en": "collect stamps",
+      "kk": "",
+      "zh": "收集郵票",
+      "emoji": "📬",
+      "type": "phrase",
+      "ex": "He loves to collect stamps.",
+      "exZh": "他熱愛收集郵票。"
+    },
+    {
+      "en": "be into",
+      "kk": "",
+      "zh": "迷上；熱衷於",
+      "emoji": "😍",
+      "type": "phrase",
+      "ex": "She is really into painting these days.",
+      "exZh": "她最近非常迷繪畫。"
+    },
+    {
+      "en": "in my free time",
+      "kk": "",
+      "zh": "在我的空閒時間",
+      "emoji": "🕰️",
+      "type": "phrase",
+      "ex": "In my free time, I read novels.",
+      "exZh": "空閒時間我會讀小說。"
+    },
+    {
+      "en": "do a puzzle",
+      "kk": "",
+      "zh": "拼拼圖",
+      "emoji": "🔲",
+      "type": "phrase",
+      "ex": "Let us do a puzzle together.",
+      "exZh": "我們一起拼拼圖吧。"
+    },
+    {
+      "en": "keep a diary",
+      "kk": "",
+      "zh": "寫日記",
+      "emoji": "✒️",
+      "type": "phrase",
+      "ex": "I keep a diary in English.",
+      "exZh": "我用英文寫日記。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "What do you do in your free time?",
+      "zh": "你空閒的時候做什麼？",
+      "note": "聊興趣時最常用"
+    },
+    {
+      "en": "My hobby is taking photos.",
+      "zh": "我的嗜好是拍照。",
+      "note": "介紹自己的興趣"
+    },
+    {
+      "en": "I am really into baking these days.",
+      "zh": "我最近很迷烘焙。",
+      "note": "表示最近的熱情"
+    },
+    {
+      "en": "How long have you been doing that?",
+      "zh": "你做這個多久了？",
+      "note": "追問對方的興趣"
+    },
+    {
+      "en": "I started playing chess when I was seven.",
+      "zh": "我七歲開始下西洋棋。",
+      "note": "說明開始的時間"
+    },
+    {
+      "en": "Would you like to try it?",
+      "zh": "你想試試看嗎？",
+      "note": "邀請對方體驗"
+    },
+    {
+      "en": "Can you teach me how to knit?",
+      "zh": "你可以教我怎麼編織嗎？",
+      "note": "請別人教學"
+    },
+    {
+      "en": "I spend about two hours on it every day.",
+      "zh": "我每天花大約兩小時做這件事。",
+      "note": "說明投入時間"
+    },
+    {
+      "en": "It helps me relax after school.",
+      "zh": "它能幫我在放學後放鬆。",
+      "note": "解釋喜歡的理由"
+    },
+    {
+      "en": "That sounds interesting!",
+      "zh": "聽起來很有趣！",
+      "note": "回應對方的興趣"
+    },
+    {
+      "en": "I have been collecting stamps for three years.",
+      "zh": "我已經收集郵票三年了。",
+      "note": "介紹收藏"
+    },
+    {
+      "en": "Do you want to join our club?",
+      "zh": "你想加入我們的社團嗎？",
+      "note": "邀請加入"
+    },
+    {
+      "en": "I am not good at drawing, but I enjoy it.",
+      "zh": "我不太會畫畫，但我很喜歡。",
+      "note": "謙虛地說明程度"
+    },
+    {
+      "en": "Let me show you my collection.",
+      "zh": "讓我給你看我的收藏。",
+      "note": "分享收藏時"
+    }
+  ],
+  "dialogues": [
+    {
+      "title": "聊嗜好",
+      "lines": [
+        {
+          "who": "A",
+          "en": "What is your hobby?",
+          "zh": "你的嗜好是什麼？"
+        },
+        {
+          "who": "B",
+          "en": "I love origami. I made this paper crane.",
+          "zh": "我喜歡摺紙，這隻紙鶴是我做的。"
+        },
+        {
+          "who": "A",
+          "en": "Wow, it looks great! Can you teach me?",
+          "zh": "哇，好漂亮！你可以教我嗎？"
+        },
+        {
+          "who": "B",
+          "en": "Sure. Come to my house on Saturday.",
+          "zh": "當然，星期六來我家吧。"
+        }
+      ]
+    },
+    {
+      "title": "週末計畫",
+      "lines": [
+        {
+          "who": "A",
+          "en": "What are you going to do this weekend?",
+          "zh": "你這個週末要做什麼？"
+        },
+        {
+          "who": "B",
+          "en": "I am going camping with my family.",
+          "zh": "我要和家人去露營。"
+        },
+        {
+          "who": "A",
+          "en": "That sounds fun. Are you going to take photos?",
+          "zh": "聽起來很有趣，你會拍照嗎？"
+        },
+        {
+          "who": "B",
+          "en": "Of course! I will bring my new camera.",
+          "zh": "當然！我會帶我的新相機。"
+        }
+      ]
+    }
+  ]
+}

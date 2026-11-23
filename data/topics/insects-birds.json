@@ -1,0 +1,486 @@
+{
+  "id": "insects-birds",
+  "title": "Insects and Birds",
+  "zh": "昆蟲與鳥類",
+  "emoji": "🦋",
+  "backdrop": "garden",
+  "intro": "認識花園與天空中的小昆蟲和鳥兒，學會描述牠們在做什麼。",
+  "words": [
+    {
+      "en": "insect",
+      "kk": "ˋɪnsɛkt",
+      "zh": "昆蟲",
+      "emoji": "🐛",
+      "type": "word",
+      "ex": "An insect has six legs.",
+      "exZh": "昆蟲有六隻腳。"
+    },
+    {
+      "en": "butterfly",
+      "kk": "ˋbʌtɚˏflaɪ",
+      "zh": "蝴蝶",
+      "emoji": "🦋",
+      "type": "word",
+      "ex": "A butterfly landed on the flower.",
+      "exZh": "一隻蝴蝶停在花上。"
+    },
+    {
+      "en": "bee",
+      "kk": "bi",
+      "zh": "蜜蜂",
+      "emoji": "🐝",
+      "type": "word",
+      "ex": "The bee is collecting nectar.",
+      "exZh": "蜜蜂正在採花蜜。"
+    },
+    {
+      "en": "ant",
+      "kk": "ænt",
+      "zh": "螞蟻",
+      "emoji": "🐜",
+      "type": "word",
+      "ex": "Ants carry food to their nest.",
+      "exZh": "螞蟻把食物搬回巢裡。"
+    },
+    {
+      "en": "ladybug",
+      "kk": "ˋledɪˏbʌg",
+      "zh": "瓢蟲",
+      "emoji": "🐞",
+      "type": "word",
+      "ex": "The ladybug has black spots.",
+      "exZh": "瓢蟲身上有黑色斑點。"
+    },
+    {
+      "en": "mosquito",
+      "kk": "məˋskito",
+      "zh": "蚊子",
+      "emoji": "🦟",
+      "type": "word",
+      "ex": "A mosquito bit me last night.",
+      "exZh": "昨晚有隻蚊子咬了我。"
+    },
+    {
+      "en": "fly",
+      "kk": "flaɪ",
+      "zh": "蒼蠅",
+      "emoji": "🪰",
+      "type": "word",
+      "ex": "There is a fly in the kitchen.",
+      "exZh": "廚房裡有一隻蒼蠅。"
+    },
+    {
+      "en": "spider",
+      "kk": "ˋspaɪdɚ",
+      "zh": "蜘蛛",
+      "emoji": "🕷️",
+      "type": "word",
+      "ex": "The spider made a web in the corner.",
+      "exZh": "蜘蛛在角落結了一張網。"
+    },
+    {
+      "en": "dragonfly",
+      "kk": "ˋdrægənˏflaɪ",
+      "zh": "蜻蜓",
+      "emoji": "🪰",
+      "type": "word",
+      "ex": "A dragonfly rested on the leaf.",
+      "exZh": "一隻蜻蜓停在葉子上。"
+    },
+    {
+      "en": "grasshopper",
+      "kk": "ˋgræsˏhɑpɚ",
+      "zh": "蚱蜢",
+      "emoji": "🦗",
+      "type": "word",
+      "ex": "The grasshopper jumped away.",
+      "exZh": "蚱蜢跳走了。"
+    },
+    {
+      "en": "cricket",
+      "kk": "ˋkrɪkɪt",
+      "zh": "蟋蟀",
+      "emoji": "🦗",
+      "type": "word",
+      "ex": "I can hear a cricket outside.",
+      "exZh": "我聽得到外面有蟋蟀的叫聲。"
+    },
+    {
+      "en": "firefly",
+      "kk": "ˋfaɪrˏflaɪ",
+      "zh": "螢火蟲",
+      "emoji": "✨",
+      "type": "word",
+      "ex": "Fireflies glow in the dark.",
+      "exZh": "螢火蟲在黑暗中發光。"
+    },
+    {
+      "en": "caterpillar",
+      "kk": "ˋkætɚˏpɪlɚ",
+      "zh": "毛毛蟲",
+      "emoji": "🐛",
+      "type": "word",
+      "ex": "The caterpillar will become a butterfly.",
+      "exZh": "毛毛蟲將會變成蝴蝶。"
+    },
+    {
+      "en": "beetle",
+      "kk": "ˋbitl̩",
+      "zh": "甲蟲",
+      "emoji": "🪲",
+      "type": "word",
+      "ex": "The beetle has a hard shell.",
+      "exZh": "甲蟲有堅硬的外殼。"
+    },
+    {
+      "en": "snail",
+      "kk": "snel",
+      "zh": "蝸牛",
+      "emoji": "🐌",
+      "type": "word",
+      "ex": "The snail moves very slowly.",
+      "exZh": "蝸牛移動得很慢。"
+    },
+    {
+      "en": "worm",
+      "kk": "wɝm",
+      "zh": "蟲；蚯蚓",
+      "emoji": "🪱",
+      "type": "word",
+      "ex": "The bird pulled a worm from the soil.",
+      "exZh": "小鳥從土裡拉出一條蟲。"
+    },
+    {
+      "en": "wing",
+      "kk": "wɪŋ",
+      "zh": "翅膀",
+      "emoji": "🪽",
+      "type": "word",
+      "ex": "The bee beats its wings fast.",
+      "exZh": "蜜蜂快速拍動翅膀。"
+    },
+    {
+      "en": "nest",
+      "kk": "nɛst",
+      "zh": "巢",
+      "emoji": "🪺",
+      "type": "word",
+      "ex": "The bird built a nest in the tree.",
+      "exZh": "小鳥在樹上築了一個巢。"
+    },
+    {
+      "en": "feather",
+      "kk": "ˋfɛðɚ",
+      "zh": "羽毛",
+      "emoji": "🪶",
+      "type": "word",
+      "ex": "I found a blue feather.",
+      "exZh": "我撿到一根藍色的羽毛。"
+    },
+    {
+      "en": "beak",
+      "kk": "bik",
+      "zh": "鳥喙",
+      "emoji": "🐦",
+      "type": "word",
+      "ex": "The bird has a sharp beak.",
+      "exZh": "這隻鳥有尖尖的喙。"
+    },
+    {
+      "en": "bird",
+      "kk": "bɝd",
+      "zh": "鳥",
+      "emoji": "🐦",
+      "type": "word",
+      "ex": "A small bird sang on the fence.",
+      "exZh": "一隻小鳥在籬笆上唱歌。"
+    },
+    {
+      "en": "sparrow",
+      "kk": "ˋspæro",
+      "zh": "麻雀",
+      "emoji": "🐦",
+      "type": "word",
+      "ex": "Sparrows live in the city.",
+      "exZh": "麻雀生活在城市裡。"
+    },
+    {
+      "en": "crow",
+      "kk": "kro",
+      "zh": "烏鴉",
+      "emoji": "🐦‍⬛",
+      "type": "word",
+      "ex": "The crow is eating our trash.",
+      "exZh": "烏鴉正在吃我們的垃圾。"
+    },
+    {
+      "en": "pigeon",
+      "kk": "ˋpɪdʒən",
+      "zh": "鴿子",
+      "emoji": "🕊️",
+      "type": "word",
+      "ex": "Pigeons gather in the square.",
+      "exZh": "鴿子聚集在廣場上。"
+    },
+    {
+      "en": "eagle",
+      "kk": "ˋigl̩",
+      "zh": "老鷹",
+      "emoji": "🦅",
+      "type": "word",
+      "ex": "The eagle flew high in the sky.",
+      "exZh": "老鷹在高空飛翔。"
+    },
+    {
+      "en": "owl",
+      "kk": "aʊl",
+      "zh": "貓頭鷹",
+      "emoji": "🦉",
+      "type": "word",
+      "ex": "The owl hunts at night.",
+      "exZh": "貓頭鷹在夜裡捕食。"
+    },
+    {
+      "en": "parrot",
+      "kk": "ˋpærət",
+      "zh": "鸚鵡",
+      "emoji": "🦜",
+      "type": "word",
+      "ex": "The parrot can say hello.",
+      "exZh": "鸚鵡會說哈囉。"
+    },
+    {
+      "en": "swan",
+      "kk": "swɑn",
+      "zh": "天鵝",
+      "emoji": "🦢",
+      "type": "word",
+      "ex": "A white swan swam across the lake.",
+      "exZh": "一隻白天鵝游過湖面。"
+    },
+    {
+      "en": "seagull",
+      "kk": "ˋsiˏgʌl",
+      "zh": "海鷗",
+      "emoji": "🐦",
+      "type": "word",
+      "ex": "A seagull stole my french fries.",
+      "exZh": "一隻海鷗偷走了我的薯條。"
+    },
+    {
+      "en": "peacock",
+      "kk": "ˋpiˏkɑk",
+      "zh": "孔雀",
+      "emoji": "🦚",
+      "type": "word",
+      "ex": "The peacock spread its tail.",
+      "exZh": "孔雀展開了牠的尾羽。"
+    },
+    {
+      "en": "woodpecker",
+      "kk": "ˋwʊdˏpɛkɚ",
+      "zh": "啄木鳥",
+      "emoji": "🐦",
+      "type": "word",
+      "ex": "The woodpecker tapped on the tree.",
+      "exZh": "啄木鳥在樹幹上啄來啄去。"
+    },
+    {
+      "en": "spread its wings",
+      "kk": "",
+      "zh": "展開翅膀",
+      "emoji": "🪽",
+      "type": "phrase",
+      "ex": "The eagle spread its wings and flew.",
+      "exZh": "老鷹展開翅膀飛了起來。"
+    },
+    {
+      "en": "build a nest",
+      "kk": "",
+      "zh": "築巢",
+      "emoji": "🪺",
+      "type": "phrase",
+      "ex": "Birds build a nest in spring.",
+      "exZh": "鳥兒在春天築巢。"
+    },
+    {
+      "en": "fly away",
+      "kk": "",
+      "zh": "飛走",
+      "emoji": "🛫",
+      "type": "phrase",
+      "ex": "The butterfly flew away.",
+      "exZh": "蝴蝶飛走了。"
+    },
+    {
+      "en": "bug spray",
+      "kk": "",
+      "zh": "防蚊液；殺蟲劑",
+      "emoji": "🧴",
+      "type": "phrase",
+      "ex": "Use bug spray before the camping trip.",
+      "exZh": "露營前先噴防蚊液。"
+    },
+    {
+      "en": "bird watching",
+      "kk": "",
+      "zh": "賞鳥",
+      "emoji": "🔭",
+      "type": "phrase",
+      "ex": "My grandpa loves bird watching.",
+      "exZh": "我爺爺很愛賞鳥。"
+    },
+    {
+      "en": "lay eggs",
+      "kk": "",
+      "zh": "產卵；下蛋",
+      "emoji": "🥚",
+      "type": "phrase",
+      "ex": "Birds lay eggs in their nests.",
+      "exZh": "鳥在巢裡下蛋。"
+    },
+    {
+      "en": "mosquito bite",
+      "kk": "",
+      "zh": "蚊子叮咬",
+      "emoji": "🩹",
+      "type": "phrase",
+      "ex": "I have a mosquito bite on my arm.",
+      "exZh": "我手臂上有一個蚊子叮的包。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "There is a bee on your shoulder!",
+      "zh": "你肩膀上有一隻蜜蜂！",
+      "note": "提醒朋友小心"
+    },
+    {
+      "en": "Don't be afraid. It won't hurt you.",
+      "zh": "別怕，牠不會傷害你。",
+      "note": "安慰怕蟲的人"
+    },
+    {
+      "en": "I got bitten by a mosquito.",
+      "zh": "我被蚊子叮了。",
+      "note": "抱怨被叮"
+    },
+    {
+      "en": "Can you hear the birds singing?",
+      "zh": "你聽得到鳥在唱歌嗎？",
+      "note": "早晨在戶外時"
+    },
+    {
+      "en": "What kind of bird is that?",
+      "zh": "那是什麼鳥？",
+      "note": "看到不認識的鳥"
+    },
+    {
+      "en": "The caterpillar turns into a butterfly.",
+      "zh": "毛毛蟲會變成蝴蝶。",
+      "note": "解釋昆蟲成長"
+    },
+    {
+      "en": "Be quiet, or you'll scare the bird.",
+      "zh": "小聲點，不然會嚇到鳥。",
+      "note": "靠近小鳥時"
+    },
+    {
+      "en": "Ants work together as a team.",
+      "zh": "螞蟻像團隊一樣合作。",
+      "note": "聊昆蟲的特性"
+    },
+    {
+      "en": "I saw a spider in the bathroom!",
+      "zh": "我在浴室看到一隻蜘蛛！",
+      "note": "告訴家人"
+    },
+    {
+      "en": "Please close the window, or mosquitoes will come in.",
+      "zh": "請關窗，不然蚊子會飛進來。",
+      "note": "提醒家人"
+    },
+    {
+      "en": "A firefly lit up the night.",
+      "zh": "一隻螢火蟲照亮了夜晚。",
+      "note": "描述美景"
+    },
+    {
+      "en": "Owls sleep during the day.",
+      "zh": "貓頭鷹白天睡覺。",
+      "note": "說明動物習慣"
+    },
+    {
+      "en": "Look at its colorful feathers!",
+      "zh": "看牠色彩繽紛的羽毛！",
+      "note": "讚嘆鳥類"
+    },
+    {
+      "en": "Let's go bird watching this weekend.",
+      "zh": "我們這個週末去賞鳥吧。",
+      "note": "邀約活動"
+    },
+    {
+      "en": "Please don't feed the pigeons.",
+      "zh": "請不要餵鴿子。",
+      "note": "公園規定"
+    }
+  ],
+  "dialogues": [
+    {
+      "title": "在公園看鳥",
+      "lines": [
+        {
+          "who": "A",
+          "en": "Look at that bird in the tree!",
+          "zh": "看樹上那隻鳥！"
+        },
+        {
+          "who": "B",
+          "en": "It is a woodpecker. Listen to it tapping.",
+          "zh": "那是啄木鳥，聽牠啄樹的聲音。"
+        },
+        {
+          "who": "A",
+          "en": "Where is its nest?",
+          "zh": "牠的巢在哪裡？"
+        },
+        {
+          "who": "B",
+          "en": "Maybe in that big hole.",
+          "zh": "也許在那個大洞裡。"
+        }
+      ]
+    },
+    {
+      "title": "被蚊子叮",
+      "lines": [
+        {
+          "who": "A",
+          "en": "Ouch! A mosquito bit me again.",
+          "zh": "噢！又被蚊子叮了。"
+        },
+        {
+          "who": "B",
+          "en": "Do you want some bug spray?",
+          "zh": "你要不要噴一點防蚊液？"
+        },
+        {
+          "who": "A",
+          "en": "Yes, please. They love me.",
+          "zh": "好，麻煩了。牠們好愛我。"
+        },
+        {
+          "who": "B",
+          "en": "Let's go inside. It is getting dark.",
+          "zh": "我們進屋吧，天快黑了。"
+        },
+        {
+          "who": "A",
+          "en": "Good idea.",
+          "zh": "好主意。"
+        }
+      ]
+    }
+  ]
+}

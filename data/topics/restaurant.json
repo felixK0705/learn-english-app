@@ -1,0 +1,486 @@
+{
+  "id": "restaurant",
+  "title": "At a Restaurant",
+  "zh": "在餐廳",
+  "emoji": "🍽️",
+  "backdrop": "restaurant",
+  "intro": "學會在餐廳訂位、點餐、詢問菜色和結帳的實用說法。",
+  "words": [
+    {
+      "en": "menu",
+      "kk": "ˋmɛnju",
+      "zh": "菜單",
+      "emoji": "📋",
+      "type": "word",
+      "ex": "Can I see the menu, please?",
+      "exZh": "我可以看一下菜單嗎？"
+    },
+    {
+      "en": "waiter",
+      "kk": "ˋwetɚ",
+      "zh": "男服務生",
+      "emoji": "🤵",
+      "type": "word",
+      "ex": "The waiter brought us some water.",
+      "exZh": "服務生幫我們送來了水。"
+    },
+    {
+      "en": "waitress",
+      "kk": "ˋwetrɪs",
+      "zh": "女服務生",
+      "emoji": "💁",
+      "type": "word",
+      "ex": "The waitress was very friendly.",
+      "exZh": "那位女服務生非常親切。"
+    },
+    {
+      "en": "chef",
+      "kk": "ʃɛf",
+      "zh": "主廚；廚師",
+      "emoji": "👨‍🍳",
+      "type": "word",
+      "ex": "The chef cooks everything fresh.",
+      "exZh": "主廚每道菜都現做。"
+    },
+    {
+      "en": "customer",
+      "kk": "ˋkʌstəmɚ",
+      "zh": "顧客",
+      "emoji": "🧑‍💼",
+      "type": "word",
+      "ex": "The customer wants to pay.",
+      "exZh": "這位顧客想結帳。"
+    },
+    {
+      "en": "reservation",
+      "kk": "ˏrɛzɚˋveʃən",
+      "zh": "訂位；預約",
+      "emoji": "📅",
+      "type": "word",
+      "ex": "I have a reservation for seven.",
+      "exZh": "我七點有訂位。"
+    },
+    {
+      "en": "seat",
+      "kk": "sit",
+      "zh": "座位",
+      "emoji": "💺",
+      "type": "word",
+      "ex": "Is this seat taken?",
+      "exZh": "這個位子有人坐嗎？"
+    },
+    {
+      "en": "table",
+      "kk": "ˋtebḷ",
+      "zh": "餐桌",
+      "emoji": "🍽️",
+      "type": "word",
+      "ex": "We would like a table by the window.",
+      "exZh": "我們想要靠窗的桌子。"
+    },
+    {
+      "en": "order",
+      "kk": "ˋɔrdɚ",
+      "zh": "點餐；訂單",
+      "emoji": "📝",
+      "type": "word",
+      "ex": "Are you ready to order?",
+      "exZh": "你們準備好要點餐了嗎？"
+    },
+    {
+      "en": "special",
+      "kk": "ˋspɛʃəl",
+      "zh": "特餐；特別的",
+      "emoji": "⭐",
+      "type": "word",
+      "ex": "Today’s special is fish and chips.",
+      "exZh": "今日特餐是炸魚薯條。"
+    },
+    {
+      "en": "appetizer",
+      "kk": "ˋæpəˏtaɪzɚ",
+      "zh": "開胃菜",
+      "emoji": "🥗",
+      "type": "word",
+      "ex": "We shared an appetizer first.",
+      "exZh": "我們先分著吃一份開胃菜。"
+    },
+    {
+      "en": "salad",
+      "kk": "ˋsæləd",
+      "zh": "沙拉",
+      "emoji": "🥗",
+      "type": "word",
+      "ex": "I will have a Caesar salad.",
+      "exZh": "我要一份凱薩沙拉。"
+    },
+    {
+      "en": "soup",
+      "kk": "sup",
+      "zh": "湯",
+      "emoji": "🍲",
+      "type": "word",
+      "ex": "The soup of the day is corn soup.",
+      "exZh": "今日例湯是玉米濃湯。"
+    },
+    {
+      "en": "pasta",
+      "kk": "ˋpɑstə",
+      "zh": "義大利麵",
+      "emoji": "🍝",
+      "type": "word",
+      "ex": "The pasta comes with garlic bread.",
+      "exZh": "義大利麵附大蒜麵包。"
+    },
+    {
+      "en": "pizza",
+      "kk": "ˋpitsə",
+      "zh": "披薩",
+      "emoji": "🍕",
+      "type": "word",
+      "ex": "We ordered a large pizza.",
+      "exZh": "我們點了一個大披薩。"
+    },
+    {
+      "en": "plate",
+      "kk": "plet",
+      "zh": "盤子",
+      "emoji": "🍽️",
+      "type": "word",
+      "ex": "The plate is very hot.",
+      "exZh": "盤子很燙。"
+    },
+    {
+      "en": "bowl",
+      "kk": "bol",
+      "zh": "碗",
+      "emoji": "🥣",
+      "type": "word",
+      "ex": "I would like a bowl of soup.",
+      "exZh": "我要一碗湯。"
+    },
+    {
+      "en": "glass",
+      "kk": "glæs",
+      "zh": "玻璃杯",
+      "emoji": "🥛",
+      "type": "word",
+      "ex": "Could I have a glass of water?",
+      "exZh": "我可以要一杯水嗎？"
+    },
+    {
+      "en": "fork",
+      "kk": "fɔrk",
+      "zh": "叉子",
+      "emoji": "🍴",
+      "type": "word",
+      "ex": "May I have another fork?",
+      "exZh": "可以再給我一支叉子嗎？"
+    },
+    {
+      "en": "knife",
+      "kk": "naɪf",
+      "zh": "刀子",
+      "emoji": "🔪",
+      "type": "word",
+      "ex": "The knife is very sharp.",
+      "exZh": "這把刀很鋒利。"
+    },
+    {
+      "en": "spoon",
+      "kk": "spun",
+      "zh": "湯匙",
+      "emoji": "🥄",
+      "type": "word",
+      "ex": "Use a spoon for the soup.",
+      "exZh": "喝湯要用湯匙。"
+    },
+    {
+      "en": "chopsticks",
+      "kk": "ˋtʃɑpˏstɪks",
+      "zh": "筷子",
+      "emoji": "🥢",
+      "type": "word",
+      "ex": "She is good at using chopsticks.",
+      "exZh": "她很會用筷子。"
+    },
+    {
+      "en": "napkin",
+      "kk": "ˋnæpkɪn",
+      "zh": "餐巾；紙巾",
+      "emoji": "🧻",
+      "type": "word",
+      "ex": "Can we have more napkins?",
+      "exZh": "可以多給我們一些餐巾紙嗎？"
+    },
+    {
+      "en": "bill",
+      "kk": "bɪl",
+      "zh": "帳單",
+      "emoji": "🧾",
+      "type": "word",
+      "ex": "Could we have the bill, please?",
+      "exZh": "請幫我們結帳。"
+    },
+    {
+      "en": "receipt",
+      "kk": "rɪˋsit",
+      "zh": "收據；發票",
+      "emoji": "🧾",
+      "type": "word",
+      "ex": "May I have a receipt?",
+      "exZh": "我可以拿收據嗎？"
+    },
+    {
+      "en": "tip",
+      "kk": "tɪp",
+      "zh": "小費",
+      "emoji": "💵",
+      "type": "word",
+      "ex": "We left a ten percent tip.",
+      "exZh": "我們留了百分之十的小費。"
+    },
+    {
+      "en": "allergy",
+      "kk": "ˋælɚdʒɪ",
+      "zh": "過敏",
+      "emoji": "🤧",
+      "type": "word",
+      "ex": "I have a peanut allergy.",
+      "exZh": "我對花生過敏。"
+    },
+    {
+      "en": "vegetarian",
+      "kk": "ˏvɛdʒəˋtɛrɪən",
+      "zh": "素食者；素食的",
+      "emoji": "🥗",
+      "type": "word",
+      "ex": "Do you have vegetarian dishes?",
+      "exZh": "你們有素食餐點嗎？"
+    },
+    {
+      "en": "dish",
+      "kk": "dɪʃ",
+      "zh": "菜餚；一道菜",
+      "emoji": "🍛",
+      "type": "word",
+      "ex": "This dish is very popular here.",
+      "exZh": "這道菜在這裡很受歡迎。"
+    },
+    {
+      "en": "portion",
+      "kk": "ˋpɔrʃən",
+      "zh": "份量",
+      "emoji": "⚖️",
+      "type": "word",
+      "ex": "The portion is big enough to share.",
+      "exZh": "這份量大到可以分著吃。"
+    },
+    {
+      "en": "a table for two",
+      "kk": "",
+      "zh": "兩人桌",
+      "emoji": "👫",
+      "type": "phrase",
+      "ex": "A table for two, please.",
+      "exZh": "麻煩給我兩人桌。"
+    },
+    {
+      "en": "ready to order",
+      "kk": "",
+      "zh": "準備好點餐",
+      "emoji": "🙋",
+      "type": "phrase",
+      "ex": "We are ready to order now.",
+      "exZh": "我們現在準備好要點餐了。"
+    },
+    {
+      "en": "split the bill",
+      "kk": "",
+      "zh": "各付各的；分帳",
+      "emoji": "💸",
+      "type": "phrase",
+      "ex": "Let us split the bill.",
+      "exZh": "我們各付各的吧。"
+    },
+    {
+      "en": "keep the change",
+      "kk": "",
+      "zh": "不用找零",
+      "emoji": "🪙",
+      "type": "phrase",
+      "ex": "Keep the change, thank you.",
+      "exZh": "不用找了，謝謝。"
+    },
+    {
+      "en": "credit card",
+      "kk": "",
+      "zh": "信用卡",
+      "emoji": "💳",
+      "type": "phrase",
+      "ex": "Do you take credit cards?",
+      "exZh": "你們可以刷信用卡嗎？"
+    },
+    {
+      "en": "main course",
+      "kk": "",
+      "zh": "主餐",
+      "emoji": "🍽️",
+      "type": "phrase",
+      "ex": "What would you like for the main course?",
+      "exZh": "主餐你想吃什麼？"
+    },
+    {
+      "en": "on the house",
+      "kk": "",
+      "zh": "店家招待",
+      "emoji": "🎁",
+      "type": "phrase",
+      "ex": "The dessert is on the house.",
+      "exZh": "這份甜點由本店招待。"
+    },
+    {
+      "en": "take your order",
+      "kk": "",
+      "zh": "幫你們點餐",
+      "emoji": "✍️",
+      "type": "phrase",
+      "ex": "I will be back to take your order.",
+      "exZh": "我等一下回來幫你們點餐。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Hi, I have a reservation under Lin.",
+      "zh": "你好，我以林的名字訂了位。",
+      "note": "報上訂位時"
+    },
+    {
+      "en": "A table for four, please.",
+      "zh": "請給我四人桌。",
+      "note": "沒有訂位入座時"
+    },
+    {
+      "en": "Could we sit by the window?",
+      "zh": "我們可以坐靠窗的位子嗎？",
+      "note": "想選位子時"
+    },
+    {
+      "en": "Can I see the menu, please?",
+      "zh": "我可以看一下菜單嗎？",
+      "note": "需要菜單時"
+    },
+    {
+      "en": "What do you recommend?",
+      "zh": "你推薦什麼？",
+      "note": "不知道點什麼時"
+    },
+    {
+      "en": "I will have the chicken pasta.",
+      "zh": "我要點雞肉義大利麵。",
+      "note": "決定餐點時"
+    },
+    {
+      "en": "Does this dish come with a drink?",
+      "zh": "這道菜有附飲料嗎？",
+      "note": "詢問套餐內容時"
+    },
+    {
+      "en": "Is this dish spicy?",
+      "zh": "這道菜會辣嗎？",
+      "note": "詢問辣度時"
+    },
+    {
+      "en": "I am allergic to nuts. Does it have any?",
+      "zh": "我對堅果過敏，裡面有嗎？",
+      "note": "說明過敏時"
+    },
+    {
+      "en": "Could I get some more water, please?",
+      "zh": "可以再給我一些水嗎？",
+      "note": "需要加水時"
+    },
+    {
+      "en": "Excuse me, I did not order this.",
+      "zh": "不好意思，我沒有點這個。",
+      "note": "上錯菜時"
+    },
+    {
+      "en": "Could we get the bill, please?",
+      "zh": "請幫我們結帳。",
+      "note": "準備離開時"
+    },
+    {
+      "en": "Is service included?",
+      "zh": "有含服務費嗎？",
+      "note": "結帳時"
+    },
+    {
+      "en": "Can we pay separately?",
+      "zh": "我們可以分開付嗎？",
+      "note": "朋友各付各的時"
+    },
+    {
+      "en": "Could you box this up for me?",
+      "zh": "可以幫我打包嗎？",
+      "note": "吃不完要帶走時"
+    }
+  ],
+  "dialogues": [
+    {
+      "title": "訂位與入座",
+      "lines": [
+        {
+          "who": "A",
+          "en": "Good evening. Do you have a reservation?",
+          "zh": "晚安，請問有訂位嗎？"
+        },
+        {
+          "who": "B",
+          "en": "Yes, a table for four under Chen.",
+          "zh": "有，以陳的名字訂了四人桌。"
+        },
+        {
+          "who": "A",
+          "en": "Right this way, please.",
+          "zh": "這邊請。"
+        },
+        {
+          "who": "B",
+          "en": "Thank you. Can we see the menu?",
+          "zh": "謝謝，我們可以看菜單嗎？"
+        },
+        {
+          "who": "A",
+          "en": "Of course. I will be right back.",
+          "zh": "當然，我馬上回來。"
+        }
+      ]
+    },
+    {
+      "title": "點餐與結帳",
+      "lines": [
+        {
+          "who": "A",
+          "en": "Are you ready to order?",
+          "zh": "你們準備好點餐了嗎？"
+        },
+        {
+          "who": "B",
+          "en": "I will have the steak, medium rare, and a salad.",
+          "zh": "我要牛排三分熟，還有一份沙拉。"
+        },
+        {
+          "who": "A",
+          "en": "Anything to drink?",
+          "zh": "要喝什麼嗎？"
+        },
+        {
+          "who": "B",
+          "en": "Just water, please. And the bill when you can.",
+          "zh": "只要水，等一下麻煩幫我結帳。"
+        }
+      ]
+    }
+  ]
+}

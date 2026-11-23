@@ -1,0 +1,454 @@
+{
+  "id": "meat-seafood",
+  "title": "Meat and Seafood",
+  "zh": "肉類與海鮮",
+  "emoji": "🥩",
+  "backdrop": "shop",
+  "intro": "在傳統市場與超市認識各種肉類和海鮮的說法。",
+  "words": [
+    {
+      "en": "meat",
+      "kk": "mit",
+      "zh": "肉",
+      "emoji": "🥩",
+      "type": "word",
+      "ex": "I do not eat much meat.",
+      "exZh": "我不太吃肉。"
+    },
+    {
+      "en": "beef",
+      "kk": "bif",
+      "zh": "牛肉",
+      "emoji": "🥩",
+      "type": "word",
+      "ex": "Beef is more expensive than pork.",
+      "exZh": "牛肉比豬肉貴。"
+    },
+    {
+      "en": "pork",
+      "kk": "pɔrk",
+      "zh": "豬肉",
+      "emoji": "🐖",
+      "type": "word",
+      "ex": "We made dumplings with pork.",
+      "exZh": "我們用豬肉做水餃。"
+    },
+    {
+      "en": "chicken",
+      "kk": "ˋtʃɪkɪn",
+      "zh": "雞肉；雞",
+      "emoji": "🍗",
+      "type": "word",
+      "ex": "Chicken soup is good for a cold.",
+      "exZh": "雞湯對感冒有幫助。"
+    },
+    {
+      "en": "lamb",
+      "kk": "læm",
+      "zh": "羊肉；小羊",
+      "emoji": "🐑",
+      "type": "word",
+      "ex": "Lamb is popular in winter hot pots.",
+      "exZh": "羊肉是冬天火鍋的熱門食材。"
+    },
+    {
+      "en": "duck",
+      "kk": "dʌk",
+      "zh": "鴨肉；鴨",
+      "emoji": "🦆",
+      "type": "word",
+      "ex": "Roast duck is a famous Chinese dish.",
+      "exZh": "烤鴨是有名的中式菜餚。"
+    },
+    {
+      "en": "turkey",
+      "kk": "ˋtɝkɪ",
+      "zh": "火雞肉",
+      "emoji": "🦃",
+      "type": "word",
+      "ex": "Americans eat turkey on Thanksgiving.",
+      "exZh": "美國人在感恩節吃火雞。"
+    },
+    {
+      "en": "sausage",
+      "kk": "ˋsɔsɪdʒ",
+      "zh": "香腸",
+      "emoji": "🌭",
+      "type": "word",
+      "ex": "Grilled sausage smells so good.",
+      "exZh": "烤香腸聞起來好香。"
+    },
+    {
+      "en": "bacon",
+      "kk": "ˋbekən",
+      "zh": "培根",
+      "emoji": "🥓",
+      "type": "word",
+      "ex": "He likes crispy bacon.",
+      "exZh": "他喜歡脆脆的培根。"
+    },
+    {
+      "en": "ham",
+      "kk": "hæm",
+      "zh": "火腿",
+      "emoji": "🍖",
+      "type": "word",
+      "ex": "I made a ham and cheese sandwich.",
+      "exZh": "我做了火腿起司三明治。"
+    },
+    {
+      "en": "steak",
+      "kk": "stek",
+      "zh": "牛排",
+      "emoji": "🥩",
+      "type": "word",
+      "ex": "The steak was thick and juicy.",
+      "exZh": "這塊牛排又厚又多汁。"
+    },
+    {
+      "en": "ribs",
+      "kk": "rɪbz",
+      "zh": "排骨",
+      "emoji": "🍖",
+      "type": "word",
+      "ex": "Pork ribs cook well in soup.",
+      "exZh": "豬排骨很適合煮湯。"
+    },
+    {
+      "en": "drumstick",
+      "kk": "ˋdrʌmˏstɪk",
+      "zh": "雞腿",
+      "emoji": "🍗",
+      "type": "word",
+      "ex": "The kid ate a chicken drumstick.",
+      "exZh": "小孩吃了一隻雞腿。"
+    },
+    {
+      "en": "wing",
+      "kk": "wɪŋ",
+      "zh": "雞翅",
+      "emoji": "🍗",
+      "type": "word",
+      "ex": "Do you want spicy wings?",
+      "exZh": "你要辣味雞翅嗎？"
+    },
+    {
+      "en": "liver",
+      "kk": "ˋlɪvɚ",
+      "zh": "肝臟",
+      "emoji": "🥩",
+      "type": "word",
+      "ex": "Pork liver soup is a Taiwanese dish.",
+      "exZh": "豬肝湯是一道台灣菜。"
+    },
+    {
+      "en": "bone",
+      "kk": "bon",
+      "zh": "骨頭",
+      "emoji": "🦴",
+      "type": "word",
+      "ex": "Be careful of the fish bones.",
+      "exZh": "小心魚刺。"
+    },
+    {
+      "en": "seafood",
+      "kk": "ˋsiˏfud",
+      "zh": "海鮮",
+      "emoji": "🦞",
+      "type": "word",
+      "ex": "We had seafood by the sea.",
+      "exZh": "我們在海邊吃海鮮。"
+    },
+    {
+      "en": "fish",
+      "kk": "fɪʃ",
+      "zh": "魚；魚肉",
+      "emoji": "🐟",
+      "type": "word",
+      "ex": "Fish is good for your brain.",
+      "exZh": "魚對大腦有益。"
+    },
+    {
+      "en": "salmon",
+      "kk": "ˋsæmən",
+      "zh": "鮭魚",
+      "emoji": "🍣",
+      "type": "word",
+      "ex": "Salmon sushi is my favorite.",
+      "exZh": "鮭魚壽司是我的最愛。"
+    },
+    {
+      "en": "tuna",
+      "kk": "ˋtunə",
+      "zh": "鮪魚",
+      "emoji": "🐟",
+      "type": "word",
+      "ex": "She made a tuna sandwich.",
+      "exZh": "她做了鮪魚三明治。"
+    },
+    {
+      "en": "fillet",
+      "kk": "ˋfɪlɪt",
+      "zh": "魚片；去骨肉片",
+      "emoji": "🐟",
+      "type": "word",
+      "ex": "I ordered a fish fillet.",
+      "exZh": "我點了一份魚片。"
+    },
+    {
+      "en": "shrimp",
+      "kk": "ʃrɪmp",
+      "zh": "蝦子",
+      "emoji": "🦐",
+      "type": "word",
+      "ex": "Fried shrimp is very crunchy.",
+      "exZh": "炸蝦酥脆可口。"
+    },
+    {
+      "en": "crab",
+      "kk": "kræb",
+      "zh": "螃蟹",
+      "emoji": "🦀",
+      "type": "word",
+      "ex": "Crab is best in autumn.",
+      "exZh": "螃蟹在秋天最肥美。"
+    },
+    {
+      "en": "lobster",
+      "kk": "ˋlɑbstɚ",
+      "zh": "龍蝦",
+      "emoji": "🦞",
+      "type": "word",
+      "ex": "Lobster is a special treat.",
+      "exZh": "龍蝦是特別的美食。"
+    },
+    {
+      "en": "squid",
+      "kk": "skwɪd",
+      "zh": "魷魚；花枝",
+      "emoji": "🦑",
+      "type": "word",
+      "ex": "Grilled squid is a night market snack.",
+      "exZh": "烤魷魚是夜市小吃。"
+    },
+    {
+      "en": "octopus",
+      "kk": "ˋɑktəpəs",
+      "zh": "章魚",
+      "emoji": "🐙",
+      "type": "word",
+      "ex": "The octopus has eight legs.",
+      "exZh": "章魚有八隻腳。"
+    },
+    {
+      "en": "oyster",
+      "kk": "ˋɔɪstɚ",
+      "zh": "牡蠣；蚵仔",
+      "emoji": "🦪",
+      "type": "word",
+      "ex": "Fresh oysters taste like the sea.",
+      "exZh": "新鮮的牡蠣有海的味道。"
+    },
+    {
+      "en": "clam",
+      "kk": "klæm",
+      "zh": "蛤蜊",
+      "emoji": "🐚",
+      "type": "word",
+      "ex": "Clam soup is light and tasty.",
+      "exZh": "蛤蜊湯清淡又好喝。"
+    },
+    {
+      "en": "scallop",
+      "kk": "ˋskɑləp",
+      "zh": "干貝；扇貝",
+      "emoji": "🐚",
+      "type": "word",
+      "ex": "Grilled scallops are my favorite.",
+      "exZh": "烤干貝是我的最愛。"
+    },
+    {
+      "en": "chicken breast",
+      "kk": "",
+      "zh": "雞胸肉",
+      "emoji": "🍗",
+      "type": "phrase",
+      "ex": "Chicken breast is low in fat.",
+      "exZh": "雞胸肉脂肪很少。"
+    },
+    {
+      "en": "ground beef",
+      "kk": "",
+      "zh": "牛絞肉",
+      "emoji": "🥩",
+      "type": "phrase",
+      "ex": "We need ground beef for the burgers.",
+      "exZh": "我們做漢堡需要牛絞肉。"
+    },
+    {
+      "en": "a pound of pork",
+      "kk": "",
+      "zh": "一磅豬肉",
+      "emoji": "⚖️",
+      "type": "phrase",
+      "ex": "I would like a pound of pork, please.",
+      "exZh": "請給我一磅豬肉。"
+    },
+    {
+      "en": "medium rare",
+      "kk": "",
+      "zh": "三分熟",
+      "emoji": "🥩",
+      "type": "phrase",
+      "ex": "I like my steak medium rare.",
+      "exZh": "我的牛排要三分熟。"
+    },
+    {
+      "en": "cut up",
+      "kk": "",
+      "zh": "切成塊",
+      "emoji": "🔪",
+      "type": "phrase",
+      "ex": "Please cut up the chicken for me.",
+      "exZh": "請幫我把雞肉切塊。"
+    },
+    {
+      "en": "remove the bones",
+      "kk": "",
+      "zh": "去骨",
+      "emoji": "🦴",
+      "type": "phrase",
+      "ex": "Can you remove the bones for me?",
+      "exZh": "你可以幫我去骨嗎？"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "I would like a pound of ground pork.",
+      "zh": "我要一磅豬絞肉。",
+      "note": "向肉販買肉時"
+    },
+    {
+      "en": "Is this fish fresh?",
+      "zh": "這條魚新鮮嗎？",
+      "note": "挑魚時"
+    },
+    {
+      "en": "Could you cut it into pieces?",
+      "zh": "可以幫我切塊嗎？",
+      "note": "請肉販處理時"
+    },
+    {
+      "en": "Can you clean the shrimp for me?",
+      "zh": "可以幫我處理蝦子嗎？",
+      "note": "請魚販代為清理時"
+    },
+    {
+      "en": "How much is a kilo of salmon?",
+      "zh": "鮭魚一公斤多少錢？",
+      "note": "詢問價格時"
+    },
+    {
+      "en": "What is the best cut for a stew?",
+      "zh": "什麼部位最適合燉湯？",
+      "note": "詢問肉的部位時"
+    },
+    {
+      "en": "I would like the chicken without the skin.",
+      "zh": "我要不帶皮的雞肉。",
+      "note": "指定處理方式時"
+    },
+    {
+      "en": "Please remove the bones.",
+      "zh": "請幫我去骨。",
+      "note": "不想吃到骨頭時"
+    },
+    {
+      "en": "I am allergic to shellfish.",
+      "zh": "我對甲殼類海鮮過敏。",
+      "note": "說明過敏時"
+    },
+    {
+      "en": "How would you like your steak?",
+      "zh": "你的牛排要幾分熟？",
+      "note": "餐廳詢問熟度時"
+    },
+    {
+      "en": "This meat has a lot of fat.",
+      "zh": "這塊肉的肥肉很多。",
+      "note": "挑肉時"
+    },
+    {
+      "en": "Do you have any fresh crab today?",
+      "zh": "你們今天有新鮮的螃蟹嗎？",
+      "note": "在海鮮店詢問時"
+    },
+    {
+      "en": "Please wrap it separately.",
+      "zh": "請分開包裝。",
+      "note": "需要分袋時"
+    },
+    {
+      "en": "I do not eat pork.",
+      "zh": "我不吃豬肉。",
+      "note": "說明飲食禁忌時"
+    }
+  ],
+  "dialogues": [
+    {
+      "title": "在傳統市場買肉",
+      "lines": [
+        {
+          "who": "A",
+          "en": "Good morning. I need some pork ribs.",
+          "zh": "早安，我要一些豬排骨。"
+        },
+        {
+          "who": "B",
+          "en": "How many do you want?",
+          "zh": "你要多少？"
+        },
+        {
+          "who": "A",
+          "en": "About one kilo. Please cut them up.",
+          "zh": "大約一公斤，請幫我切塊。"
+        },
+        {
+          "who": "B",
+          "en": "No problem. Anything else?",
+          "zh": "沒問題，還要別的嗎？"
+        },
+        {
+          "who": "A",
+          "en": "Two pounds of ground beef too.",
+          "zh": "再給我兩磅牛絞肉。"
+        }
+      ]
+    },
+    {
+      "title": "在海鮮店",
+      "lines": [
+        {
+          "who": "A",
+          "en": "Are these shrimp fresh?",
+          "zh": "這些蝦子新鮮嗎？"
+        },
+        {
+          "who": "B",
+          "en": "Yes. They just came in this morning.",
+          "zh": "是的，今早才送到。"
+        },
+        {
+          "who": "A",
+          "en": "Then I will take half a kilo.",
+          "zh": "那我要半公斤。"
+        },
+        {
+          "who": "B",
+          "en": "Do you want me to clean them?",
+          "zh": "要幫你處理嗎？"
+        }
+      ]
+    }
+  ]
+}

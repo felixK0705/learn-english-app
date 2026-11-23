@@ -1,0 +1,477 @@
+{
+  "id": "supermarket",
+  "title": "Supermarket",
+  "zh": "超市與便利商店購物",
+  "emoji": "🛒",
+  "backdrop": "shop",
+  "intro": "學會在超市和便利商店挑選商品、詢問價格與結帳。",
+  "words": [
+    {
+      "en": "supermarket",
+      "kk": "ˋsupɚˏmɑrkɪt",
+      "zh": "超級市場",
+      "emoji": "🏬",
+      "type": "word",
+      "ex": "I buy groceries at the supermarket.",
+      "exZh": "我在超市買日用雜貨。"
+    },
+    {
+      "en": "convenience store",
+      "kk": "kənˋvinjəns ˏstor",
+      "zh": "便利商店",
+      "emoji": "🏪",
+      "type": "word",
+      "ex": "The convenience store is open all night.",
+      "exZh": "便利商店整晚營業。"
+    },
+    {
+      "en": "shopping cart",
+      "kk": "ˋʃɑpɪŋ ˏkɑrt",
+      "zh": "購物推車",
+      "emoji": "🛒",
+      "type": "word",
+      "ex": "Please push the shopping cart carefully.",
+      "exZh": "請小心推購物推車。"
+    },
+    {
+      "en": "basket",
+      "kk": "ˋbæskɪt",
+      "zh": "購物籃",
+      "emoji": "🧺",
+      "type": "word",
+      "ex": "I only need a small basket.",
+      "exZh": "我只需要一個小籃子。"
+    },
+    {
+      "en": "aisle",
+      "kk": "aɪl",
+      "zh": "走道",
+      "emoji": "🚶‍♂️",
+      "type": "word",
+      "ex": "Milk is in aisle five.",
+      "exZh": "牛奶在第五走道。"
+    },
+    {
+      "en": "shelf",
+      "kk": "ʃɛlf",
+      "zh": "貨架",
+      "emoji": "🗄️",
+      "type": "word",
+      "ex": "The cookies are on the top shelf.",
+      "exZh": "餅乾在最上層的貨架。"
+    },
+    {
+      "en": "cashier",
+      "kk": "kæˋʃɪr",
+      "zh": "收銀員",
+      "emoji": "🧑‍💼",
+      "type": "word",
+      "ex": "The cashier gave me a bag.",
+      "exZh": "收銀員給了我一個袋子。"
+    },
+    {
+      "en": "receipt",
+      "kk": "rɪˋsit",
+      "zh": "收據；發票",
+      "emoji": "🧾",
+      "type": "word",
+      "ex": "Keep your receipt for returns.",
+      "exZh": "請留著收據以便退貨。"
+    },
+    {
+      "en": "checkout",
+      "kk": "ˋtʃɛkˏaʊt",
+      "zh": "結帳櫃台",
+      "emoji": "💰",
+      "type": "word",
+      "ex": "There is a long line at the checkout.",
+      "exZh": "結帳櫃台大排長龍。"
+    },
+    {
+      "en": "price",
+      "kk": "praɪs",
+      "zh": "價格",
+      "emoji": "🏷️",
+      "type": "word",
+      "ex": "The price is too high.",
+      "exZh": "價格太高了。"
+    },
+    {
+      "en": "discount",
+      "kk": "ˋdɪskaʊnt",
+      "zh": "折扣",
+      "emoji": "💸",
+      "type": "word",
+      "ex": "Students get a ten percent discount.",
+      "exZh": "學生可享九折優惠。"
+    },
+    {
+      "en": "coupon",
+      "kk": "ˋkupɑn",
+      "zh": "優惠券",
+      "emoji": "🎟️",
+      "type": "word",
+      "ex": "I have a coupon for this soap.",
+      "exZh": "我有這款肥皂的優惠券。"
+    },
+    {
+      "en": "expiration date",
+      "kk": "ˏɛkspəˋreʃən ˏdet",
+      "zh": "有效期限",
+      "emoji": "📅",
+      "type": "word",
+      "ex": "Check the expiration date on the milk.",
+      "exZh": "檢查一下牛奶的有效期限。"
+    },
+    {
+      "en": "milk",
+      "kk": "mɪlk",
+      "zh": "牛奶",
+      "emoji": "🥛",
+      "type": "word",
+      "ex": "We need two bottles of milk.",
+      "exZh": "我們需要兩瓶牛奶。"
+    },
+    {
+      "en": "bread",
+      "kk": "brɛd",
+      "zh": "麵包",
+      "emoji": "🍞",
+      "type": "word",
+      "ex": "I like toast with fresh bread.",
+      "exZh": "我喜歡配新鮮麵包吃吐司。"
+    },
+    {
+      "en": "egg",
+      "kk": "ɛg",
+      "zh": "蛋",
+      "emoji": "🥚",
+      "type": "word",
+      "ex": "Please buy a dozen eggs.",
+      "exZh": "請買一打雞蛋。"
+    },
+    {
+      "en": "rice",
+      "kk": "raɪs",
+      "zh": "米；米飯",
+      "emoji": "🍚",
+      "type": "word",
+      "ex": "We eat rice every day.",
+      "exZh": "我們每天都吃米飯。"
+    },
+    {
+      "en": "instant noodles",
+      "kk": "ˋɪnstənt ˋnudl̩z",
+      "zh": "泡麵",
+      "emoji": "🍜",
+      "type": "word",
+      "ex": "He eats instant noodles late at night.",
+      "exZh": "他深夜會吃泡麵。"
+    },
+    {
+      "en": "snack",
+      "kk": "snæk",
+      "zh": "點心；零食",
+      "emoji": "🍿",
+      "type": "word",
+      "ex": "Kids love sweet snacks.",
+      "exZh": "小孩子愛吃甜的零食。"
+    },
+    {
+      "en": "juice",
+      "kk": "dʒus",
+      "zh": "果汁",
+      "emoji": "🧃",
+      "type": "word",
+      "ex": "I want a box of orange juice.",
+      "exZh": "我想要一盒柳橙汁。"
+    },
+    {
+      "en": "bottled water",
+      "kk": "ˋbɑtld ˋwɔtɚ",
+      "zh": "瓶裝水",
+      "emoji": "💧",
+      "type": "word",
+      "ex": "Do you sell bottled water?",
+      "exZh": "你們有賣瓶裝水嗎？"
+    },
+    {
+      "en": "yogurt",
+      "kk": "ˋjogɚt",
+      "zh": "優格",
+      "emoji": "🥣",
+      "type": "word",
+      "ex": "I have yogurt for breakfast.",
+      "exZh": "我早餐吃優格。"
+    },
+    {
+      "en": "vegetable",
+      "kk": "ˋvɛdʒtəbl̩",
+      "zh": "蔬菜",
+      "emoji": "🥬",
+      "type": "word",
+      "ex": "Eat more vegetables every day.",
+      "exZh": "每天多吃蔬菜。"
+    },
+    {
+      "en": "meat",
+      "kk": "mit",
+      "zh": "肉",
+      "emoji": "🥩",
+      "type": "word",
+      "ex": "The meat section is in the back.",
+      "exZh": "肉品區在後面。"
+    },
+    {
+      "en": "seafood",
+      "kk": "ˋsiˏfud",
+      "zh": "海鮮",
+      "emoji": "🦐",
+      "type": "word",
+      "ex": "The seafood looks very fresh.",
+      "exZh": "這些海鮮看起來很新鮮。"
+    },
+    {
+      "en": "cheese",
+      "kk": "tʃiz",
+      "zh": "起司",
+      "emoji": "🧀",
+      "type": "word",
+      "ex": "I put cheese on my sandwich.",
+      "exZh": "我在三明治上加起司。"
+    },
+    {
+      "en": "shampoo",
+      "kk": "ʃæmˋpu",
+      "zh": "洗髮精",
+      "emoji": "🧴",
+      "type": "word",
+      "ex": "We ran out of shampoo.",
+      "exZh": "我們洗髮精用完了。"
+    },
+    {
+      "en": "toothpaste",
+      "kk": "ˋtuθˏpest",
+      "zh": "牙膏",
+      "emoji": "🪥",
+      "type": "word",
+      "ex": "Can you pick up some toothpaste?",
+      "exZh": "你可以順便買牙膏嗎？"
+    },
+    {
+      "en": "toilet paper",
+      "kk": "ˋtɔɪlɪt ˏpepɚ",
+      "zh": "衛生紙",
+      "emoji": "🧻",
+      "type": "word",
+      "ex": "Toilet paper is on sale today.",
+      "exZh": "衛生紙今天特價。"
+    },
+    {
+      "en": "detergent",
+      "kk": "dɪˋtɝdʒənt",
+      "zh": "洗衣精",
+      "emoji": "🧼",
+      "type": "word",
+      "ex": "This detergent smells like lemon.",
+      "exZh": "這款洗衣精有檸檬香味。"
+    },
+    {
+      "en": "buy one get one free",
+      "kk": "",
+      "zh": "買一送一",
+      "emoji": "🎁",
+      "type": "phrase",
+      "ex": "It is buy one get one free today.",
+      "exZh": "今天買一送一。"
+    },
+    {
+      "en": "on sale",
+      "kk": "",
+      "zh": "特價中",
+      "emoji": "🔖",
+      "type": "phrase",
+      "ex": "These shoes are on sale.",
+      "exZh": "這些鞋子正在特價。"
+    },
+    {
+      "en": "pay by card",
+      "kk": "",
+      "zh": "刷卡付款",
+      "emoji": "💳",
+      "type": "phrase",
+      "ex": "Can I pay by card here?",
+      "exZh": "我可以在這裡刷卡嗎？"
+    },
+    {
+      "en": "stand in line",
+      "kk": "",
+      "zh": "排隊",
+      "emoji": "🧍",
+      "type": "phrase",
+      "ex": "Please stand in line at the register.",
+      "exZh": "請在收銀台排隊。"
+    },
+    {
+      "en": "run out of",
+      "kk": "",
+      "zh": "用完；賣完",
+      "emoji": "🈳",
+      "type": "phrase",
+      "ex": "We ran out of eggs this morning.",
+      "exZh": "我們今天早上雞蛋用完了。"
+    },
+    {
+      "en": "heat up",
+      "kk": "",
+      "zh": "加熱",
+      "emoji": "🔥",
+      "type": "phrase",
+      "ex": "Can you heat up this lunch box?",
+      "exZh": "你可以幫我加熱這個便當嗎？"
+    },
+    {
+      "en": "pick up",
+      "kk": "",
+      "zh": "順便買；拿取",
+      "emoji": "🛍️",
+      "type": "phrase",
+      "ex": "I will pick up some fruit on the way.",
+      "exZh": "我會順路買些水果。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Where can I find the milk?",
+      "zh": "牛奶在哪裡可以找到？",
+      "note": "在超市找商品"
+    },
+    {
+      "en": "How much is this?",
+      "zh": "這個多少錢？",
+      "note": "詢問價格"
+    },
+    {
+      "en": "Do you have this in a larger size?",
+      "zh": "這個有大一點的嗎？",
+      "note": "找不同容量或尺寸"
+    },
+    {
+      "en": "Is this on sale?",
+      "zh": "這個有特價嗎？",
+      "note": "詢問是否打折"
+    },
+    {
+      "en": "I’d like a bag, please.",
+      "zh": "請給我一個袋子。",
+      "note": "結帳時要袋子"
+    },
+    {
+      "en": "Do you need a bag?",
+      "zh": "你需要袋子嗎？",
+      "note": "店員詢問顧客"
+    },
+    {
+      "en": "Can you heat this up for me?",
+      "zh": "可以幫我加熱這個嗎？",
+      "note": "在便利商店買熱食"
+    },
+    {
+      "en": "Do you accept credit cards?",
+      "zh": "你們可以刷卡嗎？",
+      "note": "確認付款方式"
+    },
+    {
+      "en": "Can I have the receipt, please?",
+      "zh": "可以給我收據嗎？",
+      "note": "結帳後索取發票"
+    },
+    {
+      "en": "Can I get a refund for this?",
+      "zh": "這個可以退費嗎？",
+      "note": "要求退貨或退款"
+    },
+    {
+      "en": "Do you have a membership card?",
+      "zh": "你有會員卡嗎？",
+      "note": "店員詢問會員"
+    },
+    {
+      "en": "Please check the expiration date.",
+      "zh": "請檢查有效期限。",
+      "note": "挑選食品時提醒"
+    },
+    {
+      "en": "Excuse me, where is the checkout?",
+      "zh": "不好意思，結帳櫃台在哪裡？",
+      "note": "找結帳處"
+    },
+    {
+      "en": "Can I pay for my package here?",
+      "zh": "我可以在這裡繳包裹的費用嗎？",
+      "note": "在便利商店取貨付款"
+    }
+  ],
+  "dialogues": [
+    {
+      "title": "在超市找東西",
+      "lines": [
+        {
+          "who": "A",
+          "en": "Excuse me, where can I find yogurt?",
+          "zh": "不好意思，請問優格在哪裡？"
+        },
+        {
+          "who": "B",
+          "en": "It is in aisle three, next to the cheese.",
+          "zh": "在第三走道，起司旁邊。"
+        },
+        {
+          "who": "A",
+          "en": "Thank you. Is it on sale today?",
+          "zh": "謝謝，今天有特價嗎？"
+        },
+        {
+          "who": "B",
+          "en": "Yes, it is buy one get one free.",
+          "zh": "有，買一送一。"
+        },
+        {
+          "who": "A",
+          "en": "Great, I will take two.",
+          "zh": "太好了，我要兩個。"
+        }
+      ]
+    },
+    {
+      "title": "在便利商店結帳",
+      "lines": [
+        {
+          "who": "A",
+          "en": "Hello. That will be one hundred and ten dollars.",
+          "zh": "你好，總共一百一十元。"
+        },
+        {
+          "who": "B",
+          "en": "Can you heat up this lunch box?",
+          "zh": "可以幫我加熱這個便當嗎？"
+        },
+        {
+          "who": "A",
+          "en": "Sure. Do you need a bag?",
+          "zh": "好的，你需要袋子嗎？"
+        },
+        {
+          "who": "B",
+          "en": "No, thanks. I have my own bag.",
+          "zh": "不用，謝謝，我有自己的袋子。"
+        },
+        {
+          "who": "A",
+          "en": "Here is your receipt.",
+          "zh": "這是你的發票。"
+        }
+      ]
+    }
+  ]
+}

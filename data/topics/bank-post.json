@@ -1,0 +1,491 @@
+{
+  "id": "bank-post",
+  "title": "Bank and Post Office",
+  "zh": "銀行與郵局",
+  "emoji": "🏦",
+  "backdrop": "city",
+  "intro": "學會在銀行辦理存提款與匯兌，以及在郵局寄信寄包裹。",
+  "words": [
+    {
+      "en": "bank",
+      "kk": "bæŋk",
+      "zh": "銀行",
+      "emoji": "🏦",
+      "type": "word",
+      "ex": "The bank closes at three thirty.",
+      "exZh": "銀行三點半關門。"
+    },
+    {
+      "en": "post office",
+      "kk": "ˋpostˏɔfɪs",
+      "zh": "郵局",
+      "emoji": "🏤",
+      "type": "word",
+      "ex": "The post office is on Main Street.",
+      "exZh": "郵局在主要大街上。"
+    },
+    {
+      "en": "ATM",
+      "kk": "ˏeˏtiˋɛm",
+      "zh": "自動提款機",
+      "emoji": "🏧",
+      "type": "word",
+      "ex": "I need to find an ATM.",
+      "exZh": "我得找一台提款機。"
+    },
+    {
+      "en": "account",
+      "kk": "əˋkaʊnt",
+      "zh": "帳戶",
+      "emoji": "📒",
+      "type": "word",
+      "ex": "I want to open a new account.",
+      "exZh": "我想開一個新帳戶。"
+    },
+    {
+      "en": "savings account",
+      "kk": "ˋsevɪŋz əˏkaʊnt",
+      "zh": "儲蓄帳戶",
+      "emoji": "🐖",
+      "type": "word",
+      "ex": "She has a savings account.",
+      "exZh": "她有一個儲蓄帳戶。"
+    },
+    {
+      "en": "deposit",
+      "kk": "dɪˋpɑzɪt",
+      "zh": "存款",
+      "emoji": "📥",
+      "type": "word",
+      "ex": "I made a deposit this morning.",
+      "exZh": "我今天早上存了一筆錢。"
+    },
+    {
+      "en": "withdraw",
+      "kk": "wɪðˋdrɔ",
+      "zh": "提款；提領",
+      "emoji": "📤",
+      "type": "word",
+      "ex": "I’d like to withdraw five thousand dollars.",
+      "exZh": "我想提領五千元。"
+    },
+    {
+      "en": "balance",
+      "kk": "ˋbæləns",
+      "zh": "餘額",
+      "emoji": "⚖️",
+      "type": "word",
+      "ex": "Please check my account balance.",
+      "exZh": "請查一下我的帳戶餘額。"
+    },
+    {
+      "en": "transfer",
+      "kk": "trænsˋfɝ",
+      "zh": "轉帳；匯款",
+      "emoji": "🔁",
+      "type": "word",
+      "ex": "I need to transfer money to my mom.",
+      "exZh": "我需要轉帳給我媽媽。"
+    },
+    {
+      "en": "cash",
+      "kk": "kæʃ",
+      "zh": "現金",
+      "emoji": "💵",
+      "type": "word",
+      "ex": "Do you have enough cash?",
+      "exZh": "你的現金夠嗎？"
+    },
+    {
+      "en": "coin",
+      "kk": "kɔɪn",
+      "zh": "硬幣",
+      "emoji": "🪙",
+      "type": "word",
+      "ex": "I have a few coins in my pocket.",
+      "exZh": "我口袋裡有幾個硬幣。"
+    },
+    {
+      "en": "banknote",
+      "kk": "ˋbæŋkˏnot",
+      "zh": "鈔票",
+      "emoji": "💴",
+      "type": "word",
+      "ex": "This banknote is torn.",
+      "exZh": "這張鈔票破了。"
+    },
+    {
+      "en": "credit card",
+      "kk": "ˋkrɛdɪt ˏkɑrd",
+      "zh": "信用卡",
+      "emoji": "💳",
+      "type": "word",
+      "ex": "I paid with my credit card.",
+      "exZh": "我用信用卡付款。"
+    },
+    {
+      "en": "interest",
+      "kk": "ˋɪntərɪst",
+      "zh": "利息",
+      "emoji": "📈",
+      "type": "word",
+      "ex": "The interest rate is very low.",
+      "exZh": "利率非常低。"
+    },
+    {
+      "en": "loan",
+      "kk": "lon",
+      "zh": "貸款",
+      "emoji": "📑",
+      "type": "word",
+      "ex": "He took out a loan to buy a house.",
+      "exZh": "他貸款買了房子。"
+    },
+    {
+      "en": "exchange rate",
+      "kk": "ɪksˋtʃendʒ ˏret",
+      "zh": "匯率",
+      "emoji": "💱",
+      "type": "word",
+      "ex": "What is today’s exchange rate?",
+      "exZh": "今天的匯率是多少？"
+    },
+    {
+      "en": "fee",
+      "kk": "fi",
+      "zh": "手續費",
+      "emoji": "🧮",
+      "type": "word",
+      "ex": "Is there a fee for this service?",
+      "exZh": "這項服務要收手續費嗎？"
+    },
+    {
+      "en": "teller",
+      "kk": "ˋtɛlɚ",
+      "zh": "行員；櫃員",
+      "emoji": "👩‍💼",
+      "type": "word",
+      "ex": "The teller counted the money.",
+      "exZh": "行員點了錢。"
+    },
+    {
+      "en": "signature",
+      "kk": "ˋsɪgnətʃɚ",
+      "zh": "簽名",
+      "emoji": "✍️",
+      "type": "word",
+      "ex": "I need your signature here.",
+      "exZh": "這裡需要您的簽名。"
+    },
+    {
+      "en": "passbook",
+      "kk": "ˋpæsˏbʊk",
+      "zh": "存摺",
+      "emoji": "📘",
+      "type": "word",
+      "ex": "I forgot to bring my passbook.",
+      "exZh": "我忘了帶存摺。"
+    },
+    {
+      "en": "stamp",
+      "kk": "stæmp",
+      "zh": "郵票",
+      "emoji": "🏷️",
+      "type": "word",
+      "ex": "I need a stamp for this letter.",
+      "exZh": "這封信需要貼一張郵票。"
+    },
+    {
+      "en": "envelope",
+      "kk": "ˋɛnvəˏlop",
+      "zh": "信封",
+      "emoji": "✉️",
+      "type": "word",
+      "ex": "Put the card in an envelope.",
+      "exZh": "把卡片放進信封裡。"
+    },
+    {
+      "en": "letter",
+      "kk": "ˋlɛtɚ",
+      "zh": "信",
+      "emoji": "💌",
+      "type": "word",
+      "ex": "I got a letter from my friend.",
+      "exZh": "我收到朋友寄來的信。"
+    },
+    {
+      "en": "postcard",
+      "kk": "ˋpostˏkɑrd",
+      "zh": "明信片",
+      "emoji": "🖼️",
+      "type": "word",
+      "ex": "She sent me a postcard from Paris.",
+      "exZh": "她從巴黎寄給我一張明信片。"
+    },
+    {
+      "en": "package",
+      "kk": "ˋpækɪdʒ",
+      "zh": "包裹",
+      "emoji": "📦",
+      "type": "word",
+      "ex": "A package is waiting for you.",
+      "exZh": "有一個包裹在等你。"
+    },
+    {
+      "en": "mail",
+      "kk": "mel",
+      "zh": "郵件",
+      "emoji": "📬",
+      "type": "word",
+      "ex": "The mail comes at noon.",
+      "exZh": "郵件中午會送到。"
+    },
+    {
+      "en": "zip code",
+      "kk": "ˋzɪp ˏkod",
+      "zh": "郵遞區號",
+      "emoji": "🔢",
+      "type": "word",
+      "ex": "Please write your zip code.",
+      "exZh": "請寫下你的郵遞區號。"
+    },
+    {
+      "en": "registered mail",
+      "kk": "ˋrɛdʒɪstɚd ˏmel",
+      "zh": "掛號信",
+      "emoji": "📨",
+      "type": "word",
+      "ex": "I want to send it by registered mail.",
+      "exZh": "我想用掛號寄出。"
+    },
+    {
+      "en": "delivery",
+      "kk": "dɪˋlɪvərɪ",
+      "zh": "遞送；配送",
+      "emoji": "🚚",
+      "type": "word",
+      "ex": "Delivery takes about three days.",
+      "exZh": "遞送大約要三天。"
+    },
+    {
+      "en": "recipient",
+      "kk": "rɪˋsɪpɪənt",
+      "zh": "收件人",
+      "emoji": "📭",
+      "type": "word",
+      "ex": "Write the recipient’s name here.",
+      "exZh": "在這裡寫上收件人的姓名。"
+    },
+    {
+      "en": "tracking number",
+      "kk": "ˋtrækɪŋ ˏnʌmbɚ",
+      "zh": "追蹤號碼",
+      "emoji": "🔎",
+      "type": "word",
+      "ex": "Here is your tracking number.",
+      "exZh": "這是您的追蹤號碼。"
+    },
+    {
+      "en": "open an account",
+      "kk": "",
+      "zh": "開戶",
+      "emoji": "🗂️",
+      "type": "phrase",
+      "ex": "I’d like to open an account.",
+      "exZh": "我想要開戶。"
+    },
+    {
+      "en": "take out money",
+      "kk": "",
+      "zh": "領錢",
+      "emoji": "🏧",
+      "type": "phrase",
+      "ex": "I need to take out some money.",
+      "exZh": "我需要領一些錢。"
+    },
+    {
+      "en": "save money",
+      "kk": "",
+      "zh": "存錢；省錢",
+      "emoji": "💰",
+      "type": "phrase",
+      "ex": "I’m trying to save money.",
+      "exZh": "我正在努力存錢。"
+    },
+    {
+      "en": "exchange money",
+      "kk": "",
+      "zh": "換錢",
+      "emoji": "🌍",
+      "type": "phrase",
+      "ex": "Where can I exchange money?",
+      "exZh": "我可以在哪裡換錢？"
+    },
+    {
+      "en": "mail a letter",
+      "kk": "",
+      "zh": "寄信",
+      "emoji": "📮",
+      "type": "phrase",
+      "ex": "I need to mail a letter today.",
+      "exZh": "我今天需要寄一封信。"
+    },
+    {
+      "en": "send a package",
+      "kk": "",
+      "zh": "寄包裹",
+      "emoji": "📤",
+      "type": "phrase",
+      "ex": "I want to send a package to Japan.",
+      "exZh": "我想寄一個包裹到日本。"
+    },
+    {
+      "en": "sign your name",
+      "kk": "",
+      "zh": "簽名",
+      "emoji": "🖊️",
+      "type": "phrase",
+      "ex": "Please sign your name below.",
+      "exZh": "請在下方簽名。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "I’d like to open an account.",
+      "zh": "我想要開戶。",
+      "note": "在銀行開新帳戶"
+    },
+    {
+      "en": "I’d like to deposit this check.",
+      "zh": "我想存入這張支票。",
+      "note": "存款時"
+    },
+    {
+      "en": "I’d like to withdraw some money.",
+      "zh": "我想領一些錢。",
+      "note": "提款時"
+    },
+    {
+      "en": "Could you check my account balance?",
+      "zh": "你可以查一下我的帳戶餘額嗎？",
+      "note": "查詢餘額"
+    },
+    {
+      "en": "How much is the transfer fee?",
+      "zh": "轉帳手續費多少？",
+      "note": "詢問費用"
+    },
+    {
+      "en": "What is the exchange rate for U.S. dollars today?",
+      "zh": "今天美元的匯率是多少？",
+      "note": "換外幣時"
+    },
+    {
+      "en": "Could you break this into smaller bills?",
+      "zh": "你可以把這張換成小鈔嗎？",
+      "note": "需要零錢時"
+    },
+    {
+      "en": "Do I need to fill out a form?",
+      "zh": "我需要填表格嗎？",
+      "note": "辦理手續時"
+    },
+    {
+      "en": "Please sign here and show your ID.",
+      "zh": "請在這裡簽名並出示證件。",
+      "note": "行員請客戶辦理"
+    },
+    {
+      "en": "My card is stuck in the ATM.",
+      "zh": "我的卡被提款機吃掉了。",
+      "note": "提款機出狀況"
+    },
+    {
+      "en": "I’d like to send this package to Japan.",
+      "zh": "我想把這個包裹寄到日本。",
+      "note": "在郵局寄包裹"
+    },
+    {
+      "en": "How long will it take to arrive?",
+      "zh": "要多久才會寄到？",
+      "note": "詢問寄送時間"
+    },
+    {
+      "en": "How much is the postage?",
+      "zh": "郵資多少錢？",
+      "note": "詢問郵資"
+    },
+    {
+      "en": "Could I have two stamps, please?",
+      "zh": "請給我兩張郵票。",
+      "note": "買郵票"
+    },
+    {
+      "en": "Can I track this package online?",
+      "zh": "我可以在網路上追蹤這個包裹嗎？",
+      "note": "詢問包裹查詢方式"
+    }
+  ],
+  "dialogues": [
+    {
+      "title": "在銀行開戶",
+      "lines": [
+        {
+          "who": "A",
+          "en": "Hello. I’d like to open an account.",
+          "zh": "您好，我想開戶。"
+        },
+        {
+          "who": "B",
+          "en": "Sure. May I see your ID?",
+          "zh": "好的，可以看一下您的證件嗎？"
+        },
+        {
+          "who": "A",
+          "en": "Here you are. Is there a fee?",
+          "zh": "在這裡。要收手續費嗎？"
+        },
+        {
+          "who": "B",
+          "en": "No fee. Please fill out this form and sign your name.",
+          "zh": "不用，請填寫這張表格並簽名。"
+        },
+        {
+          "who": "A",
+          "en": "Thank you. Here is your passbook.",
+          "zh": "謝謝，這是您的存摺。"
+        }
+      ]
+    },
+    {
+      "title": "在郵局寄包裹",
+      "lines": [
+        {
+          "who": "A",
+          "en": "Hi. I’d like to send this package to Japan.",
+          "zh": "嗨，我想把這個包裹寄到日本。"
+        },
+        {
+          "who": "B",
+          "en": "Let me weigh it. It will be eight hundred dollars.",
+          "zh": "我來秤重，一共八百元。"
+        },
+        {
+          "who": "A",
+          "en": "How long will it take?",
+          "zh": "要多久會寄到？"
+        },
+        {
+          "who": "B",
+          "en": "About five days. Here is your tracking number.",
+          "zh": "大約五天，這是您的追蹤號碼。"
+        },
+        {
+          "who": "A",
+          "en": "Great, thank you.",
+          "zh": "太好了，謝謝。"
+        }
+      ]
+    }
+  ]
+}

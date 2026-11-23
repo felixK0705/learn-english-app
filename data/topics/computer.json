@@ -1,0 +1,476 @@
+{
+  "id": "computer",
+  "title": "Computers and the Internet",
+  "zh": "電腦與網路",
+  "emoji": "💻",
+  "backdrop": "office",
+  "intro": "學會電腦設備和上網操作的英文，讓使用科技更得心應手。",
+  "words": [
+    {
+      "en": "computer",
+      "kk": "kəmˋpjutɚ",
+      "zh": "電腦",
+      "emoji": "🖥️",
+      "type": "word",
+      "ex": "I use the computer to do homework.",
+      "exZh": "我用電腦寫作業。"
+    },
+    {
+      "en": "laptop",
+      "kk": "ˋlæpˏtɑp",
+      "zh": "筆記型電腦",
+      "emoji": "💻",
+      "type": "word",
+      "ex": "He carries his laptop to school.",
+      "exZh": "他帶著筆記型電腦去學校。"
+    },
+    {
+      "en": "tablet",
+      "kk": "ˋtæblɪt",
+      "zh": "平板電腦",
+      "emoji": "📱",
+      "type": "word",
+      "ex": "She reads books on a tablet.",
+      "exZh": "她用平板電腦看書。"
+    },
+    {
+      "en": "keyboard",
+      "kk": "ˋkiˏbord",
+      "zh": "鍵盤",
+      "emoji": "⌨️",
+      "type": "word",
+      "ex": "This keyboard is easy to type on.",
+      "exZh": "這個鍵盤很好打字。"
+    },
+    {
+      "en": "mouse",
+      "kk": "ˋmaʊs",
+      "zh": "滑鼠",
+      "emoji": "🖱️",
+      "type": "word",
+      "ex": "Click the left button of the mouse.",
+      "exZh": "按滑鼠的左鍵。"
+    },
+    {
+      "en": "monitor",
+      "kk": "ˋmɑnətɚ",
+      "zh": "螢幕；顯示器",
+      "emoji": "🖥",
+      "type": "word",
+      "ex": "The monitor is too bright.",
+      "exZh": "螢幕太亮了。"
+    },
+    {
+      "en": "printer",
+      "kk": "ˋprɪntɚ",
+      "zh": "印表機",
+      "emoji": "🖨️",
+      "type": "word",
+      "ex": "The printer is out of paper.",
+      "exZh": "印表機沒紙了。"
+    },
+    {
+      "en": "headphones",
+      "kk": "ˋhɛdˏfonz",
+      "zh": "耳機",
+      "emoji": "🎧",
+      "type": "word",
+      "ex": "Put on your headphones, please.",
+      "exZh": "請戴上你的耳機。"
+    },
+    {
+      "en": "webcam",
+      "kk": "ˋwɛbˏkæm",
+      "zh": "網路攝影機",
+      "emoji": "📹",
+      "type": "word",
+      "ex": "Turn on your webcam for the meeting.",
+      "exZh": "開會請打開你的網路攝影機。"
+    },
+    {
+      "en": "cable",
+      "kk": "ˋkebl̩",
+      "zh": "傳輸線；電線",
+      "emoji": "🔌",
+      "type": "word",
+      "ex": "This cable is too short.",
+      "exZh": "這條線太短了。"
+    },
+    {
+      "en": "charger",
+      "kk": "ˋtʃɑrdʒɚ",
+      "zh": "充電器",
+      "emoji": "🔋",
+      "type": "word",
+      "ex": "Where is my phone charger?",
+      "exZh": "我的手機充電器在哪裡？"
+    },
+    {
+      "en": "battery",
+      "kk": "ˋbætərɪ",
+      "zh": "電池",
+      "emoji": "🪫",
+      "type": "word",
+      "ex": "The battery is almost dead.",
+      "exZh": "電池快沒電了。"
+    },
+    {
+      "en": "USB drive",
+      "kk": "ˏjuɛsˋbi ˏdraɪv",
+      "zh": "隨身碟",
+      "emoji": "💾",
+      "type": "word",
+      "ex": "I saved the file on a USB drive.",
+      "exZh": "我把檔案存在隨身碟裡。"
+    },
+    {
+      "en": "file",
+      "kk": "ˋfaɪl",
+      "zh": "檔案",
+      "emoji": "📁",
+      "type": "word",
+      "ex": "Please open the file on the desktop.",
+      "exZh": "請打開桌面上的檔案。"
+    },
+    {
+      "en": "document",
+      "kk": "ˋdɑkjəmənt",
+      "zh": "文件",
+      "emoji": "📄",
+      "type": "word",
+      "ex": "I am typing a document.",
+      "exZh": "我正在打一份文件。"
+    },
+    {
+      "en": "icon",
+      "kk": "ˋaɪkɑn",
+      "zh": "圖示",
+      "emoji": "🔣",
+      "type": "word",
+      "ex": "Click the icon to start the program.",
+      "exZh": "點一下圖示來啟動程式。"
+    },
+    {
+      "en": "screen",
+      "kk": "ˋskrin",
+      "zh": "螢幕畫面",
+      "emoji": "📺",
+      "type": "word",
+      "ex": "My screen suddenly turned black.",
+      "exZh": "我的螢幕突然變黑了。"
+    },
+    {
+      "en": "button",
+      "kk": "ˋbʌtn̩",
+      "zh": "按鈕",
+      "emoji": "🔘",
+      "type": "word",
+      "ex": "Press the red button to stop.",
+      "exZh": "按紅色按鈕來停止。"
+    },
+    {
+      "en": "app",
+      "kk": "ˋæp",
+      "zh": "應用程式",
+      "emoji": "📲",
+      "type": "word",
+      "ex": "I downloaded a new app.",
+      "exZh": "我下載了一個新的應用程式。"
+    },
+    {
+      "en": "software",
+      "kk": "ˋsɔftˏwɛr",
+      "zh": "軟體",
+      "emoji": "🧰",
+      "type": "word",
+      "ex": "This software is free to use.",
+      "exZh": "這個軟體可以免費使用。"
+    },
+    {
+      "en": "browser",
+      "kk": "ˋbraʊzɚ",
+      "zh": "瀏覽器",
+      "emoji": "🌐",
+      "type": "word",
+      "ex": "Open your browser and search.",
+      "exZh": "打開瀏覽器去搜尋。"
+    },
+    {
+      "en": "website",
+      "kk": "ˋwɛbˏsaɪt",
+      "zh": "網站",
+      "emoji": "🕸",
+      "type": "word",
+      "ex": "This website has many English games.",
+      "exZh": "這個網站有很多英文遊戲。"
+    },
+    {
+      "en": "link",
+      "kk": "ˋlɪŋk",
+      "zh": "連結",
+      "emoji": "🔗",
+      "type": "word",
+      "ex": "Click the link in the message.",
+      "exZh": "點擊訊息裡的連結。"
+    },
+    {
+      "en": "internet",
+      "kk": "ˋɪntɚˏnɛt",
+      "zh": "網際網路",
+      "emoji": "📡",
+      "type": "word",
+      "ex": "The internet is slow today.",
+      "exZh": "今天網路很慢。"
+    },
+    {
+      "en": "Wi-Fi",
+      "kk": "ˋwaɪˏfaɪ",
+      "zh": "無線網路",
+      "emoji": "📶",
+      "type": "word",
+      "ex": "Is there Wi-Fi in this cafe?",
+      "exZh": "這家咖啡廳有無線網路嗎？"
+    },
+    {
+      "en": "email",
+      "kk": "ˋiˏmel",
+      "zh": "電子郵件",
+      "emoji": "📧",
+      "type": "word",
+      "ex": "I will send you an email tonight.",
+      "exZh": "我今晚會寄電子郵件給你。"
+    },
+    {
+      "en": "password",
+      "kk": "ˋpæsˏwɝd",
+      "zh": "密碼",
+      "emoji": "🔑",
+      "type": "word",
+      "ex": "Do not tell anyone your password.",
+      "exZh": "不要告訴任何人你的密碼。"
+    },
+    {
+      "en": "username",
+      "kk": "ˋjuzɚˏnem",
+      "zh": "使用者名稱",
+      "emoji": "🪪",
+      "type": "word",
+      "ex": "Please type your username here.",
+      "exZh": "請在這裡輸入你的使用者名稱。"
+    },
+    {
+      "en": "turn on",
+      "kk": "",
+      "zh": "打開（電源）",
+      "emoji": "🟢",
+      "type": "phrase",
+      "ex": "Turn on the computer first.",
+      "exZh": "先把電腦打開。"
+    },
+    {
+      "en": "shut down",
+      "kk": "",
+      "zh": "關機",
+      "emoji": "🔴",
+      "type": "phrase",
+      "ex": "Please shut down the computer when you finish.",
+      "exZh": "用完請把電腦關機。"
+    },
+    {
+      "en": "log in",
+      "kk": "",
+      "zh": "登入",
+      "emoji": "🔐",
+      "type": "phrase",
+      "ex": "You must log in with your password.",
+      "exZh": "你必須用密碼登入。"
+    },
+    {
+      "en": "log out",
+      "kk": "",
+      "zh": "登出",
+      "emoji": "🚪",
+      "type": "phrase",
+      "ex": "Do not forget to log out.",
+      "exZh": "別忘了登出。"
+    },
+    {
+      "en": "click on",
+      "kk": "",
+      "zh": "點擊",
+      "emoji": "👆",
+      "type": "phrase",
+      "ex": "Click on the picture to enlarge it.",
+      "exZh": "點擊圖片可以放大。"
+    },
+    {
+      "en": "scroll down",
+      "kk": "",
+      "zh": "往下捲動",
+      "emoji": "⬇️",
+      "type": "phrase",
+      "ex": "Scroll down to read more.",
+      "exZh": "往下捲動來看更多。"
+    },
+    {
+      "en": "sign up",
+      "kk": "",
+      "zh": "註冊",
+      "emoji": "📝",
+      "type": "phrase",
+      "ex": "You can sign up for free.",
+      "exZh": "你可以免費註冊。"
+    },
+    {
+      "en": "search for",
+      "kk": "",
+      "zh": "搜尋",
+      "emoji": "🔎",
+      "type": "phrase",
+      "ex": "I searched for a recipe online.",
+      "exZh": "我在網路上搜尋了一份食譜。"
+    },
+    {
+      "en": "copy and paste",
+      "kk": "",
+      "zh": "複製並貼上",
+      "emoji": "📋",
+      "type": "phrase",
+      "ex": "Copy and paste the text here.",
+      "exZh": "把文字複製並貼到這裡。"
+    },
+    {
+      "en": "connect to Wi-Fi",
+      "kk": "",
+      "zh": "連上無線網路",
+      "emoji": "🛜",
+      "type": "phrase",
+      "ex": "How do I connect to Wi-Fi?",
+      "exZh": "我要怎麼連上無線網路？"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "How do I connect to the Wi-Fi?",
+      "zh": "我要怎麼連上無線網路？",
+      "note": "到新地方想上網時"
+    },
+    {
+      "en": "What is the Wi-Fi password?",
+      "zh": "無線網路密碼是什麼？",
+      "note": "詢問密碼"
+    },
+    {
+      "en": "My computer is not working.",
+      "zh": "我的電腦壞了。",
+      "note": "尋求協助時"
+    },
+    {
+      "en": "The screen is frozen.",
+      "zh": "螢幕當機了。",
+      "note": "電腦卡住時"
+    },
+    {
+      "en": "Could you help me print this file?",
+      "zh": "你可以幫我列印這個檔案嗎？",
+      "note": "請別人幫忙印東西"
+    },
+    {
+      "en": "Please save your work often.",
+      "zh": "請經常存檔。",
+      "note": "提醒備份"
+    },
+    {
+      "en": "I will send you the link.",
+      "zh": "我會把連結寄給你。",
+      "note": "分享網址"
+    },
+    {
+      "en": "Let me check my email.",
+      "zh": "讓我看一下我的電子郵件。",
+      "note": "查看信件前"
+    },
+    {
+      "en": "Can you hear me? Please turn on your microphone.",
+      "zh": "你聽得到我嗎？請打開麥克風。",
+      "note": "視訊會議時"
+    },
+    {
+      "en": "The battery is low. I need a charger.",
+      "zh": "電量不足，我需要充電器。",
+      "note": "手機或電腦沒電時"
+    },
+    {
+      "en": "Do not click on strange links.",
+      "zh": "不要點奇怪的連結。",
+      "note": "提醒網路安全"
+    },
+    {
+      "en": "Where can I download this app?",
+      "zh": "我可以在哪裡下載這個應用程式？",
+      "note": "詢問如何取得程式"
+    },
+    {
+      "en": "I forgot my password.",
+      "zh": "我忘記密碼了。",
+      "note": "登入失敗時"
+    },
+    {
+      "en": "The internet is very slow today.",
+      "zh": "今天網路很慢。",
+      "note": "抱怨網速"
+    }
+  ],
+  "dialogues": [
+    {
+      "title": "電腦出問題",
+      "lines": [
+        {
+          "who": "A",
+          "en": "My computer will not turn on.",
+          "zh": "我的電腦打不開。"
+        },
+        {
+          "who": "B",
+          "en": "Is it plugged in?",
+          "zh": "有插電嗎？"
+        },
+        {
+          "who": "A",
+          "en": "Oh, the cable came out. Thanks!",
+          "zh": "噢，電線掉了。謝謝！"
+        },
+        {
+          "who": "B",
+          "en": "No problem. Now it works.",
+          "zh": "不客氣，現在可以用了。"
+        }
+      ]
+    },
+    {
+      "title": "在咖啡廳上網",
+      "lines": [
+        {
+          "who": "A",
+          "en": "Excuse me, is there Wi-Fi here?",
+          "zh": "不好意思，這裡有無線網路嗎？"
+        },
+        {
+          "who": "B",
+          "en": "Yes. The password is on the menu.",
+          "zh": "有，密碼在菜單上。"
+        },
+        {
+          "who": "A",
+          "en": "Thank you. Could I also charge my phone?",
+          "zh": "謝謝，我也可以幫手機充電嗎？"
+        },
+        {
+          "who": "B",
+          "en": "Sure. The outlet is by the window.",
+          "zh": "可以，插座在窗邊。"
+        }
+      ]
+    }
+  ]
+}

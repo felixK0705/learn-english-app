@@ -1,0 +1,468 @@
+{
+  "id": "feelings",
+  "title": "Feelings",
+  "zh": "情緒與感受",
+  "emoji": "😊",
+  "backdrop": "park",
+  "intro": "學會說出自己和別人的心情與感受。",
+  "words": [
+    {
+      "en": "happy",
+      "kk": "ˋhæpɪ",
+      "zh": "快樂的",
+      "emoji": "😀",
+      "type": "word",
+      "ex": "I am happy today.",
+      "exZh": "我今天很快樂。"
+    },
+    {
+      "en": "sad",
+      "kk": "sæd",
+      "zh": "難過的",
+      "emoji": "😢",
+      "type": "word",
+      "ex": "She felt sad when he left.",
+      "exZh": "他離開時她覺得難過。"
+    },
+    {
+      "en": "angry",
+      "kk": "ˋæŋɡrɪ",
+      "zh": "生氣的",
+      "emoji": "😠",
+      "type": "word",
+      "ex": "Dad was angry about the mess.",
+      "exZh": "爸爸對這團亂很生氣。"
+    },
+    {
+      "en": "afraid",
+      "kk": "əˋfred",
+      "zh": "害怕的",
+      "emoji": "😨",
+      "type": "word",
+      "ex": "Are you afraid of the dark?",
+      "exZh": "你怕黑嗎？"
+    },
+    {
+      "en": "scared",
+      "kk": "skɛrd",
+      "zh": "驚嚇的；害怕的",
+      "emoji": "😱",
+      "type": "word",
+      "ex": "The loud noise scared the cat.",
+      "exZh": "巨大的聲響嚇到了貓。"
+    },
+    {
+      "en": "nervous",
+      "kk": "ˋnɝvəs",
+      "zh": "緊張的",
+      "emoji": "😬",
+      "type": "word",
+      "ex": "I am nervous before a test.",
+      "exZh": "考試前我會緊張。"
+    },
+    {
+      "en": "excited",
+      "kk": "ɪkˋsaɪtɪd",
+      "zh": "興奮的",
+      "emoji": "🤩",
+      "type": "word",
+      "ex": "We are excited about the trip.",
+      "exZh": "我們對這趟旅行感到興奮。"
+    },
+    {
+      "en": "tired",
+      "kk": "taɪrd",
+      "zh": "疲倦的",
+      "emoji": "😴",
+      "type": "word",
+      "ex": "I am tired after school.",
+      "exZh": "放學後我覺得累。"
+    },
+    {
+      "en": "sleepy",
+      "kk": "ˋslipɪ",
+      "zh": "想睡的",
+      "emoji": "🥱",
+      "type": "word",
+      "ex": "The baby looks sleepy.",
+      "exZh": "寶寶看起來想睡了。"
+    },
+    {
+      "en": "hungry",
+      "kk": "ˋhʌŋɡrɪ",
+      "zh": "餓的",
+      "emoji": "🤤",
+      "type": "word",
+      "ex": "I am so hungry now.",
+      "exZh": "我現在好餓。"
+    },
+    {
+      "en": "thirsty",
+      "kk": "ˋθɝstɪ",
+      "zh": "口渴的",
+      "emoji": "🥤",
+      "type": "word",
+      "ex": "He is thirsty after running.",
+      "exZh": "他跑完步後很渴。"
+    },
+    {
+      "en": "bored",
+      "kk": "bɔrd",
+      "zh": "無聊的",
+      "emoji": "😑",
+      "type": "word",
+      "ex": "I am bored at home.",
+      "exZh": "我待在家很無聊。"
+    },
+    {
+      "en": "surprised",
+      "kk": "sɚˋpraɪzd",
+      "zh": "驚訝的",
+      "emoji": "😲",
+      "type": "word",
+      "ex": "She was surprised by the gift.",
+      "exZh": "她對這份禮物感到驚訝。"
+    },
+    {
+      "en": "worried",
+      "kk": "ˋwɝɪd",
+      "zh": "擔心的",
+      "emoji": "😟",
+      "type": "word",
+      "ex": "Mom is worried about my cold.",
+      "exZh": "媽媽擔心我的感冒。"
+    },
+    {
+      "en": "lonely",
+      "kk": "ˋlonlɪ",
+      "zh": "孤單的",
+      "emoji": "🥺",
+      "type": "word",
+      "ex": "He feels lonely in a new city.",
+      "exZh": "他在新城市覺得孤單。"
+    },
+    {
+      "en": "proud",
+      "kk": "praud",
+      "zh": "驕傲的；自豪的",
+      "emoji": "😌",
+      "type": "word",
+      "ex": "I am proud of my team.",
+      "exZh": "我以我的團隊為榮。"
+    },
+    {
+      "en": "shy",
+      "kk": "ʃaɪ",
+      "zh": "害羞的",
+      "emoji": "😳",
+      "type": "word",
+      "ex": "The little girl is shy.",
+      "exZh": "那個小女孩很害羞。"
+    },
+    {
+      "en": "calm",
+      "kk": "kɑm",
+      "zh": "冷靜的",
+      "emoji": "😌",
+      "type": "word",
+      "ex": "Please stay calm.",
+      "exZh": "請保持冷靜。"
+    },
+    {
+      "en": "jealous",
+      "kk": "ˋdʒɛləs",
+      "zh": "嫉妒的",
+      "emoji": "😒",
+      "type": "word",
+      "ex": "He was jealous of his brother.",
+      "exZh": "他嫉妒他哥哥。"
+    },
+    {
+      "en": "upset",
+      "kk": "ʌpˋsɛt",
+      "zh": "心煩的；不開心的",
+      "emoji": "😞",
+      "type": "word",
+      "ex": "She is upset about her grade.",
+      "exZh": "她對自己的成績感到不開心。"
+    },
+    {
+      "en": "embarrassed",
+      "kk": "ɪmˋbærəst",
+      "zh": "尷尬的",
+      "emoji": "🫣",
+      "type": "word",
+      "ex": "I was embarrassed in front of everyone.",
+      "exZh": "我在大家面前覺得尷尬。"
+    },
+    {
+      "en": "grateful",
+      "kk": "ˋɡretfəl",
+      "zh": "感激的",
+      "emoji": "🙏",
+      "type": "word",
+      "ex": "I am grateful for your help.",
+      "exZh": "我很感激你的幫忙。"
+    },
+    {
+      "en": "feel",
+      "kk": "fil",
+      "zh": "感覺",
+      "emoji": "💭",
+      "type": "word",
+      "ex": "How do you feel today?",
+      "exZh": "你今天感覺如何？"
+    },
+    {
+      "en": "smile",
+      "kk": "smaɪl",
+      "zh": "微笑",
+      "emoji": "😄",
+      "type": "word",
+      "ex": "She has a lovely smile.",
+      "exZh": "她有可愛的笑容。"
+    },
+    {
+      "en": "cry",
+      "kk": "kraɪ",
+      "zh": "哭",
+      "emoji": "😭",
+      "type": "word",
+      "ex": "The baby began to cry.",
+      "exZh": "嬰兒開始哭了。"
+    },
+    {
+      "en": "laugh",
+      "kk": "læf",
+      "zh": "笑；大笑",
+      "emoji": "😂",
+      "type": "word",
+      "ex": "We laughed at the joke.",
+      "exZh": "我們被那個笑話逗笑了。"
+    },
+    {
+      "en": "mood",
+      "kk": "mud",
+      "zh": "心情；情緒",
+      "emoji": "🎭",
+      "type": "word",
+      "ex": "He is in a good mood.",
+      "exZh": "他心情很好。"
+    },
+    {
+      "en": "hug",
+      "kk": "hʌɡ",
+      "zh": "擁抱",
+      "emoji": "🤗",
+      "type": "word",
+      "ex": "Give me a big hug.",
+      "exZh": "給我一個大大的擁抱。"
+    },
+    {
+      "en": "be in a good mood",
+      "kk": "",
+      "zh": "心情好",
+      "emoji": "🎶",
+      "type": "phrase",
+      "ex": "Dad is in a good mood today.",
+      "exZh": "爸爸今天心情很好。"
+    },
+    {
+      "en": "cheer up",
+      "kk": "",
+      "zh": "振作起來；打起精神",
+      "emoji": "💪",
+      "type": "phrase",
+      "ex": "Cheer up! Things will get better.",
+      "exZh": "打起精神來！事情會好轉的。"
+    },
+    {
+      "en": "calm down",
+      "kk": "",
+      "zh": "冷靜下來",
+      "emoji": "🧘",
+      "type": "phrase",
+      "ex": "Calm down and take a deep breath.",
+      "exZh": "冷靜下來，深呼吸。"
+    },
+    {
+      "en": "burst into tears",
+      "kk": "",
+      "zh": "突然大哭",
+      "emoji": "💦",
+      "type": "phrase",
+      "ex": "She burst into tears at the news.",
+      "exZh": "她聽到消息後突然大哭。"
+    },
+    {
+      "en": "feel like",
+      "kk": "",
+      "zh": "想要",
+      "emoji": "🤔",
+      "type": "phrase",
+      "ex": "I feel like eating ice cream.",
+      "exZh": "我想吃冰淇淋。"
+    },
+    {
+      "en": "get on my nerves",
+      "kk": "",
+      "zh": "惹我心煩",
+      "emoji": "😤",
+      "type": "phrase",
+      "ex": "Loud noise gets on my nerves.",
+      "exZh": "吵鬧聲讓我心煩。"
+    },
+    {
+      "en": "be afraid of",
+      "kk": "",
+      "zh": "害怕…",
+      "emoji": "🕷️",
+      "type": "phrase",
+      "ex": "I am afraid of spiders.",
+      "exZh": "我怕蜘蛛。"
+    },
+    {
+      "en": "butterflies in my stomach",
+      "kk": "",
+      "zh": "緊張得七上八下",
+      "emoji": "🦋",
+      "type": "phrase",
+      "ex": "I have butterflies in my stomach.",
+      "exZh": "我緊張得七上八下。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "How are you feeling today?",
+      "zh": "你今天感覺如何？",
+      "note": "關心對方心情時"
+    },
+    {
+      "en": "I am so happy to see you.",
+      "zh": "見到你我好開心。",
+      "note": "表達開心時"
+    },
+    {
+      "en": "Why are you sad?",
+      "zh": "你為什麼難過？",
+      "note": "關心難過的人時"
+    },
+    {
+      "en": "I feel a little nervous.",
+      "zh": "我覺得有點緊張。",
+      "note": "說明自己緊張時"
+    },
+    {
+      "en": "Do not be afraid.",
+      "zh": "別害怕。",
+      "note": "安慰對方時"
+    },
+    {
+      "en": "Cheer up! It will be okay.",
+      "zh": "打起精神！會沒事的。",
+      "note": "鼓勵心情低落的人時"
+    },
+    {
+      "en": "I am tired and I want to sleep.",
+      "zh": "我累了，想睡覺。",
+      "note": "表達疲倦時"
+    },
+    {
+      "en": "I am very proud of you.",
+      "zh": "我真為你感到驕傲。",
+      "note": "稱讚對方時"
+    },
+    {
+      "en": "That makes me angry.",
+      "zh": "那讓我很生氣。",
+      "note": "表達不滿時"
+    },
+    {
+      "en": "I am sorry you feel that way.",
+      "zh": "聽到你這麼覺得我很難過。",
+      "note": "表達同情時"
+    },
+    {
+      "en": "What a nice surprise!",
+      "zh": "真是個驚喜！",
+      "note": "收到意外的驚喜時"
+    },
+    {
+      "en": "I am bored. Let us do something fun.",
+      "zh": "我好無聊，我們找點好玩的事做吧。",
+      "note": "覺得無聊時"
+    },
+    {
+      "en": "Calm down and tell me what happened.",
+      "zh": "冷靜下來，告訴我發生什麼事。",
+      "note": "對方情緒激動時"
+    },
+    {
+      "en": "I feel much better now.",
+      "zh": "我現在好多了。",
+      "note": "心情或身體好轉時"
+    },
+    {
+      "en": "Thank you. I am really grateful.",
+      "zh": "謝謝你，我真的很感激。",
+      "note": "表達感謝時"
+    }
+  ],
+  "dialogues": [
+    {
+      "title": "安慰朋友",
+      "lines": [
+        {
+          "who": "A",
+          "en": "You look sad. What is wrong?",
+          "zh": "你看起來很難過，怎麼了？"
+        },
+        {
+          "who": "B",
+          "en": "I failed my math test.",
+          "zh": "我數學考試不及格。"
+        },
+        {
+          "who": "A",
+          "en": "Cheer up! You can try again next time.",
+          "zh": "打起精神！下次再試一次。"
+        },
+        {
+          "who": "B",
+          "en": "Thanks. I feel a little better now.",
+          "zh": "謝謝，我現在好多了。"
+        }
+      ]
+    },
+    {
+      "title": "考試前",
+      "lines": [
+        {
+          "who": "A",
+          "en": "I am so nervous about the speech.",
+          "zh": "我對演講好緊張。"
+        },
+        {
+          "who": "B",
+          "en": "Take a deep breath and calm down.",
+          "zh": "深呼吸，冷靜下來。"
+        },
+        {
+          "who": "A",
+          "en": "I have butterflies in my stomach.",
+          "zh": "我緊張得七上八下。"
+        },
+        {
+          "who": "B",
+          "en": "You practiced a lot. I am sure you will do well.",
+          "zh": "你練習很多次了，我相信你會表現得很好。"
+        },
+        {
+          "who": "A",
+          "en": "Thank you for cheering me on.",
+          "zh": "謝謝你幫我加油。"
+        }
+      ]
+    }
+  ]
+}

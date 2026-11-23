@@ -1,0 +1,477 @@
+{
+  "id": "directions",
+  "title": "Directions",
+  "zh": "問路與方向",
+  "emoji": "🧭",
+  "backdrop": "street",
+  "intro": "學會用英文問路、指路，以及描述位置與方向。",
+  "words": [
+    {
+      "en": "left",
+      "kk": "lɛft",
+      "zh": "左邊",
+      "emoji": "⬅️",
+      "type": "word",
+      "ex": "The bank is on your left.",
+      "exZh": "銀行在你的左邊。"
+    },
+    {
+      "en": "right",
+      "kk": "raɪt",
+      "zh": "右邊",
+      "emoji": "➡️",
+      "type": "word",
+      "ex": "Turn right at the next light.",
+      "exZh": "在下一個紅綠燈右轉。"
+    },
+    {
+      "en": "straight",
+      "kk": "stret",
+      "zh": "直的；直接地",
+      "emoji": "⬆️",
+      "type": "word",
+      "ex": "Go straight for two blocks.",
+      "exZh": "直走兩個街區。"
+    },
+    {
+      "en": "corner",
+      "kk": "ˋkɔrnɚ",
+      "zh": "轉角；街角",
+      "emoji": "📐",
+      "type": "word",
+      "ex": "The shop is on that corner.",
+      "exZh": "那間店就在那個轉角。"
+    },
+    {
+      "en": "intersection",
+      "kk": "ˏɪntɚˋsɛkʃən",
+      "zh": "十字路口",
+      "emoji": "🔀",
+      "type": "word",
+      "ex": "Turn left at the intersection.",
+      "exZh": "在十字路口左轉。"
+    },
+    {
+      "en": "block",
+      "kk": "blɑk",
+      "zh": "街區",
+      "emoji": "🧱",
+      "type": "word",
+      "ex": "It is three blocks from here.",
+      "exZh": "從這裡過去有三個街區。"
+    },
+    {
+      "en": "crosswalk",
+      "kk": "ˋkrɔsˏwɔk",
+      "zh": "斑馬線",
+      "emoji": "🚸",
+      "type": "word",
+      "ex": "Use the crosswalk to cross the road.",
+      "exZh": "請走斑馬線過馬路。"
+    },
+    {
+      "en": "street",
+      "kk": "strit",
+      "zh": "街道",
+      "emoji": "🛤️",
+      "type": "word",
+      "ex": "Which street is the hotel on?",
+      "exZh": "飯店在哪一條街上？"
+    },
+    {
+      "en": "road",
+      "kk": "rod",
+      "zh": "馬路；道路",
+      "emoji": "🏞️",
+      "type": "word",
+      "ex": "This road leads to the lake.",
+      "exZh": "這條路通往湖邊。"
+    },
+    {
+      "en": "map",
+      "kk": "mæp",
+      "zh": "地圖",
+      "emoji": "🗺️",
+      "type": "word",
+      "ex": "Can you show me on the map?",
+      "exZh": "你可以在地圖上指給我看嗎？"
+    },
+    {
+      "en": "direction",
+      "kk": "dɪˋrɛkʃən",
+      "zh": "方向",
+      "emoji": "🧭",
+      "type": "word",
+      "ex": "We are going in the wrong direction.",
+      "exZh": "我們走錯方向了。"
+    },
+    {
+      "en": "sign",
+      "kk": "saɪn",
+      "zh": "標誌；路標",
+      "emoji": "🪧",
+      "type": "word",
+      "ex": "Follow the signs to the exit.",
+      "exZh": "跟著標誌走到出口。"
+    },
+    {
+      "en": "landmark",
+      "kk": "ˋlændˏmɑrk",
+      "zh": "地標",
+      "emoji": "🏰",
+      "type": "word",
+      "ex": "The old castle is a famous landmark.",
+      "exZh": "那座古堡是有名的地標。"
+    },
+    {
+      "en": "north",
+      "kk": "norθ",
+      "zh": "北方",
+      "emoji": "🔼",
+      "type": "word",
+      "ex": "The station is north of the park.",
+      "exZh": "車站在公園的北邊。"
+    },
+    {
+      "en": "south",
+      "kk": "saʊθ",
+      "zh": "南方",
+      "emoji": "🔽",
+      "type": "word",
+      "ex": "We drove south along the coast.",
+      "exZh": "我們沿著海岸往南開。"
+    },
+    {
+      "en": "east",
+      "kk": "ist",
+      "zh": "東方",
+      "emoji": "▶️",
+      "type": "word",
+      "ex": "The sun rises in the east.",
+      "exZh": "太陽從東方升起。"
+    },
+    {
+      "en": "west",
+      "kk": "wɛst",
+      "zh": "西方",
+      "emoji": "◀️",
+      "type": "word",
+      "ex": "The beach is on the west side.",
+      "exZh": "海灘在西邊。"
+    },
+    {
+      "en": "distance",
+      "kk": "ˋdɪstəns",
+      "zh": "距離",
+      "emoji": "📏",
+      "type": "word",
+      "ex": "What is the distance to the airport?",
+      "exZh": "到機場的距離有多遠？"
+    },
+    {
+      "en": "far",
+      "kk": "fɑr",
+      "zh": "遠的",
+      "emoji": "🔭",
+      "type": "word",
+      "ex": "Is the museum far from here?",
+      "exZh": "博物館離這裡遠嗎？"
+    },
+    {
+      "en": "near",
+      "kk": "nɪr",
+      "zh": "近的；在…附近",
+      "emoji": "🤏",
+      "type": "word",
+      "ex": "Is there a bus stop near here?",
+      "exZh": "這附近有公車站嗎？"
+    },
+    {
+      "en": "opposite",
+      "kk": "ˋɑpəzɪt",
+      "zh": "對面的",
+      "emoji": "🔄",
+      "type": "word",
+      "ex": "The café is opposite the library.",
+      "exZh": "咖啡廳在圖書館對面。"
+    },
+    {
+      "en": "across",
+      "kk": "əˋkrɔs",
+      "zh": "在…對面；穿越",
+      "emoji": "↔️",
+      "type": "word",
+      "ex": "The park is across the street.",
+      "exZh": "公園就在街的對面。"
+    },
+    {
+      "en": "behind",
+      "kk": "bɪˋhaɪnd",
+      "zh": "在…後面",
+      "emoji": "🔙",
+      "type": "word",
+      "ex": "The parking lot is behind the building.",
+      "exZh": "停車場在大樓後面。"
+    },
+    {
+      "en": "between",
+      "kk": "bɪˋtwin",
+      "zh": "在…之間",
+      "emoji": "🥪",
+      "type": "word",
+      "ex": "The bakery is between two banks.",
+      "exZh": "麵包店在兩間銀行之間。"
+    },
+    {
+      "en": "beside",
+      "kk": "bɪˋsaɪd",
+      "zh": "在…旁邊",
+      "emoji": "🧍",
+      "type": "word",
+      "ex": "The bus stop is beside the school.",
+      "exZh": "公車站就在學校旁邊。"
+    },
+    {
+      "en": "address",
+      "kk": "əˋdrɛs",
+      "zh": "地址",
+      "emoji": "🏠",
+      "type": "word",
+      "ex": "Could you write down the address?",
+      "exZh": "你可以把地址寫下來嗎？"
+    },
+    {
+      "en": "GPS",
+      "kk": "ˏdʒiˏpiˋɛs",
+      "zh": "衛星導航",
+      "emoji": "📡",
+      "type": "word",
+      "ex": "I use GPS to find the way.",
+      "exZh": "我用衛星導航找路。"
+    },
+    {
+      "en": "entrance",
+      "kk": "ˋɛntrəns",
+      "zh": "入口",
+      "emoji": "🚪",
+      "type": "word",
+      "ex": "Meet me at the main entrance.",
+      "exZh": "在大門入口跟我碰面。"
+    },
+    {
+      "en": "exit",
+      "kk": "ˋɛgzɪt",
+      "zh": "出口",
+      "emoji": "🏃",
+      "type": "word",
+      "ex": "Take exit three to the street.",
+      "exZh": "從三號出口出去就是街上。"
+    },
+    {
+      "en": "turn left",
+      "kk": "",
+      "zh": "左轉",
+      "emoji": "👈",
+      "type": "phrase",
+      "ex": "Turn left at the second light.",
+      "exZh": "在第二個紅綠燈左轉。"
+    },
+    {
+      "en": "turn right",
+      "kk": "",
+      "zh": "右轉",
+      "emoji": "👉",
+      "type": "phrase",
+      "ex": "Turn right after the bank.",
+      "exZh": "過了銀行後右轉。"
+    },
+    {
+      "en": "go straight",
+      "kk": "",
+      "zh": "直走",
+      "emoji": "⏫",
+      "type": "phrase",
+      "ex": "Go straight and you will see it.",
+      "exZh": "直走就會看到了。"
+    },
+    {
+      "en": "next to",
+      "kk": "",
+      "zh": "在…隔壁；緊鄰",
+      "emoji": "🔗",
+      "type": "phrase",
+      "ex": "The post office is next to the bank.",
+      "exZh": "郵局緊鄰著銀行。"
+    },
+    {
+      "en": "in front of",
+      "kk": "",
+      "zh": "在…前面",
+      "emoji": "👆",
+      "type": "phrase",
+      "ex": "Wait in front of the station.",
+      "exZh": "在車站前面等我。"
+    },
+    {
+      "en": "cross the street",
+      "kk": "",
+      "zh": "過馬路",
+      "emoji": "🚶‍♀️",
+      "type": "phrase",
+      "ex": "Look both ways before you cross the street.",
+      "exZh": "過馬路前要先看兩邊。"
+    },
+    {
+      "en": "get lost",
+      "kk": "",
+      "zh": "迷路",
+      "emoji": "❓",
+      "type": "phrase",
+      "ex": "I think we got lost.",
+      "exZh": "我想我們迷路了。"
+    },
+    {
+      "en": "around the corner",
+      "kk": "",
+      "zh": "在轉角處",
+      "emoji": "🔃",
+      "type": "phrase",
+      "ex": "The pharmacy is just around the corner.",
+      "exZh": "藥局就在轉角那裡。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Excuse me, how do I get to the station?",
+      "zh": "不好意思，請問車站怎麼走？",
+      "note": "向路人問路"
+    },
+    {
+      "en": "Could you tell me where the post office is?",
+      "zh": "你能告訴我郵局在哪裡嗎？",
+      "note": "禮貌地問路"
+    },
+    {
+      "en": "Is it far from here?",
+      "zh": "離這裡遠嗎？",
+      "note": "確認距離"
+    },
+    {
+      "en": "Can I walk there?",
+      "zh": "我可以走路到那裡嗎？",
+      "note": "確認是否步行可達"
+    },
+    {
+      "en": "Go straight for two blocks and turn left.",
+      "zh": "直走兩個街區後左轉。",
+      "note": "指路時"
+    },
+    {
+      "en": "You can’t miss it.",
+      "zh": "你一定找得到。",
+      "note": "安慰對方不會走錯"
+    },
+    {
+      "en": "It is on your right, next to the bank.",
+      "zh": "它在你的右邊，銀行隔壁。",
+      "note": "說明確切位置"
+    },
+    {
+      "en": "I think I’m lost. Can you help me?",
+      "zh": "我好像迷路了，你可以幫我嗎？",
+      "note": "迷路求助時"
+    },
+    {
+      "en": "Which way is the exit?",
+      "zh": "出口往哪個方向？",
+      "note": "在大型建築裡找出口"
+    },
+    {
+      "en": "Can you show me on the map?",
+      "zh": "你可以在地圖上指給我看嗎？",
+      "note": "請對方用地圖說明"
+    },
+    {
+      "en": "How long does it take on foot?",
+      "zh": "走路要多久？",
+      "note": "詢問步行時間"
+    },
+    {
+      "en": "Walk past the traffic light and you will see it.",
+      "zh": "走過紅綠燈就會看到了。",
+      "note": "指路時"
+    },
+    {
+      "en": "I’m looking for this address.",
+      "zh": "我在找這個地址。",
+      "note": "拿著地址問路"
+    },
+    {
+      "en": "Sorry, I’m not from around here.",
+      "zh": "抱歉，我不是本地人。",
+      "note": "無法幫忙指路時"
+    }
+  ],
+  "dialogues": [
+    {
+      "title": "問路去圖書館",
+      "lines": [
+        {
+          "who": "A",
+          "en": "Excuse me, where is the library?",
+          "zh": "不好意思，圖書館在哪裡？"
+        },
+        {
+          "who": "B",
+          "en": "Go straight and turn left at the intersection.",
+          "zh": "直走，在十字路口左轉。"
+        },
+        {
+          "who": "A",
+          "en": "Is it far from here?",
+          "zh": "離這裡遠嗎？"
+        },
+        {
+          "who": "B",
+          "en": "No, it is only two blocks away, next to the bank.",
+          "zh": "不遠，只有兩個街區，在銀行隔壁。"
+        },
+        {
+          "who": "A",
+          "en": "Thank you very much!",
+          "zh": "非常感謝！"
+        }
+      ]
+    },
+    {
+      "title": "迷路了",
+      "lines": [
+        {
+          "who": "A",
+          "en": "I think I’m lost. Can you help me?",
+          "zh": "我好像迷路了，可以幫我嗎？"
+        },
+        {
+          "who": "B",
+          "en": "Sure. Where do you want to go?",
+          "zh": "當然，你想去哪裡？"
+        },
+        {
+          "who": "A",
+          "en": "I’m looking for this address.",
+          "zh": "我在找這個地址。"
+        },
+        {
+          "who": "B",
+          "en": "It is around the corner, across from the cinema.",
+          "zh": "就在轉角，電影院對面。"
+        },
+        {
+          "who": "A",
+          "en": "Great, I see it now. Thanks!",
+          "zh": "太好了，我看到了，謝謝！"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,468 @@
+{
+  "id": "fast-food",
+  "title": "Fast Food",
+  "zh": "速食店點餐",
+  "emoji": "🍔",
+  "backdrop": "restaurant",
+  "intro": "在速食店點套餐、客製餐點、選擇內用或外帶的實用英文。",
+  "words": [
+    {
+      "en": "burger",
+      "kk": "ˋbɝgɚ",
+      "zh": "漢堡",
+      "emoji": "🍔",
+      "type": "word",
+      "ex": "I would like a burger, please.",
+      "exZh": "我要一個漢堡。"
+    },
+    {
+      "en": "cheeseburger",
+      "kk": "ˋtʃizˏbɝgɚ",
+      "zh": "起司漢堡",
+      "emoji": "🍔",
+      "type": "word",
+      "ex": "One cheeseburger without onions.",
+      "exZh": "一個起司漢堡，不要洋蔥。"
+    },
+    {
+      "en": "fries",
+      "kk": "fraɪz",
+      "zh": "薯條",
+      "emoji": "🍟",
+      "type": "word",
+      "ex": "Do you want fries with that?",
+      "exZh": "你的餐點要加薯條嗎？"
+    },
+    {
+      "en": "nuggets",
+      "kk": "ˋnʌgɪts",
+      "zh": "雞塊",
+      "emoji": "🍗",
+      "type": "word",
+      "ex": "A box of six nuggets, please.",
+      "exZh": "請給我一盒六塊雞塊。"
+    },
+    {
+      "en": "hot dog",
+      "kk": "ˋhɑtˏdɔg",
+      "zh": "熱狗",
+      "emoji": "🌭",
+      "type": "word",
+      "ex": "He ate a hot dog at the game.",
+      "exZh": "他在比賽時吃了一個熱狗。"
+    },
+    {
+      "en": "onion rings",
+      "kk": "ˋʌnjən rɪŋz",
+      "zh": "洋蔥圈",
+      "emoji": "🧅",
+      "type": "word",
+      "ex": "The onion rings are crunchy.",
+      "exZh": "洋蔥圈酥酥脆脆的。"
+    },
+    {
+      "en": "taco",
+      "kk": "ˋtɑko",
+      "zh": "墨西哥捲餅",
+      "emoji": "🌮",
+      "type": "word",
+      "ex": "I will have two tacos.",
+      "exZh": "我要兩個墨西哥捲餅。"
+    },
+    {
+      "en": "wrap",
+      "kk": "ræp",
+      "zh": "捲餅",
+      "emoji": "🌯",
+      "type": "word",
+      "ex": "A chicken wrap is lighter than a burger.",
+      "exZh": "雞肉捲餅比漢堡清爽。"
+    },
+    {
+      "en": "sundae",
+      "kk": "ˋsʌnde",
+      "zh": "聖代",
+      "emoji": "🍨",
+      "type": "word",
+      "ex": "She ordered a chocolate sundae.",
+      "exZh": "她點了一個巧克力聖代。"
+    },
+    {
+      "en": "milkshake",
+      "kk": "ˋmɪlkˏʃek",
+      "zh": "奶昔",
+      "emoji": "🥤",
+      "type": "word",
+      "ex": "A strawberry milkshake, please.",
+      "exZh": "請給我一杯草莓奶昔。"
+    },
+    {
+      "en": "cone",
+      "kk": "kon",
+      "zh": "甜筒；錐形筒",
+      "emoji": "🍦",
+      "type": "word",
+      "ex": "A vanilla cone is only twenty dollars.",
+      "exZh": "香草甜筒只要二十元。"
+    },
+    {
+      "en": "ketchup",
+      "kk": "ˋkɛtʃəp",
+      "zh": "番茄醬",
+      "emoji": "🍅",
+      "type": "word",
+      "ex": "Can I have more ketchup?",
+      "exZh": "我可以多要一些番茄醬嗎？"
+    },
+    {
+      "en": "mustard",
+      "kk": "ˋmʌstɚd",
+      "zh": "黃芥末醬",
+      "emoji": "🌭",
+      "type": "word",
+      "ex": "Mustard goes on hot dogs.",
+      "exZh": "黃芥末醬是配熱狗的。"
+    },
+    {
+      "en": "mayonnaise",
+      "kk": "ˏmeəˋnez",
+      "zh": "美乃滋",
+      "emoji": "🥫",
+      "type": "word",
+      "ex": "I do not like mayonnaise.",
+      "exZh": "我不喜歡美乃滋。"
+    },
+    {
+      "en": "combo",
+      "kk": "ˋkɑmbo",
+      "zh": "套餐",
+      "emoji": "🍱",
+      "type": "word",
+      "ex": "I will take the combo.",
+      "exZh": "我要點套餐。"
+    },
+    {
+      "en": "size",
+      "kk": "saɪz",
+      "zh": "尺寸；大小",
+      "emoji": "📏",
+      "type": "word",
+      "ex": "What size would you like?",
+      "exZh": "你想要什麼尺寸？"
+    },
+    {
+      "en": "small",
+      "kk": "smɔl",
+      "zh": "小的",
+      "emoji": "🥤",
+      "type": "word",
+      "ex": "I will have a small cola.",
+      "exZh": "我要一杯小杯可樂。"
+    },
+    {
+      "en": "medium",
+      "kk": "ˋmidɪəm",
+      "zh": "中的",
+      "emoji": "🥤",
+      "type": "word",
+      "ex": "A medium fries, please.",
+      "exZh": "請給我一份中薯。"
+    },
+    {
+      "en": "large",
+      "kk": "lɑrdʒ",
+      "zh": "大的",
+      "emoji": "🥤",
+      "type": "word",
+      "ex": "Make the drink large.",
+      "exZh": "飲料要換大杯。"
+    },
+    {
+      "en": "refill",
+      "kk": "ˋriˏfɪl",
+      "zh": "續杯；再裝滿",
+      "emoji": "🥤",
+      "type": "word",
+      "ex": "Soft drinks come with free refills.",
+      "exZh": "汽水可以免費續杯。"
+    },
+    {
+      "en": "lid",
+      "kk": "lɪd",
+      "zh": "杯蓋；蓋子",
+      "emoji": "🥤",
+      "type": "word",
+      "ex": "Please put a lid on the cup.",
+      "exZh": "請幫我蓋上杯蓋。"
+    },
+    {
+      "en": "tray",
+      "kk": "tre",
+      "zh": "餐盤；托盤",
+      "emoji": "🍽️",
+      "type": "word",
+      "ex": "Put your tray on the table.",
+      "exZh": "把你的餐盤放在桌上。"
+    },
+    {
+      "en": "counter",
+      "kk": "ˋkaʊntɚ",
+      "zh": "櫃檯",
+      "emoji": "🛎️",
+      "type": "word",
+      "ex": "Order at the counter.",
+      "exZh": "請在櫃檯點餐。"
+    },
+    {
+      "en": "cashier",
+      "kk": "kæˋʃɪr",
+      "zh": "收銀員",
+      "emoji": "🧑‍💼",
+      "type": "word",
+      "ex": "The cashier gave me the receipt.",
+      "exZh": "收銀員給了我收據。"
+    },
+    {
+      "en": "coupon",
+      "kk": "ˋkupɑn",
+      "zh": "優惠券",
+      "emoji": "🎟️",
+      "type": "word",
+      "ex": "I have a coupon for a free drink.",
+      "exZh": "我有一張免費飲料的優惠券。"
+    },
+    {
+      "en": "drive-thru",
+      "kk": "ˋdraɪvˏθru",
+      "zh": "得來速",
+      "emoji": "🚗",
+      "type": "word",
+      "ex": "We got dinner at the drive-thru.",
+      "exZh": "我們在得來速買了晚餐。"
+    },
+    {
+      "en": "takeout",
+      "kk": "ˋtekˏaʊt",
+      "zh": "外帶",
+      "emoji": "🥡",
+      "type": "word",
+      "ex": "Takeout is faster than eating in.",
+      "exZh": "外帶比內用快。"
+    },
+    {
+      "en": "delivery",
+      "kk": "dɪˋlɪvərɪ",
+      "zh": "外送",
+      "emoji": "🛵",
+      "type": "word",
+      "ex": "Delivery takes about thirty minutes.",
+      "exZh": "外送大約要三十分鐘。"
+    },
+    {
+      "en": "app",
+      "kk": "æp",
+      "zh": "手機應用程式",
+      "emoji": "📱",
+      "type": "word",
+      "ex": "You can order through the app.",
+      "exZh": "你可以用 app 點餐。"
+    },
+    {
+      "en": "fried chicken",
+      "kk": "",
+      "zh": "炸雞",
+      "emoji": "🍗",
+      "type": "phrase",
+      "ex": "The fried chicken is hot and crispy.",
+      "exZh": "炸雞又熱又酥脆。"
+    },
+    {
+      "en": "for here or to go",
+      "kk": "",
+      "zh": "內用還是外帶",
+      "emoji": "🛍️",
+      "type": "phrase",
+      "ex": "For here or to go?",
+      "exZh": "內用還是外帶？"
+    },
+    {
+      "en": "make it a combo",
+      "kk": "",
+      "zh": "換成套餐",
+      "emoji": "🍱",
+      "type": "phrase",
+      "ex": "Can you make it a combo?",
+      "exZh": "可以幫我換成套餐嗎？"
+    },
+    {
+      "en": "hold the onions",
+      "kk": "",
+      "zh": "不要加洋蔥",
+      "emoji": "🚫",
+      "type": "phrase",
+      "ex": "A burger, and hold the onions.",
+      "exZh": "一個漢堡，不要洋蔥。"
+    },
+    {
+      "en": "extra ketchup",
+      "kk": "",
+      "zh": "多加番茄醬",
+      "emoji": "🍅",
+      "type": "phrase",
+      "ex": "I would like extra ketchup, please.",
+      "exZh": "請多給我一些番茄醬。"
+    },
+    {
+      "en": "free refill",
+      "kk": "",
+      "zh": "免費續杯",
+      "emoji": "🥤",
+      "type": "phrase",
+      "ex": "The drinks come with a free refill.",
+      "exZh": "飲料可以免費續杯。"
+    },
+    {
+      "en": "pick up the order",
+      "kk": "",
+      "zh": "取餐",
+      "emoji": "🛍️",
+      "type": "phrase",
+      "ex": "I am here to pick up the order.",
+      "exZh": "我來取餐。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Hi, can I get a cheeseburger combo?",
+      "zh": "嗨，我可以點一份起司漢堡套餐嗎？",
+      "note": "點套餐時"
+    },
+    {
+      "en": "What would you like to drink?",
+      "zh": "你想喝什麼飲料？",
+      "note": "店員詢問時"
+    },
+    {
+      "en": "A medium cola, please.",
+      "zh": "請給我中杯可樂。",
+      "note": "選飲料時"
+    },
+    {
+      "en": "Can I get that without pickles?",
+      "zh": "可以不要酸黃瓜嗎？",
+      "note": "客製餐點時"
+    },
+    {
+      "en": "Would you like fries with that?",
+      "zh": "要搭配薯條嗎？",
+      "note": "店員推薦時"
+    },
+    {
+      "en": "Can I upgrade to a large?",
+      "zh": "我可以升級成大的嗎？",
+      "note": "想升級尺寸時"
+    },
+    {
+      "en": "For here or to go?",
+      "zh": "內用還是外帶？",
+      "note": "店員詢問時"
+    },
+    {
+      "en": "It is for here.",
+      "zh": "內用。",
+      "note": "選擇內用時"
+    },
+    {
+      "en": "Is that everything?",
+      "zh": "這樣就好了嗎？",
+      "note": "店員確認時"
+    },
+    {
+      "en": "That is all, thanks.",
+      "zh": "這樣就好，謝謝。",
+      "note": "點完餐時"
+    },
+    {
+      "en": "Do you take credit cards?",
+      "zh": "你們收信用卡嗎？",
+      "note": "結帳時"
+    },
+    {
+      "en": "Could I get some extra napkins?",
+      "zh": "可以多給我一些紙巾嗎？",
+      "note": "需要紙巾時"
+    },
+    {
+      "en": "Is my order ready yet?",
+      "zh": "我的餐點好了嗎？",
+      "note": "等候取餐時"
+    },
+    {
+      "en": "I have a coupon. Can I use it?",
+      "zh": "我有優惠券，可以使用嗎？",
+      "note": "使用優惠時"
+    },
+    {
+      "en": "Where can I get a refill?",
+      "zh": "哪裡可以續杯？",
+      "note": "想再裝飲料時"
+    }
+  ],
+  "dialogues": [
+    {
+      "title": "在櫃檯點餐",
+      "lines": [
+        {
+          "who": "A",
+          "en": "Welcome! What can I get for you?",
+          "zh": "歡迎光臨！要點什麼？"
+        },
+        {
+          "who": "B",
+          "en": "One burger combo, please.",
+          "zh": "請給我一份漢堡套餐。"
+        },
+        {
+          "who": "A",
+          "en": "Would you like to make it large?",
+          "zh": "要換成大份嗎？"
+        },
+        {
+          "who": "B",
+          "en": "No, medium is fine. For here, please.",
+          "zh": "不用，中份就好，內用。"
+        },
+        {
+          "who": "A",
+          "en": "Okay. Your order number is fifteen.",
+          "zh": "好的，您的號碼是十五號。"
+        }
+      ]
+    },
+    {
+      "title": "得來速",
+      "lines": [
+        {
+          "who": "A",
+          "en": "Hello. I would like six nuggets and a small cola.",
+          "zh": "你好，我要六塊雞塊和一杯小可樂。"
+        },
+        {
+          "who": "B",
+          "en": "Anything else?",
+          "zh": "還需要什麼嗎？"
+        },
+        {
+          "who": "A",
+          "en": "I would like extra ketchup, please.",
+          "zh": "請多給我一些番茄醬。"
+        },
+        {
+          "who": "B",
+          "en": "Please drive to the first window.",
+          "zh": "請開到第一個窗口。"
+        }
+      ]
+    }
+  ]
+}

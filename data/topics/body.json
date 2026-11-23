@@ -1,0 +1,459 @@
+{
+  "id": "body",
+  "title": "The Body",
+  "zh": "身體",
+  "emoji": "🧍",
+  "backdrop": "hospital",
+  "intro": "認識身體各部位，並學會說明哪裡不舒服。",
+  "words": [
+    {
+      "en": "head",
+      "kk": "hɛd",
+      "zh": "頭",
+      "emoji": "🗣️",
+      "type": "word",
+      "ex": "I hit my head on the door.",
+      "exZh": "我的頭撞到門了。"
+    },
+    {
+      "en": "hair",
+      "kk": "hɛr",
+      "zh": "頭髮",
+      "emoji": "💇",
+      "type": "word",
+      "ex": "She has long black hair.",
+      "exZh": "她有一頭黑色長髮。"
+    },
+    {
+      "en": "face",
+      "kk": "fes",
+      "zh": "臉",
+      "emoji": "🙂",
+      "type": "word",
+      "ex": "Wash your face before bed.",
+      "exZh": "睡前要洗臉。"
+    },
+    {
+      "en": "eye",
+      "kk": "aɪ",
+      "zh": "眼睛",
+      "emoji": "👁️",
+      "type": "word",
+      "ex": "He closed one eye.",
+      "exZh": "他閉上一隻眼睛。"
+    },
+    {
+      "en": "ear",
+      "kk": "ɪr",
+      "zh": "耳朵",
+      "emoji": "👂",
+      "type": "word",
+      "ex": "My left ear hurts.",
+      "exZh": "我的左耳會痛。"
+    },
+    {
+      "en": "nose",
+      "kk": "noz",
+      "zh": "鼻子",
+      "emoji": "👃",
+      "type": "word",
+      "ex": "Her nose is red from the cold.",
+      "exZh": "她的鼻子因為冷而發紅。"
+    },
+    {
+      "en": "mouth",
+      "kk": "mauθ",
+      "zh": "嘴巴",
+      "emoji": "👄",
+      "type": "word",
+      "ex": "Open your mouth, please.",
+      "exZh": "請張開嘴巴。"
+    },
+    {
+      "en": "tooth",
+      "kk": "tuθ",
+      "zh": "牙齒",
+      "emoji": "🦷",
+      "type": "word",
+      "ex": "I lost a tooth yesterday.",
+      "exZh": "我昨天掉了一顆牙。"
+    },
+    {
+      "en": "tongue",
+      "kk": "tʌŋ",
+      "zh": "舌頭",
+      "emoji": "👅",
+      "type": "word",
+      "ex": "Do not burn your tongue.",
+      "exZh": "不要燙到舌頭。"
+    },
+    {
+      "en": "neck",
+      "kk": "nɛk",
+      "zh": "脖子",
+      "emoji": "🦒",
+      "type": "word",
+      "ex": "My neck is stiff.",
+      "exZh": "我的脖子很僵硬。"
+    },
+    {
+      "en": "shoulder",
+      "kk": "ˋʃoldɚ",
+      "zh": "肩膀",
+      "emoji": "🤷",
+      "type": "word",
+      "ex": "He carries a bag on his shoulder.",
+      "exZh": "他肩上揹著一個包包。"
+    },
+    {
+      "en": "arm",
+      "kk": "ɑrm",
+      "zh": "手臂",
+      "emoji": "💪",
+      "type": "word",
+      "ex": "I hurt my arm in gym class.",
+      "exZh": "我在體育課弄傷了手臂。"
+    },
+    {
+      "en": "elbow",
+      "kk": "ˋɛlbo",
+      "zh": "手肘",
+      "emoji": "🦾",
+      "type": "word",
+      "ex": "Do not put your elbows on the table.",
+      "exZh": "不要把手肘放在桌上。"
+    },
+    {
+      "en": "hand",
+      "kk": "hænd",
+      "zh": "手",
+      "emoji": "✋",
+      "type": "word",
+      "ex": "Raise your hand to answer.",
+      "exZh": "回答問題請舉手。"
+    },
+    {
+      "en": "finger",
+      "kk": "ˋfɪŋɡɚ",
+      "zh": "手指",
+      "emoji": "☝️",
+      "type": "word",
+      "ex": "I cut my finger with a knife.",
+      "exZh": "我被刀子割到手指。"
+    },
+    {
+      "en": "thumb",
+      "kk": "θʌm",
+      "zh": "拇指",
+      "emoji": "👍",
+      "type": "word",
+      "ex": "He gave me a thumbs up.",
+      "exZh": "他對我比了個讚。"
+    },
+    {
+      "en": "chest",
+      "kk": "tʃɛst",
+      "zh": "胸膛；胸部",
+      "emoji": "🫁",
+      "type": "word",
+      "ex": "My chest feels tight.",
+      "exZh": "我覺得胸口很悶。"
+    },
+    {
+      "en": "back",
+      "kk": "bæk",
+      "zh": "背",
+      "emoji": "🔙",
+      "type": "word",
+      "ex": "My back hurts after sitting all day.",
+      "exZh": "我坐了一整天後背很痛。"
+    },
+    {
+      "en": "stomach",
+      "kk": "ˋstʌmək",
+      "zh": "胃；肚子",
+      "emoji": "🤢",
+      "type": "word",
+      "ex": "My stomach hurts.",
+      "exZh": "我的肚子痛。"
+    },
+    {
+      "en": "leg",
+      "kk": "lɛɡ",
+      "zh": "腿",
+      "emoji": "🦵",
+      "type": "word",
+      "ex": "She broke her leg skiing.",
+      "exZh": "她滑雪時摔斷了腿。"
+    },
+    {
+      "en": "knee",
+      "kk": "ni",
+      "zh": "膝蓋",
+      "emoji": "🦿",
+      "type": "word",
+      "ex": "I fell and hurt my knee.",
+      "exZh": "我跌倒傷到膝蓋。"
+    },
+    {
+      "en": "foot",
+      "kk": "fut",
+      "zh": "腳",
+      "emoji": "🦶",
+      "type": "word",
+      "ex": "My left foot is cold.",
+      "exZh": "我的左腳很冰。"
+    },
+    {
+      "en": "toe",
+      "kk": "to",
+      "zh": "腳趾",
+      "emoji": "🐾",
+      "type": "word",
+      "ex": "He hit his toe on a chair.",
+      "exZh": "他的腳趾撞到了椅子。"
+    },
+    {
+      "en": "skin",
+      "kk": "skɪn",
+      "zh": "皮膚",
+      "emoji": "🧴",
+      "type": "word",
+      "ex": "Sunscreen protects your skin.",
+      "exZh": "防曬乳能保護你的皮膚。"
+    },
+    {
+      "en": "bone",
+      "kk": "bon",
+      "zh": "骨頭",
+      "emoji": "🦴",
+      "type": "word",
+      "ex": "Milk is good for your bones.",
+      "exZh": "牛奶對骨頭有益。"
+    },
+    {
+      "en": "heart",
+      "kk": "hɑrt",
+      "zh": "心臟",
+      "emoji": "🫀",
+      "type": "word",
+      "ex": "Her heart beats fast.",
+      "exZh": "她的心跳很快。"
+    },
+    {
+      "en": "brain",
+      "kk": "bren",
+      "zh": "大腦",
+      "emoji": "🧠",
+      "type": "word",
+      "ex": "Sleep is good for the brain.",
+      "exZh": "睡眠對大腦有益。"
+    },
+    {
+      "en": "body",
+      "kk": "ˋbɑdɪ",
+      "zh": "身體",
+      "emoji": "🧍",
+      "type": "word",
+      "ex": "Exercise is good for your body.",
+      "exZh": "運動對你的身體有益。"
+    },
+    {
+      "en": "wash your hands",
+      "kk": "",
+      "zh": "洗手",
+      "emoji": "🧼",
+      "type": "phrase",
+      "ex": "Wash your hands before lunch.",
+      "exZh": "午餐前要洗手。"
+    },
+    {
+      "en": "brush your teeth",
+      "kk": "",
+      "zh": "刷牙",
+      "emoji": "🪥",
+      "type": "phrase",
+      "ex": "I brush my teeth twice a day.",
+      "exZh": "我一天刷牙兩次。"
+    },
+    {
+      "en": "stretch out",
+      "kk": "",
+      "zh": "伸展",
+      "emoji": "🤸",
+      "type": "phrase",
+      "ex": "Stretch out your arms slowly.",
+      "exZh": "慢慢把手臂伸展開來。"
+    },
+    {
+      "en": "hurt",
+      "kk": "hɝt",
+      "zh": "疼痛；弄傷",
+      "emoji": "🤕",
+      "type": "word",
+      "ex": "My feet hurt after the hike.",
+      "exZh": "健行後我的腳很痛。"
+    },
+    {
+      "en": "have a headache",
+      "kk": "",
+      "zh": "頭痛",
+      "emoji": "😖",
+      "type": "phrase",
+      "ex": "I have a headache today.",
+      "exZh": "我今天頭痛。"
+    },
+    {
+      "en": "turn your head",
+      "kk": "",
+      "zh": "轉頭",
+      "emoji": "↩️",
+      "type": "phrase",
+      "ex": "Turn your head to the left.",
+      "exZh": "請把頭轉向左邊。"
+    },
+    {
+      "en": "shake your body",
+      "kk": "",
+      "zh": "擺動身體",
+      "emoji": "💃",
+      "type": "phrase",
+      "ex": "Shake your body to the music.",
+      "exZh": "隨著音樂擺動你的身體。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "What is wrong?",
+      "zh": "怎麼了？",
+      "note": "關心對方不舒服時"
+    },
+    {
+      "en": "My head hurts.",
+      "zh": "我頭痛。",
+      "note": "說明頭部不舒服時"
+    },
+    {
+      "en": "I have a pain in my back.",
+      "zh": "我的背很痛。",
+      "note": "說明哪裡疼痛時"
+    },
+    {
+      "en": "Where does it hurt?",
+      "zh": "哪裡會痛？",
+      "note": "醫生或家人詢問痛處時"
+    },
+    {
+      "en": "It hurts right here.",
+      "zh": "就痛在這裡。",
+      "note": "指出痛的位置時"
+    },
+    {
+      "en": "Open your mouth and say ah.",
+      "zh": "張開嘴巴說「啊」。",
+      "note": "看醫生檢查喉嚨時"
+    },
+    {
+      "en": "Please raise your right hand.",
+      "zh": "請舉起你的右手。",
+      "note": "課堂或遊戲指令時"
+    },
+    {
+      "en": "Touch your toes.",
+      "zh": "碰你的腳趾。",
+      "note": "做體操或遊戲時"
+    },
+    {
+      "en": "Wash your hands before you eat.",
+      "zh": "吃飯前要洗手。",
+      "note": "提醒衛生習慣時"
+    },
+    {
+      "en": "I need to brush my teeth.",
+      "zh": "我要去刷牙。",
+      "note": "準備睡覺或出門前"
+    },
+    {
+      "en": "Be careful with your knee.",
+      "zh": "小心你的膝蓋。",
+      "note": "提醒對方注意受傷處時"
+    },
+    {
+      "en": "She has beautiful eyes.",
+      "zh": "她有一雙漂亮的眼睛。",
+      "note": "稱讚別人外貌時"
+    },
+    {
+      "en": "Stand up straight and keep your back straight.",
+      "zh": "站直，背要挺直。",
+      "note": "提醒姿勢時"
+    },
+    {
+      "en": "My foot is asleep.",
+      "zh": "我的腳麻了。",
+      "note": "形容肢體發麻時"
+    },
+    {
+      "en": "Keep your body warm.",
+      "zh": "要保持身體溫暖。",
+      "note": "提醒天冷保暖時"
+    }
+  ],
+  "dialogues": [
+    {
+      "title": "看醫生",
+      "lines": [
+        {
+          "who": "A",
+          "en": "What is wrong?",
+          "zh": "怎麼了？"
+        },
+        {
+          "who": "B",
+          "en": "My stomach hurts, and I have a headache.",
+          "zh": "我肚子痛，而且頭也痛。"
+        },
+        {
+          "who": "A",
+          "en": "Open your mouth and say ah.",
+          "zh": "張開嘴巴說「啊」。"
+        },
+        {
+          "who": "B",
+          "en": "Ah. Is it serious?",
+          "zh": "啊。嚴重嗎？"
+        },
+        {
+          "who": "A",
+          "en": "No. Rest and drink more water.",
+          "zh": "不嚴重。多休息，多喝水。"
+        }
+      ]
+    },
+    {
+      "title": "體育課",
+      "lines": [
+        {
+          "who": "A",
+          "en": "Touch your toes, class.",
+          "zh": "同學們，碰你們的腳趾。"
+        },
+        {
+          "who": "B",
+          "en": "Ouch! My back hurts.",
+          "zh": "噢！我的背好痛。"
+        },
+        {
+          "who": "A",
+          "en": "Stop and sit down. Do not hurt yourself.",
+          "zh": "停下來坐下，不要弄傷自己。"
+        },
+        {
+          "who": "B",
+          "en": "Thank you, Ms. Lin.",
+          "zh": "謝謝林老師。"
+        }
+      ]
+    }
+  ]
+}

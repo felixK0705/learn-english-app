@@ -1,0 +1,468 @@
+{
+  "id": "plants",
+  "title": "Plants and Flowers",
+  "zh": "植物與花",
+  "emoji": "🌻",
+  "backdrop": "garden",
+  "intro": "認識花草樹木的各部分，學會描述種植與照顧植物。",
+  "words": [
+    {
+      "en": "plant",
+      "kk": "plænt",
+      "zh": "植物；種植",
+      "emoji": "🪴",
+      "type": "word",
+      "ex": "I water the plant every day.",
+      "exZh": "我每天幫植物澆水。"
+    },
+    {
+      "en": "flower",
+      "kk": "ˋflaʊɚ",
+      "zh": "花",
+      "emoji": "🌸",
+      "type": "word",
+      "ex": "She picked a yellow flower.",
+      "exZh": "她摘了一朵黃色的花。"
+    },
+    {
+      "en": "rose",
+      "kk": "roz",
+      "zh": "玫瑰",
+      "emoji": "🌹",
+      "type": "word",
+      "ex": "He gave her a red rose.",
+      "exZh": "他送給她一朵紅玫瑰。"
+    },
+    {
+      "en": "sunflower",
+      "kk": "ˋsʌnˏflaʊɚ",
+      "zh": "向日葵",
+      "emoji": "🌻",
+      "type": "word",
+      "ex": "The sunflower follows the sun.",
+      "exZh": "向日葵跟著太陽轉。"
+    },
+    {
+      "en": "tulip",
+      "kk": "ˋtjulɪp",
+      "zh": "鬱金香",
+      "emoji": "🌷",
+      "type": "word",
+      "ex": "Pink tulips bloom in spring.",
+      "exZh": "粉紅色的鬱金香在春天盛開。"
+    },
+    {
+      "en": "daisy",
+      "kk": "ˋdezɪ",
+      "zh": "雛菊",
+      "emoji": "🌼",
+      "type": "word",
+      "ex": "Daisies grow in the grass.",
+      "exZh": "雛菊長在草地上。"
+    },
+    {
+      "en": "lily",
+      "kk": "ˋlɪlɪ",
+      "zh": "百合",
+      "emoji": "🌺",
+      "type": "word",
+      "ex": "The lily smells sweet.",
+      "exZh": "百合聞起來很香。"
+    },
+    {
+      "en": "cherry blossom",
+      "kk": "ˋtʃɛrɪ ˋblɑsəm",
+      "zh": "櫻花",
+      "emoji": "🌸",
+      "type": "word",
+      "ex": "Cherry blossoms are pink and white.",
+      "exZh": "櫻花是粉白色的。"
+    },
+    {
+      "en": "tree",
+      "kk": "tri",
+      "zh": "樹",
+      "emoji": "🌳",
+      "type": "word",
+      "ex": "We sat under a big tree.",
+      "exZh": "我們坐在一棵大樹下。"
+    },
+    {
+      "en": "pine",
+      "kk": "paɪn",
+      "zh": "松樹",
+      "emoji": "🌲",
+      "type": "word",
+      "ex": "Pine trees stay green in winter.",
+      "exZh": "松樹在冬天仍然是綠的。"
+    },
+    {
+      "en": "palm tree",
+      "kk": "pɑm tri",
+      "zh": "棕櫚樹",
+      "emoji": "🌴",
+      "type": "word",
+      "ex": "Palm trees grow on the island.",
+      "exZh": "棕櫚樹長在島上。"
+    },
+    {
+      "en": "bamboo",
+      "kk": "bæmˋbu",
+      "zh": "竹子",
+      "emoji": "🎍",
+      "type": "word",
+      "ex": "Bamboo grows very fast.",
+      "exZh": "竹子長得很快。"
+    },
+    {
+      "en": "cactus",
+      "kk": "ˋkæktəs",
+      "zh": "仙人掌",
+      "emoji": "🌵",
+      "type": "word",
+      "ex": "A cactus needs little water.",
+      "exZh": "仙人掌只需要很少的水。"
+    },
+    {
+      "en": "mushroom",
+      "kk": "ˋmʌʃrum",
+      "zh": "蘑菇",
+      "emoji": "🍄",
+      "type": "word",
+      "ex": "Don't eat wild mushrooms.",
+      "exZh": "不要吃野生的蘑菇。"
+    },
+    {
+      "en": "grass",
+      "kk": "græs",
+      "zh": "草",
+      "emoji": "🌱",
+      "type": "word",
+      "ex": "The grass is wet with dew.",
+      "exZh": "草上沾著露水。"
+    },
+    {
+      "en": "leaf",
+      "kk": "lif",
+      "zh": "葉子",
+      "emoji": "🍃",
+      "type": "word",
+      "ex": "A leaf fell on my head.",
+      "exZh": "一片葉子掉在我頭上。"
+    },
+    {
+      "en": "petal",
+      "kk": "ˋpɛtl̩",
+      "zh": "花瓣",
+      "emoji": "🌸",
+      "type": "word",
+      "ex": "Each flower has five petals.",
+      "exZh": "每朵花有五片花瓣。"
+    },
+    {
+      "en": "stem",
+      "kk": "stɛm",
+      "zh": "莖",
+      "emoji": "🌿",
+      "type": "word",
+      "ex": "The stem is long and thin.",
+      "exZh": "莖又長又細。"
+    },
+    {
+      "en": "root",
+      "kk": "rut",
+      "zh": "根",
+      "emoji": "🥕",
+      "type": "word",
+      "ex": "The roots take water from the soil.",
+      "exZh": "根從土壤中吸收水分。"
+    },
+    {
+      "en": "branch",
+      "kk": "bræntʃ",
+      "zh": "樹枝",
+      "emoji": "🌿",
+      "type": "word",
+      "ex": "A bird sat on the branch.",
+      "exZh": "一隻鳥停在樹枝上。"
+    },
+    {
+      "en": "seed",
+      "kk": "sid",
+      "zh": "種子",
+      "emoji": "🌰",
+      "type": "word",
+      "ex": "I planted a seed in the pot.",
+      "exZh": "我在盆子裡種下一顆種子。"
+    },
+    {
+      "en": "bud",
+      "kk": "bʌd",
+      "zh": "花苞；嫩芽",
+      "emoji": "🌱",
+      "type": "word",
+      "ex": "The rose bud will open soon.",
+      "exZh": "那朵玫瑰花苞快開了。"
+    },
+    {
+      "en": "soil",
+      "kk": "sɔɪl",
+      "zh": "土壤",
+      "emoji": "🟤",
+      "type": "word",
+      "ex": "Plants grow in rich soil.",
+      "exZh": "植物生長在肥沃的土壤裡。"
+    },
+    {
+      "en": "garden",
+      "kk": "ˋgɑrdn̩",
+      "zh": "花園",
+      "emoji": "🏡",
+      "type": "word",
+      "ex": "We have a small garden.",
+      "exZh": "我們有一座小花園。"
+    },
+    {
+      "en": "pot",
+      "kk": "pɑt",
+      "zh": "花盆；盆",
+      "emoji": "🪴",
+      "type": "word",
+      "ex": "Put the plant in a bigger pot.",
+      "exZh": "把植物換到比較大的盆子。"
+    },
+    {
+      "en": "bouquet",
+      "kk": "buˋke",
+      "zh": "花束",
+      "emoji": "💐",
+      "type": "word",
+      "ex": "He bought a bouquet for his mom.",
+      "exZh": "他買了一束花給媽媽。"
+    },
+    {
+      "en": "vine",
+      "kk": "vaɪn",
+      "zh": "藤蔓",
+      "emoji": "🍇",
+      "type": "word",
+      "ex": "The vine climbed up the wall.",
+      "exZh": "藤蔓爬上了牆。"
+    },
+    {
+      "en": "weed",
+      "kk": "wid",
+      "zh": "雜草",
+      "emoji": "🌾",
+      "type": "word",
+      "ex": "I pulled out the weeds.",
+      "exZh": "我拔掉了雜草。"
+    },
+    {
+      "en": "moss",
+      "kk": "mɔs",
+      "zh": "苔蘚",
+      "emoji": "🟩",
+      "type": "word",
+      "ex": "Moss grows on the old rocks.",
+      "exZh": "苔蘚長在老岩石上。"
+    },
+    {
+      "en": "water the plants",
+      "kk": "",
+      "zh": "澆花",
+      "emoji": "🚿",
+      "type": "phrase",
+      "ex": "Please water the plants while I'm away.",
+      "exZh": "我不在時請幫忙澆花。"
+    },
+    {
+      "en": "plant a seed",
+      "kk": "",
+      "zh": "種下種子",
+      "emoji": "🌱",
+      "type": "phrase",
+      "ex": "Let's plant a seed and watch it grow.",
+      "exZh": "我們種顆種子，看它長大。"
+    },
+    {
+      "en": "in full bloom",
+      "kk": "",
+      "zh": "盛開",
+      "emoji": "🌺",
+      "type": "phrase",
+      "ex": "The garden is in full bloom.",
+      "exZh": "花園裡百花盛開。"
+    },
+    {
+      "en": "pick flowers",
+      "kk": "",
+      "zh": "摘花",
+      "emoji": "💐",
+      "type": "phrase",
+      "ex": "Please don't pick flowers in the park.",
+      "exZh": "請不要在公園裡摘花。"
+    },
+    {
+      "en": "grow up",
+      "kk": "",
+      "zh": "長大；生長",
+      "emoji": "📈",
+      "type": "phrase",
+      "ex": "Tomatoes grow up fast in summer.",
+      "exZh": "番茄在夏天長得很快。"
+    },
+    {
+      "en": "fall off the tree",
+      "kk": "",
+      "zh": "從樹上掉落",
+      "emoji": "🍂",
+      "type": "phrase",
+      "ex": "Apples fall off the tree in autumn.",
+      "exZh": "蘋果在秋天從樹上掉下來。"
+    },
+    {
+      "en": "green thumb",
+      "kk": "",
+      "zh": "擅長種植的人",
+      "emoji": "👍",
+      "type": "phrase",
+      "ex": "My grandma has a green thumb.",
+      "exZh": "我奶奶很會種植物。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "What a beautiful flower!",
+      "zh": "好漂亮的花！",
+      "note": "讚美花朵"
+    },
+    {
+      "en": "It smells so good.",
+      "zh": "它聞起來好香。",
+      "note": "聞花香時"
+    },
+    {
+      "en": "How often should I water this plant?",
+      "zh": "這棵植物多久要澆一次水？",
+      "note": "詢問照顧方法"
+    },
+    {
+      "en": "This plant needs a lot of sunlight.",
+      "zh": "這棵植物需要很多陽光。",
+      "note": "說明植物需求"
+    },
+    {
+      "en": "I planted these tulips last fall.",
+      "zh": "這些鬱金香是我去年秋天種的。",
+      "note": "介紹自己的花園"
+    },
+    {
+      "en": "The leaves are turning yellow.",
+      "zh": "葉子變黃了。",
+      "note": "發現植物不健康"
+    },
+    {
+      "en": "Please keep off the grass.",
+      "zh": "請勿踐踏草坪。",
+      "note": "公園告示"
+    },
+    {
+      "en": "The roses are in full bloom.",
+      "zh": "玫瑰花開得正盛。",
+      "note": "描述花季"
+    },
+    {
+      "en": "Can you help me pull the weeds?",
+      "zh": "你可以幫我拔雜草嗎？",
+      "note": "請人幫忙"
+    },
+    {
+      "en": "I'd like a bouquet of daisies, please.",
+      "zh": "我想要一束雛菊。",
+      "note": "在花店買花"
+    },
+    {
+      "en": "Don't forget to put the cactus in the sun.",
+      "zh": "別忘了把仙人掌放到太陽下。",
+      "note": "提醒照顧植物"
+    },
+    {
+      "en": "Seeds need soil, water, and sunshine.",
+      "zh": "種子需要土壤、水和陽光。",
+      "note": "說明植物生長"
+    },
+    {
+      "en": "These flowers will look great in a vase.",
+      "zh": "這些花插在花瓶裡會很好看。",
+      "note": "布置家裡"
+    },
+    {
+      "en": "We're going to the flower market on Sunday.",
+      "zh": "我們星期天要去花市。",
+      "note": "計畫行程"
+    },
+    {
+      "en": "I'm allergic to pollen.",
+      "zh": "我對花粉過敏。",
+      "note": "說明身體狀況"
+    }
+  ],
+  "dialogues": [
+    {
+      "title": "在花店",
+      "lines": [
+        {
+          "who": "A",
+          "en": "Hello, can I help you?",
+          "zh": "你好，需要什麼嗎？"
+        },
+        {
+          "who": "B",
+          "en": "I'd like a bouquet of roses.",
+          "zh": "我想要一束玫瑰花。"
+        },
+        {
+          "who": "A",
+          "en": "Sure. Red or pink?",
+          "zh": "好的，紅色還是粉紅色？"
+        },
+        {
+          "who": "B",
+          "en": "Pink, please. They are for my mother.",
+          "zh": "請給我粉紅色的，是要送我媽媽的。"
+        },
+        {
+          "who": "A",
+          "en": "She will love them.",
+          "zh": "她一定會很喜歡。"
+        }
+      ]
+    },
+    {
+      "title": "照顧植物",
+      "lines": [
+        {
+          "who": "A",
+          "en": "The leaves on this plant are turning yellow.",
+          "zh": "這棵植物的葉子變黃了。"
+        },
+        {
+          "who": "B",
+          "en": "Maybe it needs more sunlight.",
+          "zh": "也許它需要更多陽光。"
+        },
+        {
+          "who": "A",
+          "en": "I water it every day.",
+          "zh": "我每天都幫它澆水。"
+        },
+        {
+          "who": "B",
+          "en": "That might be too much. Try twice a week.",
+          "zh": "那可能太多了，試試一週兩次。"
+        }
+      ]
+    }
+  ]
+}

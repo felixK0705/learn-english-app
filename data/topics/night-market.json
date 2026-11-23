@@ -1,0 +1,454 @@
+{
+  "id": "night-market",
+  "title": "Night Market Snacks",
+  "zh": "夜市小吃",
+  "emoji": "🏮",
+  "backdrop": "night",
+  "intro": "逛夜市時，用英文介紹台灣小吃、點餐和跟老闆聊天。",
+  "words": [
+    {
+      "en": "night market",
+      "kk": "ˋnaɪt ˋmɑrkɪt",
+      "zh": "夜市",
+      "emoji": "🏮",
+      "type": "word",
+      "ex": "We go to the night market every Friday.",
+      "exZh": "我們每週五都去逛夜市。"
+    },
+    {
+      "en": "stall",
+      "kk": "stɔl",
+      "zh": "攤位",
+      "emoji": "🏪",
+      "type": "word",
+      "ex": "That stall sells the best fried chicken.",
+      "exZh": "那個攤位賣最好吃的炸雞排。"
+    },
+    {
+      "en": "vendor",
+      "kk": "ˋvɛndɚ",
+      "zh": "攤販",
+      "emoji": "🧑‍🍳",
+      "type": "word",
+      "ex": "The vendor was very friendly.",
+      "exZh": "那位攤販非常親切。"
+    },
+    {
+      "en": "snack",
+      "kk": "snæk",
+      "zh": "小吃；點心",
+      "emoji": "🍿",
+      "type": "word",
+      "ex": "Night market snacks are cheap and tasty.",
+      "exZh": "夜市小吃又便宜又好吃。"
+    },
+    {
+      "en": "stinky tofu",
+      "kk": "ˋstɪŋkɪ ˋtofu",
+      "zh": "臭豆腐",
+      "emoji": "🍢",
+      "type": "word",
+      "ex": "Stinky tofu smells strong but tastes great.",
+      "exZh": "臭豆腐聞起來很臭但很好吃。"
+    },
+    {
+      "en": "scallion pancake",
+      "kk": "ˋskæljən ˋpænˏkek",
+      "zh": "蔥油餅",
+      "emoji": "🥞",
+      "type": "word",
+      "ex": "I want a scallion pancake with an egg.",
+      "exZh": "我要一份加蛋的蔥油餅。"
+    },
+    {
+      "en": "meatball",
+      "kk": "ˋmitˏbɔl",
+      "zh": "肉圓；肉丸",
+      "emoji": "🍡",
+      "type": "word",
+      "ex": "Taiwanese meatballs have a chewy skin.",
+      "exZh": "台灣的肉圓外皮很Ｑ彈。"
+    },
+    {
+      "en": "skewer",
+      "kk": "ˋskjuɚ",
+      "zh": "烤串；籤",
+      "emoji": "🍢",
+      "type": "word",
+      "ex": "Grilled skewers are my favorite.",
+      "exZh": "烤肉串是我的最愛。"
+    },
+    {
+      "en": "oyster omelet",
+      "kk": "ˋɔɪstɚ ˋɑmlɪt",
+      "zh": "蚵仔煎",
+      "emoji": "🍳",
+      "type": "word",
+      "ex": "The oyster omelet comes with sweet sauce.",
+      "exZh": "蚵仔煎淋上甜甜的醬。"
+    },
+    {
+      "en": "beef noodle soup",
+      "kk": "bif ˋnudḷ sup",
+      "zh": "牛肉麵",
+      "emoji": "🍜",
+      "type": "word",
+      "ex": "Beef noodle soup is a Taiwanese classic.",
+      "exZh": "牛肉麵是台灣的經典美食。"
+    },
+    {
+      "en": "noodles",
+      "kk": "ˋnudḷz",
+      "zh": "麵條",
+      "emoji": "🍜",
+      "type": "word",
+      "ex": "She slurped her noodles.",
+      "exZh": "她呼嚕呼嚕地吃著麵。"
+    },
+    {
+      "en": "popcorn chicken",
+      "kk": "ˋpɑpˏkɔrn ˋtʃɪkɪn",
+      "zh": "鹽酥雞",
+      "emoji": "🍗",
+      "type": "word",
+      "ex": "Popcorn chicken comes with basil.",
+      "exZh": "鹽酥雞會加九層塔。"
+    },
+    {
+      "en": "rice cake",
+      "kk": "raɪs kek",
+      "zh": "年糕；米糕",
+      "emoji": "🍡",
+      "type": "word",
+      "ex": "Grilled rice cake is soft and sticky.",
+      "exZh": "烤年糕軟軟黏黏的。"
+    },
+    {
+      "en": "fish ball",
+      "kk": "fɪʃ bɔl",
+      "zh": "魚丸",
+      "emoji": "🍥",
+      "type": "word",
+      "ex": "Fish ball soup is light and warm.",
+      "exZh": "魚丸湯清淡又暖和。"
+    },
+    {
+      "en": "tea egg",
+      "kk": "ti ɛg",
+      "zh": "茶葉蛋",
+      "emoji": "🥚",
+      "type": "word",
+      "ex": "A tea egg is a simple street snack.",
+      "exZh": "茶葉蛋是簡單的街頭小吃。"
+    },
+    {
+      "en": "peanut",
+      "kk": "ˋpinʌt",
+      "zh": "花生",
+      "emoji": "🥜",
+      "type": "word",
+      "ex": "Peanut powder makes it sweet.",
+      "exZh": "花生粉讓它變得香甜。"
+    },
+    {
+      "en": "taro",
+      "kk": "ˋtɑro",
+      "zh": "芋頭",
+      "emoji": "🍠",
+      "type": "word",
+      "ex": "Taro balls are chewy and sweet.",
+      "exZh": "芋圓Ｑ彈又香甜。"
+    },
+    {
+      "en": "mochi",
+      "kk": "ˋmotʃɪ",
+      "zh": "麻糬",
+      "emoji": "🍡",
+      "type": "word",
+      "ex": "Peanut mochi is a popular snack.",
+      "exZh": "花生麻糬是受歡迎的點心。"
+    },
+    {
+      "en": "hot pot",
+      "kk": "hɑt pɑt",
+      "zh": "火鍋",
+      "emoji": "🍲",
+      "type": "word",
+      "ex": "We had hot pot after the market.",
+      "exZh": "逛完夜市我們去吃火鍋。"
+    },
+    {
+      "en": "sauce",
+      "kk": "sɔs",
+      "zh": "醬；醬汁",
+      "emoji": "🥫",
+      "type": "word",
+      "ex": "Do you want sweet sauce on top?",
+      "exZh": "你要在上面淋甜醬嗎？"
+    },
+    {
+      "en": "crowd",
+      "kk": "kraʊd",
+      "zh": "人群；人潮",
+      "emoji": "👥",
+      "type": "word",
+      "ex": "There is a big crowd tonight.",
+      "exZh": "今晚人潮很多。"
+    },
+    {
+      "en": "queue",
+      "kk": "kju",
+      "zh": "排隊；隊伍",
+      "emoji": "🧍",
+      "type": "word",
+      "ex": "The queue for fried chicken is long.",
+      "exZh": "炸雞排的隊伍好長。"
+    },
+    {
+      "en": "bargain",
+      "kk": "ˋbɑrgɪn",
+      "zh": "便宜貨；討價還價",
+      "emoji": "🏷️",
+      "type": "word",
+      "ex": "These shoes are a real bargain.",
+      "exZh": "這些鞋子真的很划算。"
+    },
+    {
+      "en": "lantern",
+      "kk": "ˋlæntɚn",
+      "zh": "燈籠",
+      "emoji": "🏮",
+      "type": "word",
+      "ex": "Red lanterns light up the street.",
+      "exZh": "紅燈籠照亮了街道。"
+    },
+    {
+      "en": "coin",
+      "kk": "kɔɪn",
+      "zh": "硬幣",
+      "emoji": "🪙",
+      "type": "word",
+      "ex": "I need coins for the game.",
+      "exZh": "我需要硬幣來玩遊戲。"
+    },
+    {
+      "en": "claw machine",
+      "kk": "klɔ məˋʃin",
+      "zh": "夾娃娃機",
+      "emoji": "🧸",
+      "type": "word",
+      "ex": "He won a toy from the claw machine.",
+      "exZh": "他從夾娃娃機夾到一個玩具。"
+    },
+    {
+      "en": "ring toss",
+      "kk": "rɪŋ tɔs",
+      "zh": "套圈圈",
+      "emoji": "⭕",
+      "type": "word",
+      "ex": "Ring toss is a fun night market game.",
+      "exZh": "套圈圈是好玩的夜市遊戲。"
+    },
+    {
+      "en": "bubble waffle",
+      "kk": "ˋbʌbḷ ˋwɑfḷ",
+      "zh": "雞蛋仔",
+      "emoji": "🧇",
+      "type": "word",
+      "ex": "Bubble waffles are crispy and sweet.",
+      "exZh": "雞蛋仔又酥又甜。"
+    },
+    {
+      "en": "stand in line",
+      "kk": "",
+      "zh": "排隊",
+      "emoji": "🧍",
+      "type": "phrase",
+      "ex": "We stood in line for twenty minutes.",
+      "exZh": "我們排隊排了二十分鐘。"
+    },
+    {
+      "en": "how much is it",
+      "kk": "",
+      "zh": "多少錢",
+      "emoji": "💰",
+      "type": "phrase",
+      "ex": "How much is it for one?",
+      "exZh": "一份多少錢？"
+    },
+    {
+      "en": "give me a discount",
+      "kk": "",
+      "zh": "算我便宜一點",
+      "emoji": "🏷️",
+      "type": "phrase",
+      "ex": "Can you give me a discount?",
+      "exZh": "可以算我便宜一點嗎？"
+    },
+    {
+      "en": "fried chicken cutlet",
+      "kk": "",
+      "zh": "炸雞排",
+      "emoji": "🍗",
+      "type": "phrase",
+      "ex": "The fried chicken cutlet is bigger than my face.",
+      "exZh": "這塊炸雞排比我的臉還大。"
+    },
+    {
+      "en": "take a bite",
+      "kk": "",
+      "zh": "咬一口",
+      "emoji": "😋",
+      "type": "phrase",
+      "ex": "Take a bite and you will love it.",
+      "exZh": "咬一口你就會愛上它。"
+    },
+    {
+      "en": "walk around",
+      "kk": "",
+      "zh": "到處逛逛",
+      "emoji": "🚶",
+      "type": "phrase",
+      "ex": "Let us walk around and see.",
+      "exZh": "我們到處逛逛看看。"
+    },
+    {
+      "en": "sold out",
+      "kk": "",
+      "zh": "賣完了",
+      "emoji": "🚫",
+      "type": "phrase",
+      "ex": "Sorry, the oyster omelet is sold out.",
+      "exZh": "抱歉，蚵仔煎賣完了。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "What is that? It smells interesting.",
+      "zh": "那是什麼？聞起來好特別。",
+      "note": "對新食物好奇時"
+    },
+    {
+      "en": "Can I have one, please?",
+      "zh": "我可以要一份嗎？",
+      "note": "點小吃時"
+    },
+    {
+      "en": "How much is one portion?",
+      "zh": "一份多少錢？",
+      "note": "詢問價格時"
+    },
+    {
+      "en": "Is it spicy?",
+      "zh": "會辣嗎？",
+      "note": "詢問辣度時"
+    },
+    {
+      "en": "Not spicy, please.",
+      "zh": "請不要辣。",
+      "note": "不吃辣時"
+    },
+    {
+      "en": "Could you add some extra sauce?",
+      "zh": "可以多加一點醬嗎？",
+      "note": "加料時"
+    },
+    {
+      "en": "No cilantro, please.",
+      "zh": "請不要加香菜。",
+      "note": "不要某種配料時"
+    },
+    {
+      "en": "Can I get it to go?",
+      "zh": "可以外帶嗎？",
+      "note": "想帶走時"
+    },
+    {
+      "en": "The line is so long!",
+      "zh": "隊伍好長喔！",
+      "note": "抱怨排隊時"
+    },
+    {
+      "en": "Is this stall famous?",
+      "zh": "這攤很有名嗎？",
+      "note": "詢問人氣時"
+    },
+    {
+      "en": "Let us share this one.",
+      "zh": "我們一起分這個吧。",
+      "note": "想分食時"
+    },
+    {
+      "en": "Do you take mobile payments?",
+      "zh": "你們可以行動支付嗎？",
+      "note": "結帳時"
+    },
+    {
+      "en": "I have never tried this before.",
+      "zh": "我從來沒吃過這個。",
+      "note": "嘗試新東西時"
+    },
+    {
+      "en": "That was delicious. Thank you!",
+      "zh": "好好吃，謝謝！",
+      "note": "向老闆道謝時"
+    }
+  ],
+  "dialogues": [
+    {
+      "title": "點一份蚵仔煎",
+      "lines": [
+        {
+          "who": "A",
+          "en": "Hi! I would like one oyster omelet.",
+          "zh": "你好！我要一份蚵仔煎。"
+        },
+        {
+          "who": "B",
+          "en": "Sure. Do you want it spicy?",
+          "zh": "好的，要加辣嗎？"
+        },
+        {
+          "who": "A",
+          "en": "No, thanks. And no cilantro, please.",
+          "zh": "不用，謝謝，也請不要加香菜。"
+        },
+        {
+          "who": "B",
+          "en": "Okay. It will take five minutes.",
+          "zh": "好，要等五分鐘。"
+        },
+        {
+          "who": "A",
+          "en": "No problem. How much is it?",
+          "zh": "沒問題，多少錢？"
+        }
+      ]
+    },
+    {
+      "title": "和朋友逛夜市",
+      "lines": [
+        {
+          "who": "A",
+          "en": "Look at that line! What are they selling?",
+          "zh": "你看那條隊伍！他們在賣什麼？"
+        },
+        {
+          "who": "B",
+          "en": "Fried chicken cutlet. It is really famous.",
+          "zh": "炸雞排，很有名的。"
+        },
+        {
+          "who": "A",
+          "en": "Let us stand in line and try it.",
+          "zh": "我們去排隊試試吧。"
+        },
+        {
+          "who": "B",
+          "en": "Good idea. I am so hungry.",
+          "zh": "好主意，我好餓。"
+        }
+      ]
+    }
+  ]
+}

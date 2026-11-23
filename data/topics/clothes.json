@@ -1,0 +1,477 @@
+{
+  "id": "clothes",
+  "title": "Clothes",
+  "zh": "衣服與配件",
+  "emoji": "👕",
+  "backdrop": "shop",
+  "intro": "認識各種衣服和配件，學會試穿與購買衣物的用語。",
+  "words": [
+    {
+      "en": "shirt",
+      "kk": "ʃɝt",
+      "zh": "襯衫",
+      "emoji": "👔",
+      "type": "word",
+      "ex": "He wears a white shirt to work.",
+      "exZh": "他穿白襯衫上班。"
+    },
+    {
+      "en": "T-shirt",
+      "kk": "ˋtiˏʃɝt",
+      "zh": "T恤",
+      "emoji": "👕",
+      "type": "word",
+      "ex": "I like this blue T-shirt.",
+      "exZh": "我喜歡這件藍色T恤。"
+    },
+    {
+      "en": "sweater",
+      "kk": "ˋswɛtɚ",
+      "zh": "毛衣",
+      "emoji": "🧶",
+      "type": "word",
+      "ex": "Put on a sweater. It is cold.",
+      "exZh": "穿件毛衣吧，天氣很冷。"
+    },
+    {
+      "en": "jacket",
+      "kk": "ˋdʒækɪt",
+      "zh": "夾克；外套",
+      "emoji": "🧥",
+      "type": "word",
+      "ex": "This jacket keeps me warm.",
+      "exZh": "這件外套讓我很保暖。"
+    },
+    {
+      "en": "raincoat",
+      "kk": "ˋrenˏkot",
+      "zh": "雨衣",
+      "emoji": "☔",
+      "type": "word",
+      "ex": "Bring your raincoat today.",
+      "exZh": "今天要帶雨衣。"
+    },
+    {
+      "en": "dress",
+      "kk": "drɛs",
+      "zh": "洋裝",
+      "emoji": "👗",
+      "type": "word",
+      "ex": "She wore a red dress to the party.",
+      "exZh": "她穿著紅色洋裝去派對。"
+    },
+    {
+      "en": "skirt",
+      "kk": "skɝt",
+      "zh": "裙子",
+      "emoji": "💃",
+      "type": "word",
+      "ex": "This skirt is too short for me.",
+      "exZh": "這條裙子對我來說太短了。"
+    },
+    {
+      "en": "pants",
+      "kk": "pænts",
+      "zh": "褲子",
+      "emoji": "👖",
+      "type": "word",
+      "ex": "These pants are a little tight.",
+      "exZh": "這條褲子有點緊。"
+    },
+    {
+      "en": "jeans",
+      "kk": "dʒinz",
+      "zh": "牛仔褲",
+      "emoji": "👖",
+      "type": "word",
+      "ex": "I wear jeans on weekends.",
+      "exZh": "我週末都穿牛仔褲。"
+    },
+    {
+      "en": "shorts",
+      "kk": "ʃɔrts",
+      "zh": "短褲",
+      "emoji": "🩳",
+      "type": "word",
+      "ex": "It is hot, so I wear shorts.",
+      "exZh": "天氣很熱，所以我穿短褲。"
+    },
+    {
+      "en": "suit",
+      "kk": "sut",
+      "zh": "西裝",
+      "emoji": "🤵",
+      "type": "word",
+      "ex": "He bought a new suit for the interview.",
+      "exZh": "他為了面試買了一套新西裝。"
+    },
+    {
+      "en": "tie",
+      "kk": "taɪ",
+      "zh": "領帶",
+      "emoji": "🪢",
+      "type": "word",
+      "ex": "My dad ties his tie every morning.",
+      "exZh": "我爸爸每天早上打領帶。"
+    },
+    {
+      "en": "socks",
+      "kk": "sɑks",
+      "zh": "襪子",
+      "emoji": "🧦",
+      "type": "word",
+      "ex": "I lost one of my socks.",
+      "exZh": "我弄丟了一隻襪子。"
+    },
+    {
+      "en": "shoes",
+      "kk": "ʃuz",
+      "zh": "鞋子",
+      "emoji": "👞",
+      "type": "word",
+      "ex": "My shoes are too small.",
+      "exZh": "我的鞋子太小了。"
+    },
+    {
+      "en": "sneakers",
+      "kk": "ˋsnikɚz",
+      "zh": "運動鞋",
+      "emoji": "👟",
+      "type": "word",
+      "ex": "I wear sneakers to school.",
+      "exZh": "我穿運動鞋上學。"
+    },
+    {
+      "en": "boots",
+      "kk": "buts",
+      "zh": "靴子",
+      "emoji": "🥾",
+      "type": "word",
+      "ex": "These boots are good for hiking.",
+      "exZh": "這雙靴子很適合健行。"
+    },
+    {
+      "en": "sandals",
+      "kk": "ˋsændl̩z",
+      "zh": "涼鞋",
+      "emoji": "🩴",
+      "type": "word",
+      "ex": "She wears sandals at the beach.",
+      "exZh": "她在海灘穿涼鞋。"
+    },
+    {
+      "en": "slippers",
+      "kk": "ˋslɪpɚz",
+      "zh": "拖鞋",
+      "emoji": "🥿",
+      "type": "word",
+      "ex": "Please wear slippers inside.",
+      "exZh": "請在室內穿拖鞋。"
+    },
+    {
+      "en": "hat",
+      "kk": "hæt",
+      "zh": "帽子",
+      "emoji": "👒",
+      "type": "word",
+      "ex": "She wore a big straw hat.",
+      "exZh": "她戴了一頂大草帽。"
+    },
+    {
+      "en": "cap",
+      "kk": "kæp",
+      "zh": "鴨舌帽；棒球帽",
+      "emoji": "🧢",
+      "type": "word",
+      "ex": "He always wears a baseball cap.",
+      "exZh": "他總是戴著棒球帽。"
+    },
+    {
+      "en": "scarf",
+      "kk": "skɑrf",
+      "zh": "圍巾",
+      "emoji": "🧣",
+      "type": "word",
+      "ex": "My grandma knitted this scarf.",
+      "exZh": "這條圍巾是我奶奶織的。"
+    },
+    {
+      "en": "gloves",
+      "kk": "glʌvz",
+      "zh": "手套",
+      "emoji": "🧤",
+      "type": "word",
+      "ex": "Wear gloves when it snows.",
+      "exZh": "下雪時要戴手套。"
+    },
+    {
+      "en": "glasses",
+      "kk": "ˋglæsɪz",
+      "zh": "眼鏡",
+      "emoji": "👓",
+      "type": "word",
+      "ex": "I can’t read without my glasses.",
+      "exZh": "沒有眼鏡我看不了書。"
+    },
+    {
+      "en": "watch",
+      "kk": "wɑtʃ",
+      "zh": "手錶",
+      "emoji": "⌚",
+      "type": "word",
+      "ex": "This watch was a gift.",
+      "exZh": "這支手錶是別人送的禮物。"
+    },
+    {
+      "en": "handbag",
+      "kk": "ˋhænˏbæg",
+      "zh": "手提包",
+      "emoji": "👜",
+      "type": "word",
+      "ex": "She carries a small handbag.",
+      "exZh": "她提著一個小手提包。"
+    },
+    {
+      "en": "wallet",
+      "kk": "ˋwɑlɪt",
+      "zh": "皮夾",
+      "emoji": "👛",
+      "type": "word",
+      "ex": "I left my wallet at home.",
+      "exZh": "我把皮夾忘在家裡了。"
+    },
+    {
+      "en": "necklace",
+      "kk": "ˋnɛklɪs",
+      "zh": "項鍊",
+      "emoji": "📿",
+      "type": "word",
+      "ex": "This necklace is very pretty.",
+      "exZh": "這條項鍊很漂亮。"
+    },
+    {
+      "en": "ring",
+      "kk": "rɪŋ",
+      "zh": "戒指",
+      "emoji": "💍",
+      "type": "word",
+      "ex": "He gave her a gold ring.",
+      "exZh": "他送了她一枚金戒指。"
+    },
+    {
+      "en": "pajamas",
+      "kk": "pəˋdʒæməz",
+      "zh": "睡衣",
+      "emoji": "🛌",
+      "type": "word",
+      "ex": "I change into my pajamas at ten.",
+      "exZh": "我十點換上睡衣。"
+    },
+    {
+      "en": "size",
+      "kk": "saɪz",
+      "zh": "尺寸；尺碼",
+      "emoji": "📏",
+      "type": "word",
+      "ex": "What size do you wear?",
+      "exZh": "你穿什麼尺寸？"
+    },
+    {
+      "en": "put on",
+      "kk": "",
+      "zh": "穿上；戴上",
+      "emoji": "🙋",
+      "type": "phrase",
+      "ex": "Put on your jacket before you go.",
+      "exZh": "出門前把外套穿上。"
+    },
+    {
+      "en": "take off",
+      "kk": "",
+      "zh": "脫掉；脫下",
+      "emoji": "🙅",
+      "type": "phrase",
+      "ex": "Please take off your shoes at the door.",
+      "exZh": "請在門口脫鞋。"
+    },
+    {
+      "en": "try on",
+      "kk": "",
+      "zh": "試穿",
+      "emoji": "🪞",
+      "type": "phrase",
+      "ex": "Can I try on this shirt?",
+      "exZh": "我可以試穿這件襯衫嗎？"
+    },
+    {
+      "en": "dress up",
+      "kk": "",
+      "zh": "盛裝打扮",
+      "emoji": "🎩",
+      "type": "phrase",
+      "ex": "We dressed up for the wedding.",
+      "exZh": "我們盛裝出席婚禮。"
+    },
+    {
+      "en": "fit well",
+      "kk": "",
+      "zh": "很合身",
+      "emoji": "✅",
+      "type": "phrase",
+      "ex": "This jacket fits you well.",
+      "exZh": "這件外套你穿很合身。"
+    },
+    {
+      "en": "be made of",
+      "kk": "",
+      "zh": "由…製成",
+      "emoji": "🧵",
+      "type": "phrase",
+      "ex": "This sweater is made of wool.",
+      "exZh": "這件毛衣是羊毛做的。"
+    },
+    {
+      "en": "hang up",
+      "kk": "",
+      "zh": "把…掛起來",
+      "emoji": "🪝",
+      "type": "phrase",
+      "ex": "Hang up your coat on the hook.",
+      "exZh": "把外套掛在掛鉤上。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Can I try this on?",
+      "zh": "我可以試穿這個嗎？",
+      "note": "想試穿衣服時"
+    },
+    {
+      "en": "Where is the fitting room?",
+      "zh": "試衣間在哪裡？",
+      "note": "找試衣間"
+    },
+    {
+      "en": "Do you have this in a medium?",
+      "zh": "這件有M號嗎？",
+      "note": "詢問尺寸"
+    },
+    {
+      "en": "It is a little too tight.",
+      "zh": "這有點太緊了。",
+      "note": "試穿後覺得不合身"
+    },
+    {
+      "en": "Do you have a bigger size?",
+      "zh": "你們有大一點的尺寸嗎？",
+      "note": "要換更大的尺寸"
+    },
+    {
+      "en": "Do you have this in another color?",
+      "zh": "這件有其他顏色嗎？",
+      "note": "詢問顏色"
+    },
+    {
+      "en": "How much is this jacket?",
+      "zh": "這件外套多少錢？",
+      "note": "詢問價格"
+    },
+    {
+      "en": "I’m just looking, thank you.",
+      "zh": "我只是看看，謝謝。",
+      "note": "婉拒店員招呼"
+    },
+    {
+      "en": "It looks great on you.",
+      "zh": "你穿起來很好看。",
+      "note": "稱讚別人的穿著"
+    },
+    {
+      "en": "I will take it.",
+      "zh": "我要買這個。",
+      "note": "決定購買時"
+    },
+    {
+      "en": "Can I exchange this for a different size?",
+      "zh": "我可以換別的尺寸嗎？",
+      "note": "要換貨時"
+    },
+    {
+      "en": "This isn’t my style.",
+      "zh": "這不是我喜歡的風格。",
+      "note": "婉拒不喜歡的款式"
+    },
+    {
+      "en": "What is this made of?",
+      "zh": "這是什麼材質做的？",
+      "note": "詢問衣服材質"
+    },
+    {
+      "en": "You should wear a jacket. It is cold.",
+      "zh": "你應該穿件外套，天氣很冷。",
+      "note": "提醒別人保暖"
+    }
+  ],
+  "dialogues": [
+    {
+      "title": "試穿衣服",
+      "lines": [
+        {
+          "who": "A",
+          "en": "Hi, can I try on this dress?",
+          "zh": "嗨，我可以試穿這件洋裝嗎？"
+        },
+        {
+          "who": "B",
+          "en": "Of course. The fitting room is over there.",
+          "zh": "當然可以，試衣間在那邊。"
+        },
+        {
+          "who": "A",
+          "en": "It is a little tight. Do you have a bigger size?",
+          "zh": "有點緊，有大一點的尺寸嗎？"
+        },
+        {
+          "who": "B",
+          "en": "Yes, here is a large.",
+          "zh": "有的，這是L號。"
+        },
+        {
+          "who": "A",
+          "en": "Perfect. It looks great on you!",
+          "zh": "太好了，你穿起來很好看！"
+        }
+      ]
+    },
+    {
+      "title": "買鞋子",
+      "lines": [
+        {
+          "who": "A",
+          "en": "Excuse me, I’m looking for sneakers.",
+          "zh": "不好意思，我在找運動鞋。"
+        },
+        {
+          "who": "B",
+          "en": "What size do you wear?",
+          "zh": "你穿幾號？"
+        },
+        {
+          "who": "A",
+          "en": "Size eight, please.",
+          "zh": "八號，麻煩你。"
+        },
+        {
+          "who": "B",
+          "en": "Here you are. How do they feel?",
+          "zh": "請看，感覺如何？"
+        },
+        {
+          "who": "A",
+          "en": "They fit well. I will take them.",
+          "zh": "很合腳，我要買。"
+        }
+      ]
+    }
+  ]
+}

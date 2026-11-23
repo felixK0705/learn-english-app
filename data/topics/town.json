@@ -1,0 +1,468 @@
+{
+  "id": "town",
+  "title": "Town",
+  "zh": "城市與地點",
+  "emoji": "🏙️",
+  "backdrop": "city",
+  "intro": "認識城市裡常見的建築與地點，學會介紹自己居住的地方。",
+  "words": [
+    {
+      "en": "city",
+      "kk": "ˋsɪtɪ",
+      "zh": "城市",
+      "emoji": "🏙️",
+      "type": "word",
+      "ex": "I live in a big city.",
+      "exZh": "我住在一座大城市。"
+    },
+    {
+      "en": "downtown",
+      "kk": "ˋdaʊnˋtaʊn",
+      "zh": "市中心",
+      "emoji": "🌆",
+      "type": "word",
+      "ex": "We eat downtown every Friday.",
+      "exZh": "我們每週五都在市中心吃飯。"
+    },
+    {
+      "en": "neighborhood",
+      "kk": "ˋnebɚˏhʊd",
+      "zh": "社區；鄰近地區",
+      "emoji": "🏘️",
+      "type": "word",
+      "ex": "My neighborhood is quiet and safe.",
+      "exZh": "我的社區安靜又安全。"
+    },
+    {
+      "en": "building",
+      "kk": "ˋbɪldɪŋ",
+      "zh": "建築物；大樓",
+      "emoji": "🏢",
+      "type": "word",
+      "ex": "That building has twenty floors.",
+      "exZh": "那棟大樓有二十層樓。"
+    },
+    {
+      "en": "library",
+      "kk": "ˋlaɪˏbrɛrɪ",
+      "zh": "圖書館",
+      "emoji": "📚",
+      "type": "word",
+      "ex": "I study at the library after school.",
+      "exZh": "我放學後在圖書館念書。"
+    },
+    {
+      "en": "museum",
+      "kk": "mjuˋzɪəm",
+      "zh": "博物館",
+      "emoji": "🏛️",
+      "type": "word",
+      "ex": "The museum is closed on Mondays.",
+      "exZh": "博物館週一休館。"
+    },
+    {
+      "en": "school",
+      "kk": "skul",
+      "zh": "學校",
+      "emoji": "🏫",
+      "type": "word",
+      "ex": "My school is near the park.",
+      "exZh": "我的學校在公園附近。"
+    },
+    {
+      "en": "church",
+      "kk": "tʃɝtʃ",
+      "zh": "教堂",
+      "emoji": "⛪",
+      "type": "word",
+      "ex": "There is an old church on the hill.",
+      "exZh": "山丘上有一座老教堂。"
+    },
+    {
+      "en": "temple",
+      "kk": "ˋtɛmpl̩",
+      "zh": "廟；寺",
+      "emoji": "🛕",
+      "type": "word",
+      "ex": "Many people visit the temple on holidays.",
+      "exZh": "許多人在節日去廟裡參拜。"
+    },
+    {
+      "en": "café",
+      "kk": "kəˋfe",
+      "zh": "咖啡廳",
+      "emoji": "☕",
+      "type": "word",
+      "ex": "Let’s meet at the café.",
+      "exZh": "我們在咖啡廳碰面吧。"
+    },
+    {
+      "en": "bakery",
+      "kk": "ˋbekərɪ",
+      "zh": "麵包店",
+      "emoji": "🥖",
+      "type": "word",
+      "ex": "The bakery smells wonderful in the morning.",
+      "exZh": "麵包店早上聞起來好香。"
+    },
+    {
+      "en": "bookstore",
+      "kk": "ˋbʊkˏstor",
+      "zh": "書店",
+      "emoji": "📖",
+      "type": "word",
+      "ex": "I bought this novel at the bookstore.",
+      "exZh": "我在書店買了這本小說。"
+    },
+    {
+      "en": "pharmacy",
+      "kk": "ˋfɑrməsɪ",
+      "zh": "藥局",
+      "emoji": "💊",
+      "type": "word",
+      "ex": "The pharmacy is open until ten.",
+      "exZh": "藥局營業到十點。"
+    },
+    {
+      "en": "gas station",
+      "kk": "ˋgæsˏsteʃən",
+      "zh": "加油站",
+      "emoji": "⛽",
+      "type": "word",
+      "ex": "Is there a gas station nearby?",
+      "exZh": "附近有加油站嗎？"
+    },
+    {
+      "en": "parking lot",
+      "kk": "ˋpɑrkɪŋ ˏlɑt",
+      "zh": "停車場",
+      "emoji": "🅿️",
+      "type": "word",
+      "ex": "The parking lot is full today.",
+      "exZh": "今天停車場客滿了。"
+    },
+    {
+      "en": "police station",
+      "kk": "pəˋlis ˏsteʃən",
+      "zh": "警察局",
+      "emoji": "👮",
+      "type": "word",
+      "ex": "He went to the police station to report it.",
+      "exZh": "他去警察局報案。"
+    },
+    {
+      "en": "fire station",
+      "kk": "ˋfaɪr ˏsteʃən",
+      "zh": "消防隊",
+      "emoji": "🚒",
+      "type": "word",
+      "ex": "The fire station is across from the school.",
+      "exZh": "消防隊在學校對面。"
+    },
+    {
+      "en": "cinema",
+      "kk": "ˋsɪnəmə",
+      "zh": "電影院",
+      "emoji": "🎬",
+      "type": "word",
+      "ex": "We watched a new movie at the cinema.",
+      "exZh": "我們在電影院看了一部新電影。"
+    },
+    {
+      "en": "playground",
+      "kk": "ˋpleˏgraʊnd",
+      "zh": "遊樂場",
+      "emoji": "🛝",
+      "type": "word",
+      "ex": "The kids are playing at the playground.",
+      "exZh": "孩子們正在遊樂場玩。"
+    },
+    {
+      "en": "fountain",
+      "kk": "ˋfaʊntn̩",
+      "zh": "噴水池",
+      "emoji": "⛲",
+      "type": "word",
+      "ex": "There is a fountain in the square.",
+      "exZh": "廣場上有一座噴水池。"
+    },
+    {
+      "en": "bridge",
+      "kk": "brɪdʒ",
+      "zh": "橋",
+      "emoji": "🌉",
+      "type": "word",
+      "ex": "We walked across the bridge at sunset.",
+      "exZh": "我們在日落時走過那座橋。"
+    },
+    {
+      "en": "traffic light",
+      "kk": "ˋtræfɪk ˏlaɪt",
+      "zh": "紅綠燈",
+      "emoji": "🚦",
+      "type": "word",
+      "ex": "Wait for the traffic light to turn green.",
+      "exZh": "等紅綠燈變綠燈再走。"
+    },
+    {
+      "en": "sidewalk",
+      "kk": "ˋsaɪdˏwɔk",
+      "zh": "人行道",
+      "emoji": "🚶",
+      "type": "word",
+      "ex": "Please walk on the sidewalk.",
+      "exZh": "請走在人行道上。"
+    },
+    {
+      "en": "night market",
+      "kk": "ˋnaɪt ˏmɑrkɪt",
+      "zh": "夜市",
+      "emoji": "🏮",
+      "type": "word",
+      "ex": "The night market is full of tasty snacks.",
+      "exZh": "夜市裡有好多美味小吃。"
+    },
+    {
+      "en": "mall",
+      "kk": "mɔl",
+      "zh": "購物中心",
+      "emoji": "🛍️",
+      "type": "word",
+      "ex": "She goes to the mall on weekends.",
+      "exZh": "她週末會去購物中心。"
+    },
+    {
+      "en": "factory",
+      "kk": "ˋfæktrɪ",
+      "zh": "工廠",
+      "emoji": "🏭",
+      "type": "word",
+      "ex": "My uncle works in a factory.",
+      "exZh": "我叔叔在工廠工作。"
+    },
+    {
+      "en": "neighbor",
+      "kk": "ˋnebɚ",
+      "zh": "鄰居",
+      "emoji": "🧑‍🤝‍🧑",
+      "type": "word",
+      "ex": "Our neighbor is very friendly.",
+      "exZh": "我們的鄰居非常友善。"
+    },
+    {
+      "en": "tower",
+      "kk": "ˋtaʊɚ",
+      "zh": "塔",
+      "emoji": "🗼",
+      "type": "word",
+      "ex": "You can see the whole city from the tower.",
+      "exZh": "從塔上可以看見整座城市。"
+    },
+    {
+      "en": "statue",
+      "kk": "ˋstætʃu",
+      "zh": "雕像",
+      "emoji": "🗽",
+      "type": "word",
+      "ex": "Tourists take photos of the statue.",
+      "exZh": "遊客們幫雕像拍照。"
+    },
+    {
+      "en": "next door",
+      "kk": "",
+      "zh": "隔壁；在隔壁",
+      "emoji": "🚪",
+      "type": "phrase",
+      "ex": "She lives next door to us.",
+      "exZh": "她住在我們隔壁。"
+    },
+    {
+      "en": "hang out",
+      "kk": "",
+      "zh": "閒晃；跟朋友相聚",
+      "emoji": "🤙",
+      "type": "phrase",
+      "ex": "We like to hang out at the mall.",
+      "exZh": "我們喜歡在購物中心閒逛。"
+    },
+    {
+      "en": "grow up",
+      "kk": "",
+      "zh": "長大；成長",
+      "emoji": "🌱",
+      "type": "phrase",
+      "ex": "I grew up in a small town.",
+      "exZh": "我在一個小鎮長大。"
+    },
+    {
+      "en": "move to",
+      "kk": "",
+      "zh": "搬到",
+      "emoji": "📦",
+      "type": "phrase",
+      "ex": "They moved to a new city last year.",
+      "exZh": "他們去年搬到一座新城市。"
+    },
+    {
+      "en": "live in",
+      "kk": "",
+      "zh": "住在",
+      "emoji": "🏡",
+      "type": "phrase",
+      "ex": "Do you live in the city?",
+      "exZh": "你住在市區嗎？"
+    },
+    {
+      "en": "go for a walk",
+      "kk": "",
+      "zh": "去散步",
+      "emoji": "🐕",
+      "type": "phrase",
+      "ex": "Let’s go for a walk after dinner.",
+      "exZh": "晚餐後我們去散步吧。"
+    },
+    {
+      "en": "be famous for",
+      "kk": "",
+      "zh": "以…聞名",
+      "emoji": "⭐",
+      "type": "phrase",
+      "ex": "This town is famous for its hot springs.",
+      "exZh": "這個小鎮以溫泉聞名。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Where do you live?",
+      "zh": "你住在哪裡？",
+      "note": "詢問對方住處時"
+    },
+    {
+      "en": "I live in a small town near Taipei.",
+      "zh": "我住在台北附近的一個小鎮。",
+      "note": "介紹自己住的地方"
+    },
+    {
+      "en": "Is there a library around here?",
+      "zh": "這附近有圖書館嗎？",
+      "note": "向路人詢問地點"
+    },
+    {
+      "en": "What is there to do in this city?",
+      "zh": "這座城市有什麼好玩的？",
+      "note": "詢問觀光或娛樂時"
+    },
+    {
+      "en": "It is a quiet and friendly neighborhood.",
+      "zh": "那是個安靜又友善的社區。",
+      "note": "形容住家環境"
+    },
+    {
+      "en": "How long have you lived here?",
+      "zh": "你在這裡住多久了？",
+      "note": "閒聊對方的居住經歷"
+    },
+    {
+      "en": "The museum is just down the street.",
+      "zh": "博物館就在這條街的前面。",
+      "note": "告訴別人地點很近"
+    },
+    {
+      "en": "The city is very crowded on weekends.",
+      "zh": "這座城市週末非常擁擠。",
+      "note": "形容城市的狀況"
+    },
+    {
+      "en": "Let’s meet in front of the cinema.",
+      "zh": "我們在電影院前面碰面吧。",
+      "note": "約定見面地點"
+    },
+    {
+      "en": "This town is famous for its night markets.",
+      "zh": "這個小鎮以夜市聞名。",
+      "note": "介紹家鄉特色"
+    },
+    {
+      "en": "Can you recommend a good café nearby?",
+      "zh": "你能推薦附近一家不錯的咖啡廳嗎？",
+      "note": "請人推薦店家"
+    },
+    {
+      "en": "I need to stop by the pharmacy first.",
+      "zh": "我得先順道去一下藥局。",
+      "note": "說明行程中要先去某處"
+    },
+    {
+      "en": "Everything is within walking distance.",
+      "zh": "所有東西都在步行可到的範圍內。",
+      "note": "形容生活很方便"
+    },
+    {
+      "en": "Be careful when you cross the street.",
+      "zh": "過馬路時要小心。",
+      "note": "提醒別人注意安全"
+    }
+  ],
+  "dialogues": [
+    {
+      "title": "介紹自己的城市",
+      "lines": [
+        {
+          "who": "A",
+          "en": "Where are you from?",
+          "zh": "你是哪裡人？"
+        },
+        {
+          "who": "B",
+          "en": "I’m from Tainan. It is an old city.",
+          "zh": "我來自台南，那是一座古老的城市。"
+        },
+        {
+          "who": "A",
+          "en": "What is it famous for?",
+          "zh": "它以什麼聞名？"
+        },
+        {
+          "who": "B",
+          "en": "It is famous for its temples and street food.",
+          "zh": "它以廟宇和路邊小吃聞名。"
+        },
+        {
+          "who": "A",
+          "en": "That sounds great. I want to visit!",
+          "zh": "聽起來很棒，我想去看看！"
+        }
+      ]
+    },
+    {
+      "title": "找一家咖啡廳",
+      "lines": [
+        {
+          "who": "A",
+          "en": "Excuse me, is there a café around here?",
+          "zh": "不好意思，這附近有咖啡廳嗎？"
+        },
+        {
+          "who": "B",
+          "en": "Yes, there is one next to the bookstore.",
+          "zh": "有的，在書店隔壁有一家。"
+        },
+        {
+          "who": "A",
+          "en": "Is it far from here?",
+          "zh": "離這裡遠嗎？"
+        },
+        {
+          "who": "B",
+          "en": "No, it is only five minutes away on foot.",
+          "zh": "不遠，走路只要五分鐘。"
+        },
+        {
+          "who": "A",
+          "en": "Thank you so much!",
+          "zh": "非常謝謝你！"
+        }
+      ]
+    }
+  ]
+}

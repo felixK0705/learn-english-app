@@ -1,0 +1,476 @@
+{
+  "id": "sports",
+  "title": "Sports",
+  "zh": "運動",
+  "emoji": "⚽",
+  "backdrop": "stadium",
+  "intro": "認識各種運動項目和比賽用語，聊聊你喜歡的運動。",
+  "words": [
+    {
+      "en": "soccer",
+      "kk": "ˋsɑkɚ",
+      "zh": "足球",
+      "emoji": "⚽",
+      "type": "word",
+      "ex": "We play soccer after school.",
+      "exZh": "我們放學後踢足球。"
+    },
+    {
+      "en": "basketball",
+      "kk": "ˋbæskɪtˏbɔl",
+      "zh": "籃球",
+      "emoji": "🏀",
+      "type": "word",
+      "ex": "He is tall and good at basketball.",
+      "exZh": "他個子高，很會打籃球。"
+    },
+    {
+      "en": "baseball",
+      "kk": "ˋbesˏbɔl",
+      "zh": "棒球",
+      "emoji": "⚾",
+      "type": "word",
+      "ex": "Baseball is popular in Taiwan.",
+      "exZh": "棒球在台灣很受歡迎。"
+    },
+    {
+      "en": "tennis",
+      "kk": "ˋtɛnɪs",
+      "zh": "網球",
+      "emoji": "🎾",
+      "type": "word",
+      "ex": "My mom plays tennis on weekends.",
+      "exZh": "我媽媽週末打網球。"
+    },
+    {
+      "en": "badminton",
+      "kk": "ˋbædmɪntən",
+      "zh": "羽毛球",
+      "emoji": "🏸",
+      "type": "word",
+      "ex": "We played badminton in the gym.",
+      "exZh": "我們在體育館打羽毛球。"
+    },
+    {
+      "en": "volleyball",
+      "kk": "ˋvɑlɪˏbɔl",
+      "zh": "排球",
+      "emoji": "🏐",
+      "type": "word",
+      "ex": "Volleyball needs good teamwork.",
+      "exZh": "排球需要良好的團隊合作。"
+    },
+    {
+      "en": "table tennis",
+      "kk": "ˋtebl̩ ˋtɛnɪs",
+      "zh": "桌球",
+      "emoji": "🏓",
+      "type": "word",
+      "ex": "Table tennis is fast and fun.",
+      "exZh": "桌球又快又有趣。"
+    },
+    {
+      "en": "golf",
+      "kk": "ˋgɑlf",
+      "zh": "高爾夫球",
+      "emoji": "⛳",
+      "type": "word",
+      "ex": "My uncle plays golf on Sundays.",
+      "exZh": "我叔叔星期天打高爾夫球。"
+    },
+    {
+      "en": "swimming",
+      "kk": "ˋswɪmɪŋ",
+      "zh": "游泳",
+      "emoji": "🏊",
+      "type": "word",
+      "ex": "Swimming is good exercise.",
+      "exZh": "游泳是很好的運動。"
+    },
+    {
+      "en": "skating",
+      "kk": "ˋsketɪŋ",
+      "zh": "溜冰",
+      "emoji": "⛸️",
+      "type": "word",
+      "ex": "She loves skating in winter.",
+      "exZh": "她喜歡在冬天溜冰。"
+    },
+    {
+      "en": "skiing",
+      "kk": "ˋskiɪŋ",
+      "zh": "滑雪",
+      "emoji": "⛷️",
+      "type": "word",
+      "ex": "We went skiing in Japan.",
+      "exZh": "我們去日本滑雪。"
+    },
+    {
+      "en": "gymnastics",
+      "kk": "dʒɪmˋnæstɪks",
+      "zh": "體操",
+      "emoji": "🤸",
+      "type": "word",
+      "ex": "She takes gymnastics classes.",
+      "exZh": "她上體操課。"
+    },
+    {
+      "en": "boxing",
+      "kk": "ˋbɑksɪŋ",
+      "zh": "拳擊",
+      "emoji": "🥊",
+      "type": "word",
+      "ex": "Boxing takes strength and speed.",
+      "exZh": "拳擊需要力量和速度。"
+    },
+    {
+      "en": "karate",
+      "kk": "kəˋrɑtɪ",
+      "zh": "空手道",
+      "emoji": "🥋",
+      "type": "word",
+      "ex": "He wears a white uniform for karate.",
+      "exZh": "他穿白色的服裝練空手道。"
+    },
+    {
+      "en": "racket",
+      "kk": "ˋrækɪt",
+      "zh": "球拍",
+      "emoji": "🏸",
+      "type": "word",
+      "ex": "Hold the racket with both hands.",
+      "exZh": "用雙手握住球拍。"
+    },
+    {
+      "en": "bat",
+      "kk": "ˋbæt",
+      "zh": "球棒",
+      "emoji": "🏏",
+      "type": "word",
+      "ex": "He swung the bat hard.",
+      "exZh": "他用力揮動球棒。"
+    },
+    {
+      "en": "helmet",
+      "kk": "ˋhɛlmɪt",
+      "zh": "安全帽；頭盔",
+      "emoji": "⛑️",
+      "type": "word",
+      "ex": "Always wear a helmet.",
+      "exZh": "一定要戴安全帽。"
+    },
+    {
+      "en": "goal",
+      "kk": "ˋgol",
+      "zh": "球門；得分",
+      "emoji": "🥅",
+      "type": "word",
+      "ex": "The ball flew into the goal.",
+      "exZh": "球飛進了球門。"
+    },
+    {
+      "en": "net",
+      "kk": "ˋnɛt",
+      "zh": "網子",
+      "emoji": "🕸️",
+      "type": "word",
+      "ex": "The ball hit the net.",
+      "exZh": "球打到網子。"
+    },
+    {
+      "en": "referee",
+      "kk": "ˏrɛfəˋri",
+      "zh": "裁判",
+      "emoji": "🧑‍⚖️",
+      "type": "word",
+      "ex": "The referee blew the whistle.",
+      "exZh": "裁判吹了哨子。"
+    },
+    {
+      "en": "coach",
+      "kk": "ˋkotʃ",
+      "zh": "教練",
+      "emoji": "🧑‍🏫",
+      "type": "word",
+      "ex": "Our coach is very strict.",
+      "exZh": "我們的教練非常嚴格。"
+    },
+    {
+      "en": "team",
+      "kk": "ˋtim",
+      "zh": "隊伍",
+      "emoji": "👥",
+      "type": "word",
+      "ex": "Our team won the game.",
+      "exZh": "我們的隊伍贏了比賽。"
+    },
+    {
+      "en": "player",
+      "kk": "ˋpleɚ",
+      "zh": "選手；球員",
+      "emoji": "🏃",
+      "type": "word",
+      "ex": "He is the best player on the team.",
+      "exZh": "他是隊上最棒的球員。"
+    },
+    {
+      "en": "champion",
+      "kk": "ˋtʃæmpɪən",
+      "zh": "冠軍",
+      "emoji": "👑",
+      "type": "word",
+      "ex": "She is the school champion.",
+      "exZh": "她是學校的冠軍。"
+    },
+    {
+      "en": "medal",
+      "kk": "ˋmɛdl̩",
+      "zh": "獎牌",
+      "emoji": "🏅",
+      "type": "word",
+      "ex": "He won a gold medal.",
+      "exZh": "他贏得了一面金牌。"
+    },
+    {
+      "en": "trophy",
+      "kk": "ˋtrofɪ",
+      "zh": "獎盃",
+      "emoji": "🏆",
+      "type": "word",
+      "ex": "The winners held up the trophy.",
+      "exZh": "優勝者高舉獎盃。"
+    },
+    {
+      "en": "whistle",
+      "kk": "ˋhwɪsl̩",
+      "zh": "哨子",
+      "emoji": "📣",
+      "type": "word",
+      "ex": "The coach blew his whistle.",
+      "exZh": "教練吹響了哨子。"
+    },
+    {
+      "en": "scoreboard",
+      "kk": "ˋskɔrˏbord",
+      "zh": "計分板",
+      "emoji": "📊",
+      "type": "word",
+      "ex": "Look at the scoreboard. It is a tie.",
+      "exZh": "看計分板，現在是平手。"
+    },
+    {
+      "en": "race",
+      "kk": "ˋres",
+      "zh": "賽跑；比賽",
+      "emoji": "🏁",
+      "type": "word",
+      "ex": "I came second in the race.",
+      "exZh": "我在賽跑中得了第二名。"
+    },
+    {
+      "en": "track",
+      "kk": "ˋtræk",
+      "zh": "跑道",
+      "emoji": "🛤️",
+      "type": "word",
+      "ex": "We run around the track.",
+      "exZh": "我們繞著跑道跑步。"
+    },
+    {
+      "en": "jersey",
+      "kk": "ˋdʒɝzɪ",
+      "zh": "運動球衣",
+      "emoji": "👕",
+      "type": "word",
+      "ex": "He wears a blue jersey.",
+      "exZh": "他穿著藍色的球衣。"
+    },
+    {
+      "en": "sneakers",
+      "kk": "ˋsnikɚz",
+      "zh": "運動鞋",
+      "emoji": "👟",
+      "type": "word",
+      "ex": "I bought new sneakers for P.E.",
+      "exZh": "我為體育課買了新的運動鞋。"
+    },
+    {
+      "en": "warm up",
+      "kk": "",
+      "zh": "暖身",
+      "emoji": "🔥",
+      "type": "phrase",
+      "ex": "We warm up before every game.",
+      "exZh": "每場比賽前我們都會暖身。"
+    },
+    {
+      "en": "work out",
+      "kk": "",
+      "zh": "健身；運動",
+      "emoji": "💪",
+      "type": "phrase",
+      "ex": "I work out three times a week.",
+      "exZh": "我一週運動三次。"
+    },
+    {
+      "en": "play catch",
+      "kk": "",
+      "zh": "玩接球",
+      "emoji": "🤾",
+      "type": "phrase",
+      "ex": "Let us play catch in the yard.",
+      "exZh": "我們到院子玩接球吧。"
+    },
+    {
+      "en": "score a goal",
+      "kk": "",
+      "zh": "進球得分",
+      "emoji": "🎯",
+      "type": "phrase",
+      "ex": "She scored a goal in the last minute.",
+      "exZh": "她在最後一分鐘進了一球。"
+    },
+    {
+      "en": "cheer for",
+      "kk": "",
+      "zh": "為……加油",
+      "emoji": "📣",
+      "type": "phrase",
+      "ex": "We cheer for our school team.",
+      "exZh": "我們為學校球隊加油。"
+    },
+    {
+      "en": "win the game",
+      "kk": "",
+      "zh": "贏得比賽",
+      "emoji": "🥇",
+      "type": "phrase",
+      "ex": "We hope to win the game today.",
+      "exZh": "我們希望今天能贏得比賽。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "What sport do you like?",
+      "zh": "你喜歡什麼運動？",
+      "note": "聊運動話題"
+    },
+    {
+      "en": "Do you want to play basketball with us?",
+      "zh": "你想和我們一起打籃球嗎？",
+      "note": "邀請別人加入"
+    },
+    {
+      "en": "Pass the ball to me!",
+      "zh": "把球傳給我！",
+      "note": "比賽中要球"
+    },
+    {
+      "en": "Good job! Nice shot!",
+      "zh": "做得好！好球！",
+      "note": "稱讚隊友"
+    },
+    {
+      "en": "Let us warm up first.",
+      "zh": "我們先暖身吧。",
+      "note": "運動開始前"
+    },
+    {
+      "en": "Which team are you on?",
+      "zh": "你是哪一隊的？",
+      "note": "觀賽或分組時"
+    },
+    {
+      "en": "I am on the school swimming team.",
+      "zh": "我是學校游泳隊的。",
+      "note": "介紹自己的隊伍"
+    },
+    {
+      "en": "The score is two to one.",
+      "zh": "比數是二比一。",
+      "note": "報告比分"
+    },
+    {
+      "en": "We lost, but we had fun.",
+      "zh": "我們輸了，但是很開心。",
+      "note": "輸球後的心情"
+    },
+    {
+      "en": "How often do you exercise?",
+      "zh": "你多久運動一次？",
+      "note": "詢問運動習慣"
+    },
+    {
+      "en": "I run in the park every morning.",
+      "zh": "我每天早上在公園跑步。",
+      "note": "說明運動習慣"
+    },
+    {
+      "en": "Be careful! Do not get hurt.",
+      "zh": "小心！不要受傷。",
+      "note": "提醒安全"
+    },
+    {
+      "en": "Whose turn is it to serve?",
+      "zh": "輪到誰發球？",
+      "note": "比賽規則討論"
+    },
+    {
+      "en": "The game starts at three o'clock.",
+      "zh": "比賽三點開始。",
+      "note": "通知比賽時間"
+    }
+  ],
+  "dialogues": [
+    {
+      "title": "邀請打球",
+      "lines": [
+        {
+          "who": "A",
+          "en": "Do you want to play badminton after school?",
+          "zh": "放學後你想打羽毛球嗎？"
+        },
+        {
+          "who": "B",
+          "en": "Sure! I will bring my racket.",
+          "zh": "好啊！我會帶我的球拍。"
+        },
+        {
+          "who": "A",
+          "en": "Let us meet at the gym at four.",
+          "zh": "我們四點在體育館見。"
+        },
+        {
+          "who": "B",
+          "en": "Sounds good. See you there!",
+          "zh": "聽起來不錯，到時見！"
+        }
+      ]
+    },
+    {
+      "title": "比賽後",
+      "lines": [
+        {
+          "who": "A",
+          "en": "Who won the game?",
+          "zh": "誰贏了比賽？"
+        },
+        {
+          "who": "B",
+          "en": "Our team won three to two.",
+          "zh": "我們隊以三比二獲勝。"
+        },
+        {
+          "who": "A",
+          "en": "Congratulations! Who scored the last goal?",
+          "zh": "恭喜！最後一球是誰進的？"
+        },
+        {
+          "who": "B",
+          "en": "Amy did. She was great.",
+          "zh": "是艾美，她太棒了。"
+        }
+      ]
+    }
+  ]
+}

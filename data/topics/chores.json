@@ -1,0 +1,486 @@
+{
+  "id": "chores",
+  "title": "Chores",
+  "zh": "家事",
+  "emoji": "🧹",
+  "backdrop": "home",
+  "intro": "學會說各種家事和打掃工作，與家人分工合作。",
+  "words": [
+    {
+      "en": "chore",
+      "kk": "tʃɔr",
+      "zh": "家事；雜務",
+      "emoji": "📋",
+      "type": "word",
+      "ex": "Washing the car is my chore.",
+      "exZh": "洗車是我的家事。"
+    },
+    {
+      "en": "sweep",
+      "kk": "swip",
+      "zh": "掃地",
+      "emoji": "🧹",
+      "type": "word",
+      "ex": "I sweep the floor every day.",
+      "exZh": "我每天掃地。"
+    },
+    {
+      "en": "mop",
+      "kk": "mɑp",
+      "zh": "拖地；拖把",
+      "emoji": "🧽",
+      "type": "word",
+      "ex": "Please mop the kitchen floor.",
+      "exZh": "請把廚房的地板拖乾淨。"
+    },
+    {
+      "en": "vacuum",
+      "kk": "ˋvækjuəm",
+      "zh": "用吸塵器清掃",
+      "emoji": "🌀",
+      "type": "word",
+      "ex": "He vacuums the living room on Saturdays.",
+      "exZh": "他每週六用吸塵器清客廳。"
+    },
+    {
+      "en": "dust",
+      "kk": "dʌst",
+      "zh": "擦灰塵；灰塵",
+      "emoji": "🌫️",
+      "type": "word",
+      "ex": "Dust the shelves before guests come.",
+      "exZh": "客人來之前把架子擦乾淨。"
+    },
+    {
+      "en": "scrub",
+      "kk": "skrʌb",
+      "zh": "刷洗",
+      "emoji": "🪥",
+      "type": "word",
+      "ex": "Scrub the pan with a brush.",
+      "exZh": "用刷子把鍋子刷乾淨。"
+    },
+    {
+      "en": "wipe",
+      "kk": "waɪp",
+      "zh": "擦拭",
+      "emoji": "🧻",
+      "type": "word",
+      "ex": "Wipe the table with a wet cloth.",
+      "exZh": "用濕布擦桌子。"
+    },
+    {
+      "en": "polish",
+      "kk": "ˋpɑlɪʃ",
+      "zh": "擦亮",
+      "emoji": "✨",
+      "type": "word",
+      "ex": "Dad polishes his shoes on Sunday.",
+      "exZh": "爸爸週日會擦他的皮鞋。"
+    },
+    {
+      "en": "iron",
+      "kk": "ˋaɪɚn",
+      "zh": "熨燙",
+      "emoji": "👔",
+      "type": "word",
+      "ex": "Mom irons my school shirt.",
+      "exZh": "媽媽幫我熨學校的襯衫。"
+    },
+    {
+      "en": "fold",
+      "kk": "fold",
+      "zh": "摺疊",
+      "emoji": "🧺",
+      "type": "word",
+      "ex": "Can you fold the towels?",
+      "exZh": "你可以摺毛巾嗎？"
+    },
+    {
+      "en": "laundry",
+      "kk": "ˋlɔndrɪ",
+      "zh": "待洗衣物；洗衣",
+      "emoji": "👚",
+      "type": "word",
+      "ex": "The laundry is in the basket.",
+      "exZh": "要洗的衣服在籃子裡。"
+    },
+    {
+      "en": "detergent",
+      "kk": "dɪˋtɝdʒənt",
+      "zh": "洗衣精；清潔劑",
+      "emoji": "🧴",
+      "type": "word",
+      "ex": "We need more detergent.",
+      "exZh": "我們需要更多洗衣精。"
+    },
+    {
+      "en": "broom",
+      "kk": "brum",
+      "zh": "掃把",
+      "emoji": "🧹",
+      "type": "word",
+      "ex": "The broom is behind the door.",
+      "exZh": "掃把在門後面。"
+    },
+    {
+      "en": "dustpan",
+      "kk": "ˋdʌstˏpæn",
+      "zh": "畚箕",
+      "emoji": "🗑️",
+      "type": "word",
+      "ex": "Hold the dustpan, please.",
+      "exZh": "請拿好畚箕。"
+    },
+    {
+      "en": "duster",
+      "kk": "ˋdʌstɚ",
+      "zh": "撢子",
+      "emoji": "🪶",
+      "type": "word",
+      "ex": "She cleaned the lamp with a duster.",
+      "exZh": "她用撢子清理檯燈。"
+    },
+    {
+      "en": "rag",
+      "kk": "ræg",
+      "zh": "抹布",
+      "emoji": "🧽",
+      "type": "word",
+      "ex": "Use an old rag to clean the window.",
+      "exZh": "用舊抹布擦窗戶。"
+    },
+    {
+      "en": "trash",
+      "kk": "træʃ",
+      "zh": "垃圾",
+      "emoji": "🗑️",
+      "type": "word",
+      "ex": "The trash smells bad.",
+      "exZh": "垃圾聞起來很臭。"
+    },
+    {
+      "en": "recycle",
+      "kk": "riˋsaɪkl",
+      "zh": "回收",
+      "emoji": "♻️",
+      "type": "word",
+      "ex": "We recycle bottles and paper.",
+      "exZh": "我們回收瓶子和紙張。"
+    },
+    {
+      "en": "hose",
+      "kk": "hoz",
+      "zh": "水管",
+      "emoji": "🚿",
+      "type": "word",
+      "ex": "Use the hose to wash the car.",
+      "exZh": "用水管來洗車。"
+    },
+    {
+      "en": "rake",
+      "kk": "rek",
+      "zh": "耙子；耙",
+      "emoji": "🍂",
+      "type": "word",
+      "ex": "He used a rake to collect the leaves.",
+      "exZh": "他用耙子把落葉聚集起來。"
+    },
+    {
+      "en": "shovel",
+      "kk": "ˋʃʌvl",
+      "zh": "鏟子",
+      "emoji": "⛏️",
+      "type": "word",
+      "ex": "Dad dug a hole with a shovel.",
+      "exZh": "爸爸用鏟子挖了一個洞。"
+    },
+    {
+      "en": "garbage bag",
+      "kk": "ˋgɑrbɪdʒ ˏbæg",
+      "zh": "垃圾袋",
+      "emoji": "🛍️",
+      "type": "word",
+      "ex": "Put the trash in a garbage bag.",
+      "exZh": "把垃圾放進垃圾袋。"
+    },
+    {
+      "en": "gloves",
+      "kk": "glʌvz",
+      "zh": "手套",
+      "emoji": "🧤",
+      "type": "word",
+      "ex": "I wear gloves when I wash dishes.",
+      "exZh": "我洗碗時會戴手套。"
+    },
+    {
+      "en": "spray bottle",
+      "kk": "ˋspre ˏbɑtl",
+      "zh": "噴霧瓶",
+      "emoji": "🔫",
+      "type": "word",
+      "ex": "Fill the spray bottle with water.",
+      "exZh": "把噴霧瓶裝滿水。"
+    },
+    {
+      "en": "clothespin",
+      "kk": "ˋkloðzˏpɪn",
+      "zh": "曬衣夾",
+      "emoji": "📎",
+      "type": "word",
+      "ex": "Use clothespins to hang the socks.",
+      "exZh": "用曬衣夾把襪子夾起來。"
+    },
+    {
+      "en": "clothesline",
+      "kk": "ˋkloðzˏlaɪn",
+      "zh": "曬衣繩",
+      "emoji": "🧵",
+      "type": "word",
+      "ex": "The shirts are on the clothesline.",
+      "exZh": "襯衫晾在曬衣繩上。"
+    },
+    {
+      "en": "mess",
+      "kk": "mɛs",
+      "zh": "髒亂；亂七八糟",
+      "emoji": "🌪️",
+      "type": "word",
+      "ex": "What a mess! Let us clean it up.",
+      "exZh": "好亂啊！我們來整理吧。"
+    },
+    {
+      "en": "tidy",
+      "kk": "ˋtaɪdɪ",
+      "zh": "整齊的",
+      "emoji": "✅",
+      "type": "word",
+      "ex": "Keep your room tidy.",
+      "exZh": "請保持你的房間整齊。"
+    },
+    {
+      "en": "dirty",
+      "kk": "ˋdɝtɪ",
+      "zh": "髒的",
+      "emoji": "🟤",
+      "type": "word",
+      "ex": "These socks are very dirty.",
+      "exZh": "這些襪子很髒。"
+    },
+    {
+      "en": "clean",
+      "kk": "klin",
+      "zh": "乾淨的；打掃",
+      "emoji": "🫧",
+      "type": "word",
+      "ex": "The floor is clean now.",
+      "exZh": "地板現在很乾淨了。"
+    },
+    {
+      "en": "do the dishes",
+      "kk": "",
+      "zh": "洗碗",
+      "emoji": "🍽️",
+      "type": "phrase",
+      "ex": "I do the dishes after dinner.",
+      "exZh": "我晚餐後洗碗。"
+    },
+    {
+      "en": "take out the trash",
+      "kk": "",
+      "zh": "倒垃圾",
+      "emoji": "🚮",
+      "type": "phrase",
+      "ex": "Please take out the trash tonight.",
+      "exZh": "請今晚把垃圾拿出去倒。"
+    },
+    {
+      "en": "clean up",
+      "kk": "",
+      "zh": "打掃；收拾乾淨",
+      "emoji": "🧼",
+      "type": "phrase",
+      "ex": "Let us clean up the kitchen.",
+      "exZh": "我們來把廚房收拾乾淨吧。"
+    },
+    {
+      "en": "do the laundry",
+      "kk": "",
+      "zh": "洗衣服",
+      "emoji": "🧺",
+      "type": "phrase",
+      "ex": "I do the laundry on Sundays.",
+      "exZh": "我週日洗衣服。"
+    },
+    {
+      "en": "water the plants",
+      "kk": "",
+      "zh": "幫植物澆水",
+      "emoji": "🌿",
+      "type": "phrase",
+      "ex": "Can you water the plants for me?",
+      "exZh": "你可以幫我澆花嗎？"
+    },
+    {
+      "en": "walk the dog",
+      "kk": "",
+      "zh": "遛狗",
+      "emoji": "🐕",
+      "type": "phrase",
+      "ex": "I walk the dog every morning.",
+      "exZh": "我每天早上遛狗。"
+    },
+    {
+      "en": "put away",
+      "kk": "",
+      "zh": "收好；收起來",
+      "emoji": "📥",
+      "type": "phrase",
+      "ex": "Put away your toys, please.",
+      "exZh": "請把你的玩具收好。"
+    },
+    {
+      "en": "hang up",
+      "kk": "",
+      "zh": "掛起來",
+      "emoji": "🪝",
+      "type": "phrase",
+      "ex": "Hang up your wet towel.",
+      "exZh": "把你的濕毛巾掛起來。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Can you give me a hand?",
+      "zh": "你可以幫我一下嗎？",
+      "note": "請人幫忙時"
+    },
+    {
+      "en": "It is your turn to do the dishes.",
+      "zh": "輪到你洗碗了。",
+      "note": "分配家事時"
+    },
+    {
+      "en": "Who is going to take out the trash?",
+      "zh": "誰要去倒垃圾？",
+      "note": "討論分工時"
+    },
+    {
+      "en": "I will sweep the floor if you mop it.",
+      "zh": "你拖地的話，我就來掃地。",
+      "note": "互相分工時"
+    },
+    {
+      "en": "Please clean up your room.",
+      "zh": "請把你的房間打掃乾淨。",
+      "note": "請孩子整理房間時"
+    },
+    {
+      "en": "Let us do the chores together.",
+      "zh": "我們一起做家事吧。",
+      "note": "邀請家人一起做時"
+    },
+    {
+      "en": "I have already folded the clothes.",
+      "zh": "我已經把衣服摺好了。",
+      "note": "報告完成進度時"
+    },
+    {
+      "en": "The laundry is done. Can you hang it up?",
+      "zh": "衣服洗好了，你可以去晾嗎？",
+      "note": "洗衣完成後"
+    },
+    {
+      "en": "Do not forget to recycle the bottles.",
+      "zh": "別忘了回收瓶子。",
+      "note": "提醒家人時"
+    },
+    {
+      "en": "This place is a mess!",
+      "zh": "這裡亂七八糟！",
+      "note": "看到房間太亂時"
+    },
+    {
+      "en": "I will take care of the dishes tonight.",
+      "zh": "今晚的碗我來洗。",
+      "note": "主動承擔時"
+    },
+    {
+      "en": "Where do you keep the broom?",
+      "zh": "掃把放在哪裡？",
+      "note": "在別人家幫忙時"
+    },
+    {
+      "en": "Put your dirty clothes in the basket.",
+      "zh": "把髒衣服放進籃子裡。",
+      "note": "提醒家人時"
+    },
+    {
+      "en": "Thanks for helping out today.",
+      "zh": "謝謝你今天的幫忙。",
+      "note": "感謝別人時"
+    }
+  ],
+  "dialogues": [
+    {
+      "title": "分配家事",
+      "lines": [
+        {
+          "who": "A",
+          "en": "Today is Saturday. Time for chores!",
+          "zh": "今天星期六，該做家事了！"
+        },
+        {
+          "who": "B",
+          "en": "What should I do?",
+          "zh": "我該做什麼？"
+        },
+        {
+          "who": "A",
+          "en": "Please sweep the floor and take out the trash.",
+          "zh": "請掃地並把垃圾拿出去倒。"
+        },
+        {
+          "who": "B",
+          "en": "Okay. Can you mop after I sweep?",
+          "zh": "好。我掃完你可以拖地嗎？"
+        },
+        {
+          "who": "A",
+          "en": "Sure. I will also do the laundry.",
+          "zh": "沒問題。我還會洗衣服。"
+        }
+      ]
+    },
+    {
+      "title": "大掃除",
+      "lines": [
+        {
+          "who": "A",
+          "en": "Wow, what a mess!",
+          "zh": "哇，好亂啊！"
+        },
+        {
+          "who": "B",
+          "en": "Let us clean up together.",
+          "zh": "我們一起整理吧。"
+        },
+        {
+          "who": "A",
+          "en": "I will dust the shelves. You wipe the table.",
+          "zh": "我來擦架子，你擦桌子。"
+        },
+        {
+          "who": "B",
+          "en": "Deal. Where is the rag?",
+          "zh": "好。抹布在哪裡？"
+        },
+        {
+          "who": "A",
+          "en": "It is in the bucket by the door.",
+          "zh": "在門邊的水桶裡。"
+        }
+      ]
+    }
+  ]
+}

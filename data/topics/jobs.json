@@ -1,0 +1,473 @@
+{
+  "id": "jobs",
+  "title": "Jobs & Occupations",
+  "zh": "職業",
+  "emoji": "👩‍💼",
+  "backdrop": "city",
+  "intro": "認識各種職業，並談談自己的工作與夢想。",
+  "words": [
+    {
+      "en": "teacher",
+      "kk": "ˋtitʃɚ",
+      "zh": "老師",
+      "emoji": "👩‍🏫",
+      "type": "word",
+      "ex": "My teacher likes to sing.",
+      "exZh": "我的老師喜歡唱歌。"
+    },
+    {
+      "en": "doctor",
+      "kk": "ˋdɑktɚ",
+      "zh": "醫生",
+      "emoji": "👨‍⚕️",
+      "type": "word",
+      "ex": "The doctor checked my throat.",
+      "exZh": "醫生檢查了我的喉嚨。"
+    },
+    {
+      "en": "nurse",
+      "kk": "nɝs",
+      "zh": "護士",
+      "emoji": "👩‍⚕️",
+      "type": "word",
+      "ex": "The nurse gave me a shot.",
+      "exZh": "護士幫我打了一針。"
+    },
+    {
+      "en": "dentist",
+      "kk": "ˋdɛntɪst",
+      "zh": "牙醫",
+      "emoji": "🦷",
+      "type": "word",
+      "ex": "I see the dentist every year.",
+      "exZh": "我每年看牙醫。"
+    },
+    {
+      "en": "police officer",
+      "kk": "",
+      "zh": "警察",
+      "emoji": "👮",
+      "type": "word",
+      "ex": "The police officer helped us cross.",
+      "exZh": "警察協助我們過馬路。"
+    },
+    {
+      "en": "firefighter",
+      "kk": "ˋfaɪrˏfaɪtɚ",
+      "zh": "消防員",
+      "emoji": "🧑‍🚒",
+      "type": "word",
+      "ex": "The firefighter climbed the ladder.",
+      "exZh": "消防員爬上了梯子。"
+    },
+    {
+      "en": "farmer",
+      "kk": "ˋfɑrmɚ",
+      "zh": "農夫",
+      "emoji": "🧑‍🌾",
+      "type": "word",
+      "ex": "The farmer grows rice.",
+      "exZh": "農夫種稻米。"
+    },
+    {
+      "en": "driver",
+      "kk": "ˋdraɪvɚ",
+      "zh": "司機",
+      "emoji": "🚌",
+      "type": "word",
+      "ex": "The bus driver is very friendly.",
+      "exZh": "公車司機非常友善。"
+    },
+    {
+      "en": "pilot",
+      "kk": "ˋpaɪlət",
+      "zh": "飛行員",
+      "emoji": "🧑‍✈️",
+      "type": "word",
+      "ex": "My uncle is a pilot.",
+      "exZh": "我叔叔是飛行員。"
+    },
+    {
+      "en": "cook",
+      "kk": "kʊk",
+      "zh": "廚師；烹飪",
+      "emoji": "👨‍🍳",
+      "type": "word",
+      "ex": "The cook makes great noodles.",
+      "exZh": "這位廚師做的麵很好吃。"
+    },
+    {
+      "en": "baker",
+      "kk": "ˋbekɚ",
+      "zh": "麵包師傅",
+      "emoji": "🥖",
+      "type": "word",
+      "ex": "The baker gets up at four.",
+      "exZh": "麵包師傅四點起床。"
+    },
+    {
+      "en": "waiter",
+      "kk": "ˋwetɚ",
+      "zh": "服務生",
+      "emoji": "🤵‍♂️",
+      "type": "word",
+      "ex": "The waiter brought our soup.",
+      "exZh": "服務生送來了我們的湯。"
+    },
+    {
+      "en": "salesperson",
+      "kk": "ˋselzˏpɝsn̩",
+      "zh": "銷售員",
+      "emoji": "🛍️",
+      "type": "word",
+      "ex": "The salesperson showed me a bag.",
+      "exZh": "銷售員給我看了一個包包。"
+    },
+    {
+      "en": "engineer",
+      "kk": "ˏɛndʒəˋnɪr",
+      "zh": "工程師",
+      "emoji": "👷",
+      "type": "word",
+      "ex": "My father is an engineer.",
+      "exZh": "我爸爸是工程師。"
+    },
+    {
+      "en": "scientist",
+      "kk": "ˋsaɪəntɪst",
+      "zh": "科學家",
+      "emoji": "🧑‍🔬",
+      "type": "word",
+      "ex": "The scientist studies the ocean.",
+      "exZh": "這位科學家研究海洋。"
+    },
+    {
+      "en": "artist",
+      "kk": "ˋɑrtɪst",
+      "zh": "藝術家",
+      "emoji": "🧑‍🎨",
+      "type": "word",
+      "ex": "The artist painted a lake.",
+      "exZh": "藝術家畫了一個湖。"
+    },
+    {
+      "en": "singer",
+      "kk": "ˋsɪŋɚ",
+      "zh": "歌手",
+      "emoji": "🎤",
+      "type": "word",
+      "ex": "She wants to be a singer.",
+      "exZh": "她想當歌手。"
+    },
+    {
+      "en": "writer",
+      "kk": "ˋraɪtɚ",
+      "zh": "作家",
+      "emoji": "✍️",
+      "type": "word",
+      "ex": "The writer finished a new book.",
+      "exZh": "作家完成了一本新書。"
+    },
+    {
+      "en": "reporter",
+      "kk": "rɪˋpɔrtɚ",
+      "zh": "記者",
+      "emoji": "🎙️",
+      "type": "word",
+      "ex": "The reporter asked three questions.",
+      "exZh": "記者問了三個問題。"
+    },
+    {
+      "en": "lawyer",
+      "kk": "ˋlɔjɚ",
+      "zh": "律師",
+      "emoji": "⚖️",
+      "type": "word",
+      "ex": "My aunt is a lawyer.",
+      "exZh": "我阿姨是律師。"
+    },
+    {
+      "en": "banker",
+      "kk": "ˋbæŋkɚ",
+      "zh": "銀行員",
+      "emoji": "🏦",
+      "type": "word",
+      "ex": "The banker helped me open an account.",
+      "exZh": "銀行員協助我開了戶頭。"
+    },
+    {
+      "en": "barber",
+      "kk": "ˋbɑrbɚ",
+      "zh": "理髮師",
+      "emoji": "💈",
+      "type": "word",
+      "ex": "The barber cut my hair.",
+      "exZh": "理髮師幫我剪了頭髮。"
+    },
+    {
+      "en": "mechanic",
+      "kk": "məˋkænɪk",
+      "zh": "技工；修理工",
+      "emoji": "🔧",
+      "type": "word",
+      "ex": "The mechanic fixed our car.",
+      "exZh": "技工修好了我們的車。"
+    },
+    {
+      "en": "photographer",
+      "kk": "fəˋtɑɡrəfɚ",
+      "zh": "攝影師",
+      "emoji": "📸",
+      "type": "word",
+      "ex": "The photographer took our photo.",
+      "exZh": "攝影師幫我們拍了照。"
+    },
+    {
+      "en": "vet",
+      "kk": "vɛt",
+      "zh": "獸醫",
+      "emoji": "🐕‍🦺",
+      "type": "word",
+      "ex": "The vet checked my dog.",
+      "exZh": "獸醫檢查了我的狗。"
+    },
+    {
+      "en": "job",
+      "kk": "dʒɑb",
+      "zh": "工作",
+      "emoji": "💼",
+      "type": "word",
+      "ex": "My mother has a new job.",
+      "exZh": "我媽媽有了新工作。"
+    },
+    {
+      "en": "work",
+      "kk": "wɝk",
+      "zh": "工作；上班",
+      "emoji": "🏢",
+      "type": "word",
+      "ex": "Dad goes to work by train.",
+      "exZh": "爸爸搭火車上班。"
+    },
+    {
+      "en": "company",
+      "kk": "ˋkʌmpənɪ",
+      "zh": "公司",
+      "emoji": "🏙️",
+      "type": "word",
+      "ex": "She works for a small company.",
+      "exZh": "她在一家小公司上班。"
+    },
+    {
+      "en": "salary",
+      "kk": "ˋsælərɪ",
+      "zh": "薪水",
+      "emoji": "💰",
+      "type": "word",
+      "ex": "He gets his salary every month.",
+      "exZh": "他每個月領薪水。"
+    },
+    {
+      "en": "what do you do",
+      "kk": "",
+      "zh": "你從事什麼工作",
+      "emoji": "❓",
+      "type": "phrase",
+      "ex": "What do you do for a living?",
+      "exZh": "你以什麼維生？"
+    },
+    {
+      "en": "work for",
+      "kk": "",
+      "zh": "為…工作",
+      "emoji": "🧾",
+      "type": "phrase",
+      "ex": "She works for a big bank.",
+      "exZh": "她在一家大銀行工作。"
+    },
+    {
+      "en": "be good at",
+      "kk": "",
+      "zh": "擅長",
+      "emoji": "🏅",
+      "type": "phrase",
+      "ex": "I am good at drawing.",
+      "exZh": "我很擅長畫畫。"
+    },
+    {
+      "en": "make a living",
+      "kk": "",
+      "zh": "謀生",
+      "emoji": "🛠️",
+      "type": "phrase",
+      "ex": "He makes a living as a driver.",
+      "exZh": "他靠開車維生。"
+    },
+    {
+      "en": "work part-time",
+      "kk": "",
+      "zh": "兼職工作",
+      "emoji": "🕒",
+      "type": "phrase",
+      "ex": "She works part-time at a cafe.",
+      "exZh": "她在咖啡店兼職。"
+    },
+    {
+      "en": "grow up to be",
+      "kk": "",
+      "zh": "長大後成為",
+      "emoji": "🌟",
+      "type": "phrase",
+      "ex": "I want to grow up to be a vet.",
+      "exZh": "我長大想當獸醫。"
+    },
+    {
+      "en": "apply for a job",
+      "kk": "",
+      "zh": "應徵工作",
+      "emoji": "📝",
+      "type": "phrase",
+      "ex": "He applied for a job at the zoo.",
+      "exZh": "他應徵了動物園的工作。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "What do you do?",
+      "zh": "你從事什麼工作？",
+      "note": "詢問對方職業時"
+    },
+    {
+      "en": "I am a teacher.",
+      "zh": "我是老師。",
+      "note": "說明自己的職業時"
+    },
+    {
+      "en": "She works in a hospital.",
+      "zh": "她在醫院工作。",
+      "note": "說明別人的工作地點時"
+    },
+    {
+      "en": "What does your father do?",
+      "zh": "你爸爸做什麼工作？",
+      "note": "詢問家人職業時"
+    },
+    {
+      "en": "My father is an engineer.",
+      "zh": "我爸爸是工程師。",
+      "note": "回答家人職業時"
+    },
+    {
+      "en": "What do you want to be when you grow up?",
+      "zh": "你長大想做什麼？",
+      "note": "詢問未來夢想時"
+    },
+    {
+      "en": "I want to be a doctor.",
+      "zh": "我想當醫生。",
+      "note": "說出夢想時"
+    },
+    {
+      "en": "Do you like your job?",
+      "zh": "你喜歡你的工作嗎？",
+      "note": "詢問對工作的感受時"
+    },
+    {
+      "en": "I work from nine to five.",
+      "zh": "我從九點上班到五點。",
+      "note": "說明工作時間時"
+    },
+    {
+      "en": "He is looking for a new job.",
+      "zh": "他正在找新工作。",
+      "note": "談論求職時"
+    },
+    {
+      "en": "She is good at talking to people.",
+      "zh": "她很擅長與人交談。",
+      "note": "稱讚某人適合某種工作時"
+    },
+    {
+      "en": "Being a nurse is hard work.",
+      "zh": "當護士是辛苦的工作。",
+      "note": "談論工作辛苦時"
+    },
+    {
+      "en": "I have an interview tomorrow.",
+      "zh": "我明天有面試。",
+      "note": "提到面試時"
+    },
+    {
+      "en": "How long have you worked here?",
+      "zh": "你在這裡工作多久了？",
+      "note": "詢問工作資歷時"
+    },
+    {
+      "en": "That is a very important job.",
+      "zh": "那是個很重要的工作。",
+      "note": "表達敬意時"
+    }
+  ],
+  "dialogues": [
+    {
+      "title": "聊職業",
+      "lines": [
+        {
+          "who": "A",
+          "en": "What do you do, Mr. Wang?",
+          "zh": "王先生，你從事什麼工作？"
+        },
+        {
+          "who": "B",
+          "en": "I am a firefighter. How about you?",
+          "zh": "我是消防員。你呢？"
+        },
+        {
+          "who": "A",
+          "en": "I am a nurse at the city hospital.",
+          "zh": "我是市立醫院的護士。"
+        },
+        {
+          "who": "B",
+          "en": "That is a very important job.",
+          "zh": "那是個很重要的工作。"
+        },
+        {
+          "who": "A",
+          "en": "So is yours!",
+          "zh": "你的也是！"
+        }
+      ]
+    },
+    {
+      "title": "談夢想",
+      "lines": [
+        {
+          "who": "A",
+          "en": "What do you want to be when you grow up?",
+          "zh": "你長大想做什麼？"
+        },
+        {
+          "who": "B",
+          "en": "I want to be a vet. I love animals.",
+          "zh": "我想當獸醫，我愛動物。"
+        },
+        {
+          "who": "A",
+          "en": "You are good at taking care of pets.",
+          "zh": "你很擅長照顧寵物。"
+        },
+        {
+          "who": "B",
+          "en": "Thanks. What about you?",
+          "zh": "謝謝，你呢？"
+        },
+        {
+          "who": "A",
+          "en": "I want to be a pilot.",
+          "zh": "我想當飛行員。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,455 @@
+{
+  "id": "greetings",
+  "title": "Greetings & Introductions",
+  "zh": "打招呼與自我介紹",
+  "emoji": "👋",
+  "backdrop": "street",
+  "intro": "學會跟人打招呼、介紹自己，以及第一次見面常說的話。",
+  "words": [
+    {
+      "en": "hello",
+      "kk": "həˋlo",
+      "zh": "哈囉；你好",
+      "emoji": "👋",
+      "type": "word",
+      "ex": "Hello, my name is Amy.",
+      "exZh": "哈囉，我的名字是艾咪。"
+    },
+    {
+      "en": "hi",
+      "kk": "haɪ",
+      "zh": "嗨",
+      "emoji": "🙋",
+      "type": "word",
+      "ex": "Hi, how was your weekend?",
+      "exZh": "嗨，你週末過得如何？"
+    },
+    {
+      "en": "goodbye",
+      "kk": "ɡudˋbaɪ",
+      "zh": "再見",
+      "emoji": "🫡",
+      "type": "word",
+      "ex": "She said goodbye at the door.",
+      "exZh": "她在門口說再見。"
+    },
+    {
+      "en": "name",
+      "kk": "nem",
+      "zh": "名字",
+      "emoji": "📛",
+      "type": "word",
+      "ex": "What is your name?",
+      "exZh": "你叫什麼名字？"
+    },
+    {
+      "en": "nice",
+      "kk": "naɪs",
+      "zh": "好的；愉快的",
+      "emoji": "😊",
+      "type": "word",
+      "ex": "It is a nice day today.",
+      "exZh": "今天天氣很好。"
+    },
+    {
+      "en": "meet",
+      "kk": "mit",
+      "zh": "認識；見面",
+      "emoji": "🤝",
+      "type": "word",
+      "ex": "I want to meet your parents.",
+      "exZh": "我想見見你的父母。"
+    },
+    {
+      "en": "friend",
+      "kk": "frɛnd",
+      "zh": "朋友",
+      "emoji": "🧑‍🤝‍🧑",
+      "type": "word",
+      "ex": "Tom is my best friend.",
+      "exZh": "湯姆是我最好的朋友。"
+    },
+    {
+      "en": "neighbor",
+      "kk": "ˋnebɚ",
+      "zh": "鄰居",
+      "emoji": "🏘️",
+      "type": "word",
+      "ex": "Our neighbor is very friendly.",
+      "exZh": "我們的鄰居非常友善。"
+    },
+    {
+      "en": "classmate",
+      "kk": "ˋklæsˏmet",
+      "zh": "同班同學",
+      "emoji": "🎒",
+      "type": "word",
+      "ex": "My classmate sits next to me.",
+      "exZh": "我的同學坐在我旁邊。"
+    },
+    {
+      "en": "student",
+      "kk": "ˋstjudn̩t",
+      "zh": "學生",
+      "emoji": "🧑‍🎓",
+      "type": "word",
+      "ex": "I am a high school student.",
+      "exZh": "我是高中生。"
+    },
+    {
+      "en": "morning",
+      "kk": "ˋmɔrnɪŋ",
+      "zh": "早晨",
+      "emoji": "🌅",
+      "type": "word",
+      "ex": "I walk to school in the morning.",
+      "exZh": "我早上走路去上學。"
+    },
+    {
+      "en": "afternoon",
+      "kk": "ˏæftɚˋnun",
+      "zh": "下午",
+      "emoji": "☀️",
+      "type": "word",
+      "ex": "We have a test this afternoon.",
+      "exZh": "我們今天下午有考試。"
+    },
+    {
+      "en": "evening",
+      "kk": "ˋivnɪŋ",
+      "zh": "傍晚；晚上",
+      "emoji": "🌆",
+      "type": "word",
+      "ex": "We eat dinner in the evening.",
+      "exZh": "我們晚上吃晚餐。"
+    },
+    {
+      "en": "tomorrow",
+      "kk": "təˋmɑro",
+      "zh": "明天",
+      "emoji": "📅",
+      "type": "word",
+      "ex": "See you tomorrow at school.",
+      "exZh": "明天學校見。"
+    },
+    {
+      "en": "again",
+      "kk": "əˋɡɛn",
+      "zh": "再一次",
+      "emoji": "🔁",
+      "type": "word",
+      "ex": "Please say that again.",
+      "exZh": "請再說一次。"
+    },
+    {
+      "en": "welcome",
+      "kk": "ˋwɛlkəm",
+      "zh": "歡迎",
+      "emoji": "🎉",
+      "type": "word",
+      "ex": "Welcome to our class.",
+      "exZh": "歡迎來到我們班。"
+    },
+    {
+      "en": "introduce",
+      "kk": "ˏɪntrəˋdjus",
+      "zh": "介紹",
+      "emoji": "🗣️",
+      "type": "word",
+      "ex": "Let me introduce my sister.",
+      "exZh": "讓我介紹我的姊姊。"
+    },
+    {
+      "en": "pleasure",
+      "kk": "ˋplɛʒɚ",
+      "zh": "榮幸；愉快",
+      "emoji": "😌",
+      "type": "word",
+      "ex": "It is a pleasure to meet you.",
+      "exZh": "很榮幸認識你。"
+    },
+    {
+      "en": "country",
+      "kk": "ˋkʌntrɪ",
+      "zh": "國家",
+      "emoji": "🌏",
+      "type": "word",
+      "ex": "Which country are you from?",
+      "exZh": "你來自哪個國家？"
+    },
+    {
+      "en": "Taiwan",
+      "kk": "ˋtaɪˋwɑn",
+      "zh": "台灣",
+      "emoji": "🇹🇼",
+      "type": "word",
+      "ex": "I was born in Taiwan.",
+      "exZh": "我在台灣出生。"
+    },
+    {
+      "en": "live",
+      "kk": "lɪv",
+      "zh": "居住",
+      "emoji": "🏠",
+      "type": "word",
+      "ex": "I live near the park.",
+      "exZh": "我住在公園附近。"
+    },
+    {
+      "en": "speak",
+      "kk": "spik",
+      "zh": "說（某種語言）",
+      "emoji": "🗨️",
+      "type": "word",
+      "ex": "Do you speak English?",
+      "exZh": "你會說英文嗎？"
+    },
+    {
+      "en": "English",
+      "kk": "ˋɪŋɡlɪʃ",
+      "zh": "英文；英語",
+      "emoji": "🇬🇧",
+      "type": "word",
+      "ex": "I am learning English.",
+      "exZh": "我正在學英文。"
+    },
+    {
+      "en": "hometown",
+      "kk": "ˋhomˏtaun",
+      "zh": "家鄉",
+      "emoji": "🏡",
+      "type": "word",
+      "ex": "My hometown is Tainan.",
+      "exZh": "我的家鄉是台南。"
+    },
+    {
+      "en": "later",
+      "kk": "ˋletɚ",
+      "zh": "稍後；之後",
+      "emoji": "⏰",
+      "type": "word",
+      "ex": "I will see you later.",
+      "exZh": "我晚點再見你。"
+    },
+    {
+      "en": "guest",
+      "kk": "ɡɛst",
+      "zh": "客人",
+      "emoji": "🧳",
+      "type": "word",
+      "ex": "Our guest arrived at noon.",
+      "exZh": "我們的客人中午到了。"
+    },
+    {
+      "en": "how are you",
+      "kk": "",
+      "zh": "你好嗎",
+      "emoji": "💬",
+      "type": "phrase",
+      "ex": "Hi, Ben! How are you?",
+      "exZh": "嗨，班！你好嗎？"
+    },
+    {
+      "en": "nice to meet you",
+      "kk": "",
+      "zh": "很高興認識你",
+      "emoji": "🤝",
+      "type": "phrase",
+      "ex": "Nice to meet you, Ms. Lee.",
+      "exZh": "李小姐，很高興認識你。"
+    },
+    {
+      "en": "see you later",
+      "kk": "",
+      "zh": "待會見",
+      "emoji": "👋",
+      "type": "phrase",
+      "ex": "I have to go. See you later!",
+      "exZh": "我得走了，待會見！"
+    },
+    {
+      "en": "shake hands",
+      "kk": "",
+      "zh": "握手",
+      "emoji": "🤝",
+      "type": "phrase",
+      "ex": "They shook hands and smiled.",
+      "exZh": "他們握了手並微笑。"
+    },
+    {
+      "en": "long time no see",
+      "kk": "",
+      "zh": "好久不見",
+      "emoji": "🫶",
+      "type": "phrase",
+      "ex": "Long time no see, Kevin!",
+      "exZh": "好久不見，凱文！"
+    },
+    {
+      "en": "where are you from",
+      "kk": "",
+      "zh": "你來自哪裡",
+      "emoji": "📍",
+      "type": "phrase",
+      "ex": "Where are you from, Lisa?",
+      "exZh": "麗莎，你來自哪裡？"
+    },
+    {
+      "en": "keep in touch",
+      "kk": "",
+      "zh": "保持聯絡",
+      "emoji": "📱",
+      "type": "phrase",
+      "ex": "Let us keep in touch after school.",
+      "exZh": "放學後我們保持聯絡吧。"
+    },
+    {
+      "en": "have a good day",
+      "kk": "",
+      "zh": "祝你有美好的一天",
+      "emoji": "🌞",
+      "type": "phrase",
+      "ex": "Bye, mom! Have a good day.",
+      "exZh": "媽媽再見！祝你今天愉快。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Hello, I am Amy.",
+      "zh": "哈囉，我是艾咪。",
+      "note": "自我介紹時"
+    },
+    {
+      "en": "My name is Tom. What is yours?",
+      "zh": "我叫湯姆。你呢？",
+      "note": "交換名字時"
+    },
+    {
+      "en": "Nice to meet you.",
+      "zh": "很高興認識你。",
+      "note": "第一次見面時"
+    },
+    {
+      "en": "Nice to meet you, too.",
+      "zh": "我也很高興認識你。",
+      "note": "回應對方的問候時"
+    },
+    {
+      "en": "How are you today?",
+      "zh": "你今天好嗎？",
+      "note": "日常問候時"
+    },
+    {
+      "en": "I am fine, thank you. And you?",
+      "zh": "我很好，謝謝。你呢？",
+      "note": "回答「你好嗎」時"
+    },
+    {
+      "en": "Where are you from?",
+      "zh": "你來自哪裡？",
+      "note": "詢問對方家鄉或國家時"
+    },
+    {
+      "en": "I am from Taiwan.",
+      "zh": "我來自台灣。",
+      "note": "說明自己來自哪裡時"
+    },
+    {
+      "en": "This is my friend, Jenny.",
+      "zh": "這位是我的朋友珍妮。",
+      "note": "介紹朋友給別人認識時"
+    },
+    {
+      "en": "Long time no see!",
+      "zh": "好久不見！",
+      "note": "遇到很久沒見的人時"
+    },
+    {
+      "en": "Good morning, everyone.",
+      "zh": "大家早安。",
+      "note": "早上向多人打招呼時"
+    },
+    {
+      "en": "Good night. See you tomorrow.",
+      "zh": "晚安，明天見。",
+      "note": "晚上道別時"
+    },
+    {
+      "en": "Please call me Jason.",
+      "zh": "請叫我傑森。",
+      "note": "告訴別人怎麼稱呼你時"
+    },
+    {
+      "en": "Welcome to my home.",
+      "zh": "歡迎來我家。",
+      "note": "迎接客人時"
+    },
+    {
+      "en": "Take care and see you soon.",
+      "zh": "保重，很快再見。",
+      "note": "道別時"
+    }
+  ],
+  "dialogues": [
+    {
+      "title": "第一次見面",
+      "lines": [
+        {
+          "who": "A",
+          "en": "Hello, my name is Amy.",
+          "zh": "哈囉，我叫艾咪。"
+        },
+        {
+          "who": "B",
+          "en": "Hi, Amy. I am Tom. Nice to meet you.",
+          "zh": "嗨，艾咪。我是湯姆，很高興認識你。"
+        },
+        {
+          "who": "A",
+          "en": "Nice to meet you, too. Where are you from?",
+          "zh": "我也很高興認識你。你來自哪裡？"
+        },
+        {
+          "who": "B",
+          "en": "I am from Taichung. How about you?",
+          "zh": "我來自台中。你呢？"
+        },
+        {
+          "who": "A",
+          "en": "I live in Taipei now.",
+          "zh": "我現在住在台北。"
+        }
+      ]
+    },
+    {
+      "title": "早上遇到鄰居",
+      "lines": [
+        {
+          "who": "A",
+          "en": "Good morning, Mr. Chen!",
+          "zh": "陳先生，早安！"
+        },
+        {
+          "who": "B",
+          "en": "Good morning, Ben. How are you?",
+          "zh": "早安，班。你好嗎？"
+        },
+        {
+          "who": "A",
+          "en": "I am fine, thank you. And you?",
+          "zh": "我很好，謝謝。您呢？"
+        },
+        {
+          "who": "B",
+          "en": "Pretty good. Have a good day at school.",
+          "zh": "還不錯。祝你在學校有美好的一天。"
+        },
+        {
+          "who": "A",
+          "en": "Thanks. See you later!",
+          "zh": "謝謝，待會見！"
+        }
+      ]
+    }
+  ]
+}

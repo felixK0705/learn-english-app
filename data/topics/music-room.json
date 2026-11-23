@@ -1,0 +1,476 @@
+{
+  "id": "music-room",
+  "title": "In the Music Room",
+  "zh": "在音樂教室",
+  "emoji": "🎼",
+  "backdrop": "music",
+  "intro": "認識各種樂器與音樂相關的說法，一起在音樂教室練習。",
+  "words": [
+    {
+      "en": "cymbals",
+      "kk": "ˋsɪmblz",
+      "zh": "鈸；銅鈸",
+      "emoji": "🪘",
+      "type": "word",
+      "ex": "The cymbals made a loud crash.",
+      "exZh": "銅鈸發出巨大的鏗鏘聲。"
+    },
+    {
+      "en": "piano",
+      "kk": "pɪˋæno",
+      "zh": "鋼琴",
+      "emoji": "🎹",
+      "type": "word",
+      "ex": "She plays the piano very well.",
+      "exZh": "她鋼琴彈得很好。"
+    },
+    {
+      "en": "tambourine",
+      "kk": "ˏtæmbəˋrin",
+      "zh": "鈴鼓",
+      "emoji": "🥁",
+      "type": "word",
+      "ex": "Shake the tambourine to the beat.",
+      "exZh": "跟著節拍搖鈴鼓。"
+    },
+    {
+      "en": "castanets",
+      "kk": "ˏkæstəˋnɛts",
+      "zh": "響板",
+      "emoji": "🎶",
+      "type": "word",
+      "ex": "Castanets are popular in Spanish dance.",
+      "exZh": "響板在西班牙舞蹈中很常見。"
+    },
+    {
+      "en": "accordion",
+      "kk": "əˋkɔrdɪən",
+      "zh": "手風琴",
+      "emoji": "🪗",
+      "type": "word",
+      "ex": "He plays the accordion on the street.",
+      "exZh": "他在街上拉手風琴。"
+    },
+    {
+      "en": "harmonica",
+      "kk": "hɑrˋmɑnɪkə",
+      "zh": "口琴",
+      "emoji": "🎵",
+      "type": "word",
+      "ex": "My grandpa can play the harmonica.",
+      "exZh": "我爺爺會吹口琴。"
+    },
+    {
+      "en": "recorder",
+      "kk": "rɪˋkɔrdɚ",
+      "zh": "直笛",
+      "emoji": "🎼",
+      "type": "word",
+      "ex": "We learn the recorder in third grade.",
+      "exZh": "我們三年級學習直笛。"
+    },
+    {
+      "en": "drum",
+      "kk": "ˋdrʌm",
+      "zh": "鼓",
+      "emoji": "🥁",
+      "type": "word",
+      "ex": "The drum sounds strong and deep.",
+      "exZh": "鼓聲強而低沉。"
+    },
+    {
+      "en": "violin",
+      "kk": "ˏvaɪəˋlɪn",
+      "zh": "小提琴",
+      "emoji": "🎻",
+      "type": "word",
+      "ex": "The violin has four strings.",
+      "exZh": "小提琴有四根弦。"
+    },
+    {
+      "en": "guitar",
+      "kk": "gɪˋtɑr",
+      "zh": "吉他",
+      "emoji": "🎸",
+      "type": "word",
+      "ex": "He plays guitar in a band.",
+      "exZh": "他在樂團彈吉他。"
+    },
+    {
+      "en": "xylophone",
+      "kk": "ˋzaɪləˏfon",
+      "zh": "木琴",
+      "emoji": "🎹",
+      "type": "word",
+      "ex": "Hit the xylophone with two mallets.",
+      "exZh": "用兩支琴槌敲木琴。"
+    },
+    {
+      "en": "flute",
+      "kk": "ˋflut",
+      "zh": "長笛",
+      "emoji": "🪈",
+      "type": "word",
+      "ex": "The flute has a soft, sweet sound.",
+      "exZh": "長笛的聲音柔和甜美。"
+    },
+    {
+      "en": "trumpet",
+      "kk": "ˋtrʌmpɪt",
+      "zh": "小號；喇叭",
+      "emoji": "🎺",
+      "type": "word",
+      "ex": "He blew the trumpet loudly.",
+      "exZh": "他大聲吹響小號。"
+    },
+    {
+      "en": "trombone",
+      "kk": "trɑmˋbon",
+      "zh": "長號",
+      "emoji": "📯",
+      "type": "word",
+      "ex": "The trombone has a long slide.",
+      "exZh": "長號有一根長長的滑管。"
+    },
+    {
+      "en": "saxophone",
+      "kk": "ˋsæksəˏfon",
+      "zh": "薩克斯風",
+      "emoji": "🎷",
+      "type": "word",
+      "ex": "The saxophone sounds smooth.",
+      "exZh": "薩克斯風的聲音很圓潤。"
+    },
+    {
+      "en": "clarinet",
+      "kk": "ˏklærəˋnɛt",
+      "zh": "單簧管",
+      "emoji": "🪈",
+      "type": "word",
+      "ex": "She plays the clarinet in the school band.",
+      "exZh": "她在學校樂隊吹單簧管。"
+    },
+    {
+      "en": "cello",
+      "kk": "ˋtʃɛlo",
+      "zh": "大提琴",
+      "emoji": "🎻",
+      "type": "word",
+      "ex": "The cello makes a deep sound.",
+      "exZh": "大提琴發出低沉的聲音。"
+    },
+    {
+      "en": "harp",
+      "kk": "ˋhɑrp",
+      "zh": "豎琴",
+      "emoji": "🪕",
+      "type": "word",
+      "ex": "The harp looks tall and elegant.",
+      "exZh": "豎琴看起來高大優雅。"
+    },
+    {
+      "en": "banjo",
+      "kk": "ˋbændʒo",
+      "zh": "五弦琴；斑鳩琴",
+      "emoji": "🪕",
+      "type": "word",
+      "ex": "He picked a happy tune on the banjo.",
+      "exZh": "他用斑鳩琴彈了一首快樂的曲子。"
+    },
+    {
+      "en": "microphone",
+      "kk": "ˋmaɪkrəˏfon",
+      "zh": "麥克風",
+      "emoji": "🎤",
+      "type": "word",
+      "ex": "Speak into the microphone, please.",
+      "exZh": "請對著麥克風說話。"
+    },
+    {
+      "en": "melody",
+      "kk": "ˋmɛlədɪ",
+      "zh": "旋律",
+      "emoji": "🎵",
+      "type": "word",
+      "ex": "This song has a lovely melody.",
+      "exZh": "這首歌的旋律很動聽。"
+    },
+    {
+      "en": "rhythm",
+      "kk": "ˋrɪðəm",
+      "zh": "節奏",
+      "emoji": "🥁",
+      "type": "word",
+      "ex": "Clap your hands to the rhythm.",
+      "exZh": "跟著節奏拍手。"
+    },
+    {
+      "en": "band",
+      "kk": "ˋbænd",
+      "zh": "樂團；樂隊",
+      "emoji": "🧑‍🎤",
+      "type": "word",
+      "ex": "Our school band is practicing.",
+      "exZh": "我們學校的樂隊正在練習。"
+    },
+    {
+      "en": "orchestra",
+      "kk": "ˋɔrkɪstrə",
+      "zh": "管弦樂團",
+      "emoji": "🎻",
+      "type": "word",
+      "ex": "The orchestra has about sixty players.",
+      "exZh": "管弦樂團大約有六十位演奏者。"
+    },
+    {
+      "en": "choir",
+      "kk": "ˋkwaɪɚ",
+      "zh": "合唱團",
+      "emoji": "🎤",
+      "type": "word",
+      "ex": "She sings in the school choir.",
+      "exZh": "她在學校合唱團唱歌。"
+    },
+    {
+      "en": "conductor",
+      "kk": "kənˋdʌktɚ",
+      "zh": "指揮",
+      "emoji": "🧑‍🎤",
+      "type": "word",
+      "ex": "The conductor raised his hands.",
+      "exZh": "指揮舉起了雙手。"
+    },
+    {
+      "en": "concert",
+      "kk": "ˋkɑnsɚt",
+      "zh": "音樂會",
+      "emoji": "🎟️",
+      "type": "word",
+      "ex": "We went to a concert last night.",
+      "exZh": "我們昨晚去聽了音樂會。"
+    },
+    {
+      "en": "stage",
+      "kk": "ˋstedʒ",
+      "zh": "舞台",
+      "emoji": "🎭",
+      "type": "word",
+      "ex": "The band walked onto the stage.",
+      "exZh": "樂團走上舞台。"
+    },
+    {
+      "en": "note",
+      "kk": "ˋnot",
+      "zh": "音符",
+      "emoji": "🎼",
+      "type": "word",
+      "ex": "This note is too high for me.",
+      "exZh": "這個音對我來說太高了。"
+    },
+    {
+      "en": "sheet music",
+      "kk": "ˋʃit ˏmjuzɪk",
+      "zh": "樂譜",
+      "emoji": "📜",
+      "type": "word",
+      "ex": "Put the sheet music on the stand.",
+      "exZh": "把樂譜放在譜架上。"
+    },
+    {
+      "en": "speaker",
+      "kk": "ˋspikɚ",
+      "zh": "喇叭；音箱",
+      "emoji": "🔊",
+      "type": "word",
+      "ex": "Turn on the speaker, please.",
+      "exZh": "請打開音箱。"
+    },
+    {
+      "en": "play by ear",
+      "kk": "",
+      "zh": "憑聽覺演奏",
+      "emoji": "👂",
+      "type": "phrase",
+      "ex": "He can play any song by ear.",
+      "exZh": "他能憑聽覺彈奏任何歌曲。"
+    },
+    {
+      "en": "read music",
+      "kk": "",
+      "zh": "看樂譜",
+      "emoji": "👓",
+      "type": "phrase",
+      "ex": "Can you read music?",
+      "exZh": "你會看樂譜嗎？"
+    },
+    {
+      "en": "keep the beat",
+      "kk": "",
+      "zh": "保持節拍",
+      "emoji": "⏱️",
+      "type": "phrase",
+      "ex": "Try to keep the beat with your foot.",
+      "exZh": "試著用腳打拍子。"
+    },
+    {
+      "en": "sing along",
+      "kk": "",
+      "zh": "跟著唱",
+      "emoji": "🗣️",
+      "type": "phrase",
+      "ex": "Let us sing along with the video.",
+      "exZh": "我們跟著影片一起唱吧。"
+    },
+    {
+      "en": "tune an instrument",
+      "kk": "",
+      "zh": "調音",
+      "emoji": "🔧",
+      "type": "phrase",
+      "ex": "Please tune your violin before class.",
+      "exZh": "上課前請先調好你的小提琴。"
+    },
+    {
+      "en": "take a bow",
+      "kk": "",
+      "zh": "鞠躬謝幕",
+      "emoji": "🙇",
+      "type": "phrase",
+      "ex": "The players took a bow after the show.",
+      "exZh": "演出後演奏者們鞠躬謝幕。"
+    },
+    {
+      "en": "hit the high notes",
+      "kk": "",
+      "zh": "唱出高音",
+      "emoji": "📈",
+      "type": "phrase",
+      "ex": "She can hit the high notes easily.",
+      "exZh": "她能輕鬆唱出高音。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "What instrument do you play?",
+      "zh": "你演奏什麼樂器？",
+      "note": "認識新朋友時"
+    },
+    {
+      "en": "I have played the piano for five years.",
+      "zh": "我彈鋼琴已經五年了。",
+      "note": "介紹自己的音樂經歷"
+    },
+    {
+      "en": "Please play a little softer.",
+      "zh": "請演奏得小聲一點。",
+      "note": "指導合奏時"
+    },
+    {
+      "en": "Let us try that part again.",
+      "zh": "我們再練習一次那一段。",
+      "note": "排練時"
+    },
+    {
+      "en": "You are out of tune.",
+      "zh": "你音不準了。",
+      "note": "提醒同學調音"
+    },
+    {
+      "en": "Can you play this song for me?",
+      "zh": "你可以為我演奏這首歌嗎？",
+      "note": "請朋友表演"
+    },
+    {
+      "en": "Count to four and start together.",
+      "zh": "數到四然後一起開始。",
+      "note": "合奏開始前"
+    },
+    {
+      "en": "Hold the recorder like this.",
+      "zh": "直笛要像這樣握。",
+      "note": "教同學吹直笛"
+    },
+    {
+      "en": "The concert starts at seven thirty.",
+      "zh": "音樂會七點半開始。",
+      "note": "通知演出時間"
+    },
+    {
+      "en": "I am nervous about the solo.",
+      "zh": "我對獨奏感到緊張。",
+      "note": "表達上台前心情"
+    },
+    {
+      "en": "That was a wonderful performance!",
+      "zh": "那場演出太精彩了！",
+      "note": "稱讚表演"
+    },
+    {
+      "en": "Which song should we sing next?",
+      "zh": "我們下一首要唱什麼歌？",
+      "note": "討論曲目"
+    },
+    {
+      "en": "Please put your instrument back in its case.",
+      "zh": "請把你的樂器放回琴盒。",
+      "note": "下課收拾時"
+    },
+    {
+      "en": "I would like to learn the guitar.",
+      "zh": "我想學吉他。",
+      "note": "表達學習意願"
+    }
+  ],
+  "dialogues": [
+    {
+      "title": "選擇樂器",
+      "lines": [
+        {
+          "who": "A",
+          "en": "Which instrument do you want to try?",
+          "zh": "你想試哪一種樂器？"
+        },
+        {
+          "who": "B",
+          "en": "I would like to play the trumpet.",
+          "zh": "我想吹小號。"
+        },
+        {
+          "who": "A",
+          "en": "It is loud, but it is a lot of fun.",
+          "zh": "它很大聲，但很好玩。"
+        },
+        {
+          "who": "B",
+          "en": "Great. Let me show you how to hold it.",
+          "zh": "好，我來教你怎麼拿。"
+        }
+      ]
+    },
+    {
+      "title": "合唱團練習",
+      "lines": [
+        {
+          "who": "A",
+          "en": "Are you ready to sing?",
+          "zh": "你準備好要唱了嗎？"
+        },
+        {
+          "who": "B",
+          "en": "Yes, but the high notes are hard.",
+          "zh": "是的，但是高音很難。"
+        },
+        {
+          "who": "A",
+          "en": "Take a deep breath and relax.",
+          "zh": "深呼吸，放輕鬆。"
+        },
+        {
+          "who": "B",
+          "en": "Okay. Let us try again.",
+          "zh": "好，我們再試一次。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,477 @@
+{
+  "id": "nature-space",
+  "title": "Nature and Space",
+  "zh": "自然景觀與宇宙",
+  "emoji": "🏔️",
+  "backdrop": "space",
+  "intro": "從山川河流到星星與行星，認識地球與宇宙的樣貌。",
+  "words": [
+    {
+      "en": "mountain",
+      "kk": "ˋmaʊntn̩",
+      "zh": "山",
+      "emoji": "🏔️",
+      "type": "word",
+      "ex": "We climbed the mountain last summer.",
+      "exZh": "我們去年夏天爬了那座山。"
+    },
+    {
+      "en": "hill",
+      "kk": "hɪl",
+      "zh": "小山丘",
+      "emoji": "⛰️",
+      "type": "word",
+      "ex": "The house is on a small hill.",
+      "exZh": "房子在一座小山丘上。"
+    },
+    {
+      "en": "river",
+      "kk": "ˋrɪvɚ",
+      "zh": "河流",
+      "emoji": "🏞️",
+      "type": "word",
+      "ex": "The river flows into the sea.",
+      "exZh": "河流流入大海。"
+    },
+    {
+      "en": "lake",
+      "kk": "lek",
+      "zh": "湖",
+      "emoji": "🛶",
+      "type": "word",
+      "ex": "We rowed a boat on the lake.",
+      "exZh": "我們在湖上划船。"
+    },
+    {
+      "en": "waterfall",
+      "kk": "ˋwɔtɚˏfɔl",
+      "zh": "瀑布",
+      "emoji": "💦",
+      "type": "word",
+      "ex": "The waterfall is very high.",
+      "exZh": "這座瀑布非常高。"
+    },
+    {
+      "en": "forest",
+      "kk": "ˋfɔrɪst",
+      "zh": "森林",
+      "emoji": "🌲",
+      "type": "word",
+      "ex": "Many animals live in the forest.",
+      "exZh": "許多動物住在森林裡。"
+    },
+    {
+      "en": "desert",
+      "kk": "ˋdɛzɚt",
+      "zh": "沙漠",
+      "emoji": "🏜️",
+      "type": "word",
+      "ex": "The desert is hot and dry.",
+      "exZh": "沙漠又熱又乾。"
+    },
+    {
+      "en": "island",
+      "kk": "ˋaɪlənd",
+      "zh": "島",
+      "emoji": "🏝️",
+      "type": "word",
+      "ex": "Taiwan is a beautiful island.",
+      "exZh": "台灣是一座美麗的島。"
+    },
+    {
+      "en": "valley",
+      "kk": "ˋvælɪ",
+      "zh": "山谷",
+      "emoji": "🌄",
+      "type": "word",
+      "ex": "A small village lies in the valley.",
+      "exZh": "山谷裡有一座小村莊。"
+    },
+    {
+      "en": "volcano",
+      "kk": "vɑlˋkeno",
+      "zh": "火山",
+      "emoji": "🌋",
+      "type": "word",
+      "ex": "The volcano erupted last year.",
+      "exZh": "那座火山去年爆發了。"
+    },
+    {
+      "en": "cave",
+      "kk": "kev",
+      "zh": "洞穴",
+      "emoji": "🕳️",
+      "type": "word",
+      "ex": "Bats live in the cave.",
+      "exZh": "蝙蝠住在洞穴裡。"
+    },
+    {
+      "en": "cliff",
+      "kk": "klɪf",
+      "zh": "懸崖",
+      "emoji": "🧗",
+      "type": "word",
+      "ex": "Don't stand near the cliff.",
+      "exZh": "不要站在懸崖邊。"
+    },
+    {
+      "en": "rock",
+      "kk": "rɑk",
+      "zh": "岩石",
+      "emoji": "🪨",
+      "type": "word",
+      "ex": "He sat on a big rock.",
+      "exZh": "他坐在一塊大岩石上。"
+    },
+    {
+      "en": "sky",
+      "kk": "skaɪ",
+      "zh": "天空",
+      "emoji": "🌤️",
+      "type": "word",
+      "ex": "The sky is clear and blue.",
+      "exZh": "天空晴朗又湛藍。"
+    },
+    {
+      "en": "sun",
+      "kk": "sʌn",
+      "zh": "太陽",
+      "emoji": "☀️",
+      "type": "word",
+      "ex": "The sun rises in the east.",
+      "exZh": "太陽從東邊升起。"
+    },
+    {
+      "en": "moon",
+      "kk": "mun",
+      "zh": "月亮",
+      "emoji": "🌙",
+      "type": "word",
+      "ex": "The moon is bright tonight.",
+      "exZh": "今晚月亮很亮。"
+    },
+    {
+      "en": "star",
+      "kk": "stɑr",
+      "zh": "星星",
+      "emoji": "⭐",
+      "type": "word",
+      "ex": "I can see a lot of stars.",
+      "exZh": "我看得到好多星星。"
+    },
+    {
+      "en": "planet",
+      "kk": "ˋplænɪt",
+      "zh": "行星",
+      "emoji": "🪐",
+      "type": "word",
+      "ex": "Saturn is a planet with rings.",
+      "exZh": "土星是一顆有環的行星。"
+    },
+    {
+      "en": "earth",
+      "kk": "ɝθ",
+      "zh": "地球",
+      "emoji": "🌍",
+      "type": "word",
+      "ex": "The earth goes around the sun.",
+      "exZh": "地球繞著太陽轉。"
+    },
+    {
+      "en": "galaxy",
+      "kk": "ˋgæləksɪ",
+      "zh": "銀河系；星系",
+      "emoji": "🌌",
+      "type": "word",
+      "ex": "Our galaxy has billions of stars.",
+      "exZh": "我們的銀河系有數十億顆星星。"
+    },
+    {
+      "en": "comet",
+      "kk": "ˋkɑmɪt",
+      "zh": "彗星",
+      "emoji": "☄️",
+      "type": "word",
+      "ex": "A comet has a long bright tail.",
+      "exZh": "彗星有一條明亮的長尾巴。"
+    },
+    {
+      "en": "meteor",
+      "kk": "ˋmitɪɚ",
+      "zh": "流星",
+      "emoji": "🌠",
+      "type": "word",
+      "ex": "We saw a meteor last night.",
+      "exZh": "我們昨晚看到一顆流星。"
+    },
+    {
+      "en": "rocket",
+      "kk": "ˋrɑkɪt",
+      "zh": "火箭",
+      "emoji": "🚀",
+      "type": "word",
+      "ex": "The rocket flew into space.",
+      "exZh": "火箭飛向太空。"
+    },
+    {
+      "en": "spaceship",
+      "kk": "ˋspesˏʃɪp",
+      "zh": "太空船",
+      "emoji": "🛸",
+      "type": "word",
+      "ex": "The spaceship landed on the moon.",
+      "exZh": "太空船降落在月球上。"
+    },
+    {
+      "en": "astronaut",
+      "kk": "ˋæstrəˏnɔt",
+      "zh": "太空人",
+      "emoji": "🧑‍🚀",
+      "type": "word",
+      "ex": "The astronaut waved to us.",
+      "exZh": "太空人對我們揮手。"
+    },
+    {
+      "en": "telescope",
+      "kk": "ˋtɛləˏskop",
+      "zh": "望遠鏡",
+      "emoji": "🔭",
+      "type": "word",
+      "ex": "We looked at Mars through a telescope.",
+      "exZh": "我們用望遠鏡看火星。"
+    },
+    {
+      "en": "satellite",
+      "kk": "ˋsætlˏaɪt",
+      "zh": "衛星",
+      "emoji": "🛰️",
+      "type": "word",
+      "ex": "A satellite takes pictures of Earth.",
+      "exZh": "衛星為地球拍照。"
+    },
+    {
+      "en": "universe",
+      "kk": "ˋjunəˏvɝs",
+      "zh": "宇宙",
+      "emoji": "🌌",
+      "type": "word",
+      "ex": "The universe is very large.",
+      "exZh": "宇宙非常遼闊。"
+    },
+    {
+      "en": "sunrise",
+      "kk": "ˋsʌnˏraɪz",
+      "zh": "日出",
+      "emoji": "🌅",
+      "type": "word",
+      "ex": "We watched the sunrise on the mountain.",
+      "exZh": "我們在山上看日出。"
+    },
+    {
+      "en": "sunset",
+      "kk": "ˋsʌnˏsɛt",
+      "zh": "日落",
+      "emoji": "🌇",
+      "type": "word",
+      "ex": "The sunset was orange and pink.",
+      "exZh": "日落是橘色和粉紅色的。"
+    },
+    {
+      "en": "solar system",
+      "kk": "ˋsolɚ ˋsɪstəm",
+      "zh": "太陽系",
+      "emoji": "🪐",
+      "type": "phrase",
+      "ex": "Earth is in the solar system.",
+      "exZh": "地球在太陽系裡。"
+    },
+    {
+      "en": "outer space",
+      "kk": "",
+      "zh": "外太空",
+      "emoji": "🌌",
+      "type": "phrase",
+      "ex": "There is no air in outer space.",
+      "exZh": "外太空沒有空氣。"
+    },
+    {
+      "en": "full moon",
+      "kk": "",
+      "zh": "滿月",
+      "emoji": "🌕",
+      "type": "phrase",
+      "ex": "There is a full moon tonight.",
+      "exZh": "今晚是滿月。"
+    },
+    {
+      "en": "shooting star",
+      "kk": "",
+      "zh": "流星（俗稱）",
+      "emoji": "🌠",
+      "type": "phrase",
+      "ex": "Make a wish on a shooting star.",
+      "exZh": "對著流星許個願吧。"
+    },
+    {
+      "en": "black hole",
+      "kk": "",
+      "zh": "黑洞",
+      "emoji": "🕳️",
+      "type": "phrase",
+      "ex": "A black hole pulls in everything.",
+      "exZh": "黑洞會吸入所有東西。"
+    },
+    {
+      "en": "Milky Way",
+      "kk": "",
+      "zh": "銀河",
+      "emoji": "🌌",
+      "type": "phrase",
+      "ex": "We can see the Milky Way in the mountains.",
+      "exZh": "在山上可以看到銀河。"
+    },
+    {
+      "en": "go camping",
+      "kk": "",
+      "zh": "去露營",
+      "emoji": "⛺",
+      "type": "phrase",
+      "ex": "We love to go camping by the lake.",
+      "exZh": "我們喜歡去湖邊露營。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Look at the stars tonight!",
+      "zh": "看看今晚的星星！",
+      "note": "仰望星空"
+    },
+    {
+      "en": "The moon looks so big and bright.",
+      "zh": "月亮看起來又大又亮。",
+      "note": "賞月時"
+    },
+    {
+      "en": "How high is that mountain?",
+      "zh": "那座山有多高？",
+      "note": "問山的高度"
+    },
+    {
+      "en": "The view from the top is amazing.",
+      "zh": "山頂的景色太棒了。",
+      "note": "登頂時"
+    },
+    {
+      "en": "The river is wide and deep.",
+      "zh": "這條河又寬又深。",
+      "note": "描述河流"
+    },
+    {
+      "en": "Be careful near the cliff.",
+      "zh": "在懸崖邊要小心。",
+      "note": "提醒安全"
+    },
+    {
+      "en": "What time is the sunset today?",
+      "zh": "今天幾點日落？",
+      "note": "看夕陽之前"
+    },
+    {
+      "en": "Earth is the third planet from the sun.",
+      "zh": "地球是離太陽第三近的行星。",
+      "note": "科學知識"
+    },
+    {
+      "en": "There are eight planets in our solar system.",
+      "zh": "我們的太陽系有八顆行星。",
+      "note": "科學知識"
+    },
+    {
+      "en": "I want to be an astronaut someday.",
+      "zh": "我有一天想成為太空人。",
+      "note": "說出夢想"
+    },
+    {
+      "en": "Can I look through the telescope?",
+      "zh": "我可以用望遠鏡看看嗎？",
+      "note": "在觀星活動"
+    },
+    {
+      "en": "Did you see that shooting star?",
+      "zh": "你有看到那顆流星嗎？",
+      "note": "發現流星時"
+    },
+    {
+      "en": "The forest is quiet and peaceful.",
+      "zh": "森林安靜又平和。",
+      "note": "描述自然"
+    },
+    {
+      "en": "We should protect our planet.",
+      "zh": "我們應該保護我們的星球。",
+      "note": "環保議題"
+    },
+    {
+      "en": "Let's go camping near the lake this weekend.",
+      "zh": "這個週末我們去湖邊露營吧。",
+      "note": "邀約戶外活動"
+    }
+  ],
+  "dialogues": [
+    {
+      "title": "夜晚看星星",
+      "lines": [
+        {
+          "who": "A",
+          "en": "Look up! There are so many stars.",
+          "zh": "抬頭看！好多星星。"
+        },
+        {
+          "who": "B",
+          "en": "I can see the Milky Way.",
+          "zh": "我看得到銀河。"
+        },
+        {
+          "who": "A",
+          "en": "Is that a planet over there?",
+          "zh": "那邊那個是行星嗎？"
+        },
+        {
+          "who": "B",
+          "en": "Yes, that is Venus. It is very bright.",
+          "zh": "對，那是金星，非常亮。"
+        },
+        {
+          "who": "A",
+          "en": "I wish I could go to space.",
+          "zh": "我好想去太空。"
+        }
+      ]
+    },
+    {
+      "title": "爬山",
+      "lines": [
+        {
+          "who": "A",
+          "en": "We are almost at the top of the mountain.",
+          "zh": "我們快到山頂了。"
+        },
+        {
+          "who": "B",
+          "en": "Wow, the view is amazing!",
+          "zh": "哇，風景太棒了！"
+        },
+        {
+          "who": "A",
+          "en": "You can see the river and the valley.",
+          "zh": "你可以看到河和山谷。"
+        },
+        {
+          "who": "B",
+          "en": "Let's wait here for the sunset.",
+          "zh": "我們在這裡等日落吧。"
+        }
+      ]
+    }
+  ]
+}

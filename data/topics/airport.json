@@ -1,0 +1,473 @@
+{
+  "id": "airport",
+  "title": "Airport",
+  "zh": "機場與搭機",
+  "emoji": "✈️",
+  "backdrop": "airport",
+  "intro": "學會在機場報到、通關和登機時會用到的單字與句子。",
+  "words": [
+    {
+      "en": "airport",
+      "kk": "ˋɛrˏport",
+      "zh": "機場",
+      "emoji": "🛬",
+      "type": "word",
+      "ex": "We arrived at the airport early.",
+      "exZh": "我們很早就到機場了。"
+    },
+    {
+      "en": "airplane",
+      "kk": "ˋɛrˏplen",
+      "zh": "飛機",
+      "emoji": "✈️",
+      "type": "word",
+      "ex": "The airplane is very large.",
+      "exZh": "這架飛機非常大。"
+    },
+    {
+      "en": "pilot",
+      "kk": "ˋpaɪlət",
+      "zh": "飛行員",
+      "emoji": "👨‍✈️",
+      "type": "word",
+      "ex": "The pilot welcomed everyone on board.",
+      "exZh": "機長歡迎大家登機。"
+    },
+    {
+      "en": "flight attendant",
+      "kk": "ˋflaɪt əˋtɛndənt",
+      "zh": "空服員",
+      "emoji": "👩‍✈️",
+      "type": "word",
+      "ex": "The flight attendant brought us water.",
+      "exZh": "空服員拿水給我們。"
+    },
+    {
+      "en": "flight",
+      "kk": "flaɪt",
+      "zh": "班機；飛行",
+      "emoji": "🛫",
+      "type": "word",
+      "ex": "Our flight is at noon.",
+      "exZh": "我們的班機在中午。"
+    },
+    {
+      "en": "passport",
+      "kk": "ˋpæsˏport",
+      "zh": "護照",
+      "emoji": "🛂",
+      "type": "word",
+      "ex": "Don’t forget your passport.",
+      "exZh": "別忘了帶護照。"
+    },
+    {
+      "en": "visa",
+      "kk": "ˋvizə",
+      "zh": "簽證",
+      "emoji": "📄",
+      "type": "word",
+      "ex": "Do I need a visa for Japan?",
+      "exZh": "去日本需要簽證嗎？"
+    },
+    {
+      "en": "boarding pass",
+      "kk": "ˋbordɪŋ ˏpæs",
+      "zh": "登機證",
+      "emoji": "🎫",
+      "type": "word",
+      "ex": "Please show your boarding pass.",
+      "exZh": "請出示您的登機證。"
+    },
+    {
+      "en": "luggage",
+      "kk": "ˋlʌgɪdʒ",
+      "zh": "行李",
+      "emoji": "🧳",
+      "type": "word",
+      "ex": "My luggage is very heavy.",
+      "exZh": "我的行李很重。"
+    },
+    {
+      "en": "suitcase",
+      "kk": "ˋsutˏkes",
+      "zh": "行李箱",
+      "emoji": "💼",
+      "type": "word",
+      "ex": "She packed a big suitcase.",
+      "exZh": "她打包了一個大行李箱。"
+    },
+    {
+      "en": "carry-on",
+      "kk": "ˋkærɪˏɑn",
+      "zh": "隨身行李",
+      "emoji": "🎒",
+      "type": "word",
+      "ex": "I only have one carry-on bag.",
+      "exZh": "我只有一個隨身行李。"
+    },
+    {
+      "en": "baggage claim",
+      "kk": "ˋbægɪdʒ ˏklem",
+      "zh": "行李提領處",
+      "emoji": "🛄",
+      "type": "word",
+      "ex": "Wait for me at baggage claim.",
+      "exZh": "在行李提領處等我。"
+    },
+    {
+      "en": "check-in counter",
+      "kk": "ˋtʃɛkˏɪn ˋkaʊntɚ",
+      "zh": "報到櫃台",
+      "emoji": "💁",
+      "type": "word",
+      "ex": "The check-in counter opens at six.",
+      "exZh": "報到櫃台六點開放。"
+    },
+    {
+      "en": "security check",
+      "kk": "sɪˋkjʊrətɪ ˏtʃɛk",
+      "zh": "安全檢查",
+      "emoji": "🔍",
+      "type": "word",
+      "ex": "The security check took twenty minutes.",
+      "exZh": "安檢花了二十分鐘。"
+    },
+    {
+      "en": "customs",
+      "kk": "ˋkʌstəmz",
+      "zh": "海關",
+      "emoji": "🛃",
+      "type": "word",
+      "ex": "We went through customs quickly.",
+      "exZh": "我們很快就通過了海關。"
+    },
+    {
+      "en": "immigration",
+      "kk": "ˏɪməˋgreʃən",
+      "zh": "入境審查；移民",
+      "emoji": "🪪",
+      "type": "word",
+      "ex": "The immigration line is long.",
+      "exZh": "入境審查的隊伍很長。"
+    },
+    {
+      "en": "gate",
+      "kk": "get",
+      "zh": "登機門",
+      "emoji": "🚪",
+      "type": "word",
+      "ex": "Your gate is number twelve.",
+      "exZh": "你的登機門是十二號。"
+    },
+    {
+      "en": "terminal",
+      "kk": "ˋtɝmənl̩",
+      "zh": "航廈",
+      "emoji": "🏗️",
+      "type": "word",
+      "ex": "Our flight leaves from Terminal Two.",
+      "exZh": "我們的班機從第二航廈起飛。"
+    },
+    {
+      "en": "departure",
+      "kk": "dɪˋpɑrtʃɚ",
+      "zh": "出發；起飛",
+      "emoji": "🕙",
+      "type": "word",
+      "ex": "The departure time is ten forty.",
+      "exZh": "出發時間是十點四十分。"
+    },
+    {
+      "en": "arrival",
+      "kk": "əˋraɪvl̩",
+      "zh": "抵達",
+      "emoji": "📥",
+      "type": "word",
+      "ex": "The arrival time is six in the evening.",
+      "exZh": "抵達時間是傍晚六點。"
+    },
+    {
+      "en": "runway",
+      "kk": "ˋrʌnˏwe",
+      "zh": "跑道",
+      "emoji": "🛩️",
+      "type": "word",
+      "ex": "The plane is moving down the runway.",
+      "exZh": "飛機正沿著跑道滑行。"
+    },
+    {
+      "en": "landing",
+      "kk": "ˋlændɪŋ",
+      "zh": "降落",
+      "emoji": "🛬",
+      "type": "word",
+      "ex": "The landing was very smooth.",
+      "exZh": "降落非常平穩。"
+    },
+    {
+      "en": "window seat",
+      "kk": "ˋwɪndo ˏsit",
+      "zh": "靠窗座位",
+      "emoji": "🪟",
+      "type": "word",
+      "ex": "I always ask for a window seat.",
+      "exZh": "我總是要求靠窗的座位。"
+    },
+    {
+      "en": "cabin",
+      "kk": "ˋkæbɪn",
+      "zh": "機艙",
+      "emoji": "💺",
+      "type": "word",
+      "ex": "The cabin is quiet at night.",
+      "exZh": "夜晚的機艙很安靜。"
+    },
+    {
+      "en": "jet lag",
+      "kk": "ˋdʒɛt ˏlæg",
+      "zh": "時差",
+      "emoji": "😴",
+      "type": "word",
+      "ex": "I still have jet lag.",
+      "exZh": "我還在調時差。"
+    },
+    {
+      "en": "duty-free shop",
+      "kk": "ˋdjutɪˋfri ˏʃɑp",
+      "zh": "免稅店",
+      "emoji": "🍾",
+      "type": "word",
+      "ex": "We bought gifts at the duty-free shop.",
+      "exZh": "我們在免稅店買了禮物。"
+    },
+    {
+      "en": "announcement",
+      "kk": "əˋnaʊnsmənt",
+      "zh": "廣播；通知",
+      "emoji": "📢",
+      "type": "word",
+      "ex": "Listen to the announcement carefully.",
+      "exZh": "請仔細聽廣播。"
+    },
+    {
+      "en": "destination",
+      "kk": "ˏdɛstəˋneʃən",
+      "zh": "目的地",
+      "emoji": "📍",
+      "type": "word",
+      "ex": "What is your final destination?",
+      "exZh": "你的最終目的地是哪裡？"
+    },
+    {
+      "en": "layover",
+      "kk": "ˋleˏovɚ",
+      "zh": "轉機停留",
+      "emoji": "⏳",
+      "type": "word",
+      "ex": "We have a three-hour layover in Tokyo.",
+      "exZh": "我們在東京轉機要停留三小時。"
+    },
+    {
+      "en": "life jacket",
+      "kk": "ˋlaɪf ˏdʒækɪt",
+      "zh": "救生衣",
+      "emoji": "🦺",
+      "type": "word",
+      "ex": "The life jacket is under your seat.",
+      "exZh": "救生衣在您的座位下方。"
+    },
+    {
+      "en": "check in",
+      "kk": "",
+      "zh": "辦理登機手續；報到",
+      "emoji": "✅",
+      "type": "phrase",
+      "ex": "We need to check in two hours early.",
+      "exZh": "我們要提早兩小時辦理登機。"
+    },
+    {
+      "en": "go through security",
+      "kk": "",
+      "zh": "通過安檢",
+      "emoji": "🧐",
+      "type": "phrase",
+      "ex": "Please go through security first.",
+      "exZh": "請先通過安檢。"
+    },
+    {
+      "en": "board the plane",
+      "kk": "",
+      "zh": "登機",
+      "emoji": "🛫",
+      "type": "phrase",
+      "ex": "Passengers can board the plane now.",
+      "exZh": "乘客現在可以登機了。"
+    },
+    {
+      "en": "fasten your seat belt",
+      "kk": "",
+      "zh": "繫好安全帶",
+      "emoji": "🔒",
+      "type": "phrase",
+      "ex": "Please fasten your seat belt.",
+      "exZh": "請繫好安全帶。"
+    },
+    {
+      "en": "fill out a form",
+      "kk": "",
+      "zh": "填寫表格",
+      "emoji": "📝",
+      "type": "phrase",
+      "ex": "Fill out this form before landing.",
+      "exZh": "降落前請填好這張表格。"
+    },
+    {
+      "en": "connecting flight",
+      "kk": "",
+      "zh": "轉機班機",
+      "emoji": "🔁",
+      "type": "phrase",
+      "ex": "I missed my connecting flight.",
+      "exZh": "我錯過了轉機的班機。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Where is the check-in counter?",
+      "zh": "報到櫃台在哪裡？",
+      "note": "剛到機場時"
+    },
+    {
+      "en": "Can I have a window seat, please?",
+      "zh": "我可以要靠窗的座位嗎？",
+      "note": "劃位時"
+    },
+    {
+      "en": "I’d like to check this bag.",
+      "zh": "我想託運這個袋子。",
+      "note": "辦理行李託運"
+    },
+    {
+      "en": "Is this a carry-on or checked bag?",
+      "zh": "這是隨身還是託運行李？",
+      "note": "櫃台人員詢問"
+    },
+    {
+      "en": "May I see your passport, please?",
+      "zh": "請讓我看一下您的護照。",
+      "note": "櫃台或海關檢查證件"
+    },
+    {
+      "en": "What is the purpose of your visit?",
+      "zh": "您來訪的目的是什麼？",
+      "note": "入境審查詢問"
+    },
+    {
+      "en": "I’m here on vacation.",
+      "zh": "我是來度假的。",
+      "note": "回答入境目的"
+    },
+    {
+      "en": "How long will you stay?",
+      "zh": "您要停留多久？",
+      "note": "入境審查詢問"
+    },
+    {
+      "en": "Which gate does my flight leave from?",
+      "zh": "我的班機從哪個登機門出發？",
+      "note": "確認登機門"
+    },
+    {
+      "en": "Has boarding started yet?",
+      "zh": "開始登機了嗎？",
+      "note": "在登機門詢問"
+    },
+    {
+      "en": "My flight has been delayed.",
+      "zh": "我的班機延誤了。",
+      "note": "說明班機狀況"
+    },
+    {
+      "en": "Excuse me, I missed my connecting flight.",
+      "zh": "不好意思，我錯過了轉機班機。",
+      "note": "向地勤人員求助"
+    },
+    {
+      "en": "Where can I pick up my luggage?",
+      "zh": "我可以在哪裡領行李？",
+      "note": "抵達後找行李"
+    },
+    {
+      "en": "Do I have anything to declare?",
+      "zh": "我有東西需要申報嗎？",
+      "note": "通關時"
+    },
+    {
+      "en": "Please turn off your phone.",
+      "zh": "請關閉您的手機。",
+      "note": "機上廣播或提醒"
+    }
+  ],
+  "dialogues": [
+    {
+      "title": "辦理登機",
+      "lines": [
+        {
+          "who": "A",
+          "en": "Good morning. May I see your passport?",
+          "zh": "早安，請讓我看您的護照。"
+        },
+        {
+          "who": "B",
+          "en": "Here you are. Can I have a window seat?",
+          "zh": "在這裡。我可以要靠窗的座位嗎？"
+        },
+        {
+          "who": "A",
+          "en": "Sure. Do you have any bags to check?",
+          "zh": "沒問題。您有行李要託運嗎？"
+        },
+        {
+          "who": "B",
+          "en": "Just this suitcase. I will keep my carry-on.",
+          "zh": "只有這個行李箱，隨身行李我自己帶。"
+        },
+        {
+          "who": "A",
+          "en": "Here is your boarding pass. Your gate is twelve.",
+          "zh": "這是您的登機證，登機門是十二號。"
+        }
+      ]
+    },
+    {
+      "title": "入境審查",
+      "lines": [
+        {
+          "who": "A",
+          "en": "What is the purpose of your visit?",
+          "zh": "您來訪的目的是什麼？"
+        },
+        {
+          "who": "B",
+          "en": "I’m here on vacation.",
+          "zh": "我是來度假的。"
+        },
+        {
+          "who": "A",
+          "en": "How long will you stay?",
+          "zh": "您要停留多久？"
+        },
+        {
+          "who": "B",
+          "en": "For one week.",
+          "zh": "一星期。"
+        },
+        {
+          "who": "A",
+          "en": "Enjoy your stay.",
+          "zh": "祝您旅途愉快。"
+        }
+      ]
+    }
+  ]
+}

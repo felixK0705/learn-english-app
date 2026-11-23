@@ -1,0 +1,459 @@
+{
+  "id": "polite",
+  "title": "Polite Expressions",
+  "zh": "禮貌用語與日常回應",
+  "emoji": "🙏",
+  "backdrop": "street",
+  "intro": "學會日常生活中的禮貌用語、感謝、道歉與各種回應。",
+  "words": [
+    {
+      "en": "please",
+      "kk": "pliz",
+      "zh": "請",
+      "emoji": "🙏",
+      "type": "word",
+      "ex": "Please sit down.",
+      "exZh": "請坐。"
+    },
+    {
+      "en": "thank you",
+      "kk": "",
+      "zh": "謝謝你",
+      "emoji": "💐",
+      "type": "phrase",
+      "ex": "Thank you for your help.",
+      "exZh": "謝謝你的幫忙。"
+    },
+    {
+      "en": "thanks",
+      "kk": "θæŋks",
+      "zh": "謝謝",
+      "emoji": "👍",
+      "type": "word",
+      "ex": "Thanks for the ride.",
+      "exZh": "謝謝你載我。"
+    },
+    {
+      "en": "you are welcome",
+      "kk": "",
+      "zh": "不客氣",
+      "emoji": "😊",
+      "type": "phrase",
+      "ex": "You are welcome. Any time.",
+      "exZh": "不客氣，隨時都可以。"
+    },
+    {
+      "en": "sorry",
+      "kk": "ˋsɑrɪ",
+      "zh": "抱歉的",
+      "emoji": "😔",
+      "type": "word",
+      "ex": "I am sorry I am late.",
+      "exZh": "抱歉我遲到了。"
+    },
+    {
+      "en": "excuse me",
+      "kk": "",
+      "zh": "不好意思；借過",
+      "emoji": "🙋",
+      "type": "phrase",
+      "ex": "Excuse me, where is the exit?",
+      "exZh": "不好意思，出口在哪裡？"
+    },
+    {
+      "en": "pardon",
+      "kk": "ˋpɑrdn̩",
+      "zh": "請再說一次；原諒",
+      "emoji": "👂",
+      "type": "word",
+      "ex": "Pardon? I did not hear you.",
+      "exZh": "請再說一次？我沒聽到。"
+    },
+    {
+      "en": "no problem",
+      "kk": "",
+      "zh": "沒問題；沒關係",
+      "emoji": "👌",
+      "type": "phrase",
+      "ex": "No problem. I can wait.",
+      "exZh": "沒問題，我可以等。"
+    },
+    {
+      "en": "never mind",
+      "kk": "",
+      "zh": "不要緊；算了",
+      "emoji": "🤷",
+      "type": "phrase",
+      "ex": "Never mind. It is not important.",
+      "exZh": "沒關係，那不重要。"
+    },
+    {
+      "en": "of course",
+      "kk": "",
+      "zh": "當然",
+      "emoji": "✅",
+      "type": "phrase",
+      "ex": "Of course you can come.",
+      "exZh": "當然你可以來。"
+    },
+    {
+      "en": "sure",
+      "kk": "ʃʊr",
+      "zh": "當然；好的",
+      "emoji": "👍🏻",
+      "type": "word",
+      "ex": "Sure, I would love to.",
+      "exZh": "當然，我很樂意。"
+    },
+    {
+      "en": "maybe",
+      "kk": "ˋmebɪ",
+      "zh": "也許",
+      "emoji": "🤔",
+      "type": "word",
+      "ex": "Maybe we can go tomorrow.",
+      "exZh": "也許我們明天可以去。"
+    },
+    {
+      "en": "certainly",
+      "kk": "ˋsɝtn̩lɪ",
+      "zh": "當然；一定",
+      "emoji": "💯",
+      "type": "word",
+      "ex": "Certainly, sir.",
+      "exZh": "當然，先生。"
+    },
+    {
+      "en": "kindly",
+      "kk": "ˋkaɪndlɪ",
+      "zh": "親切地；請",
+      "emoji": "🌼",
+      "type": "word",
+      "ex": "Kindly wait here.",
+      "exZh": "請在這裡稍候。"
+    },
+    {
+      "en": "mind",
+      "kk": "maɪnd",
+      "zh": "介意",
+      "emoji": "🧠",
+      "type": "word",
+      "ex": "Do you mind if I open the window?",
+      "exZh": "你介意我開窗嗎？"
+    },
+    {
+      "en": "apologize",
+      "kk": "əˋpɑləˏdʒaɪz",
+      "zh": "道歉",
+      "emoji": "🙇",
+      "type": "word",
+      "ex": "I apologize for the noise.",
+      "exZh": "我為噪音道歉。"
+    },
+    {
+      "en": "forgive",
+      "kk": "fɚˋɡɪv",
+      "zh": "原諒",
+      "emoji": "🕊️",
+      "type": "word",
+      "ex": "Please forgive me.",
+      "exZh": "請原諒我。"
+    },
+    {
+      "en": "mistake",
+      "kk": "məˋstek",
+      "zh": "錯誤",
+      "emoji": "❌",
+      "type": "word",
+      "ex": "It was my mistake.",
+      "exZh": "那是我的錯。"
+    },
+    {
+      "en": "favor",
+      "kk": "ˋfevɚ",
+      "zh": "幫忙；恩惠",
+      "emoji": "🎗️",
+      "type": "word",
+      "ex": "Can you do me a favor?",
+      "exZh": "你可以幫我一個忙嗎？"
+    },
+    {
+      "en": "appreciate",
+      "kk": "əˋpriʃɪˏet",
+      "zh": "感激",
+      "emoji": "💖",
+      "type": "word",
+      "ex": "I appreciate your kindness.",
+      "exZh": "我感激你的好意。"
+    },
+    {
+      "en": "congratulations",
+      "kk": "kənˏɡrætʃəˋleʃənz",
+      "zh": "恭喜",
+      "emoji": "🎊",
+      "type": "word",
+      "ex": "Congratulations on your award!",
+      "exZh": "恭喜你得獎！"
+    },
+    {
+      "en": "cheers",
+      "kk": "tʃɪrz",
+      "zh": "乾杯",
+      "emoji": "🥂",
+      "type": "word",
+      "ex": "Cheers! Here is to us.",
+      "exZh": "乾杯！敬我們。"
+    },
+    {
+      "en": "bless you",
+      "kk": "",
+      "zh": "祝你健康（對打噴嚏的人）",
+      "emoji": "🤧",
+      "type": "phrase",
+      "ex": "Bless you! Do you need a tissue?",
+      "exZh": "祝你健康！你需要面紙嗎？"
+    },
+    {
+      "en": "good luck",
+      "kk": "",
+      "zh": "祝你好運",
+      "emoji": "🍀",
+      "type": "phrase",
+      "ex": "Good luck on your test!",
+      "exZh": "祝你考試好運！"
+    },
+    {
+      "en": "take care",
+      "kk": "",
+      "zh": "保重",
+      "emoji": "🫶",
+      "type": "phrase",
+      "ex": "Take care and stay warm.",
+      "exZh": "保重，要注意保暖。"
+    },
+    {
+      "en": "after you",
+      "kk": "",
+      "zh": "您先請",
+      "emoji": "🚪",
+      "type": "phrase",
+      "ex": "After you, please.",
+      "exZh": "您先請。"
+    },
+    {
+      "en": "go ahead",
+      "kk": "",
+      "zh": "請便；請進行",
+      "emoji": "➡️",
+      "type": "phrase",
+      "ex": "Go ahead. I am not in a hurry.",
+      "exZh": "請便，我不急。"
+    },
+    {
+      "en": "make yourself at home",
+      "kk": "",
+      "zh": "別客氣，當自己家",
+      "emoji": "🛋️",
+      "type": "phrase",
+      "ex": "Come in and make yourself at home.",
+      "exZh": "請進，把這裡當自己家。"
+    },
+    {
+      "en": "not at all",
+      "kk": "",
+      "zh": "一點也不；不客氣",
+      "emoji": "🙅‍♂️",
+      "type": "phrase",
+      "ex": "Not at all. I am glad to help.",
+      "exZh": "一點也不會，我很樂意幫忙。"
+    },
+    {
+      "en": "I beg your pardon",
+      "kk": "",
+      "zh": "請再說一遍",
+      "emoji": "🧏",
+      "type": "phrase",
+      "ex": "I beg your pardon? Could you repeat that?",
+      "exZh": "請再說一遍，可以嗎？"
+    },
+    {
+      "en": "that is all right",
+      "kk": "",
+      "zh": "沒關係",
+      "emoji": "😌",
+      "type": "phrase",
+      "ex": "That is all right. It happens.",
+      "exZh": "沒關係，難免會發生。"
+    },
+    {
+      "en": "it is my pleasure",
+      "kk": "",
+      "zh": "這是我的榮幸",
+      "emoji": "🌹",
+      "type": "phrase",
+      "ex": "It is my pleasure to help.",
+      "exZh": "能幫上忙是我的榮幸。"
+    },
+    {
+      "en": "many thanks",
+      "kk": "",
+      "zh": "多謝",
+      "emoji": "🙌",
+      "type": "phrase",
+      "ex": "Many thanks for the gift.",
+      "exZh": "多謝你的禮物。"
+    },
+    {
+      "en": "well done",
+      "kk": "",
+      "zh": "做得好",
+      "emoji": "👏",
+      "type": "phrase",
+      "ex": "Well done, everyone!",
+      "exZh": "大家做得好！"
+    },
+    {
+      "en": "sounds good",
+      "kk": "",
+      "zh": "聽起來不錯",
+      "emoji": "🆗",
+      "type": "phrase",
+      "ex": "Dinner at six? Sounds good.",
+      "exZh": "六點吃晚餐？聽起來不錯。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Excuse me, may I come in?",
+      "zh": "不好意思，我可以進來嗎？",
+      "note": "進入房間或教室前"
+    },
+    {
+      "en": "Thank you very much.",
+      "zh": "非常謝謝你。",
+      "note": "表達感謝時"
+    },
+    {
+      "en": "You are welcome.",
+      "zh": "不客氣。",
+      "note": "回應別人的感謝時"
+    },
+    {
+      "en": "I am sorry for being late.",
+      "zh": "我為遲到道歉。",
+      "note": "遲到時"
+    },
+    {
+      "en": "That is all right. Do not worry.",
+      "zh": "沒關係，別擔心。",
+      "note": "回應道歉時"
+    },
+    {
+      "en": "Could you please help me?",
+      "zh": "可以請你幫我嗎？",
+      "note": "禮貌地請求協助時"
+    },
+    {
+      "en": "Would you like some tea?",
+      "zh": "你想喝點茶嗎？",
+      "note": "招待客人時"
+    },
+    {
+      "en": "Yes, please.",
+      "zh": "好的，麻煩你。",
+      "note": "禮貌地接受時"
+    },
+    {
+      "en": "No, thank you.",
+      "zh": "不用了，謝謝。",
+      "note": "禮貌地拒絕時"
+    },
+    {
+      "en": "Do you mind if I sit here?",
+      "zh": "你介意我坐這裡嗎？",
+      "note": "徵求同意時"
+    },
+    {
+      "en": "Pardon? Could you say that again?",
+      "zh": "請再說一次，好嗎？",
+      "note": "沒聽清楚時"
+    },
+    {
+      "en": "Congratulations! You deserve it.",
+      "zh": "恭喜！這是你應得的。",
+      "note": "祝賀別人時"
+    },
+    {
+      "en": "Thank you for inviting me.",
+      "zh": "謝謝你邀請我。",
+      "note": "赴約或拜訪後"
+    },
+    {
+      "en": "Please give my best to your family.",
+      "zh": "請代我向你的家人問好。",
+      "note": "結束談話時"
+    },
+    {
+      "en": "It was nice talking to you.",
+      "zh": "和你聊天很愉快。",
+      "note": "結束談話時"
+    }
+  ],
+  "dialogues": [
+    {
+      "title": "在公車上",
+      "lines": [
+        {
+          "who": "A",
+          "en": "Excuse me, is this seat taken?",
+          "zh": "不好意思，這個位子有人坐嗎？"
+        },
+        {
+          "who": "B",
+          "en": "No, go ahead.",
+          "zh": "沒有，請坐。"
+        },
+        {
+          "who": "A",
+          "en": "Thank you very much.",
+          "zh": "非常謝謝你。"
+        },
+        {
+          "who": "B",
+          "en": "You are welcome.",
+          "zh": "不客氣。"
+        }
+      ]
+    },
+    {
+      "title": "拜訪朋友家",
+      "lines": [
+        {
+          "who": "A",
+          "en": "Come in and make yourself at home.",
+          "zh": "請進，把這裡當自己家。"
+        },
+        {
+          "who": "B",
+          "en": "Thank you for inviting me.",
+          "zh": "謝謝你邀請我。"
+        },
+        {
+          "who": "A",
+          "en": "Would you like some tea?",
+          "zh": "你想喝點茶嗎？"
+        },
+        {
+          "who": "B",
+          "en": "Yes, please. That sounds good.",
+          "zh": "好的，麻煩你，聽起來不錯。"
+        },
+        {
+          "who": "A",
+          "en": "Here you are. Take your time.",
+          "zh": "請用，慢慢來。"
+        }
+      ]
+    }
+  ]
+}

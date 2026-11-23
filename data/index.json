@@ -1,0 +1,829 @@
+{
+ "generated": "2026-11-23T16:41:18.945Z",
+ "categories": [
+  {
+   "id": "people",
+   "zh": "人與社交",
+   "en": "People & Social",
+   "emoji": "🧑‍🤝‍🧑",
+   "color": "#ff8a65",
+   "soft": "#ffe3d8",
+   "topics": [
+    {
+     "id": "greetings",
+     "title": "Greetings & Introductions",
+     "zh": "打招呼與自我介紹",
+     "emoji": "👋",
+     "backdrop": "street",
+     "intro": "學會跟人打招呼、介紹自己，以及第一次見面常說的話。",
+     "counts": {
+      "words": 26,
+      "phrases": 8,
+      "sentences": 15,
+      "dialogues": 2
+     }
+    },
+    {
+     "id": "family",
+     "title": "Family",
+     "zh": "家庭",
+     "emoji": "👨‍👩‍👧",
+     "backdrop": "home",
+     "intro": "認識家人的稱呼，介紹自己的家庭與親戚。",
+     "counts": {
+      "words": 25,
+      "phrases": 9,
+      "sentences": 15,
+      "dialogues": 2
+     }
+    },
+    {
+     "id": "body",
+     "title": "The Body",
+     "zh": "身體",
+     "emoji": "🧍",
+     "backdrop": "hospital",
+     "intro": "認識身體各部位，並學會說明哪裡不舒服。",
+     "counts": {
+      "words": 29,
+      "phrases": 6,
+      "sentences": 15,
+      "dialogues": 2
+     }
+    },
+    {
+     "id": "feelings",
+     "title": "Feelings",
+     "zh": "情緒與感受",
+     "emoji": "😊",
+     "backdrop": "park",
+     "intro": "學會說出自己和別人的心情與感受。",
+     "counts": {
+      "words": 28,
+      "phrases": 8,
+      "sentences": 15,
+      "dialogues": 2
+     }
+    },
+    {
+     "id": "appearance",
+     "title": "Appearance & Personality",
+     "zh": "外表與個性",
+     "emoji": "🧑‍🎤",
+     "backdrop": "classroom",
+     "intro": "學會描述人的長相、身材與個性。",
+     "counts": {
+      "words": 29,
+      "phrases": 6,
+      "sentences": 15,
+      "dialogues": 2
+     }
+    },
+    {
+     "id": "jobs",
+     "title": "Jobs & Occupations",
+     "zh": "職業",
+     "emoji": "👩‍💼",
+     "backdrop": "city",
+     "intro": "認識各種職業，並談談自己的工作與夢想。",
+     "counts": {
+      "words": 29,
+      "phrases": 7,
+      "sentences": 15,
+      "dialogues": 2
+     }
+    },
+    {
+     "id": "telephone",
+     "title": "Phone & Communication",
+     "zh": "電話與通訊",
+     "emoji": "📱",
+     "backdrop": "home",
+     "intro": "學會使用手機、傳訊息與講電話時常用的字和說法。",
+     "counts": {
+      "words": 25,
+      "phrases": 10,
+      "sentences": 15,
+      "dialogues": 2
+     }
+    },
+    {
+     "id": "polite",
+     "title": "Polite Expressions",
+     "zh": "禮貌用語與日常回應",
+     "emoji": "🙏",
+     "backdrop": "street",
+     "intro": "學會日常生活中的禮貌用語、感謝、道歉與各種回應。",
+     "counts": {
+      "words": 16,
+      "phrases": 19,
+      "sentences": 15,
+      "dialogues": 2
+     }
+    },
+    {
+     "id": "holidays",
+     "title": "Holidays & Festivals",
+     "zh": "節日與慶典",
+     "emoji": "🎆",
+     "backdrop": "party",
+     "intro": "認識台灣與西方的重要節日，學會說祝福的話。",
+     "counts": {
+      "words": 29,
+      "phrases": 8,
+      "sentences": 15,
+      "dialogues": 2
+     }
+    }
+   ]
+  },
+  {
+   "id": "home",
+   "zh": "居家生活",
+   "en": "Home Life",
+   "emoji": "🏠",
+   "color": "#4fc3f7",
+   "soft": "#dcf3fd",
+   "topics": [
+    {
+     "id": "house",
+     "title": "House",
+     "zh": "房屋與房間",
+     "emoji": "🏠",
+     "backdrop": "home",
+     "intro": "認識房子的各個部分，學會描述自己住的地方。",
+     "counts": {
+      "words": 30,
+      "phrases": 7,
+      "sentences": 14,
+      "dialogues": 2
+     }
+    },
+    {
+     "id": "living-room",
+     "title": "Living Room",
+     "zh": "客廳與家具",
+     "emoji": "🛋️",
+     "backdrop": "home",
+     "intro": "認識客廳裡的家具與擺設，學會招呼客人和放鬆聊天。",
+     "counts": {
+      "words": 28,
+      "phrases": 7,
+      "sentences": 14,
+      "dialogues": 2
+     }
+    },
+    {
+     "id": "kitchen",
+     "title": "Kitchen",
+     "zh": "廚房與廚具",
+     "emoji": "🍳",
+     "backdrop": "kitchen",
+     "intro": "認識廚房裡的設備與餐具，學會說煮飯和擺餐桌。",
+     "counts": {
+      "words": 29,
+      "phrases": 7,
+      "sentences": 14,
+      "dialogues": 2
+     }
+    },
+    {
+     "id": "bathroom",
+     "title": "Bathroom",
+     "zh": "浴室與盥洗",
+     "emoji": "🛁",
+     "backdrop": "bathroom",
+     "intro": "認識浴室裡的用品，學會說洗澡、洗手和整理儀容。",
+     "counts": {
+      "words": 30,
+      "phrases": 7,
+      "sentences": 14,
+      "dialogues": 2
+     }
+    },
+    {
+     "id": "bedroom",
+     "title": "Bedroom",
+     "zh": "臥室",
+     "emoji": "🛏️",
+     "backdrop": "bedroom",
+     "intro": "認識臥室裡的物品，學會說睡前與起床的日常用語。",
+     "counts": {
+      "words": 29,
+      "phrases": 8,
+      "sentences": 14,
+      "dialogues": 2
+     }
+    },
+    {
+     "id": "daily-routine",
+     "title": "Daily Routine",
+     "zh": "一天的作息",
+     "emoji": "⏰",
+     "backdrop": "home",
+     "intro": "學會用英文說從早到晚的每日作息與頻率副詞。",
+     "counts": {
+      "words": 29,
+      "phrases": 9,
+      "sentences": 14,
+      "dialogues": 2
+     }
+    },
+    {
+     "id": "chores",
+     "title": "Chores",
+     "zh": "家事",
+     "emoji": "🧹",
+     "backdrop": "home",
+     "intro": "學會說各種家事和打掃工作，與家人分工合作。",
+     "counts": {
+      "words": 30,
+      "phrases": 8,
+      "sentences": 14,
+      "dialogues": 2
+     }
+    },
+    {
+     "id": "appliances",
+     "title": "Appliances",
+     "zh": "家電用品",
+     "emoji": "🔌",
+     "backdrop": "home",
+     "intro": "認識生活中常用的家電，學會說開關、充電與使用方式。",
+     "counts": {
+      "words": 30,
+      "phrases": 7,
+      "sentences": 14,
+      "dialogues": 2
+     }
+    },
+    {
+     "id": "positions",
+     "title": "Positions",
+     "zh": "位置與方位介系詞",
+     "emoji": "📍",
+     "backdrop": "park",
+     "intro": "用 in、on、under 等介系詞，說出東西在哪裡、怎麼走。",
+     "counts": {
+      "words": 28,
+      "phrases": 9,
+      "sentences": 14,
+      "dialogues": 2
+     }
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "zh": "美食飲料",
+   "en": "Food & Drinks",
+   "emoji": "🍱",
+   "color": "#ffb300",
+   "soft": "#fff1c9",
+   "topics": [
+    {
+     "id": "fruits",
+     "title": "Fruits",
+     "zh": "水果",
+     "emoji": "🍎",
+     "backdrop": "shop",
+     "intro": "在水果攤認識各種水果，學會挑選與購買的說法。",
+     "counts": {
+      "words": 28,
+      "phrases": 6,
+      "sentences": 14,
+      "dialogues": 2
+     }
+    },
+    {
+     "id": "vegetables",
+     "title": "Vegetables",
+     "zh": "蔬菜",
+     "emoji": "🥦",
+     "backdrop": "farm",
+     "intro": "認識常見的蔬菜，學會在菜市場與廚房裡談論它們。",
+     "counts": {
+      "words": 28,
+      "phrases": 6,
+      "sentences": 13,
+      "dialogues": 2
+     }
+    },
+    {
+     "id": "meat-seafood",
+     "title": "Meat and Seafood",
+     "zh": "肉類與海鮮",
+     "emoji": "🥩",
+     "backdrop": "shop",
+     "intro": "在傳統市場與超市認識各種肉類和海鮮的說法。",
+     "counts": {
+      "words": 29,
+      "phrases": 6,
+      "sentences": 14,
+      "dialogues": 2
+     }
+    },
+    {
+     "id": "breakfast",
+     "title": "Breakfast",
+     "zh": "早餐店與早餐",
+     "emoji": "🍳",
+     "backdrop": "restaurant",
+     "intro": "在早餐店點餐，認識中西式早餐的食物與說法。",
+     "counts": {
+      "words": 28,
+      "phrases": 6,
+      "sentences": 13,
+      "dialogues": 2
+     }
+    },
+    {
+     "id": "drinks-desserts",
+     "title": "Drinks and Desserts",
+     "zh": "飲料與甜點",
+     "emoji": "🧋",
+     "backdrop": "shop",
+     "intro": "在飲料店與甜點店點飲料、客製甜度冰塊，並認識各種甜點。",
+     "counts": {
+      "words": 30,
+      "phrases": 6,
+      "sentences": 14,
+      "dialogues": 2
+     }
+    },
+    {
+     "id": "restaurant",
+     "title": "At a Restaurant",
+     "zh": "在餐廳",
+     "emoji": "🍽️",
+     "backdrop": "restaurant",
+     "intro": "學會在餐廳訂位、點餐、詢問菜色和結帳的實用說法。",
+     "counts": {
+      "words": 30,
+      "phrases": 8,
+      "sentences": 15,
+      "dialogues": 2
+     }
+    },
+    {
+     "id": "night-market",
+     "title": "Night Market Snacks",
+     "zh": "夜市小吃",
+     "emoji": "🏮",
+     "backdrop": "night",
+     "intro": "逛夜市時，用英文介紹台灣小吃、點餐和跟老闆聊天。",
+     "counts": {
+      "words": 28,
+      "phrases": 7,
+      "sentences": 14,
+      "dialogues": 2
+     }
+    },
+    {
+     "id": "tastes-cooking",
+     "title": "Tastes and Cooking",
+     "zh": "味道與烹調方式",
+     "emoji": "👩‍🍳",
+     "backdrop": "kitchen",
+     "intro": "學會形容食物的味道，並認識常見的烹調動作與廚房用語。",
+     "counts": {
+      "words": 29,
+      "phrases": 7,
+      "sentences": 15,
+      "dialogues": 2
+     }
+    },
+    {
+     "id": "fast-food",
+     "title": "Fast Food",
+     "zh": "速食店點餐",
+     "emoji": "🍔",
+     "backdrop": "restaurant",
+     "intro": "在速食店點套餐、客製餐點、選擇內用或外帶的實用英文。",
+     "counts": {
+      "words": 29,
+      "phrases": 7,
+      "sentences": 15,
+      "dialogues": 2
+     }
+    }
+   ]
+  },
+  {
+   "id": "school",
+   "zh": "學校與休閒",
+   "en": "School & Fun",
+   "emoji": "🎒",
+   "color": "#ec6fa5",
+   "soft": "#fde0ed",
+   "topics": [
+    {
+     "id": "classroom",
+     "title": "Classroom",
+     "zh": "教室與文具",
+     "emoji": "🏫",
+     "backdrop": "classroom",
+     "intro": "認識教室裡的物品與文具，學會上課時常用的說法。",
+     "counts": {
+      "words": 28,
+      "phrases": 7,
+      "sentences": 14,
+      "dialogues": 2
+     }
+    },
+    {
+     "id": "subjects",
+     "title": "School Subjects",
+     "zh": "學科與校園生活",
+     "emoji": "📖",
+     "backdrop": "classroom",
+     "intro": "學會各種學科、考試和校園活動的英文說法。",
+     "counts": {
+      "words": 30,
+      "phrases": 7,
+      "sentences": 14,
+      "dialogues": 2
+     }
+    },
+    {
+     "id": "music-room",
+     "title": "In the Music Room",
+     "zh": "在音樂教室",
+     "emoji": "🎼",
+     "backdrop": "music",
+     "intro": "認識各種樂器與音樂相關的說法，一起在音樂教室練習。",
+     "counts": {
+      "words": 31,
+      "phrases": 7,
+      "sentences": 14,
+      "dialogues": 2
+     }
+    },
+    {
+     "id": "sports",
+     "title": "Sports",
+     "zh": "運動",
+     "emoji": "⚽",
+     "backdrop": "stadium",
+     "intro": "認識各種運動項目和比賽用語，聊聊你喜歡的運動。",
+     "counts": {
+      "words": 32,
+      "phrases": 6,
+      "sentences": 14,
+      "dialogues": 2
+     }
+    },
+    {
+     "id": "hobbies",
+     "title": "Hobbies",
+     "zh": "興趣與嗜好",
+     "emoji": "🎨",
+     "backdrop": "home",
+     "intro": "談談你的興趣與休閒活動，學會介紹自己的嗜好。",
+     "counts": {
+      "words": 31,
+      "phrases": 7,
+      "sentences": 14,
+      "dialogues": 2
+     }
+    },
+    {
+     "id": "park",
+     "title": "At the Park",
+     "zh": "公園與遊樂場",
+     "emoji": "🌳",
+     "backdrop": "park",
+     "intro": "在公園與遊樂場玩耍時會用到的單字和句子。",
+     "counts": {
+      "words": 31,
+      "phrases": 7,
+      "sentences": 14,
+      "dialogues": 2
+     }
+    },
+    {
+     "id": "party",
+     "title": "Birthday Party",
+     "zh": "生日派對",
+     "emoji": "🎂",
+     "backdrop": "party",
+     "intro": "生日派對上的佈置、食物和祝福語，一次學起來。",
+     "counts": {
+      "words": 31,
+      "phrases": 7,
+      "sentences": 14,
+      "dialogues": 2
+     }
+    },
+    {
+     "id": "computer",
+     "title": "Computers and the Internet",
+     "zh": "電腦與網路",
+     "emoji": "💻",
+     "backdrop": "office",
+     "intro": "學會電腦設備和上網操作的英文，讓使用科技更得心應手。",
+     "counts": {
+      "words": 28,
+      "phrases": 10,
+      "sentences": 14,
+      "dialogues": 2
+     }
+    },
+    {
+     "id": "colors-shapes",
+     "title": "Colors and Shapes",
+     "zh": "顏色與形狀",
+     "emoji": "🌈",
+     "backdrop": "classroom",
+     "intro": "學會顏色和形狀的英文，並能描述東西的樣子。",
+     "counts": {
+      "words": 31,
+      "phrases": 6,
+      "sentences": 14,
+      "dialogues": 2
+     }
+    }
+   ]
+  },
+  {
+   "id": "town",
+   "zh": "城市與旅行",
+   "en": "Town & Travel",
+   "emoji": "🏙️",
+   "color": "#7e8ce0",
+   "soft": "#e3e6fb",
+   "topics": [
+    {
+     "id": "town",
+     "title": "Town",
+     "zh": "城市與地點",
+     "emoji": "🏙️",
+     "backdrop": "city",
+     "intro": "認識城市裡常見的建築與地點，學會介紹自己居住的地方。",
+     "counts": {
+      "words": 29,
+      "phrases": 7,
+      "sentences": 14,
+      "dialogues": 2
+     }
+    },
+    {
+     "id": "transportation",
+     "title": "Transportation",
+     "zh": "交通工具",
+     "emoji": "🚌",
+     "backdrop": "street",
+     "intro": "認識各種交通工具與搭車用語，學會在台灣搭捷運和公車。",
+     "counts": {
+      "words": 28,
+      "phrases": 8,
+      "sentences": 14,
+      "dialogues": 2
+     }
+    },
+    {
+     "id": "directions",
+     "title": "Directions",
+     "zh": "問路與方向",
+     "emoji": "🧭",
+     "backdrop": "street",
+     "intro": "學會用英文問路、指路，以及描述位置與方向。",
+     "counts": {
+      "words": 29,
+      "phrases": 8,
+      "sentences": 14,
+      "dialogues": 2
+     }
+    },
+    {
+     "id": "supermarket",
+     "title": "Supermarket",
+     "zh": "超市與便利商店購物",
+     "emoji": "🛒",
+     "backdrop": "shop",
+     "intro": "學會在超市和便利商店挑選商品、詢問價格與結帳。",
+     "counts": {
+      "words": 30,
+      "phrases": 7,
+      "sentences": 14,
+      "dialogues": 2
+     }
+    },
+    {
+     "id": "clothes",
+     "title": "Clothes",
+     "zh": "衣服與配件",
+     "emoji": "👕",
+     "backdrop": "shop",
+     "intro": "認識各種衣服和配件，學會試穿與購買衣物的用語。",
+     "counts": {
+      "words": 30,
+      "phrases": 7,
+      "sentences": 14,
+      "dialogues": 2
+     }
+    },
+    {
+     "id": "hospital",
+     "title": "Hospital",
+     "zh": "看病與健康",
+     "emoji": "🏥",
+     "backdrop": "hospital",
+     "intro": "學會描述身體不舒服的症狀，並在診所或醫院與醫生溝通。",
+     "counts": {
+      "words": 31,
+      "phrases": 7,
+      "sentences": 15,
+      "dialogues": 2
+     }
+    },
+    {
+     "id": "airport",
+     "title": "Airport",
+     "zh": "機場與搭機",
+     "emoji": "✈️",
+     "backdrop": "airport",
+     "intro": "學會在機場報到、通關和登機時會用到的單字與句子。",
+     "counts": {
+      "words": 30,
+      "phrases": 6,
+      "sentences": 15,
+      "dialogues": 2
+     }
+    },
+    {
+     "id": "hotel",
+     "title": "Hotel",
+     "zh": "飯店住宿",
+     "emoji": "🏨",
+     "backdrop": "city",
+     "intro": "學會訂房、辦理入住以及向飯店人員提出需求。",
+     "counts": {
+      "words": 30,
+      "phrases": 7,
+      "sentences": 14,
+      "dialogues": 2
+     }
+    },
+    {
+     "id": "bank-post",
+     "title": "Bank and Post Office",
+     "zh": "銀行與郵局",
+     "emoji": "🏦",
+     "backdrop": "city",
+     "intro": "學會在銀行辦理存提款與匯兌，以及在郵局寄信寄包裹。",
+     "counts": {
+      "words": 31,
+      "phrases": 7,
+      "sentences": 15,
+      "dialogues": 2
+     }
+    }
+   ]
+  },
+  {
+   "id": "nature",
+   "zh": "自然與知識",
+   "en": "Nature & Basics",
+   "emoji": "🌿",
+   "color": "#66bb6a",
+   "soft": "#e0f3e1",
+   "topics": [
+    {
+     "id": "zoo-animals",
+     "title": "Zoo Animals",
+     "zh": "動物園的動物",
+     "emoji": "🦁",
+     "backdrop": "zoo",
+     "intro": "逛動物園時會看到的動物，以及描述牠們的簡單句子。",
+     "counts": {
+      "words": 29,
+      "phrases": 7,
+      "sentences": 15,
+      "dialogues": 2
+     }
+    },
+    {
+     "id": "pets-farm",
+     "title": "Pets and Farm",
+     "zh": "寵物與農場",
+     "emoji": "🐶",
+     "backdrop": "farm",
+     "intro": "認識常見的寵物與農場動物，學會說照顧牠們的日常用語。",
+     "counts": {
+      "words": 30,
+      "phrases": 7,
+      "sentences": 15,
+      "dialogues": 2
+     }
+    },
+    {
+     "id": "sea",
+     "title": "Sea Life and Beach",
+     "zh": "海洋生物與海邊",
+     "emoji": "🐬",
+     "backdrop": "sea",
+     "intro": "認識海裡的生物與沙灘上的東西，學會說去海邊玩的句子。",
+     "counts": {
+      "words": 29,
+      "phrases": 7,
+      "sentences": 15,
+      "dialogues": 2
+     }
+    },
+    {
+     "id": "insects-birds",
+     "title": "Insects and Birds",
+     "zh": "昆蟲與鳥類",
+     "emoji": "🦋",
+     "backdrop": "garden",
+     "intro": "認識花園與天空中的小昆蟲和鳥兒，學會描述牠們在做什麼。",
+     "counts": {
+      "words": 31,
+      "phrases": 7,
+      "sentences": 15,
+      "dialogues": 2
+     }
+    },
+    {
+     "id": "plants",
+     "title": "Plants and Flowers",
+     "zh": "植物與花",
+     "emoji": "🌻",
+     "backdrop": "garden",
+     "intro": "認識花草樹木的各部分，學會描述種植與照顧植物。",
+     "counts": {
+      "words": 29,
+      "phrases": 7,
+      "sentences": 15,
+      "dialogues": 2
+     }
+    },
+    {
+     "id": "weather",
+     "title": "Weather and Seasons",
+     "zh": "天氣與季節",
+     "emoji": "⛅",
+     "backdrop": "sky",
+     "intro": "學會用英文描述今天的天氣、四季的變化與穿著。",
+     "counts": {
+      "words": 31,
+      "phrases": 6,
+      "sentences": 15,
+      "dialogues": 2
+     }
+    },
+    {
+     "id": "numbers",
+     "title": "Numbers",
+     "zh": "數字",
+     "emoji": "🔢",
+     "backdrop": "classroom",
+     "intro": "學會基數、序數、次數與分數的說法，數數與買東西都用得上。",
+     "counts": {
+      "words": 27,
+      "phrases": 9,
+      "sentences": 15,
+      "dialogues": 2
+     }
+    },
+    {
+     "id": "time-calendar",
+     "title": "Time and Calendar",
+     "zh": "時間、星期與月份",
+     "emoji": "🕒",
+     "backdrop": "office",
+     "intro": "學會看時間、說星期和月份，安排每天的行程。",
+     "counts": {
+      "words": 30,
+      "phrases": 8,
+      "sentences": 15,
+      "dialogues": 2
+     }
+    },
+    {
+     "id": "nature-space",
+     "title": "Nature and Space",
+     "zh": "自然景觀與宇宙",
+     "emoji": "🏔️",
+     "backdrop": "space",
+     "intro": "從山川河流到星星與行星，認識地球與宇宙的樣貌。",
+     "counts": {
+      "words": 30,
+      "phrases": 7,
+      "sentences": 15,
+      "dialogues": 2
+     }
+    }
+   ]
+  }
+ ],
+ "totals": {
+  "topics": 54,
+  "words": 1565,
+  "phrases": 402,
+  "sentences": 778,
+  "dialogues": 108,
+  "entries": 2745
+ }
+}

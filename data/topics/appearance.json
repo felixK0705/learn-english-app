@@ -1,0 +1,459 @@
+{
+  "id": "appearance",
+  "title": "Appearance & Personality",
+  "zh": "外表與個性",
+  "emoji": "🧑‍🎤",
+  "backdrop": "classroom",
+  "intro": "學會描述人的長相、身材與個性。",
+  "words": [
+    {
+      "en": "tall",
+      "kk": "tɔl",
+      "zh": "高的",
+      "emoji": "📏",
+      "type": "word",
+      "ex": "My brother is very tall.",
+      "exZh": "我哥哥很高。"
+    },
+    {
+      "en": "short",
+      "kk": "ʃɔrt",
+      "zh": "矮的；短的",
+      "emoji": "🧒",
+      "type": "word",
+      "ex": "She has short hair.",
+      "exZh": "她留著短髮。"
+    },
+    {
+      "en": "thin",
+      "kk": "θɪn",
+      "zh": "瘦的",
+      "emoji": "🪶",
+      "type": "word",
+      "ex": "The boy is tall and thin.",
+      "exZh": "那個男孩又高又瘦。"
+    },
+    {
+      "en": "heavy",
+      "kk": "ˋhɛvɪ",
+      "zh": "重的；胖的",
+      "emoji": "🏋️",
+      "type": "word",
+      "ex": "The box is too heavy.",
+      "exZh": "這個箱子太重了。"
+    },
+    {
+      "en": "strong",
+      "kk": "strɔŋ",
+      "zh": "強壯的",
+      "emoji": "💪",
+      "type": "word",
+      "ex": "He is strong enough to lift it.",
+      "exZh": "他夠強壯可以把它舉起來。"
+    },
+    {
+      "en": "young",
+      "kk": "jʌŋ",
+      "zh": "年輕的",
+      "emoji": "🧑",
+      "type": "word",
+      "ex": "My teacher is young.",
+      "exZh": "我的老師很年輕。"
+    },
+    {
+      "en": "old",
+      "kk": "old",
+      "zh": "老的；年長的",
+      "emoji": "🧓",
+      "type": "word",
+      "ex": "The old man walks slowly.",
+      "exZh": "老先生走得很慢。"
+    },
+    {
+      "en": "handsome",
+      "kk": "ˋhænsəm",
+      "zh": "英俊的",
+      "emoji": "🕴️",
+      "type": "word",
+      "ex": "He is a handsome actor.",
+      "exZh": "他是個英俊的演員。"
+    },
+    {
+      "en": "pretty",
+      "kk": "ˋprɪtɪ",
+      "zh": "漂亮的",
+      "emoji": "🌸",
+      "type": "word",
+      "ex": "What a pretty dress!",
+      "exZh": "好漂亮的洋裝！"
+    },
+    {
+      "en": "cute",
+      "kk": "kjut",
+      "zh": "可愛的",
+      "emoji": "🧸",
+      "type": "word",
+      "ex": "The puppy is so cute.",
+      "exZh": "那隻小狗好可愛。"
+    },
+    {
+      "en": "beautiful",
+      "kk": "ˋbjutəfəl",
+      "zh": "美麗的",
+      "emoji": "👸",
+      "type": "word",
+      "ex": "She sings a beautiful song.",
+      "exZh": "她唱了一首優美的歌。"
+    },
+    {
+      "en": "curly",
+      "kk": "ˋkɝlɪ",
+      "zh": "捲的",
+      "emoji": "🌀",
+      "type": "word",
+      "ex": "He has curly hair.",
+      "exZh": "他有一頭捲髮。"
+    },
+    {
+      "en": "straight",
+      "kk": "stret",
+      "zh": "直的",
+      "emoji": "📐",
+      "type": "word",
+      "ex": "My sister has straight hair.",
+      "exZh": "我姊姊有一頭直髮。"
+    },
+    {
+      "en": "blond",
+      "kk": "blɑnd",
+      "zh": "金髮的",
+      "emoji": "👱",
+      "type": "word",
+      "ex": "The little girl is blond.",
+      "exZh": "那個小女孩是金髮。"
+    },
+    {
+      "en": "bald",
+      "kk": "bɔld",
+      "zh": "禿頭的",
+      "emoji": "👨‍🦲",
+      "type": "word",
+      "ex": "My uncle is going bald.",
+      "exZh": "我叔叔開始禿頭了。"
+    },
+    {
+      "en": "glasses",
+      "kk": "ˋɡlæsɪz",
+      "zh": "眼鏡",
+      "emoji": "👓",
+      "type": "word",
+      "ex": "He wears glasses to read.",
+      "exZh": "他戴眼鏡看書。"
+    },
+    {
+      "en": "beard",
+      "kk": "bɪrd",
+      "zh": "鬍鬚",
+      "emoji": "🧔",
+      "type": "word",
+      "ex": "Grandpa has a white beard.",
+      "exZh": "爺爺有白色的鬍子。"
+    },
+    {
+      "en": "kind",
+      "kk": "kaɪnd",
+      "zh": "親切的；善良的",
+      "emoji": "🥰",
+      "type": "word",
+      "ex": "Our neighbor is kind to everyone.",
+      "exZh": "我們的鄰居對每個人都很和善。"
+    },
+    {
+      "en": "friendly",
+      "kk": "ˋfrɛndlɪ",
+      "zh": "友善的",
+      "emoji": "😃",
+      "type": "word",
+      "ex": "The clerk is very friendly.",
+      "exZh": "那位店員非常友善。"
+    },
+    {
+      "en": "funny",
+      "kk": "ˋfʌnɪ",
+      "zh": "好笑的；有趣的",
+      "emoji": "🤡",
+      "type": "word",
+      "ex": "My dad is a funny man.",
+      "exZh": "我爸爸是個很有趣的人。"
+    },
+    {
+      "en": "smart",
+      "kk": "smɑrt",
+      "zh": "聰明的",
+      "emoji": "💡",
+      "type": "word",
+      "ex": "She is a smart student.",
+      "exZh": "她是個聰明的學生。"
+    },
+    {
+      "en": "lazy",
+      "kk": "ˋlezɪ",
+      "zh": "懶惰的",
+      "emoji": "🦥",
+      "type": "word",
+      "ex": "The cat is lazy today.",
+      "exZh": "那隻貓今天很懶。"
+    },
+    {
+      "en": "hard-working",
+      "kk": "ˏhɑrdˋwɝkɪŋ",
+      "zh": "勤奮的",
+      "emoji": "🐝",
+      "type": "word",
+      "ex": "My mother is hard-working.",
+      "exZh": "我媽媽很勤奮。"
+    },
+    {
+      "en": "polite",
+      "kk": "pəˋlaɪt",
+      "zh": "有禮貌的",
+      "emoji": "🎩",
+      "type": "word",
+      "ex": "He is polite to adults.",
+      "exZh": "他對大人很有禮貌。"
+    },
+    {
+      "en": "honest",
+      "kk": "ˋɑnɪst",
+      "zh": "誠實的",
+      "emoji": "⚖️",
+      "type": "word",
+      "ex": "Be honest with me.",
+      "exZh": "請對我誠實。"
+    },
+    {
+      "en": "brave",
+      "kk": "brev",
+      "zh": "勇敢的",
+      "emoji": "🦁",
+      "type": "word",
+      "ex": "The brave boy saved the dog.",
+      "exZh": "那個勇敢的男孩救了小狗。"
+    },
+    {
+      "en": "quiet",
+      "kk": "ˋkwaɪət",
+      "zh": "安靜的",
+      "emoji": "🤫",
+      "type": "word",
+      "ex": "She is a quiet girl.",
+      "exZh": "她是個安靜的女孩。"
+    },
+    {
+      "en": "outgoing",
+      "kk": "ˋautˏɡoɪŋ",
+      "zh": "外向的",
+      "emoji": "🎉",
+      "type": "word",
+      "ex": "My cousin is outgoing.",
+      "exZh": "我表哥個性外向。"
+    },
+    {
+      "en": "generous",
+      "kk": "ˋdʒɛnərəs",
+      "zh": "慷慨的",
+      "emoji": "🎁",
+      "type": "word",
+      "ex": "He is generous with his time.",
+      "exZh": "他很樂意付出時間。"
+    },
+    {
+      "en": "look alike",
+      "kk": "",
+      "zh": "長得相像",
+      "emoji": "🪞",
+      "type": "phrase",
+      "ex": "The two sisters look alike.",
+      "exZh": "這兩姊妹長得很像。"
+    },
+    {
+      "en": "in his twenties",
+      "kk": "",
+      "zh": "二十多歲",
+      "emoji": "🔢",
+      "type": "phrase",
+      "ex": "The actor is in his twenties.",
+      "exZh": "那位演員二十多歲。"
+    },
+    {
+      "en": "of medium height",
+      "kk": "",
+      "zh": "中等身高",
+      "emoji": "↕️",
+      "type": "phrase",
+      "ex": "He is of medium height.",
+      "exZh": "他身高中等。"
+    },
+    {
+      "en": "take after",
+      "kk": "",
+      "zh": "像（家中長輩）",
+      "emoji": "🧬",
+      "type": "phrase",
+      "ex": "She takes after her grandmother.",
+      "exZh": "她像她的外婆。"
+    },
+    {
+      "en": "good-looking",
+      "kk": "",
+      "zh": "好看的",
+      "emoji": "😎",
+      "type": "phrase",
+      "ex": "He is a good-looking guy.",
+      "exZh": "他是個長得好看的男生。"
+    },
+    {
+      "en": "have a good sense of humor",
+      "kk": "",
+      "zh": "很有幽默感",
+      "emoji": "😆",
+      "type": "phrase",
+      "ex": "My teacher has a good sense of humor.",
+      "exZh": "我的老師很有幽默感。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "What does she look like?",
+      "zh": "她長什麼樣子？",
+      "note": "詢問某人外貌時"
+    },
+    {
+      "en": "She is tall and has long hair.",
+      "zh": "她很高，留著長髮。",
+      "note": "描述外貌時"
+    },
+    {
+      "en": "He is a short boy with glasses.",
+      "zh": "他是個戴眼鏡的矮個子男孩。",
+      "note": "描述人物特徵時"
+    },
+    {
+      "en": "How tall are you?",
+      "zh": "你有多高？",
+      "note": "詢問身高時"
+    },
+    {
+      "en": "I am about 160 centimeters tall.",
+      "zh": "我大約一百六十公分高。",
+      "note": "回答身高時"
+    },
+    {
+      "en": "You look great today.",
+      "zh": "你今天看起來很棒。",
+      "note": "稱讚對方時"
+    },
+    {
+      "en": "What is he like?",
+      "zh": "他是個怎樣的人？",
+      "note": "詢問個性時"
+    },
+    {
+      "en": "He is kind and funny.",
+      "zh": "他親切又幽默。",
+      "note": "描述個性時"
+    },
+    {
+      "en": "She is shy but very friendly.",
+      "zh": "她害羞，但很友善。",
+      "note": "形容個性時"
+    },
+    {
+      "en": "I am quiet at school but outgoing at home.",
+      "zh": "我在學校很安靜，在家卻很外向。",
+      "note": "介紹自己的個性時"
+    },
+    {
+      "en": "You look just like your dad.",
+      "zh": "你長得跟你爸爸一模一樣。",
+      "note": "說某人像家人時"
+    },
+    {
+      "en": "She has a good sense of humor.",
+      "zh": "她很有幽默感。",
+      "note": "稱讚別人的個性時"
+    },
+    {
+      "en": "He is not lazy at all.",
+      "zh": "他一點也不懶惰。",
+      "note": "否定某種個性時"
+    },
+    {
+      "en": "My best friend is honest and smart.",
+      "zh": "我最好的朋友誠實又聰明。",
+      "note": "介紹好朋友時"
+    },
+    {
+      "en": "Do not judge people by how they look.",
+      "zh": "不要以貌取人。",
+      "note": "提醒別人時"
+    }
+  ],
+  "dialogues": [
+    {
+      "title": "找失散的朋友",
+      "lines": [
+        {
+          "who": "A",
+          "en": "Excuse me, I am looking for my friend.",
+          "zh": "不好意思，我在找我的朋友。"
+        },
+        {
+          "who": "B",
+          "en": "What does he look like?",
+          "zh": "他長什麼樣子？"
+        },
+        {
+          "who": "A",
+          "en": "He is tall and thin, with curly hair and glasses.",
+          "zh": "他又高又瘦，有捲髮並戴眼鏡。"
+        },
+        {
+          "who": "B",
+          "en": "I think I saw him near the gate.",
+          "zh": "我想我在大門附近看過他。"
+        },
+        {
+          "who": "A",
+          "en": "Thank you so much!",
+          "zh": "非常謝謝你！"
+        }
+      ]
+    },
+    {
+      "title": "聊新老師",
+      "lines": [
+        {
+          "who": "A",
+          "en": "Do you like our new teacher?",
+          "zh": "你喜歡我們的新老師嗎？"
+        },
+        {
+          "who": "B",
+          "en": "Yes. She is kind and very smart.",
+          "zh": "喜歡，她很親切又很聰明。"
+        },
+        {
+          "who": "A",
+          "en": "I heard she is funny, too.",
+          "zh": "我聽說她也很幽默。"
+        },
+        {
+          "who": "B",
+          "en": "Right. She makes the whole class laugh.",
+          "zh": "沒錯，她讓全班都大笑。"
+        }
+      ]
+    }
+  ]
+}

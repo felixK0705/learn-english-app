@@ -1,0 +1,477 @@
+{
+  "id": "weather",
+  "title": "Weather and Seasons",
+  "zh": "天氣與季節",
+  "emoji": "⛅",
+  "backdrop": "sky",
+  "intro": "學會用英文描述今天的天氣、四季的變化與穿著。",
+  "words": [
+    {
+      "en": "weather",
+      "kk": "ˋwɛðɚ",
+      "zh": "天氣",
+      "emoji": "🌤️",
+      "type": "word",
+      "ex": "The weather is great today.",
+      "exZh": "今天天氣很好。"
+    },
+    {
+      "en": "sunny",
+      "kk": "ˋsʌnɪ",
+      "zh": "晴朗的",
+      "emoji": "☀️",
+      "type": "word",
+      "ex": "It is a sunny day.",
+      "exZh": "今天是個大晴天。"
+    },
+    {
+      "en": "cloudy",
+      "kk": "ˋklaʊdɪ",
+      "zh": "多雲的",
+      "emoji": "☁️",
+      "type": "word",
+      "ex": "It is cloudy this morning.",
+      "exZh": "今天早上是多雲的天氣。"
+    },
+    {
+      "en": "cloud",
+      "kk": "klaʊd",
+      "zh": "雲",
+      "emoji": "☁️",
+      "type": "word",
+      "ex": "A dark cloud is coming.",
+      "exZh": "一朵烏雲飄過來了。"
+    },
+    {
+      "en": "rain",
+      "kk": "ren",
+      "zh": "雨；下雨",
+      "emoji": "🌧️",
+      "type": "word",
+      "ex": "The rain stopped at noon.",
+      "exZh": "雨在中午停了。"
+    },
+    {
+      "en": "rainy",
+      "kk": "ˋrenɪ",
+      "zh": "下雨的",
+      "emoji": "🌦️",
+      "type": "word",
+      "ex": "Rainy days make me sleepy.",
+      "exZh": "下雨天讓我昏昏欲睡。"
+    },
+    {
+      "en": "snow",
+      "kk": "sno",
+      "zh": "雪；下雪",
+      "emoji": "❄️",
+      "type": "word",
+      "ex": "Snow covered the roofs.",
+      "exZh": "雪覆蓋了屋頂。"
+    },
+    {
+      "en": "snowman",
+      "kk": "ˋsnoˏmæn",
+      "zh": "雪人",
+      "emoji": "⛄",
+      "type": "word",
+      "ex": "We built a snowman in the yard.",
+      "exZh": "我們在院子裡堆了一個雪人。"
+    },
+    {
+      "en": "windy",
+      "kk": "ˋwɪndɪ",
+      "zh": "有風的",
+      "emoji": "💨",
+      "type": "word",
+      "ex": "It is too windy to fly a kite.",
+      "exZh": "風太大了，不能放風箏。"
+    },
+    {
+      "en": "wind",
+      "kk": "wɪnd",
+      "zh": "風",
+      "emoji": "🌬️",
+      "type": "word",
+      "ex": "The wind blew my hat away.",
+      "exZh": "風把我的帽子吹走了。"
+    },
+    {
+      "en": "storm",
+      "kk": "stɔrm",
+      "zh": "暴風雨",
+      "emoji": "⛈️",
+      "type": "word",
+      "ex": "A big storm hit the city.",
+      "exZh": "一場大暴風雨襲擊了這座城市。"
+    },
+    {
+      "en": "thunder",
+      "kk": "ˋθʌndɚ",
+      "zh": "雷",
+      "emoji": "🌩️",
+      "type": "word",
+      "ex": "The thunder was very loud.",
+      "exZh": "雷聲非常大。"
+    },
+    {
+      "en": "lightning",
+      "kk": "ˋlaɪtnɪŋ",
+      "zh": "閃電",
+      "emoji": "⚡",
+      "type": "word",
+      "ex": "Lightning lit up the sky.",
+      "exZh": "閃電照亮了天空。"
+    },
+    {
+      "en": "fog",
+      "kk": "fɔg",
+      "zh": "霧",
+      "emoji": "🌫️",
+      "type": "word",
+      "ex": "Thick fog covered the road.",
+      "exZh": "濃霧籠罩了道路。"
+    },
+    {
+      "en": "rainbow",
+      "kk": "ˋrenˏbo",
+      "zh": "彩虹",
+      "emoji": "🌈",
+      "type": "word",
+      "ex": "Look, a rainbow after the rain!",
+      "exZh": "看，雨後有彩虹！"
+    },
+    {
+      "en": "typhoon",
+      "kk": "taɪˋfun",
+      "zh": "颱風",
+      "emoji": "🌀",
+      "type": "word",
+      "ex": "A typhoon is coming to Taiwan.",
+      "exZh": "有個颱風要來台灣了。"
+    },
+    {
+      "en": "umbrella",
+      "kk": "ʌmˋbrɛlə",
+      "zh": "雨傘",
+      "emoji": "☂️",
+      "type": "word",
+      "ex": "Don't forget your umbrella.",
+      "exZh": "別忘了帶你的雨傘。"
+    },
+    {
+      "en": "raincoat",
+      "kk": "ˋrenˏkot",
+      "zh": "雨衣",
+      "emoji": "🧥",
+      "type": "word",
+      "ex": "She wore a yellow raincoat.",
+      "exZh": "她穿著一件黃色雨衣。"
+    },
+    {
+      "en": "puddle",
+      "kk": "ˋpʌdl̩",
+      "zh": "水坑",
+      "emoji": "💧",
+      "type": "word",
+      "ex": "The boy jumped in the puddle.",
+      "exZh": "那個男孩跳進水坑裡。"
+    },
+    {
+      "en": "temperature",
+      "kk": "ˋtɛmprətʃɚ",
+      "zh": "溫度",
+      "emoji": "🌡️",
+      "type": "word",
+      "ex": "The temperature is twenty degrees.",
+      "exZh": "氣溫是二十度。"
+    },
+    {
+      "en": "degree",
+      "kk": "dɪˋgri",
+      "zh": "度",
+      "emoji": "🌡️",
+      "type": "word",
+      "ex": "It is thirty degrees outside.",
+      "exZh": "外面是三十度。"
+    },
+    {
+      "en": "hot",
+      "kk": "hɑt",
+      "zh": "熱的",
+      "emoji": "🥵",
+      "type": "word",
+      "ex": "It is very hot today.",
+      "exZh": "今天非常熱。"
+    },
+    {
+      "en": "cold",
+      "kk": "kold",
+      "zh": "冷的",
+      "emoji": "🥶",
+      "type": "word",
+      "ex": "My hands are cold.",
+      "exZh": "我的手好冷。"
+    },
+    {
+      "en": "warm",
+      "kk": "wɔrm",
+      "zh": "溫暖的",
+      "emoji": "😊",
+      "type": "word",
+      "ex": "The spring air is warm.",
+      "exZh": "春天的空氣很溫暖。"
+    },
+    {
+      "en": "cool",
+      "kk": "kul",
+      "zh": "涼爽的",
+      "emoji": "🍃",
+      "type": "word",
+      "ex": "The evening is cool and nice.",
+      "exZh": "傍晚涼爽又舒服。"
+    },
+    {
+      "en": "humid",
+      "kk": "ˋhjumɪd",
+      "zh": "潮濕悶熱的",
+      "emoji": "💦",
+      "type": "word",
+      "ex": "Summer in Taiwan is hot and humid.",
+      "exZh": "台灣的夏天又熱又潮濕。"
+    },
+    {
+      "en": "season",
+      "kk": "ˋsizn̩",
+      "zh": "季節",
+      "emoji": "🗓️",
+      "type": "word",
+      "ex": "Which season do you like best?",
+      "exZh": "你最喜歡哪個季節？"
+    },
+    {
+      "en": "spring",
+      "kk": "sprɪŋ",
+      "zh": "春天",
+      "emoji": "🌱",
+      "type": "word",
+      "ex": "Flowers bloom in spring.",
+      "exZh": "花在春天盛開。"
+    },
+    {
+      "en": "summer",
+      "kk": "ˋsʌmɚ",
+      "zh": "夏天",
+      "emoji": "🏖️",
+      "type": "word",
+      "ex": "We go swimming in summer.",
+      "exZh": "我們夏天去游泳。"
+    },
+    {
+      "en": "autumn",
+      "kk": "ˋɔtəm",
+      "zh": "秋天",
+      "emoji": "🍂",
+      "type": "word",
+      "ex": "Leaves fall in autumn.",
+      "exZh": "葉子在秋天掉落。"
+    },
+    {
+      "en": "winter",
+      "kk": "ˋwɪntɚ",
+      "zh": "冬天",
+      "emoji": "🧣",
+      "type": "word",
+      "ex": "I wear a scarf in winter.",
+      "exZh": "我冬天會戴圍巾。"
+    },
+    {
+      "en": "weather forecast",
+      "kk": "",
+      "zh": "天氣預報",
+      "emoji": "📺",
+      "type": "phrase",
+      "ex": "The weather forecast says it will rain.",
+      "exZh": "天氣預報說會下雨。"
+    },
+    {
+      "en": "pouring rain",
+      "kk": "",
+      "zh": "傾盆大雨",
+      "emoji": "🌧️",
+      "type": "phrase",
+      "ex": "We were caught in pouring rain.",
+      "exZh": "我們遇上了傾盆大雨。"
+    },
+    {
+      "en": "heat wave",
+      "kk": "",
+      "zh": "熱浪",
+      "emoji": "🔥",
+      "type": "phrase",
+      "ex": "A heat wave is coming this week.",
+      "exZh": "這週有熱浪來襲。"
+    },
+    {
+      "en": "cold front",
+      "kk": "",
+      "zh": "冷鋒",
+      "emoji": "🧊",
+      "type": "phrase",
+      "ex": "A cold front is moving in tonight.",
+      "exZh": "今晚有冷鋒接近。"
+    },
+    {
+      "en": "clear sky",
+      "kk": "",
+      "zh": "晴空",
+      "emoji": "🌌",
+      "type": "phrase",
+      "ex": "There is a clear sky tonight.",
+      "exZh": "今晚天空晴朗。"
+    },
+    {
+      "en": "catch a cold",
+      "kk": "",
+      "zh": "感冒",
+      "emoji": "🤧",
+      "type": "phrase",
+      "ex": "Wear a jacket, or you'll catch a cold.",
+      "exZh": "穿件外套，不然會感冒。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "How's the weather today?",
+      "zh": "今天天氣怎麼樣？",
+      "note": "日常問候"
+    },
+    {
+      "en": "It's sunny and warm.",
+      "zh": "天氣晴朗又暖和。",
+      "note": "回答天氣"
+    },
+    {
+      "en": "It looks like it's going to rain.",
+      "zh": "看起來快要下雨了。",
+      "note": "天色變暗時"
+    },
+    {
+      "en": "Take an umbrella just in case.",
+      "zh": "帶把傘以防萬一。",
+      "note": "出門前提醒"
+    },
+    {
+      "en": "What's the weather forecast for tomorrow?",
+      "zh": "明天的天氣預報怎麼說？",
+      "note": "計畫行程"
+    },
+    {
+      "en": "It's pouring outside!",
+      "zh": "外面下傾盆大雨！",
+      "note": "形容大雨"
+    },
+    {
+      "en": "It's freezing today.",
+      "zh": "今天冷死了。",
+      "note": "覺得非常冷"
+    },
+    {
+      "en": "It's so hot and humid.",
+      "zh": "天氣又熱又悶。",
+      "note": "抱怨天氣"
+    },
+    {
+      "en": "The typhoon is getting closer.",
+      "zh": "颱風越來越近了。",
+      "note": "颱風消息"
+    },
+    {
+      "en": "Look at that rainbow!",
+      "zh": "看那道彩虹！",
+      "note": "看到彩虹時"
+    },
+    {
+      "en": "Wear a jacket. It's chilly.",
+      "zh": "穿件外套，有點涼。",
+      "note": "提醒穿衣"
+    },
+    {
+      "en": "What's your favorite season?",
+      "zh": "你最喜歡哪個季節？",
+      "note": "聊季節喜好"
+    },
+    {
+      "en": "I love autumn because it's cool.",
+      "zh": "我喜歡秋天，因為很涼爽。",
+      "note": "說明理由"
+    },
+    {
+      "en": "It might snow this weekend.",
+      "zh": "這個週末可能會下雪。",
+      "note": "預測天氣"
+    },
+    {
+      "en": "The temperature dropped to ten degrees.",
+      "zh": "氣溫降到了十度。",
+      "note": "描述降溫"
+    }
+  ],
+  "dialogues": [
+    {
+      "title": "出門前",
+      "lines": [
+        {
+          "who": "A",
+          "en": "What's the weather like?",
+          "zh": "外面天氣怎麼樣？"
+        },
+        {
+          "who": "B",
+          "en": "It's cloudy, and it might rain.",
+          "zh": "多雲，而且可能會下雨。"
+        },
+        {
+          "who": "A",
+          "en": "Should I take an umbrella?",
+          "zh": "我要帶傘嗎？"
+        },
+        {
+          "who": "B",
+          "en": "Yes, and wear a jacket. It's chilly.",
+          "zh": "要，還要穿外套，有點涼。"
+        }
+      ]
+    },
+    {
+      "title": "聊季節",
+      "lines": [
+        {
+          "who": "A",
+          "en": "Which season do you like best?",
+          "zh": "你最喜歡哪個季節？"
+        },
+        {
+          "who": "B",
+          "en": "I like winter because I love snow.",
+          "zh": "我喜歡冬天，因為我愛雪。"
+        },
+        {
+          "who": "A",
+          "en": "But it's so cold!",
+          "zh": "可是好冷喔！"
+        },
+        {
+          "who": "B",
+          "en": "I don't mind. I just wear a warm scarf.",
+          "zh": "我不在意，只要戴條暖暖的圍巾。"
+        },
+        {
+          "who": "A",
+          "en": "I prefer spring. It's warm and the flowers are beautiful.",
+          "zh": "我比較喜歡春天，既溫暖花又漂亮。"
+        }
+      ]
+    }
+  ]
+}

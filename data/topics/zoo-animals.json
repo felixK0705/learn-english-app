@@ -1,0 +1,468 @@
+{
+  "id": "zoo-animals",
+  "title": "Zoo Animals",
+  "zh": "動物園的動物",
+  "emoji": "🦁",
+  "backdrop": "zoo",
+  "intro": "逛動物園時會看到的動物，以及描述牠們的簡單句子。",
+  "words": [
+    {
+      "en": "lion",
+      "kk": "ˋlaɪən",
+      "zh": "獅子",
+      "emoji": "🦁",
+      "type": "word",
+      "ex": "The lion is resting in the shade.",
+      "exZh": "獅子正在樹蔭下休息。"
+    },
+    {
+      "en": "tiger",
+      "kk": "ˋtaɪgɚ",
+      "zh": "老虎",
+      "emoji": "🐯",
+      "type": "word",
+      "ex": "The tiger has orange and black stripes.",
+      "exZh": "老虎有橘黑相間的條紋。"
+    },
+    {
+      "en": "elephant",
+      "kk": "ˋɛləfənt",
+      "zh": "大象",
+      "emoji": "🐘",
+      "type": "word",
+      "ex": "The elephant is drinking water.",
+      "exZh": "大象正在喝水。"
+    },
+    {
+      "en": "giraffe",
+      "kk": "dʒəˋræf",
+      "zh": "長頸鹿",
+      "emoji": "🦒",
+      "type": "word",
+      "ex": "A giraffe can reach the top leaves.",
+      "exZh": "長頸鹿可以吃到最高處的葉子。"
+    },
+    {
+      "en": "zebra",
+      "kk": "ˋzibrə",
+      "zh": "斑馬",
+      "emoji": "🦓",
+      "type": "word",
+      "ex": "The zebra is running across the field.",
+      "exZh": "斑馬正跑過草地。"
+    },
+    {
+      "en": "monkey",
+      "kk": "ˋmʌŋkɪ",
+      "zh": "猴子",
+      "emoji": "🐒",
+      "type": "word",
+      "ex": "The monkey is eating a banana.",
+      "exZh": "猴子正在吃香蕉。"
+    },
+    {
+      "en": "panda",
+      "kk": "ˋpændə",
+      "zh": "貓熊",
+      "emoji": "🐼",
+      "type": "word",
+      "ex": "The panda is chewing bamboo.",
+      "exZh": "貓熊正在嚼竹子。"
+    },
+    {
+      "en": "kangaroo",
+      "kk": "ˏkæŋgəˋru",
+      "zh": "袋鼠",
+      "emoji": "🦘",
+      "type": "word",
+      "ex": "The kangaroo jumps very high.",
+      "exZh": "袋鼠跳得很高。"
+    },
+    {
+      "en": "bear",
+      "kk": "bɛr",
+      "zh": "熊",
+      "emoji": "🐻",
+      "type": "word",
+      "ex": "The bear is sleeping in the cave.",
+      "exZh": "熊正在洞穴裡睡覺。"
+    },
+    {
+      "en": "wolf",
+      "kk": "wʊlf",
+      "zh": "狼",
+      "emoji": "🐺",
+      "type": "word",
+      "ex": "The wolf howled at the moon.",
+      "exZh": "狼對著月亮嚎叫。"
+    },
+    {
+      "en": "hippo",
+      "kk": "ˋhɪpo",
+      "zh": "河馬",
+      "emoji": "🦛",
+      "type": "word",
+      "ex": "The hippo stays in the water all day.",
+      "exZh": "河馬整天待在水裡。"
+    },
+    {
+      "en": "rhino",
+      "kk": "ˋraɪno",
+      "zh": "犀牛",
+      "emoji": "🦏",
+      "type": "word",
+      "ex": "The rhino has a big horn.",
+      "exZh": "犀牛有一支大角。"
+    },
+    {
+      "en": "crocodile",
+      "kk": "ˋkrɑkəˏdaɪl",
+      "zh": "鱷魚",
+      "emoji": "🐊",
+      "type": "word",
+      "ex": "The crocodile opened its big mouth.",
+      "exZh": "鱷魚張開了牠的大嘴巴。"
+    },
+    {
+      "en": "snake",
+      "kk": "snek",
+      "zh": "蛇",
+      "emoji": "🐍",
+      "type": "word",
+      "ex": "The snake moves without legs.",
+      "exZh": "蛇沒有腳也能移動。"
+    },
+    {
+      "en": "camel",
+      "kk": "ˋkæml",
+      "zh": "駱駝",
+      "emoji": "🐪",
+      "type": "word",
+      "ex": "A camel can go days without water.",
+      "exZh": "駱駝可以好幾天不喝水。"
+    },
+    {
+      "en": "gorilla",
+      "kk": "gəˋrɪlə",
+      "zh": "大猩猩",
+      "emoji": "🦍",
+      "type": "word",
+      "ex": "The gorilla beat its chest.",
+      "exZh": "大猩猩搥打牠的胸膛。"
+    },
+    {
+      "en": "koala",
+      "kk": "koˋɑlə",
+      "zh": "無尾熊",
+      "emoji": "🐨",
+      "type": "word",
+      "ex": "The koala sleeps most of the day.",
+      "exZh": "無尾熊一天大部分時間都在睡覺。"
+    },
+    {
+      "en": "penguin",
+      "kk": "ˋpɛŋgwɪn",
+      "zh": "企鵝",
+      "emoji": "🐧",
+      "type": "word",
+      "ex": "The penguin slid on the ice.",
+      "exZh": "企鵝在冰上滑行。"
+    },
+    {
+      "en": "leopard",
+      "kk": "ˋlɛpɚd",
+      "zh": "豹",
+      "emoji": "🐆",
+      "type": "word",
+      "ex": "The leopard has spots on its fur.",
+      "exZh": "豹的毛皮上有斑點。"
+    },
+    {
+      "en": "cheetah",
+      "kk": "ˋtʃitə",
+      "zh": "獵豹",
+      "emoji": "🐆",
+      "type": "word",
+      "ex": "The cheetah is the fastest runner.",
+      "exZh": "獵豹是跑得最快的動物。"
+    },
+    {
+      "en": "flamingo",
+      "kk": "fləˋmɪŋgo",
+      "zh": "紅鶴",
+      "emoji": "🦩",
+      "type": "word",
+      "ex": "The flamingo stands on one leg.",
+      "exZh": "紅鶴用一隻腳站立。"
+    },
+    {
+      "en": "deer",
+      "kk": "dɪr",
+      "zh": "鹿",
+      "emoji": "🦌",
+      "type": "word",
+      "ex": "The deer ate grass near the fence.",
+      "exZh": "鹿在圍欄旁吃草。"
+    },
+    {
+      "en": "tortoise",
+      "kk": "ˋtɔrtəs",
+      "zh": "陸龜",
+      "emoji": "🐢",
+      "type": "word",
+      "ex": "The tortoise walks very slowly.",
+      "exZh": "陸龜走得非常慢。"
+    },
+    {
+      "en": "ostrich",
+      "kk": "ˋɔstrɪtʃ",
+      "zh": "鴕鳥",
+      "emoji": "🦤",
+      "type": "word",
+      "ex": "An ostrich can run but cannot fly.",
+      "exZh": "鴕鳥會跑但不會飛。"
+    },
+    {
+      "en": "cage",
+      "kk": "kedʒ",
+      "zh": "籠子",
+      "emoji": "🔒",
+      "type": "word",
+      "ex": "The birds are in a big cage.",
+      "exZh": "鳥兒們在一個大籠子裡。"
+    },
+    {
+      "en": "zookeeper",
+      "kk": "ˋzuˏkipɚ",
+      "zh": "動物園管理員",
+      "emoji": "🧑‍🌾",
+      "type": "word",
+      "ex": "The zookeeper feeds the lions at noon.",
+      "exZh": "管理員中午餵獅子。"
+    },
+    {
+      "en": "trunk",
+      "kk": "trʌŋk",
+      "zh": "象鼻",
+      "emoji": "🐘",
+      "type": "word",
+      "ex": "The elephant sprays water with its trunk.",
+      "exZh": "大象用鼻子噴水。"
+    },
+    {
+      "en": "tail",
+      "kk": "tel",
+      "zh": "尾巴",
+      "emoji": "🐕",
+      "type": "word",
+      "ex": "The monkey has a long tail.",
+      "exZh": "猴子有一條長尾巴。"
+    },
+    {
+      "en": "stripe",
+      "kk": "straɪp",
+      "zh": "條紋",
+      "emoji": "🦓",
+      "type": "word",
+      "ex": "Every zebra has different stripes.",
+      "exZh": "每隻斑馬的條紋都不一樣。"
+    },
+    {
+      "en": "feed the animals",
+      "kk": "",
+      "zh": "餵動物",
+      "emoji": "🥕",
+      "type": "phrase",
+      "ex": "Please do not feed the animals.",
+      "exZh": "請不要餵動物。"
+    },
+    {
+      "en": "polar bear",
+      "kk": "",
+      "zh": "北極熊",
+      "emoji": "🐻‍❄️",
+      "type": "phrase",
+      "ex": "The polar bear loves cold weather.",
+      "exZh": "北極熊喜歡寒冷的天氣。"
+    },
+    {
+      "en": "wild animal",
+      "kk": "",
+      "zh": "野生動物",
+      "emoji": "🐅",
+      "type": "phrase",
+      "ex": "A tiger is a wild animal.",
+      "exZh": "老虎是野生動物。"
+    },
+    {
+      "en": "in the wild",
+      "kk": "",
+      "zh": "在野外",
+      "emoji": "🌿",
+      "type": "phrase",
+      "ex": "Pandas live in the wild in China.",
+      "exZh": "貓熊生活在中國的野外。"
+    },
+    {
+      "en": "climb a tree",
+      "kk": "",
+      "zh": "爬樹",
+      "emoji": "🌳",
+      "type": "phrase",
+      "ex": "Monkeys climb a tree very fast.",
+      "exZh": "猴子爬樹爬得很快。"
+    },
+    {
+      "en": "take a picture of",
+      "kk": "",
+      "zh": "拍…的照片",
+      "emoji": "📸",
+      "type": "phrase",
+      "ex": "I want to take a picture of the giraffe.",
+      "exZh": "我想拍那隻長頸鹿的照片。"
+    },
+    {
+      "en": "endangered species",
+      "kk": "",
+      "zh": "瀕臨絕種的物種",
+      "emoji": "⚠️",
+      "type": "phrase",
+      "ex": "The panda is an endangered species.",
+      "exZh": "貓熊是瀕臨絕種的物種。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Look at that giraffe!",
+      "zh": "看那隻長頸鹿！",
+      "note": "發現有趣動物時"
+    },
+    {
+      "en": "Which animal do you like best?",
+      "zh": "你最喜歡哪種動物？",
+      "note": "聊喜好時"
+    },
+    {
+      "en": "What does a panda eat?",
+      "zh": "貓熊吃什麼？",
+      "note": "詢問動物習性"
+    },
+    {
+      "en": "Pandas eat bamboo.",
+      "zh": "貓熊吃竹子。",
+      "note": "回答動物吃什麼"
+    },
+    {
+      "en": "It is as tall as a house.",
+      "zh": "牠像房子一樣高。",
+      "note": "形容動物的大小"
+    },
+    {
+      "en": "Where is the elephant house?",
+      "zh": "大象館在哪裡？",
+      "note": "在園區問路"
+    },
+    {
+      "en": "Don't tap on the glass.",
+      "zh": "不要敲玻璃。",
+      "note": "提醒別打擾動物"
+    },
+    {
+      "en": "What time is the feeding show?",
+      "zh": "餵食秀是幾點？",
+      "note": "詢問表演時間"
+    },
+    {
+      "en": "The monkey is so funny!",
+      "zh": "那隻猴子好好笑！",
+      "note": "表達感想"
+    },
+    {
+      "en": "Can we see the penguins next?",
+      "zh": "我們接下來可以去看企鵝嗎？",
+      "note": "提議下一站"
+    },
+    {
+      "en": "I'm afraid of snakes.",
+      "zh": "我怕蛇。",
+      "note": "說出害怕的動物"
+    },
+    {
+      "en": "Let's take a photo together.",
+      "zh": "我們一起拍張照吧。",
+      "note": "想合照時"
+    },
+    {
+      "en": "This animal lives in Africa.",
+      "zh": "這種動物住在非洲。",
+      "note": "介紹動物棲地"
+    },
+    {
+      "en": "How fast can a cheetah run?",
+      "zh": "獵豹能跑多快？",
+      "note": "好奇動物能力"
+    },
+    {
+      "en": "It is time to go home.",
+      "zh": "該回家了。",
+      "note": "逛完動物園準備離開"
+    }
+  ],
+  "dialogues": [
+    {
+      "title": "在動物園問路",
+      "lines": [
+        {
+          "who": "A",
+          "en": "Excuse me, where are the pandas?",
+          "zh": "不好意思，貓熊在哪裡？"
+        },
+        {
+          "who": "B",
+          "en": "Go straight and turn left.",
+          "zh": "直走然後左轉。"
+        },
+        {
+          "who": "A",
+          "en": "Is it far from here?",
+          "zh": "離這裡很遠嗎？"
+        },
+        {
+          "who": "B",
+          "en": "No, it is only five minutes away.",
+          "zh": "不遠，只要五分鐘。"
+        },
+        {
+          "who": "A",
+          "en": "Thank you very much.",
+          "zh": "非常謝謝你。"
+        }
+      ]
+    },
+    {
+      "title": "看猴子",
+      "lines": [
+        {
+          "who": "A",
+          "en": "Look! The monkey is eating a banana.",
+          "zh": "看！猴子在吃香蕉。"
+        },
+        {
+          "who": "B",
+          "en": "It is so cute!",
+          "zh": "好可愛喔！"
+        },
+        {
+          "who": "A",
+          "en": "Can I take a picture?",
+          "zh": "我可以拍照嗎？"
+        },
+        {
+          "who": "B",
+          "en": "Sure, but do not use the flash.",
+          "zh": "當然可以，但不要開閃光燈。"
+        }
+      ]
+    }
+  ]
+}

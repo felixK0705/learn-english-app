@@ -1,0 +1,463 @@
+{
+  "id": "tastes-cooking",
+  "title": "Tastes and Cooking",
+  "zh": "味道與烹調方式",
+  "emoji": "👩‍🍳",
+  "backdrop": "kitchen",
+  "intro": "學會形容食物的味道，並認識常見的烹調動作與廚房用語。",
+  "words": [
+    {
+      "en": "sweet",
+      "kk": "swit",
+      "zh": "甜的",
+      "emoji": "🍯",
+      "type": "word",
+      "ex": "This cake is too sweet for me.",
+      "exZh": "這個蛋糕對我來說太甜了。"
+    },
+    {
+      "en": "sour",
+      "kk": "saʊr",
+      "zh": "酸的",
+      "emoji": "🍋",
+      "type": "word",
+      "ex": "The lemon is very sour.",
+      "exZh": "這顆檸檬很酸。"
+    },
+    {
+      "en": "salty",
+      "kk": "ˋsɔltɪ",
+      "zh": "鹹的",
+      "emoji": "🧂",
+      "type": "word",
+      "ex": "The soup is a little salty.",
+      "exZh": "這碗湯有點鹹。"
+    },
+    {
+      "en": "bitter",
+      "kk": "ˋbɪtɚ",
+      "zh": "苦的",
+      "emoji": "☕",
+      "type": "word",
+      "ex": "Black coffee tastes bitter.",
+      "exZh": "黑咖啡嚐起來是苦的。"
+    },
+    {
+      "en": "spicy",
+      "kk": "ˋspaɪsɪ",
+      "zh": "辣的",
+      "emoji": "🌶️",
+      "type": "word",
+      "ex": "I cannot eat spicy food.",
+      "exZh": "我不能吃辣的食物。"
+    },
+    {
+      "en": "bland",
+      "kk": "blænd",
+      "zh": "清淡的；無味的",
+      "emoji": "🥣",
+      "type": "word",
+      "ex": "Hospital food is often bland.",
+      "exZh": "醫院的餐點常常很清淡。"
+    },
+    {
+      "en": "greasy",
+      "kk": "ˋgrisɪ",
+      "zh": "油膩的",
+      "emoji": "🍟",
+      "type": "word",
+      "ex": "Fried food is too greasy.",
+      "exZh": "炸的東西太油了。"
+    },
+    {
+      "en": "delicious",
+      "kk": "dɪˋlɪʃəs",
+      "zh": "美味的",
+      "emoji": "😋",
+      "type": "word",
+      "ex": "The fish is absolutely delicious.",
+      "exZh": "這條魚真的非常美味。"
+    },
+    {
+      "en": "crispy",
+      "kk": "ˋkrɪspɪ",
+      "zh": "酥脆的",
+      "emoji": "🥠",
+      "type": "word",
+      "ex": "The fries are hot and crispy.",
+      "exZh": "這些薯條熱熱脆脆的。"
+    },
+    {
+      "en": "tender",
+      "kk": "ˋtɛndɚ",
+      "zh": "軟嫩的",
+      "emoji": "🥩",
+      "type": "word",
+      "ex": "The beef is soft and tender.",
+      "exZh": "這塊牛肉又軟又嫩。"
+    },
+    {
+      "en": "chewy",
+      "kk": "ˋtʃuɪ",
+      "zh": "有嚼勁的；Ｑ彈的",
+      "emoji": "🍡",
+      "type": "word",
+      "ex": "Tapioca pearls are chewy.",
+      "exZh": "珍珠很有嚼勁。"
+    },
+    {
+      "en": "raw",
+      "kk": "rɔ",
+      "zh": "生的",
+      "emoji": "🥩",
+      "type": "word",
+      "ex": "Do not eat raw chicken.",
+      "exZh": "不要吃生的雞肉。"
+    },
+    {
+      "en": "flavor",
+      "kk": "ˋflevɚ",
+      "zh": "味道；口味",
+      "emoji": "👅",
+      "type": "word",
+      "ex": "What flavor do you like?",
+      "exZh": "你喜歡什麼口味？"
+    },
+    {
+      "en": "recipe",
+      "kk": "ˋrɛsəpɪ",
+      "zh": "食譜",
+      "emoji": "📖",
+      "type": "word",
+      "ex": "Grandma shared her cake recipe.",
+      "exZh": "奶奶分享了她的蛋糕食譜。"
+    },
+    {
+      "en": "ingredient",
+      "kk": "ɪnˋgridɪənt",
+      "zh": "食材；材料",
+      "emoji": "🥕",
+      "type": "word",
+      "ex": "Fresh ingredients make good food.",
+      "exZh": "新鮮食材才能做出好菜。"
+    },
+    {
+      "en": "vinegar",
+      "kk": "ˋvɪnɪgɚ",
+      "zh": "醋",
+      "emoji": "🍶",
+      "type": "word",
+      "ex": "Add a little vinegar to the dumplings.",
+      "exZh": "在水餃上加一點醋。"
+    },
+    {
+      "en": "cook",
+      "kk": "kʊk",
+      "zh": "烹煮；做菜",
+      "emoji": "👩‍🍳",
+      "type": "word",
+      "ex": "I cook dinner every night.",
+      "exZh": "我每天晚上做晚餐。"
+    },
+    {
+      "en": "boil",
+      "kk": "bɔɪl",
+      "zh": "煮沸；水煮",
+      "emoji": "♨️",
+      "type": "word",
+      "ex": "Boil the water first.",
+      "exZh": "先把水煮開。"
+    },
+    {
+      "en": "fry",
+      "kk": "fraɪ",
+      "zh": "煎；炸",
+      "emoji": "🍳",
+      "type": "word",
+      "ex": "Fry the eggs for two minutes.",
+      "exZh": "把蛋煎兩分鐘。"
+    },
+    {
+      "en": "stir-fry",
+      "kk": "ˋstɝˏfraɪ",
+      "zh": "快炒；炒",
+      "emoji": "🥘",
+      "type": "word",
+      "ex": "I will stir-fry some vegetables.",
+      "exZh": "我來炒一些蔬菜。"
+    },
+    {
+      "en": "bake",
+      "kk": "bek",
+      "zh": "烘烤",
+      "emoji": "🥧",
+      "type": "word",
+      "ex": "We bake cookies on weekends.",
+      "exZh": "我們週末會烤餅乾。"
+    },
+    {
+      "en": "roast",
+      "kk": "rost",
+      "zh": "烤；焙",
+      "emoji": "🍗",
+      "type": "word",
+      "ex": "Roast the chicken in the oven.",
+      "exZh": "把雞肉放進烤箱烤。"
+    },
+    {
+      "en": "grill",
+      "kk": "grɪl",
+      "zh": "燒烤",
+      "emoji": "🍖",
+      "type": "word",
+      "ex": "Dad likes to grill outside.",
+      "exZh": "爸爸喜歡在外面烤肉。"
+    },
+    {
+      "en": "steam",
+      "kk": "stim",
+      "zh": "蒸",
+      "emoji": "🥟",
+      "type": "word",
+      "ex": "Steam the fish for ten minutes.",
+      "exZh": "把魚蒸十分鐘。"
+    },
+    {
+      "en": "simmer",
+      "kk": "ˋsɪmɚ",
+      "zh": "燉；小火慢煮",
+      "emoji": "🍲",
+      "type": "word",
+      "ex": "Let the soup simmer for an hour.",
+      "exZh": "讓湯小火慢燉一小時。"
+    },
+    {
+      "en": "chop",
+      "kk": "tʃɑp",
+      "zh": "切碎；剁",
+      "emoji": "🔪",
+      "type": "word",
+      "ex": "Chop the onion into small pieces.",
+      "exZh": "把洋蔥切成小塊。"
+    },
+    {
+      "en": "slice",
+      "kk": "slaɪs",
+      "zh": "切片",
+      "emoji": "🔪",
+      "type": "word",
+      "ex": "Please slice the bread.",
+      "exZh": "請把麵包切片。"
+    },
+    {
+      "en": "stir",
+      "kk": "stɝ",
+      "zh": "攪動；攪拌",
+      "emoji": "🥄",
+      "type": "word",
+      "ex": "Stir the soup slowly.",
+      "exZh": "慢慢攪拌湯。"
+    },
+    {
+      "en": "season",
+      "kk": "ˋsizṇ",
+      "zh": "調味",
+      "emoji": "🧂",
+      "type": "word",
+      "ex": "Season the meat with salt.",
+      "exZh": "用鹽幫肉調味。"
+    },
+    {
+      "en": "sweet and sour",
+      "kk": "",
+      "zh": "糖醋；酸甜的",
+      "emoji": "🍍",
+      "type": "phrase",
+      "ex": "Sweet and sour pork is my favorite.",
+      "exZh": "糖醋排骨是我的最愛。"
+    },
+    {
+      "en": "soy sauce",
+      "kk": "",
+      "zh": "醬油",
+      "emoji": "🍶",
+      "type": "phrase",
+      "ex": "Add a spoonful of soy sauce.",
+      "exZh": "加一匙醬油。"
+    },
+    {
+      "en": "taste like",
+      "kk": "",
+      "zh": "嚐起來像",
+      "emoji": "👅",
+      "type": "phrase",
+      "ex": "It tastes like chicken.",
+      "exZh": "它嚐起來像雞肉。"
+    },
+    {
+      "en": "a pinch of salt",
+      "kk": "",
+      "zh": "一小撮鹽",
+      "emoji": "🧂",
+      "type": "phrase",
+      "ex": "Add a pinch of salt.",
+      "exZh": "加一小撮鹽。"
+    },
+    {
+      "en": "turn down the heat",
+      "kk": "",
+      "zh": "把火轉小",
+      "emoji": "🔥",
+      "type": "phrase",
+      "ex": "Turn down the heat and cover the pot.",
+      "exZh": "把火轉小然後蓋上鍋蓋。"
+    },
+    {
+      "en": "mix well",
+      "kk": "",
+      "zh": "攪拌均勻",
+      "emoji": "🥣",
+      "type": "phrase",
+      "ex": "Mix well before you bake.",
+      "exZh": "烘烤前要攪拌均勻。"
+    },
+    {
+      "en": "cut into slices",
+      "kk": "",
+      "zh": "切成片",
+      "emoji": "🔪",
+      "type": "phrase",
+      "ex": "Cut the cucumber into slices.",
+      "exZh": "把小黃瓜切成片。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "How does it taste?",
+      "zh": "嚐起來怎麼樣？",
+      "note": "詢問味道時"
+    },
+    {
+      "en": "It tastes really good.",
+      "zh": "很好吃。",
+      "note": "稱讚食物時"
+    },
+    {
+      "en": "It is a little too salty.",
+      "zh": "有點太鹹了。",
+      "note": "覺得味道偏重時"
+    },
+    {
+      "en": "Is this dish sweet or sour?",
+      "zh": "這道菜是甜的還是酸的？",
+      "note": "詢問口味時"
+    },
+    {
+      "en": "Can you make it less spicy?",
+      "zh": "可以做不那麼辣嗎？",
+      "note": "點餐時要求減辣"
+    },
+    {
+      "en": "I like my meat well done.",
+      "zh": "我的肉要全熟。",
+      "note": "表達喜好時"
+    },
+    {
+      "en": "What is the secret ingredient?",
+      "zh": "秘方食材是什麼？",
+      "note": "好奇料理時"
+    },
+    {
+      "en": "First, chop the garlic.",
+      "zh": "首先，把大蒜切碎。",
+      "note": "說明食譜步驟時"
+    },
+    {
+      "en": "Then fry it until it is golden brown.",
+      "zh": "然後煎到金黃色。",
+      "note": "說明烹調步驟時"
+    },
+    {
+      "en": "Add some salt and pepper.",
+      "zh": "加一些鹽和胡椒。",
+      "note": "教人調味時"
+    },
+    {
+      "en": "Be careful. The pan is very hot.",
+      "zh": "小心，鍋子很燙。",
+      "note": "提醒安全時"
+    },
+    {
+      "en": "Do you have a good recipe for soup?",
+      "zh": "你有好的湯食譜嗎？",
+      "note": "請教食譜時"
+    },
+    {
+      "en": "It needs more flavor.",
+      "zh": "它需要更多味道。",
+      "note": "覺得味道不夠時"
+    },
+    {
+      "en": "This is too greasy for me.",
+      "zh": "這個對我來說太油了。",
+      "note": "表達不喜歡時"
+    },
+    {
+      "en": "Could you cook it a little longer?",
+      "zh": "可以再煮久一點嗎？",
+      "note": "覺得沒熟時"
+    }
+  ],
+  "dialogues": [
+    {
+      "title": "試吃新菜",
+      "lines": [
+        {
+          "who": "A",
+          "en": "Try this soup. How does it taste?",
+          "zh": "喝喝看這碗湯，味道如何？"
+        },
+        {
+          "who": "B",
+          "en": "It is delicious, but a little salty.",
+          "zh": "很好喝，但有點鹹。"
+        },
+        {
+          "who": "A",
+          "en": "I will add some water.",
+          "zh": "我再加一點水。"
+        },
+        {
+          "who": "B",
+          "en": "Good idea. Maybe a pinch of sugar too.",
+          "zh": "好主意，也許再加一小撮糖。"
+        }
+      ]
+    },
+    {
+      "title": "教朋友煮蛋炒飯",
+      "lines": [
+        {
+          "who": "A",
+          "en": "What do I do first?",
+          "zh": "我第一步要做什麼？"
+        },
+        {
+          "who": "B",
+          "en": "Chop the green onion, then heat the pan.",
+          "zh": "先把蔥切碎，然後熱鍋。"
+        },
+        {
+          "who": "A",
+          "en": "Okay. Now I can fry the egg?",
+          "zh": "好了，現在可以煎蛋了嗎？"
+        },
+        {
+          "who": "B",
+          "en": "Yes, then add the rice and stir well.",
+          "zh": "對，然後加飯下去拌勻。"
+        }
+      ]
+    }
+  ]
+}

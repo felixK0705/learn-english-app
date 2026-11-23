@@ -1,0 +1,463 @@
+{
+  "id": "kitchen",
+  "title": "Kitchen",
+  "zh": "廚房與廚具",
+  "emoji": "🍳",
+  "backdrop": "kitchen",
+  "intro": "認識廚房裡的設備與餐具，學會說煮飯和擺餐桌。",
+  "words": [
+    {
+      "en": "stove",
+      "kk": "stov",
+      "zh": "爐子",
+      "emoji": "🔥",
+      "type": "word",
+      "ex": "Do not touch the hot stove.",
+      "exZh": "不要碰熱的爐子。"
+    },
+    {
+      "en": "oven",
+      "kk": "ˋʌvən",
+      "zh": "烤箱",
+      "emoji": "♨️",
+      "type": "word",
+      "ex": "The cake is in the oven.",
+      "exZh": "蛋糕在烤箱裡。"
+    },
+    {
+      "en": "refrigerator",
+      "kk": "rɪˋfrɪdʒəˏretɚ",
+      "zh": "冰箱",
+      "emoji": "🧊",
+      "type": "word",
+      "ex": "There is some milk in the refrigerator.",
+      "exZh": "冰箱裡有一些牛奶。"
+    },
+    {
+      "en": "sink",
+      "kk": "sɪŋk",
+      "zh": "水槽",
+      "emoji": "🚰",
+      "type": "word",
+      "ex": "The sink is full of dishes.",
+      "exZh": "水槽裡堆滿了碗盤。"
+    },
+    {
+      "en": "faucet",
+      "kk": "ˋfɔsɪt",
+      "zh": "水龍頭",
+      "emoji": "🚿",
+      "type": "word",
+      "ex": "Turn off the faucet, please.",
+      "exZh": "請把水龍頭關上。"
+    },
+    {
+      "en": "counter",
+      "kk": "ˋkaʊntɚ",
+      "zh": "流理台",
+      "emoji": "🔲",
+      "type": "word",
+      "ex": "She put the vegetables on the counter.",
+      "exZh": "她把蔬菜放在流理台上。"
+    },
+    {
+      "en": "cupboard",
+      "kk": "ˋkʌbɚd",
+      "zh": "碗櫃",
+      "emoji": "🗄️",
+      "type": "word",
+      "ex": "The plates are in the cupboard.",
+      "exZh": "盤子在碗櫃裡。"
+    },
+    {
+      "en": "drawer",
+      "kk": "drɔr",
+      "zh": "抽屜",
+      "emoji": "🗃️",
+      "type": "word",
+      "ex": "The forks are in the top drawer.",
+      "exZh": "叉子在最上面的抽屜。"
+    },
+    {
+      "en": "pot",
+      "kk": "pɑt",
+      "zh": "鍋子",
+      "emoji": "🍲",
+      "type": "word",
+      "ex": "Put the pasta in the big pot.",
+      "exZh": "把義大利麵放進大鍋裡。"
+    },
+    {
+      "en": "pan",
+      "kk": "pæn",
+      "zh": "平底鍋",
+      "emoji": "🍳",
+      "type": "word",
+      "ex": "Heat some oil in the pan.",
+      "exZh": "在平底鍋裡加熱一些油。"
+    },
+    {
+      "en": "kettle",
+      "kk": "ˋkɛtl",
+      "zh": "水壺",
+      "emoji": "🫖",
+      "type": "word",
+      "ex": "The kettle is boiling.",
+      "exZh": "水壺裡的水燒開了。"
+    },
+    {
+      "en": "knife",
+      "kk": "naɪf",
+      "zh": "刀子",
+      "emoji": "🔪",
+      "type": "word",
+      "ex": "Be careful with the sharp knife.",
+      "exZh": "使用鋒利的刀子要小心。"
+    },
+    {
+      "en": "fork",
+      "kk": "fɔrk",
+      "zh": "叉子",
+      "emoji": "🍴",
+      "type": "word",
+      "ex": "I need a fork for my salad.",
+      "exZh": "我的沙拉需要一支叉子。"
+    },
+    {
+      "en": "spoon",
+      "kk": "spun",
+      "zh": "湯匙",
+      "emoji": "🥄",
+      "type": "word",
+      "ex": "Stir the soup with a spoon.",
+      "exZh": "用湯匙攪拌湯。"
+    },
+    {
+      "en": "chopsticks",
+      "kk": "ˋtʃɑpˏstɪks",
+      "zh": "筷子",
+      "emoji": "🥢",
+      "type": "word",
+      "ex": "Can you use chopsticks?",
+      "exZh": "你會用筷子嗎？"
+    },
+    {
+      "en": "plate",
+      "kk": "plet",
+      "zh": "盤子",
+      "emoji": "🍽️",
+      "type": "word",
+      "ex": "He put two eggs on the plate.",
+      "exZh": "他在盤子上放了兩顆蛋。"
+    },
+    {
+      "en": "bowl",
+      "kk": "bol",
+      "zh": "碗",
+      "emoji": "🥣",
+      "type": "word",
+      "ex": "I would like a bowl of rice.",
+      "exZh": "我想要一碗飯。"
+    },
+    {
+      "en": "cup",
+      "kk": "kʌp",
+      "zh": "杯子",
+      "emoji": "🥤",
+      "type": "word",
+      "ex": "She poured tea into the cup.",
+      "exZh": "她把茶倒進杯子裡。"
+    },
+    {
+      "en": "mug",
+      "kk": "mʌg",
+      "zh": "馬克杯",
+      "emoji": "☕",
+      "type": "word",
+      "ex": "This is my favorite mug.",
+      "exZh": "這是我最愛的馬克杯。"
+    },
+    {
+      "en": "spatula",
+      "kk": "ˋspætʃʊlə",
+      "zh": "鍋鏟",
+      "emoji": "🥄",
+      "type": "word",
+      "ex": "Use a spatula to flip the pancake.",
+      "exZh": "用鍋鏟把鬆餅翻面。"
+    },
+    {
+      "en": "ladle",
+      "kk": "ˋledl",
+      "zh": "湯勺",
+      "emoji": "🥄",
+      "type": "word",
+      "ex": "Dad served the soup with a ladle.",
+      "exZh": "爸爸用湯勺盛湯。"
+    },
+    {
+      "en": "cutting board",
+      "kk": "ˋkʌtɪŋ ˏbɔrd",
+      "zh": "砧板",
+      "emoji": "🪵",
+      "type": "word",
+      "ex": "Chop the onion on the cutting board.",
+      "exZh": "在砧板上切洋蔥。"
+    },
+    {
+      "en": "apron",
+      "kk": "ˋeprən",
+      "zh": "圍裙",
+      "emoji": "👨‍🍳",
+      "type": "word",
+      "ex": "Mom put on her apron.",
+      "exZh": "媽媽穿上了圍裙。"
+    },
+    {
+      "en": "lid",
+      "kk": "lɪd",
+      "zh": "鍋蓋；蓋子",
+      "emoji": "🥘",
+      "type": "word",
+      "ex": "Put the lid on the pot.",
+      "exZh": "把鍋蓋蓋上。"
+    },
+    {
+      "en": "tray",
+      "kk": "tre",
+      "zh": "托盤",
+      "emoji": "🛒",
+      "type": "word",
+      "ex": "She carried the cups on a tray.",
+      "exZh": "她用托盤端著杯子。"
+    },
+    {
+      "en": "jar",
+      "kk": "dʒɑr",
+      "zh": "玻璃罐",
+      "emoji": "🫙",
+      "type": "word",
+      "ex": "The jar is full of cookies.",
+      "exZh": "罐子裡裝滿了餅乾。"
+    },
+    {
+      "en": "peeler",
+      "kk": "ˋpilɚ",
+      "zh": "削皮器",
+      "emoji": "🥕",
+      "type": "word",
+      "ex": "Use a peeler to remove the skin.",
+      "exZh": "用削皮器把皮去掉。"
+    },
+    {
+      "en": "grater",
+      "kk": "ˋgretɚ",
+      "zh": "刨絲器",
+      "emoji": "🧀",
+      "type": "word",
+      "ex": "I used a grater for the cheese.",
+      "exZh": "我用刨絲器刨起司。"
+    },
+    {
+      "en": "whisk",
+      "kk": "hwɪsk",
+      "zh": "打蛋器",
+      "emoji": "🥚",
+      "type": "word",
+      "ex": "Use a whisk to beat the eggs.",
+      "exZh": "用打蛋器打蛋。"
+    },
+    {
+      "en": "set the table",
+      "kk": "",
+      "zh": "擺餐具；布置餐桌",
+      "emoji": "🍽️",
+      "type": "phrase",
+      "ex": "Can you set the table for dinner?",
+      "exZh": "你可以幫忙擺好晚餐的餐具嗎？"
+    },
+    {
+      "en": "boil water",
+      "kk": "",
+      "zh": "燒開水",
+      "emoji": "♨️",
+      "type": "phrase",
+      "ex": "First, boil some water.",
+      "exZh": "首先，把水燒開。"
+    },
+    {
+      "en": "fry an egg",
+      "kk": "",
+      "zh": "煎蛋",
+      "emoji": "🍳",
+      "type": "phrase",
+      "ex": "I fry an egg every morning.",
+      "exZh": "我每天早上煎一顆蛋。"
+    },
+    {
+      "en": "chop up",
+      "kk": "",
+      "zh": "切碎",
+      "emoji": "🔪",
+      "type": "phrase",
+      "ex": "Chop up the garlic, please.",
+      "exZh": "請把大蒜切碎。"
+    },
+    {
+      "en": "pour into",
+      "kk": "",
+      "zh": "倒入",
+      "emoji": "🫗",
+      "type": "phrase",
+      "ex": "Pour the milk into the glass.",
+      "exZh": "把牛奶倒進玻璃杯裡。"
+    },
+    {
+      "en": "turn off the stove",
+      "kk": "",
+      "zh": "關掉爐火",
+      "emoji": "🔌",
+      "type": "phrase",
+      "ex": "Remember to turn off the stove.",
+      "exZh": "記得關掉爐火。"
+    },
+    {
+      "en": "cook dinner",
+      "kk": "",
+      "zh": "煮晚餐",
+      "emoji": "👩‍🍳",
+      "type": "phrase",
+      "ex": "Mom is cooking dinner now.",
+      "exZh": "媽媽現在正在煮晚餐。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "What is for dinner tonight?",
+      "zh": "今晚晚餐吃什麼？",
+      "note": "詢問晚餐內容時"
+    },
+    {
+      "en": "Dinner is ready!",
+      "zh": "開飯囉！",
+      "note": "叫大家來吃飯時"
+    },
+    {
+      "en": "Can you help me set the table?",
+      "zh": "你可以幫我擺餐具嗎？",
+      "note": "請人幫忙時"
+    },
+    {
+      "en": "Could you pass me the salt?",
+      "zh": "可以把鹽遞給我嗎？",
+      "note": "在餐桌上請人傳東西時"
+    },
+    {
+      "en": "Be careful. The pot is very hot.",
+      "zh": "小心，鍋子很燙。",
+      "note": "提醒別人安全時"
+    },
+    {
+      "en": "How long should I cook the noodles?",
+      "zh": "麵要煮多久？",
+      "note": "詢問烹調時間時"
+    },
+    {
+      "en": "We are out of eggs.",
+      "zh": "我們的蛋用完了。",
+      "note": "發現食材不夠時"
+    },
+    {
+      "en": "Let me wash these vegetables first.",
+      "zh": "我先來洗這些蔬菜。",
+      "note": "準備做菜時"
+    },
+    {
+      "en": "Is there anything I can do to help?",
+      "zh": "有什麼我可以幫忙的嗎？",
+      "note": "想幫忙做飯時"
+    },
+    {
+      "en": "Please turn down the heat.",
+      "zh": "請把火關小一點。",
+      "note": "火太大時"
+    },
+    {
+      "en": "Something smells good!",
+      "zh": "聞起來好香！",
+      "note": "稱讚料理時"
+    },
+    {
+      "en": "Would you like some more soup?",
+      "zh": "你還想再喝點湯嗎？",
+      "note": "招待客人時"
+    },
+    {
+      "en": "I am full. Thank you for the delicious meal.",
+      "zh": "我吃飽了，謝謝你準備的美味餐點。",
+      "note": "用餐結束時"
+    },
+    {
+      "en": "Please put the milk back in the refrigerator.",
+      "zh": "請把牛奶放回冰箱。",
+      "note": "提醒家人時"
+    }
+  ],
+  "dialogues": [
+    {
+      "title": "一起做晚餐",
+      "lines": [
+        {
+          "who": "A",
+          "en": "What are you cooking?",
+          "zh": "你在煮什麼？"
+        },
+        {
+          "who": "B",
+          "en": "I am making fried rice. Can you chop the onion?",
+          "zh": "我在做炒飯。你可以切洋蔥嗎？"
+        },
+        {
+          "who": "A",
+          "en": "Sure. Where is the cutting board?",
+          "zh": "好啊。砧板在哪裡？"
+        },
+        {
+          "who": "B",
+          "en": "It is in the cupboard under the sink.",
+          "zh": "在水槽下面的櫃子裡。"
+        },
+        {
+          "who": "A",
+          "en": "Got it. Is the pan hot yet?",
+          "zh": "拿到了。鍋子熱了嗎？"
+        }
+      ]
+    },
+    {
+      "title": "開飯前",
+      "lines": [
+        {
+          "who": "A",
+          "en": "Dinner is almost ready. Please set the table.",
+          "zh": "晚餐快好了，請擺餐具。"
+        },
+        {
+          "who": "B",
+          "en": "Okay. Do we need chopsticks or forks?",
+          "zh": "好。我們要放筷子還是叉子？"
+        },
+        {
+          "who": "A",
+          "en": "Chopsticks, please. And a spoon for the soup.",
+          "zh": "請放筷子，還有喝湯用的湯匙。"
+        },
+        {
+          "who": "B",
+          "en": "Done! It smells so good.",
+          "zh": "好了！聞起來好香。"
+        }
+      ]
+    }
+  ]
+}

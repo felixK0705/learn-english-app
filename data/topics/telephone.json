@@ -1,0 +1,464 @@
+{
+  "id": "telephone",
+  "title": "Phone & Communication",
+  "zh": "電話與通訊",
+  "emoji": "📱",
+  "backdrop": "home",
+  "intro": "學會使用手機、傳訊息與講電話時常用的字和說法。",
+  "words": [
+    {
+      "en": "phone",
+      "kk": "fon",
+      "zh": "電話；手機",
+      "emoji": "📞",
+      "type": "word",
+      "ex": "My phone is on the table.",
+      "exZh": "我的手機在桌上。"
+    },
+    {
+      "en": "smartphone",
+      "kk": "ˋsmɑrtˏfon",
+      "zh": "智慧型手機",
+      "emoji": "📱",
+      "type": "word",
+      "ex": "She bought a new smartphone.",
+      "exZh": "她買了一支新的智慧型手機。"
+    },
+    {
+      "en": "cell phone",
+      "kk": "",
+      "zh": "行動電話",
+      "emoji": "📲",
+      "type": "word",
+      "ex": "Turn off your cell phone in class.",
+      "exZh": "上課時請關掉手機。"
+    },
+    {
+      "en": "telephone",
+      "kk": "ˋtɛləˏfon",
+      "zh": "電話",
+      "emoji": "☎️",
+      "type": "word",
+      "ex": "The telephone rang twice.",
+      "exZh": "電話響了兩聲。"
+    },
+    {
+      "en": "number",
+      "kk": "ˋnʌmbɚ",
+      "zh": "號碼",
+      "emoji": "🔢",
+      "type": "word",
+      "ex": "What is your phone number?",
+      "exZh": "你的電話號碼是多少？"
+    },
+    {
+      "en": "app",
+      "kk": "æp",
+      "zh": "應用程式",
+      "emoji": "🧩",
+      "type": "word",
+      "ex": "I use an app to learn English.",
+      "exZh": "我用應用程式學英文。"
+    },
+    {
+      "en": "screen",
+      "kk": "skrin",
+      "zh": "螢幕",
+      "emoji": "🖥️",
+      "type": "word",
+      "ex": "The screen is cracked.",
+      "exZh": "螢幕裂了。"
+    },
+    {
+      "en": "battery",
+      "kk": "ˋbætərɪ",
+      "zh": "電池",
+      "emoji": "🔋",
+      "type": "word",
+      "ex": "My battery is almost dead.",
+      "exZh": "我的電池快沒電了。"
+    },
+    {
+      "en": "charger",
+      "kk": "ˋtʃɑrdʒɚ",
+      "zh": "充電器",
+      "emoji": "🔌",
+      "type": "word",
+      "ex": "Do you have a phone charger?",
+      "exZh": "你有手機充電器嗎？"
+    },
+    {
+      "en": "signal",
+      "kk": "ˋsɪɡnl̩",
+      "zh": "訊號",
+      "emoji": "📶",
+      "type": "word",
+      "ex": "I have no signal here.",
+      "exZh": "我這裡沒有訊號。"
+    },
+    {
+      "en": "message",
+      "kk": "ˋmɛsɪdʒ",
+      "zh": "訊息；留言",
+      "emoji": "💬",
+      "type": "word",
+      "ex": "I got a message from Amy.",
+      "exZh": "我收到艾咪傳來的訊息。"
+    },
+    {
+      "en": "text",
+      "kk": "tɛkst",
+      "zh": "簡訊；傳簡訊",
+      "emoji": "✉️",
+      "type": "word",
+      "ex": "I will text you later.",
+      "exZh": "我晚點傳簡訊給你。"
+    },
+    {
+      "en": "emoji",
+      "kk": "ɪˋmodʒɪ",
+      "zh": "表情符號",
+      "emoji": "😀",
+      "type": "word",
+      "ex": "She sent me a smiling emoji.",
+      "exZh": "她傳給我一個微笑的表情符號。"
+    },
+    {
+      "en": "photo message",
+      "kk": "",
+      "zh": "照片訊息",
+      "emoji": "🖼️",
+      "type": "word",
+      "ex": "He sent a photo message.",
+      "exZh": "他傳了一則照片訊息。"
+    },
+    {
+      "en": "video call",
+      "kk": "",
+      "zh": "視訊通話",
+      "emoji": "🎥",
+      "type": "word",
+      "ex": "We had a video call last night.",
+      "exZh": "我們昨晚視訊通話。"
+    },
+    {
+      "en": "contact",
+      "kk": "ˋkɑntækt",
+      "zh": "聯絡人；聯絡",
+      "emoji": "👤",
+      "type": "word",
+      "ex": "Add her to your contacts.",
+      "exZh": "把她加到你的聯絡人。"
+    },
+    {
+      "en": "voice mail",
+      "kk": "",
+      "zh": "語音信箱",
+      "emoji": "📼",
+      "type": "word",
+      "ex": "Leave a voice mail, please.",
+      "exZh": "請留下語音留言。"
+    },
+    {
+      "en": "earphones",
+      "kk": "ˋɪrˏfonz",
+      "zh": "耳機",
+      "emoji": "🎧",
+      "type": "word",
+      "ex": "I listen to music with earphones.",
+      "exZh": "我用耳機聽音樂。"
+    },
+    {
+      "en": "password",
+      "kk": "ˋpæsˏwɝd",
+      "zh": "密碼",
+      "emoji": "🔐",
+      "type": "word",
+      "ex": "Do not tell anyone your password.",
+      "exZh": "不要告訴任何人你的密碼。"
+    },
+    {
+      "en": "Wi-Fi",
+      "kk": "ˋwaɪˏfaɪ",
+      "zh": "無線網路",
+      "emoji": "🛜",
+      "type": "word",
+      "ex": "Is there free Wi-Fi here?",
+      "exZh": "這裡有免費無線網路嗎？"
+    },
+    {
+      "en": "internet",
+      "kk": "ˋɪntɚˏnɛt",
+      "zh": "網際網路",
+      "emoji": "🌐",
+      "type": "word",
+      "ex": "The internet is slow today.",
+      "exZh": "今天網路很慢。"
+    },
+    {
+      "en": "online",
+      "kk": "ˋɑnˏlaɪn",
+      "zh": "線上的；上線",
+      "emoji": "💻",
+      "type": "word",
+      "ex": "We chat online every night.",
+      "exZh": "我們每晚在線上聊天。"
+    },
+    {
+      "en": "download",
+      "kk": "ˋdaunˏlod",
+      "zh": "下載",
+      "emoji": "⬇️",
+      "type": "word",
+      "ex": "Please download this app.",
+      "exZh": "請下載這個應用程式。"
+    },
+    {
+      "en": "call",
+      "kk": "kɔl",
+      "zh": "打電話",
+      "emoji": "🤙",
+      "type": "word",
+      "ex": "I will call you tonight.",
+      "exZh": "我今晚會打電話給你。"
+    },
+    {
+      "en": "ring",
+      "kk": "rɪŋ",
+      "zh": "響；鈴聲",
+      "emoji": "🔔",
+      "type": "word",
+      "ex": "Your phone is ringing.",
+      "exZh": "你的手機在響。"
+    },
+    {
+      "en": "hang up",
+      "kk": "",
+      "zh": "掛斷電話",
+      "emoji": "📵",
+      "type": "phrase",
+      "ex": "Do not hang up yet.",
+      "exZh": "先不要掛電話。"
+    },
+    {
+      "en": "pick up",
+      "kk": "",
+      "zh": "接起（電話）",
+      "emoji": "🤳",
+      "type": "phrase",
+      "ex": "Please pick up the phone.",
+      "exZh": "請接電話。"
+    },
+    {
+      "en": "call back",
+      "kk": "",
+      "zh": "回電",
+      "emoji": "↩️",
+      "type": "phrase",
+      "ex": "I will call you back soon.",
+      "exZh": "我很快會回電給你。"
+    },
+    {
+      "en": "hold on",
+      "kk": "",
+      "zh": "請稍等",
+      "emoji": "✋",
+      "type": "phrase",
+      "ex": "Hold on a second, please.",
+      "exZh": "請稍等一下。"
+    },
+    {
+      "en": "leave a message",
+      "kk": "",
+      "zh": "留言",
+      "emoji": "📝",
+      "type": "phrase",
+      "ex": "Can I leave a message for him?",
+      "exZh": "我可以幫他留言嗎？"
+    },
+    {
+      "en": "turn off",
+      "kk": "",
+      "zh": "關閉",
+      "emoji": "📴",
+      "type": "phrase",
+      "ex": "Turn off your phone in the theater.",
+      "exZh": "在戲院請把手機關掉。"
+    },
+    {
+      "en": "charge up",
+      "kk": "",
+      "zh": "充電",
+      "emoji": "⚡",
+      "type": "phrase",
+      "ex": "I need to charge up my phone.",
+      "exZh": "我需要幫手機充電。"
+    },
+    {
+      "en": "send a text",
+      "kk": "",
+      "zh": "傳簡訊",
+      "emoji": "📤",
+      "type": "phrase",
+      "ex": "I will send a text to Mom.",
+      "exZh": "我要傳簡訊給媽媽。"
+    },
+    {
+      "en": "get through",
+      "kk": "",
+      "zh": "接通",
+      "emoji": "🔗",
+      "type": "phrase",
+      "ex": "I cannot get through to him.",
+      "exZh": "我打不通他的電話。"
+    },
+    {
+      "en": "wrong number",
+      "kk": "",
+      "zh": "打錯電話",
+      "emoji": "🙅",
+      "type": "phrase",
+      "ex": "Sorry, I have the wrong number.",
+      "exZh": "抱歉，我打錯電話了。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Hello, this is Tom speaking.",
+      "zh": "喂，我是湯姆。",
+      "note": "接電話並報上名字時"
+    },
+    {
+      "en": "May I speak to Amy, please?",
+      "zh": "請問艾咪在嗎？",
+      "note": "打電話找人時"
+    },
+    {
+      "en": "Who is calling, please?",
+      "zh": "請問是哪一位？",
+      "note": "詢問來電者時"
+    },
+    {
+      "en": "Hold on a moment, please.",
+      "zh": "請稍等一下。",
+      "note": "請對方等候時"
+    },
+    {
+      "en": "She is not here right now.",
+      "zh": "她現在不在。",
+      "note": "說明對方不在時"
+    },
+    {
+      "en": "Can I take a message?",
+      "zh": "需要我幫你留言嗎？",
+      "note": "幫忙轉達訊息時"
+    },
+    {
+      "en": "Please tell her to call me back.",
+      "zh": "請告訴她回電給我。",
+      "note": "請對方回電時"
+    },
+    {
+      "en": "I think you have the wrong number.",
+      "zh": "我想你打錯電話了。",
+      "note": "對方打錯電話時"
+    },
+    {
+      "en": "I am sorry, I cannot hear you well.",
+      "zh": "抱歉，我聽不太清楚。",
+      "note": "訊號不好時"
+    },
+    {
+      "en": "Could you speak more slowly?",
+      "zh": "可以請你說慢一點嗎？",
+      "note": "聽不懂或聽不清楚時"
+    },
+    {
+      "en": "I will text you the address.",
+      "zh": "我會把地址傳給你。",
+      "note": "答應傳訊息時"
+    },
+    {
+      "en": "What is your phone number?",
+      "zh": "你的電話號碼是多少？",
+      "note": "詢問聯絡方式時"
+    },
+    {
+      "en": "My battery is dead. Do you have a charger?",
+      "zh": "我的手機沒電了，你有充電器嗎？",
+      "note": "請求借充電器時"
+    },
+    {
+      "en": "Let us have a video call tonight.",
+      "zh": "我們今晚來視訊吧。",
+      "note": "約時間視訊時"
+    },
+    {
+      "en": "I have to go now. Talk to you later.",
+      "zh": "我得走了，晚點再聊。",
+      "note": "結束通話時"
+    }
+  ],
+  "dialogues": [
+    {
+      "title": "打電話找朋友",
+      "lines": [
+        {
+          "who": "A",
+          "en": "Hello?",
+          "zh": "喂？"
+        },
+        {
+          "who": "B",
+          "en": "Hello, may I speak to Amy, please?",
+          "zh": "喂，請問艾咪在嗎？"
+        },
+        {
+          "who": "A",
+          "en": "Speaking. Is that you, Tom?",
+          "zh": "我就是。是湯姆嗎？"
+        },
+        {
+          "who": "B",
+          "en": "Yes. Are you free tomorrow afternoon?",
+          "zh": "是的。你明天下午有空嗎？"
+        },
+        {
+          "who": "A",
+          "en": "Yes. Let me text you the details.",
+          "zh": "有，我再把細節傳給你。"
+        }
+      ]
+    },
+    {
+      "title": "手機沒電",
+      "lines": [
+        {
+          "who": "A",
+          "en": "My phone is dead. Do you have a charger?",
+          "zh": "我的手機沒電了，你有充電器嗎？"
+        },
+        {
+          "who": "B",
+          "en": "Yes, here you are.",
+          "zh": "有，給你。"
+        },
+        {
+          "who": "A",
+          "en": "Thanks. I need to call my mom.",
+          "zh": "謝謝，我得打電話給我媽。"
+        },
+        {
+          "who": "B",
+          "en": "Use my phone if you want.",
+          "zh": "你要的話可以用我的手機。"
+        },
+        {
+          "who": "A",
+          "en": "No, thanks. I can charge it for a minute.",
+          "zh": "不用，謝謝，我充一下電就好。"
+        }
+      ]
+    }
+  ]
+}

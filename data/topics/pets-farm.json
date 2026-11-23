@@ -1,0 +1,477 @@
+{
+  "id": "pets-farm",
+  "title": "Pets and Farm",
+  "zh": "寵物與農場",
+  "emoji": "🐶",
+  "backdrop": "farm",
+  "intro": "認識常見的寵物與農場動物，學會說照顧牠們的日常用語。",
+  "words": [
+    {
+      "en": "dog",
+      "kk": "dɔg",
+      "zh": "狗",
+      "emoji": "🐶",
+      "type": "word",
+      "ex": "My dog loves to play fetch.",
+      "exZh": "我的狗喜歡玩撿球。"
+    },
+    {
+      "en": "puppy",
+      "kk": "ˋpʌpɪ",
+      "zh": "小狗",
+      "emoji": "🐕",
+      "type": "word",
+      "ex": "The puppy is chewing my shoe.",
+      "exZh": "小狗正在咬我的鞋子。"
+    },
+    {
+      "en": "cat",
+      "kk": "kæt",
+      "zh": "貓",
+      "emoji": "🐱",
+      "type": "word",
+      "ex": "The cat is sleeping on the sofa.",
+      "exZh": "貓咪正在沙發上睡覺。"
+    },
+    {
+      "en": "kitten",
+      "kk": "ˋkɪtn̩",
+      "zh": "小貓",
+      "emoji": "🐈",
+      "type": "word",
+      "ex": "The kitten is playing with a ball.",
+      "exZh": "小貓正在玩球。"
+    },
+    {
+      "en": "rabbit",
+      "kk": "ˋræbɪt",
+      "zh": "兔子",
+      "emoji": "🐰",
+      "type": "word",
+      "ex": "The rabbit likes carrots.",
+      "exZh": "兔子喜歡吃紅蘿蔔。"
+    },
+    {
+      "en": "hamster",
+      "kk": "ˋhæmstɚ",
+      "zh": "倉鼠",
+      "emoji": "🐹",
+      "type": "word",
+      "ex": "My hamster runs on its wheel at night.",
+      "exZh": "我的倉鼠晚上會在跑輪上跑步。"
+    },
+    {
+      "en": "goldfish",
+      "kk": "ˋgoldˏfɪʃ",
+      "zh": "金魚",
+      "emoji": "🐟",
+      "type": "word",
+      "ex": "We have two goldfish in a bowl.",
+      "exZh": "我們有兩隻金魚養在魚缸裡。"
+    },
+    {
+      "en": "guinea pig",
+      "kk": "ˋgɪnɪ ˏpɪg",
+      "zh": "天竺鼠",
+      "emoji": "🐹",
+      "type": "word",
+      "ex": "The guinea pig eats fresh grass.",
+      "exZh": "天竺鼠吃新鮮的草。"
+    },
+    {
+      "en": "leash",
+      "kk": "liʃ",
+      "zh": "狗繩；牽繩",
+      "emoji": "🦮",
+      "type": "word",
+      "ex": "Please keep your dog on a leash.",
+      "exZh": "請用牽繩拴好你的狗。"
+    },
+    {
+      "en": "collar",
+      "kk": "ˋkɑlɚ",
+      "zh": "項圈",
+      "emoji": "📿",
+      "type": "word",
+      "ex": "The dog has a red collar.",
+      "exZh": "那隻狗戴著紅色項圈。"
+    },
+    {
+      "en": "bone",
+      "kk": "bon",
+      "zh": "骨頭",
+      "emoji": "🦴",
+      "type": "word",
+      "ex": "The dog buried a bone in the yard.",
+      "exZh": "狗把一根骨頭埋在院子裡。"
+    },
+    {
+      "en": "barn",
+      "kk": "bɑrn",
+      "zh": "穀倉；畜舍",
+      "emoji": "🏚️",
+      "type": "word",
+      "ex": "The cows sleep in the barn.",
+      "exZh": "牛在畜舍裡睡覺。"
+    },
+    {
+      "en": "farmer",
+      "kk": "ˋfɑrmɚ",
+      "zh": "農夫",
+      "emoji": "👨‍🌾",
+      "type": "word",
+      "ex": "The farmer gets up at five.",
+      "exZh": "農夫五點起床。"
+    },
+    {
+      "en": "tractor",
+      "kk": "ˋtræktɚ",
+      "zh": "曳引機",
+      "emoji": "🚜",
+      "type": "word",
+      "ex": "The tractor is driving through the field.",
+      "exZh": "曳引機正開過田野。"
+    },
+    {
+      "en": "cow",
+      "kk": "kaʊ",
+      "zh": "乳牛",
+      "emoji": "🐄",
+      "type": "word",
+      "ex": "The cow gives us fresh milk.",
+      "exZh": "乳牛給我們新鮮的牛奶。"
+    },
+    {
+      "en": "pig",
+      "kk": "pɪg",
+      "zh": "豬",
+      "emoji": "🐖",
+      "type": "word",
+      "ex": "The pig is rolling in the mud.",
+      "exZh": "豬正在泥巴裡打滾。"
+    },
+    {
+      "en": "sheep",
+      "kk": "ʃip",
+      "zh": "綿羊",
+      "emoji": "🐑",
+      "type": "word",
+      "ex": "The sheep have thick wool.",
+      "exZh": "綿羊有厚厚的羊毛。"
+    },
+    {
+      "en": "goat",
+      "kk": "got",
+      "zh": "山羊",
+      "emoji": "🐐",
+      "type": "word",
+      "ex": "The goat climbed on the rock.",
+      "exZh": "山羊爬上了岩石。"
+    },
+    {
+      "en": "horse",
+      "kk": "hɔrs",
+      "zh": "馬",
+      "emoji": "🐴",
+      "type": "word",
+      "ex": "She learned to ride a horse.",
+      "exZh": "她學會了騎馬。"
+    },
+    {
+      "en": "donkey",
+      "kk": "ˋdɑŋkɪ",
+      "zh": "驢子",
+      "emoji": "🫏",
+      "type": "word",
+      "ex": "The donkey carries the heavy bags.",
+      "exZh": "驢子馱著沉重的袋子。"
+    },
+    {
+      "en": "chicken",
+      "kk": "ˋtʃɪkɪn",
+      "zh": "雞",
+      "emoji": "🐔",
+      "type": "word",
+      "ex": "The chicken lays eggs every day.",
+      "exZh": "這隻雞每天下蛋。"
+    },
+    {
+      "en": "rooster",
+      "kk": "ˋrustɚ",
+      "zh": "公雞",
+      "emoji": "🐓",
+      "type": "word",
+      "ex": "The rooster crows at sunrise.",
+      "exZh": "公雞在日出時啼叫。"
+    },
+    {
+      "en": "duck",
+      "kk": "dʌk",
+      "zh": "鴨子",
+      "emoji": "🦆",
+      "type": "word",
+      "ex": "The duck swims in the pond.",
+      "exZh": "鴨子在池塘裡游泳。"
+    },
+    {
+      "en": "goose",
+      "kk": "gus",
+      "zh": "鵝",
+      "emoji": "🪿",
+      "type": "word",
+      "ex": "The goose chased the little boy.",
+      "exZh": "那隻鵝追著小男孩跑。"
+    },
+    {
+      "en": "turkey",
+      "kk": "ˋtɝkɪ",
+      "zh": "火雞",
+      "emoji": "🦃",
+      "type": "word",
+      "ex": "We saw a turkey on the farm.",
+      "exZh": "我們在農場看到一隻火雞。"
+    },
+    {
+      "en": "egg",
+      "kk": "ɛg",
+      "zh": "蛋",
+      "emoji": "🥚",
+      "type": "word",
+      "ex": "I eat an egg for breakfast.",
+      "exZh": "我早餐吃一顆蛋。"
+    },
+    {
+      "en": "milk",
+      "kk": "mɪlk",
+      "zh": "牛奶",
+      "emoji": "🥛",
+      "type": "word",
+      "ex": "Cows give us milk.",
+      "exZh": "牛給我們牛奶。"
+    },
+    {
+      "en": "hay",
+      "kk": "he",
+      "zh": "乾草",
+      "emoji": "🌾",
+      "type": "word",
+      "ex": "The horse is eating hay.",
+      "exZh": "馬正在吃乾草。"
+    },
+    {
+      "en": "fence",
+      "kk": "fɛns",
+      "zh": "柵欄",
+      "emoji": "🚧",
+      "type": "word",
+      "ex": "The sheep are behind the fence.",
+      "exZh": "羊群在柵欄後面。"
+    },
+    {
+      "en": "scarecrow",
+      "kk": "ˋskɛrˏkro",
+      "zh": "稻草人",
+      "emoji": "🎃",
+      "type": "word",
+      "ex": "The scarecrow stands in the field.",
+      "exZh": "稻草人站在田裡。"
+    },
+    {
+      "en": "walk the dog",
+      "kk": "",
+      "zh": "遛狗",
+      "emoji": "🚶",
+      "type": "phrase",
+      "ex": "I walk the dog every morning.",
+      "exZh": "我每天早上遛狗。"
+    },
+    {
+      "en": "feed the cat",
+      "kk": "",
+      "zh": "餵貓",
+      "emoji": "🍽️",
+      "type": "phrase",
+      "ex": "Please feed the cat before you leave.",
+      "exZh": "出門前請先餵貓。"
+    },
+    {
+      "en": "milk a cow",
+      "kk": "",
+      "zh": "擠牛奶",
+      "emoji": "🥛",
+      "type": "phrase",
+      "ex": "The farmer milks a cow at dawn.",
+      "exZh": "農夫在黎明時擠牛奶。"
+    },
+    {
+      "en": "pet owner",
+      "kk": "",
+      "zh": "寵物飼主",
+      "emoji": "🧑",
+      "type": "phrase",
+      "ex": "Every pet owner must clean up after the pet.",
+      "exZh": "每位寵物飼主都要清理寵物的排泄物。"
+    },
+    {
+      "en": "take care of",
+      "kk": "",
+      "zh": "照顧",
+      "emoji": "🤲",
+      "type": "phrase",
+      "ex": "I take care of my rabbit.",
+      "exZh": "我照顧我的兔子。"
+    },
+    {
+      "en": "house-trained",
+      "kk": "",
+      "zh": "受過如廁訓練的",
+      "emoji": "🏠",
+      "type": "phrase",
+      "ex": "Our puppy is not house-trained yet.",
+      "exZh": "我們的小狗還沒學會如廁訓練。"
+    },
+    {
+      "en": "pick up eggs",
+      "kk": "",
+      "zh": "撿雞蛋",
+      "emoji": "🧺",
+      "type": "phrase",
+      "ex": "Kids can pick up eggs at the farm.",
+      "exZh": "小朋友可以在農場撿雞蛋。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Do you have any pets?",
+      "zh": "你有養寵物嗎？",
+      "note": "聊天問對方是否養寵物"
+    },
+    {
+      "en": "I have a dog named Lucky.",
+      "zh": "我有一隻叫 Lucky 的狗。",
+      "note": "介紹自己的寵物"
+    },
+    {
+      "en": "What's your cat's name?",
+      "zh": "你的貓叫什麼名字？",
+      "note": "詢問寵物名字"
+    },
+    {
+      "en": "Can I pet your dog?",
+      "zh": "我可以摸你的狗嗎？",
+      "note": "摸別人的狗之前先詢問"
+    },
+    {
+      "en": "Does he bite?",
+      "zh": "牠會咬人嗎？",
+      "note": "詢問狗是否友善"
+    },
+    {
+      "en": "Don't worry, she is very gentle.",
+      "zh": "別擔心，她很溫馴。",
+      "note": "安撫對方"
+    },
+    {
+      "en": "I need to take my dog to the vet.",
+      "zh": "我得帶狗去看獸醫。",
+      "note": "說明帶寵物看病"
+    },
+    {
+      "en": "It's time to feed the chickens.",
+      "zh": "該餵雞了。",
+      "note": "農場日常工作"
+    },
+    {
+      "en": "How often do you walk your dog?",
+      "zh": "你多久遛一次狗？",
+      "note": "聊照顧寵物的習慣"
+    },
+    {
+      "en": "My cat is afraid of loud noises.",
+      "zh": "我的貓怕大聲響。",
+      "note": "描述寵物個性"
+    },
+    {
+      "en": "Please keep your dog on a leash.",
+      "zh": "請把你的狗牽好。",
+      "note": "公園提醒飼主"
+    },
+    {
+      "en": "Cows give us milk.",
+      "zh": "乳牛提供我們牛奶。",
+      "note": "說明農場動物的用途"
+    },
+    {
+      "en": "The farm is full of animals.",
+      "zh": "這座農場裡有好多動物。",
+      "note": "描述農場"
+    },
+    {
+      "en": "I want to adopt a puppy.",
+      "zh": "我想領養一隻小狗。",
+      "note": "表達想養寵物"
+    },
+    {
+      "en": "Who is going to clean the cage?",
+      "zh": "誰要來清理籠子？",
+      "note": "分配家裡照顧寵物的工作"
+    }
+  ],
+  "dialogues": [
+    {
+      "title": "聊寵物",
+      "lines": [
+        {
+          "who": "A",
+          "en": "Do you have any pets?",
+          "zh": "你有養寵物嗎？"
+        },
+        {
+          "who": "B",
+          "en": "Yes, I have a cat and a hamster.",
+          "zh": "有，我有一隻貓和一隻倉鼠。"
+        },
+        {
+          "who": "A",
+          "en": "What are their names?",
+          "zh": "牠們叫什麼名字？"
+        },
+        {
+          "who": "B",
+          "en": "The cat is Mimi and the hamster is Nuts.",
+          "zh": "貓叫 Mimi，倉鼠叫 Nuts。"
+        },
+        {
+          "who": "A",
+          "en": "They sound adorable!",
+          "zh": "聽起來好可愛！"
+        }
+      ]
+    },
+    {
+      "title": "參觀農場",
+      "lines": [
+        {
+          "who": "A",
+          "en": "Look at all the animals on this farm!",
+          "zh": "看看這座農場有這麼多動物！"
+        },
+        {
+          "who": "B",
+          "en": "Can we feed the goats?",
+          "zh": "我們可以餵山羊嗎？"
+        },
+        {
+          "who": "A",
+          "en": "Yes, but be gentle with them.",
+          "zh": "可以，但要對牠們溫柔一點。"
+        },
+        {
+          "who": "B",
+          "en": "Oh, this one is eating my sleeve!",
+          "zh": "噢，這隻在啃我的袖子！"
+        }
+      ]
+    }
+  ]
+}

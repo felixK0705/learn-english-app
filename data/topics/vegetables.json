@@ -1,0 +1,440 @@
+{
+  "id": "vegetables",
+  "title": "Vegetables",
+  "zh": "蔬菜",
+  "emoji": "🥦",
+  "backdrop": "farm",
+  "intro": "認識常見的蔬菜，學會在菜市場與廚房裡談論它們。",
+  "words": [
+    {
+      "en": "carrot",
+      "kk": "ˋkærət",
+      "zh": "紅蘿蔔",
+      "emoji": "🥕",
+      "type": "word",
+      "ex": "Rabbits like to eat carrots.",
+      "exZh": "兔子喜歡吃紅蘿蔔。"
+    },
+    {
+      "en": "potato",
+      "kk": "pəˋteto",
+      "zh": "馬鈴薯",
+      "emoji": "🥔",
+      "type": "word",
+      "ex": "I want mashed potatoes for dinner.",
+      "exZh": "我晚餐想吃馬鈴薯泥。"
+    },
+    {
+      "en": "tomato",
+      "kk": "təˋmeto",
+      "zh": "番茄",
+      "emoji": "🍅",
+      "type": "word",
+      "ex": "Add a tomato to the salad.",
+      "exZh": "在沙拉裡加一顆番茄。"
+    },
+    {
+      "en": "onion",
+      "kk": "ˋʌnjən",
+      "zh": "洋蔥",
+      "emoji": "🧅",
+      "type": "word",
+      "ex": "Onions make me cry.",
+      "exZh": "洋蔥會讓我流眼淚。"
+    },
+    {
+      "en": "garlic",
+      "kk": "ˋgɑrlɪk",
+      "zh": "大蒜",
+      "emoji": "🧄",
+      "type": "word",
+      "ex": "Garlic gives the soup a strong flavor.",
+      "exZh": "大蒜讓湯有濃濃的香味。"
+    },
+    {
+      "en": "corn",
+      "kk": "kɔrn",
+      "zh": "玉米",
+      "emoji": "🌽",
+      "type": "word",
+      "ex": "Grilled corn smells great.",
+      "exZh": "烤玉米聞起來好香。"
+    },
+    {
+      "en": "cabbage",
+      "kk": "ˋkæbɪdʒ",
+      "zh": "高麗菜",
+      "emoji": "🥬",
+      "type": "word",
+      "ex": "Cabbage is cheap in winter.",
+      "exZh": "高麗菜在冬天很便宜。"
+    },
+    {
+      "en": "lettuce",
+      "kk": "ˋlɛtɪs",
+      "zh": "萵苣；生菜",
+      "emoji": "🥬",
+      "type": "word",
+      "ex": "Put some lettuce in the sandwich.",
+      "exZh": "在三明治裡放一些生菜。"
+    },
+    {
+      "en": "spinach",
+      "kk": "ˋspɪnɪtʃ",
+      "zh": "菠菜",
+      "emoji": "🌿",
+      "type": "word",
+      "ex": "Popeye eats spinach to get strong.",
+      "exZh": "大力水手吃菠菜變強壯。"
+    },
+    {
+      "en": "broccoli",
+      "kk": "ˋbrɑkəlɪ",
+      "zh": "花椰菜；青花菜",
+      "emoji": "🥦",
+      "type": "word",
+      "ex": "My son does not like broccoli.",
+      "exZh": "我兒子不喜歡青花菜。"
+    },
+    {
+      "en": "cucumber",
+      "kk": "ˋkjuˏkʌmbɚ",
+      "zh": "小黃瓜",
+      "emoji": "🥒",
+      "type": "word",
+      "ex": "Cucumber is crunchy and cool.",
+      "exZh": "小黃瓜又脆又清涼。"
+    },
+    {
+      "en": "eggplant",
+      "kk": "ˋɛgˏplænt",
+      "zh": "茄子",
+      "emoji": "🍆",
+      "type": "word",
+      "ex": "She cooked eggplant with basil.",
+      "exZh": "她用九層塔煮茄子。"
+    },
+    {
+      "en": "pepper",
+      "kk": "ˋpɛpɚ",
+      "zh": "甜椒；胡椒",
+      "emoji": "🫑",
+      "type": "word",
+      "ex": "I like red and yellow peppers.",
+      "exZh": "我喜歡紅色和黃色的甜椒。"
+    },
+    {
+      "en": "chili",
+      "kk": "ˋtʃɪlɪ",
+      "zh": "辣椒",
+      "emoji": "🌶️",
+      "type": "word",
+      "ex": "Be careful. This chili is hot.",
+      "exZh": "小心，這個辣椒很辣。"
+    },
+    {
+      "en": "mushroom",
+      "kk": "ˋmʌʃrum",
+      "zh": "香菇；蘑菇",
+      "emoji": "🍄",
+      "type": "word",
+      "ex": "We added mushrooms to the soup.",
+      "exZh": "我們在湯裡加了香菇。"
+    },
+    {
+      "en": "pumpkin",
+      "kk": "ˋpʌmpkɪn",
+      "zh": "南瓜",
+      "emoji": "🎃",
+      "type": "word",
+      "ex": "Pumpkin soup is warm and sweet.",
+      "exZh": "南瓜湯溫暖又香甜。"
+    },
+    {
+      "en": "sweet potato",
+      "kk": "swit pəˋteto",
+      "zh": "地瓜",
+      "emoji": "🍠",
+      "type": "word",
+      "ex": "Roasted sweet potatoes are popular in winter.",
+      "exZh": "烤地瓜在冬天很受歡迎。"
+    },
+    {
+      "en": "radish",
+      "kk": "ˋrædɪʃ",
+      "zh": "蘿蔔",
+      "emoji": "🌱",
+      "type": "word",
+      "ex": "Radish soup is good for the cold weather.",
+      "exZh": "蘿蔔湯很適合冷天喝。"
+    },
+    {
+      "en": "ginger",
+      "kk": "ˋdʒɪndʒɚ",
+      "zh": "薑",
+      "emoji": "🌿",
+      "type": "word",
+      "ex": "Add some ginger to the fish.",
+      "exZh": "在魚裡加一點薑。"
+    },
+    {
+      "en": "bean sprouts",
+      "kk": "bin sprauts",
+      "zh": "豆芽菜",
+      "emoji": "🌱",
+      "type": "word",
+      "ex": "Bean sprouts are good in fried noodles.",
+      "exZh": "豆芽菜放在炒麵裡很好吃。"
+    },
+    {
+      "en": "bamboo shoot",
+      "kk": "bæmˋbu ʃut",
+      "zh": "竹筍",
+      "emoji": "🎋",
+      "type": "word",
+      "ex": "Bamboo shoots are fresh in spring.",
+      "exZh": "竹筍在春天最新鮮。"
+    },
+    {
+      "en": "celery",
+      "kk": "ˋsɛlərɪ",
+      "zh": "芹菜",
+      "emoji": "🥬",
+      "type": "word",
+      "ex": "Celery has a special smell.",
+      "exZh": "芹菜有特殊的味道。"
+    },
+    {
+      "en": "seaweed",
+      "kk": "ˋsiˏwid",
+      "zh": "海帶；海苔",
+      "emoji": "🌿",
+      "type": "word",
+      "ex": "Rice balls are wrapped in seaweed.",
+      "exZh": "飯糰是用海苔包起來的。"
+    },
+    {
+      "en": "bean",
+      "kk": "bin",
+      "zh": "豆子",
+      "emoji": "🫘",
+      "type": "word",
+      "ex": "Green beans are my favorite side dish.",
+      "exZh": "四季豆是我最愛的配菜。"
+    },
+    {
+      "en": "leaf",
+      "kk": "lif",
+      "zh": "葉子",
+      "emoji": "🍃",
+      "type": "word",
+      "ex": "Wash each leaf carefully.",
+      "exZh": "要仔細清洗每一片葉子。"
+    },
+    {
+      "en": "vegetable",
+      "kk": "ˋvɛdʒtəbḷ",
+      "zh": "蔬菜",
+      "emoji": "🥗",
+      "type": "word",
+      "ex": "Eat more vegetables every day.",
+      "exZh": "每天多吃蔬菜。"
+    },
+    {
+      "en": "green onion",
+      "kk": "grin ˋʌnjən",
+      "zh": "青蔥",
+      "emoji": "🌿",
+      "type": "word",
+      "ex": "Sprinkle green onion on the noodles.",
+      "exZh": "在麵上撒一些蔥花。"
+    },
+    {
+      "en": "peas",
+      "kk": "piz",
+      "zh": "豌豆",
+      "emoji": "🌱",
+      "type": "word",
+      "ex": "The baby loves mashed peas.",
+      "exZh": "寶寶愛吃豌豆泥。"
+    },
+    {
+      "en": "wash the vegetables",
+      "kk": "",
+      "zh": "洗菜",
+      "emoji": "🚰",
+      "type": "phrase",
+      "ex": "Please wash the vegetables first.",
+      "exZh": "請先把菜洗乾淨。"
+    },
+    {
+      "en": "eat your greens",
+      "kk": "",
+      "zh": "多吃青菜",
+      "emoji": "🥬",
+      "type": "phrase",
+      "ex": "Eat your greens if you want to grow tall.",
+      "exZh": "想長高就要多吃青菜。"
+    },
+    {
+      "en": "a head of cabbage",
+      "kk": "",
+      "zh": "一顆高麗菜",
+      "emoji": "🥬",
+      "type": "phrase",
+      "ex": "Mom bought a head of cabbage.",
+      "exZh": "媽媽買了一顆高麗菜。"
+    },
+    {
+      "en": "a clove of garlic",
+      "kk": "",
+      "zh": "一瓣蒜頭",
+      "emoji": "🧄",
+      "type": "phrase",
+      "ex": "Add a clove of garlic to the pan.",
+      "exZh": "在鍋裡加一瓣蒜頭。"
+    },
+    {
+      "en": "pick out",
+      "kk": "",
+      "zh": "挑出；挑掉",
+      "emoji": "🤏",
+      "type": "phrase",
+      "ex": "He picks out the peppers from his food.",
+      "exZh": "他把食物裡的甜椒挑出來。"
+    },
+    {
+      "en": "grow vegetables",
+      "kk": "",
+      "zh": "種菜",
+      "emoji": "🧑‍🌾",
+      "type": "phrase",
+      "ex": "My grandpa grows vegetables in his yard.",
+      "exZh": "我爺爺在院子裡種菜。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Are these vegetables organic?",
+      "zh": "這些蔬菜是有機的嗎？",
+      "note": "在市場詢問時"
+    },
+    {
+      "en": "Could I have half a cabbage?",
+      "zh": "我可以買半顆高麗菜嗎？",
+      "note": "只想買一半時"
+    },
+    {
+      "en": "How much is a bag of spinach?",
+      "zh": "一袋菠菜多少錢？",
+      "note": "詢問價格時"
+    },
+    {
+      "en": "These tomatoes look so fresh.",
+      "zh": "這些番茄看起來好新鮮。",
+      "note": "稱讚食材時"
+    },
+    {
+      "en": "I do not like carrots.",
+      "zh": "我不喜歡紅蘿蔔。",
+      "note": "表達不愛吃時"
+    },
+    {
+      "en": "Please wash the lettuce well.",
+      "zh": "請把生菜洗乾淨。",
+      "note": "在廚房幫忙時"
+    },
+    {
+      "en": "Could you cut the onion for me?",
+      "zh": "你可以幫我切洋蔥嗎？",
+      "note": "請人幫忙備料時"
+    },
+    {
+      "en": "I am a vegetarian.",
+      "zh": "我吃素。",
+      "note": "說明飲食習慣時"
+    },
+    {
+      "en": "Please do not put any ginger in it.",
+      "zh": "請不要放薑。",
+      "note": "點餐不要某種配料時"
+    },
+    {
+      "en": "What vegetables are in this soup?",
+      "zh": "這道湯裡有什麼蔬菜？",
+      "note": "詢問料理內容時"
+    },
+    {
+      "en": "You should eat more vegetables.",
+      "zh": "你應該多吃蔬菜。",
+      "note": "建議別人時"
+    },
+    {
+      "en": "Let us make a vegetable stir-fry.",
+      "zh": "我們來做一道炒青菜吧。",
+      "note": "決定煮什麼時"
+    },
+    {
+      "en": "Can I get some green onions for free?",
+      "zh": "可以送我一些蔥嗎？",
+      "note": "在菜市場討贈品時"
+    }
+  ],
+  "dialogues": [
+    {
+      "title": "在菜市場",
+      "lines": [
+        {
+          "who": "A",
+          "en": "Good morning! How much is the broccoli?",
+          "zh": "早安！青花菜怎麼賣？"
+        },
+        {
+          "who": "B",
+          "en": "Two for fifty dollars.",
+          "zh": "兩顆五十元。"
+        },
+        {
+          "who": "A",
+          "en": "Are they fresh?",
+          "zh": "它們新鮮嗎？"
+        },
+        {
+          "who": "B",
+          "en": "Yes, they came in this morning.",
+          "zh": "是的，今天早上才進貨。"
+        },
+        {
+          "who": "A",
+          "en": "Great. I will take four.",
+          "zh": "太好了，我要四顆。"
+        }
+      ]
+    },
+    {
+      "title": "幫忙準備晚餐",
+      "lines": [
+        {
+          "who": "A",
+          "en": "What are we having for dinner?",
+          "zh": "我們晚餐吃什麼？"
+        },
+        {
+          "who": "B",
+          "en": "Vegetable soup. Can you wash the carrots?",
+          "zh": "蔬菜湯。你可以洗紅蘿蔔嗎？"
+        },
+        {
+          "who": "A",
+          "en": "Sure. Should I peel them too?",
+          "zh": "好啊。要削皮嗎？"
+        },
+        {
+          "who": "B",
+          "en": "Yes, and cut them into small pieces.",
+          "zh": "要，還要切成小塊。"
+        }
+      ]
+    }
+  ]
+}

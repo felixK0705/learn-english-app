@@ -1,0 +1,459 @@
+{
+  "id": "living-room",
+  "title": "Living Room",
+  "zh": "客廳與家具",
+  "emoji": "🛋️",
+  "backdrop": "home",
+  "intro": "認識客廳裡的家具與擺設，學會招呼客人和放鬆聊天。",
+  "words": [
+    {
+      "en": "sofa",
+      "kk": "ˋsofə",
+      "zh": "沙發",
+      "emoji": "🛋️",
+      "type": "word",
+      "ex": "We sit on the sofa and watch movies.",
+      "exZh": "我們坐在沙發上看電影。"
+    },
+    {
+      "en": "armchair",
+      "kk": "ˋɑrmˏtʃɛr",
+      "zh": "扶手椅",
+      "emoji": "💺",
+      "type": "word",
+      "ex": "Grandpa is reading in his armchair.",
+      "exZh": "爺爺坐在他的扶手椅上看書。"
+    },
+    {
+      "en": "coffee table",
+      "kk": "ˋkɔfɪ ˏtebl",
+      "zh": "茶几",
+      "emoji": "☕",
+      "type": "word",
+      "ex": "Put the snacks on the coffee table.",
+      "exZh": "把點心放在茶几上。"
+    },
+    {
+      "en": "bookshelf",
+      "kk": "ˋbʊkˏʃɛlf",
+      "zh": "書架",
+      "emoji": "📚",
+      "type": "word",
+      "ex": "The bookshelf is full of comic books.",
+      "exZh": "書架上擺滿了漫畫書。"
+    },
+    {
+      "en": "carpet",
+      "kk": "ˋkɑrpɪt",
+      "zh": "地毯",
+      "emoji": "🟥",
+      "type": "word",
+      "ex": "The cat is sleeping on the carpet.",
+      "exZh": "貓咪睡在地毯上。"
+    },
+    {
+      "en": "curtain",
+      "kk": "ˋkɝtn",
+      "zh": "窗簾",
+      "emoji": "🪟",
+      "type": "word",
+      "ex": "Please open the curtains.",
+      "exZh": "請把窗簾拉開。"
+    },
+    {
+      "en": "lamp",
+      "kk": "læmp",
+      "zh": "檯燈；立燈",
+      "emoji": "🪔",
+      "type": "word",
+      "ex": "A lamp stands next to the sofa.",
+      "exZh": "沙發旁邊有一盞立燈。"
+    },
+    {
+      "en": "cushion",
+      "kk": "ˋkʊʃən",
+      "zh": "坐墊；靠墊",
+      "emoji": "🧸",
+      "type": "word",
+      "ex": "This cushion is soft and comfortable.",
+      "exZh": "這個靠墊又軟又舒服。"
+    },
+    {
+      "en": "picture",
+      "kk": "ˋpɪktʃɚ",
+      "zh": "圖畫；照片",
+      "emoji": "🖼️",
+      "type": "word",
+      "ex": "There is a nice picture over the sofa.",
+      "exZh": "沙發上方掛著一幅漂亮的畫。"
+    },
+    {
+      "en": "clock",
+      "kk": "klɑk",
+      "zh": "時鐘",
+      "emoji": "🕰️",
+      "type": "word",
+      "ex": "The clock on the wall is five minutes fast.",
+      "exZh": "牆上的時鐘快了五分鐘。"
+    },
+    {
+      "en": "vase",
+      "kk": "ves",
+      "zh": "花瓶",
+      "emoji": "🏺",
+      "type": "word",
+      "ex": "She put some roses in the vase.",
+      "exZh": "她把幾朵玫瑰插進花瓶。"
+    },
+    {
+      "en": "fireplace",
+      "kk": "ˋfaɪrˏples",
+      "zh": "壁爐",
+      "emoji": "🔥",
+      "type": "word",
+      "ex": "We sat around the fireplace and talked.",
+      "exZh": "我們圍著壁爐聊天。"
+    },
+    {
+      "en": "remote control",
+      "kk": "rɪˋmot kənˋtrol",
+      "zh": "遙控器",
+      "emoji": "🎛️",
+      "type": "word",
+      "ex": "Where is the remote control?",
+      "exZh": "遙控器在哪裡？"
+    },
+    {
+      "en": "cabinet",
+      "kk": "ˋkæbənɪt",
+      "zh": "櫃子",
+      "emoji": "🗄️",
+      "type": "word",
+      "ex": "The glasses are in the cabinet.",
+      "exZh": "玻璃杯放在櫃子裡。"
+    },
+    {
+      "en": "plant",
+      "kk": "plænt",
+      "zh": "植物；盆栽",
+      "emoji": "🪴",
+      "type": "word",
+      "ex": "This plant needs more sunlight.",
+      "exZh": "這盆植物需要更多陽光。"
+    },
+    {
+      "en": "mirror",
+      "kk": "ˋmɪrɚ",
+      "zh": "鏡子",
+      "emoji": "🪞",
+      "type": "word",
+      "ex": "There is a big mirror near the door.",
+      "exZh": "門邊有一面大鏡子。"
+    },
+    {
+      "en": "light switch",
+      "kk": "laɪt swɪtʃ",
+      "zh": "電燈開關",
+      "emoji": "💡",
+      "type": "word",
+      "ex": "The light switch is next to the door.",
+      "exZh": "電燈開關在門旁邊。"
+    },
+    {
+      "en": "outlet",
+      "kk": "ˋaʊtˏlɛt",
+      "zh": "插座",
+      "emoji": "🔌",
+      "type": "word",
+      "ex": "I need an outlet for my laptop.",
+      "exZh": "我的筆電需要一個插座。"
+    },
+    {
+      "en": "magazine",
+      "kk": "ˏmægəˋzin",
+      "zh": "雜誌",
+      "emoji": "📰",
+      "type": "word",
+      "ex": "He is reading a sports magazine.",
+      "exZh": "他在看一本運動雜誌。"
+    },
+    {
+      "en": "newspaper",
+      "kk": "ˋnjuzˏpepɚ",
+      "zh": "報紙",
+      "emoji": "🗞️",
+      "type": "word",
+      "ex": "Dad reads the newspaper every morning.",
+      "exZh": "爸爸每天早上都看報紙。"
+    },
+    {
+      "en": "blanket",
+      "kk": "ˋblæŋkɪt",
+      "zh": "毯子",
+      "emoji": "🧣",
+      "type": "word",
+      "ex": "Cover yourself with a blanket.",
+      "exZh": "用毯子蓋著吧。"
+    },
+    {
+      "en": "piano",
+      "kk": "piˋæno",
+      "zh": "鋼琴",
+      "emoji": "🎹",
+      "type": "word",
+      "ex": "My sister plays the piano very well.",
+      "exZh": "我姊姊鋼琴彈得很好。"
+    },
+    {
+      "en": "stool",
+      "kk": "stul",
+      "zh": "小凳子",
+      "emoji": "🪑",
+      "type": "word",
+      "ex": "Sit on the stool by the piano.",
+      "exZh": "坐在鋼琴旁的小凳子上。"
+    },
+    {
+      "en": "candle",
+      "kk": "ˋkændl",
+      "zh": "蠟燭",
+      "emoji": "🕯️",
+      "type": "word",
+      "ex": "She lit a candle on the table.",
+      "exZh": "她在桌上點了一根蠟燭。"
+    },
+    {
+      "en": "furniture",
+      "kk": "ˋfɝnɪtʃɚ",
+      "zh": "家具",
+      "emoji": "🛋️",
+      "type": "word",
+      "ex": "We need new furniture for the living room.",
+      "exZh": "我們客廳需要新家具。"
+    },
+    {
+      "en": "decoration",
+      "kk": "ˏdɛkəˋreʃən",
+      "zh": "裝飾品",
+      "emoji": "🎀",
+      "type": "word",
+      "ex": "The decorations make the room warm.",
+      "exZh": "這些裝飾品讓房間很溫馨。"
+    },
+    {
+      "en": "rocking chair",
+      "kk": "ˋrɑkɪŋ ˏtʃɛr",
+      "zh": "搖椅",
+      "emoji": "🪑",
+      "type": "word",
+      "ex": "Grandma sits in the rocking chair.",
+      "exZh": "奶奶坐在搖椅上。"
+    },
+    {
+      "en": "bean bag",
+      "kk": "ˋbin ˏbæg",
+      "zh": "懶骨頭",
+      "emoji": "🫘",
+      "type": "word",
+      "ex": "The kids love jumping on the bean bag.",
+      "exZh": "孩子們愛跳到懶骨頭上。"
+    },
+    {
+      "en": "sit down",
+      "kk": "",
+      "zh": "坐下",
+      "emoji": "🧎",
+      "type": "phrase",
+      "ex": "Please sit down and relax.",
+      "exZh": "請坐下來放鬆一下。"
+    },
+    {
+      "en": "have a seat",
+      "kk": "",
+      "zh": "請坐",
+      "emoji": "🪑",
+      "type": "phrase",
+      "ex": "Have a seat. I will bring some tea.",
+      "exZh": "請坐，我去拿茶來。"
+    },
+    {
+      "en": "watch TV",
+      "kk": "",
+      "zh": "看電視",
+      "emoji": "📺",
+      "type": "phrase",
+      "ex": "We watch TV after dinner.",
+      "exZh": "我們晚餐後看電視。"
+    },
+    {
+      "en": "turn on the light",
+      "kk": "",
+      "zh": "開燈",
+      "emoji": "💡",
+      "type": "phrase",
+      "ex": "Can you turn on the light, please?",
+      "exZh": "可以請你開燈嗎？"
+    },
+    {
+      "en": "make yourself at home",
+      "kk": "",
+      "zh": "不要拘束，當自己家",
+      "emoji": "🤗",
+      "type": "phrase",
+      "ex": "Come in and make yourself at home.",
+      "exZh": "進來吧，不要拘束。"
+    },
+    {
+      "en": "take a nap",
+      "kk": "",
+      "zh": "小睡一下",
+      "emoji": "😴",
+      "type": "phrase",
+      "ex": "Grandpa likes to take a nap on the sofa.",
+      "exZh": "爺爺喜歡在沙發上小睡一下。"
+    },
+    {
+      "en": "put your feet up",
+      "kk": "",
+      "zh": "把腳抬高休息",
+      "emoji": "🦶",
+      "type": "phrase",
+      "ex": "After work, I put my feet up.",
+      "exZh": "下班後我把腳抬高休息。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Please have a seat.",
+      "zh": "請坐。",
+      "note": "招待客人時"
+    },
+    {
+      "en": "Would you like something to drink?",
+      "zh": "你想喝點什麼嗎？",
+      "note": "招待客人時"
+    },
+    {
+      "en": "Make yourself at home.",
+      "zh": "請不要客氣，把這裡當自己家。",
+      "note": "讓客人放輕鬆時"
+    },
+    {
+      "en": "Can I turn on the TV?",
+      "zh": "我可以開電視嗎？",
+      "note": "徵求同意時"
+    },
+    {
+      "en": "Pass me the remote control, please.",
+      "zh": "請把遙控器遞給我。",
+      "note": "請別人幫忙時"
+    },
+    {
+      "en": "Could you turn down the volume?",
+      "zh": "可以請你把音量調小嗎？",
+      "note": "覺得太吵時"
+    },
+    {
+      "en": "It is a little dark in here. Let me turn on the light.",
+      "zh": "這裡有點暗，我來開燈。",
+      "note": "房間光線不足時"
+    },
+    {
+      "en": "I love your sofa. It is so comfortable.",
+      "zh": "我好喜歡你的沙發，坐起來好舒服。",
+      "note": "稱讚別人的家時"
+    },
+    {
+      "en": "Where should I put my coat?",
+      "zh": "我的外套要放哪裡？",
+      "note": "到別人家作客時"
+    },
+    {
+      "en": "Is it okay if I open the window?",
+      "zh": "我可以開窗嗎？",
+      "note": "想讓空氣流通時"
+    },
+    {
+      "en": "Let us move the sofa closer to the window.",
+      "zh": "我們把沙發移近窗邊吧。",
+      "note": "討論家具擺放時"
+    },
+    {
+      "en": "The living room looks great!",
+      "zh": "客廳看起來好棒！",
+      "note": "稱讚房間時"
+    },
+    {
+      "en": "Could you move over a little?",
+      "zh": "你可以往旁邊坐過去一點嗎？",
+      "note": "想坐下但位子不夠時"
+    },
+    {
+      "en": "Dinner will be ready in ten minutes.",
+      "zh": "晚餐十分鐘後就好。",
+      "note": "叫大家準備吃飯時"
+    }
+  ],
+  "dialogues": [
+    {
+      "title": "招待朋友",
+      "lines": [
+        {
+          "who": "A",
+          "en": "Come in. Have a seat on the sofa.",
+          "zh": "請進，坐沙發吧。"
+        },
+        {
+          "who": "B",
+          "en": "Thank you. This room is so cozy.",
+          "zh": "謝謝你。這個房間好溫馨。"
+        },
+        {
+          "who": "A",
+          "en": "Would you like some tea?",
+          "zh": "你想喝點茶嗎？"
+        },
+        {
+          "who": "B",
+          "en": "Yes, please. Can I put my bag here?",
+          "zh": "好，麻煩你。我的包包可以放這裡嗎？"
+        },
+        {
+          "who": "A",
+          "en": "Sure. Just make yourself at home.",
+          "zh": "當然，請不要客氣。"
+        }
+      ]
+    },
+    {
+      "title": "搶遙控器",
+      "lines": [
+        {
+          "who": "A",
+          "en": "Where is the remote control?",
+          "zh": "遙控器在哪裡？"
+        },
+        {
+          "who": "B",
+          "en": "I think it is under the cushion.",
+          "zh": "我想它在靠墊下面。"
+        },
+        {
+          "who": "A",
+          "en": "Found it! Can we watch the game?",
+          "zh": "找到了！我們可以看比賽嗎？"
+        },
+        {
+          "who": "B",
+          "en": "Sure. Please turn on the light first.",
+          "zh": "好啊。請先開燈。"
+        },
+        {
+          "who": "A",
+          "en": "Okay. And turn down the volume a little.",
+          "zh": "好的。還有音量調小一點。"
+        }
+      ]
+    }
+  ]
+}

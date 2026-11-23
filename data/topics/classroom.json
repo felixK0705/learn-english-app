@@ -1,0 +1,449 @@
+{
+  "id": "classroom",
+  "title": "Classroom",
+  "zh": "教室與文具",
+  "emoji": "🏫",
+  "backdrop": "classroom",
+  "intro": "認識教室裡的物品與文具，學會上課時常用的說法。",
+  "words": [
+    {
+      "en": "desk",
+      "kk": "ˋdɛsk",
+      "zh": "書桌；課桌",
+      "emoji": "🪑",
+      "type": "word",
+      "ex": "My desk is next to the window.",
+      "exZh": "我的課桌在窗戶旁邊。"
+    },
+    {
+      "en": "chair",
+      "kk": "ˋtʃɛr",
+      "zh": "椅子",
+      "emoji": "💺",
+      "type": "word",
+      "ex": "Please push your chair in.",
+      "exZh": "請把你的椅子推進去。"
+    },
+    {
+      "en": "blackboard",
+      "kk": "ˋblækˏbord",
+      "zh": "黑板",
+      "emoji": "⬛",
+      "type": "word",
+      "ex": "The teacher writes on the blackboard.",
+      "exZh": "老師在黑板上寫字。"
+    },
+    {
+      "en": "chalk",
+      "kk": "ˋtʃɔk",
+      "zh": "粉筆",
+      "emoji": "🖍️",
+      "type": "word",
+      "ex": "I need a piece of chalk.",
+      "exZh": "我需要一支粉筆。"
+    },
+    {
+      "en": "eraser",
+      "kk": "ɪˋresɚ",
+      "zh": "橡皮擦；板擦",
+      "emoji": "🧽",
+      "type": "word",
+      "ex": "Can I borrow your eraser?",
+      "exZh": "我可以借你的橡皮擦嗎？"
+    },
+    {
+      "en": "pencil",
+      "kk": "ˋpɛnsl̩",
+      "zh": "鉛筆",
+      "emoji": "✏️",
+      "type": "word",
+      "ex": "I write with a sharp pencil.",
+      "exZh": "我用削尖的鉛筆寫字。"
+    },
+    {
+      "en": "pen",
+      "kk": "ˋpɛn",
+      "zh": "原子筆；鋼筆",
+      "emoji": "🖊️",
+      "type": "word",
+      "ex": "Do you have a blue pen?",
+      "exZh": "你有藍色的原子筆嗎？"
+    },
+    {
+      "en": "ruler",
+      "kk": "ˋrulɚ",
+      "zh": "尺",
+      "emoji": "📏",
+      "type": "word",
+      "ex": "Use a ruler to draw a straight line.",
+      "exZh": "用尺來畫一條直線。"
+    },
+    {
+      "en": "notebook",
+      "kk": "ˋnotˏbʊk",
+      "zh": "筆記本",
+      "emoji": "📓",
+      "type": "word",
+      "ex": "I write new words in my notebook.",
+      "exZh": "我把生字寫在筆記本裡。"
+    },
+    {
+      "en": "textbook",
+      "kk": "ˋtɛkstˏbʊk",
+      "zh": "課本",
+      "emoji": "📚",
+      "type": "word",
+      "ex": "Please open your textbook.",
+      "exZh": "請打開你們的課本。"
+    },
+    {
+      "en": "backpack",
+      "kk": "ˋbækˏpæk",
+      "zh": "後背包；書包",
+      "emoji": "🎒",
+      "type": "word",
+      "ex": "My backpack is very heavy today.",
+      "exZh": "我的書包今天好重。"
+    },
+    {
+      "en": "scissors",
+      "kk": "ˋsɪzɚz",
+      "zh": "剪刀",
+      "emoji": "✂️",
+      "type": "word",
+      "ex": "Be careful with the scissors.",
+      "exZh": "使用剪刀要小心。"
+    },
+    {
+      "en": "glue",
+      "kk": "ˋglu",
+      "zh": "膠水",
+      "emoji": "🧴",
+      "type": "word",
+      "ex": "We need glue for this project.",
+      "exZh": "這個作品需要膠水。"
+    },
+    {
+      "en": "tape",
+      "kk": "ˋtep",
+      "zh": "膠帶",
+      "emoji": "🎞️",
+      "type": "word",
+      "ex": "Put some tape on the poster.",
+      "exZh": "在海報上貼一些膠帶。"
+    },
+    {
+      "en": "crayon",
+      "kk": "ˋkreɑn",
+      "zh": "蠟筆",
+      "emoji": "🖍️",
+      "type": "word",
+      "ex": "She drew a sun with a yellow crayon.",
+      "exZh": "她用黃色蠟筆畫了一個太陽。"
+    },
+    {
+      "en": "marker",
+      "kk": "ˋmɑrkɚ",
+      "zh": "麥克筆；白板筆",
+      "emoji": "🖌️",
+      "type": "word",
+      "ex": "The teacher uses a red marker.",
+      "exZh": "老師使用紅色的白板筆。"
+    },
+    {
+      "en": "sharpener",
+      "kk": "ˋʃɑrpṇɚ",
+      "zh": "削鉛筆機",
+      "emoji": "🔪",
+      "type": "word",
+      "ex": "The pencil sharpener is on the shelf.",
+      "exZh": "削鉛筆機在架子上。"
+    },
+    {
+      "en": "calculator",
+      "kk": "ˋkælkjəˏletɚ",
+      "zh": "計算機",
+      "emoji": "🧮",
+      "type": "word",
+      "ex": "You can use a calculator in math class.",
+      "exZh": "數學課可以使用計算機。"
+    },
+    {
+      "en": "clock",
+      "kk": "ˋklɑk",
+      "zh": "時鐘",
+      "emoji": "🕒",
+      "type": "word",
+      "ex": "The clock on the wall is five minutes fast.",
+      "exZh": "牆上的時鐘快了五分鐘。"
+    },
+    {
+      "en": "map",
+      "kk": "ˋmæp",
+      "zh": "地圖",
+      "emoji": "🗺️",
+      "type": "word",
+      "ex": "Find Taiwan on the map.",
+      "exZh": "在地圖上找出台灣。"
+    },
+    {
+      "en": "globe",
+      "kk": "ˋglob",
+      "zh": "地球儀",
+      "emoji": "🌐",
+      "type": "word",
+      "ex": "Spin the globe and point to Japan.",
+      "exZh": "轉動地球儀並指出日本。"
+    },
+    {
+      "en": "projector",
+      "kk": "prəˋdʒɛktɚ",
+      "zh": "投影機",
+      "emoji": "📽️",
+      "type": "word",
+      "ex": "The projector is not working today.",
+      "exZh": "投影機今天壞了。"
+    },
+    {
+      "en": "locker",
+      "kk": "ˋlɑkɚ",
+      "zh": "置物櫃",
+      "emoji": "🗄️",
+      "type": "word",
+      "ex": "I keep my shoes in my locker.",
+      "exZh": "我把鞋子放在置物櫃裡。"
+    },
+    {
+      "en": "teacher",
+      "kk": "ˋtitʃɚ",
+      "zh": "老師",
+      "emoji": "🧑‍🏫",
+      "type": "word",
+      "ex": "Our teacher is kind and funny.",
+      "exZh": "我們的老師親切又幽默。"
+    },
+    {
+      "en": "student",
+      "kk": "ˋstjudn̩t",
+      "zh": "學生",
+      "emoji": "🧑‍🎓",
+      "type": "word",
+      "ex": "Every student has a name tag.",
+      "exZh": "每位學生都有名牌。"
+    },
+    {
+      "en": "classmate",
+      "kk": "ˋklæsˏmet",
+      "zh": "同班同學",
+      "emoji": "🧑‍🤝‍🧑",
+      "type": "word",
+      "ex": "My classmate sits behind me.",
+      "exZh": "我的同學坐在我後面。"
+    },
+    {
+      "en": "stapler",
+      "kk": "ˋstepḷɚ",
+      "zh": "釘書機",
+      "emoji": "📎",
+      "type": "word",
+      "ex": "Can you pass me the stapler?",
+      "exZh": "你可以把釘書機遞給我嗎？"
+    },
+    {
+      "en": "paper",
+      "kk": "ˋpepɚ",
+      "zh": "紙",
+      "emoji": "📄",
+      "type": "word",
+      "ex": "Please take out a sheet of paper.",
+      "exZh": "請拿出一張紙。"
+    },
+    {
+      "en": "raise your hand",
+      "kk": "",
+      "zh": "舉手",
+      "emoji": "🙋",
+      "type": "phrase",
+      "ex": "Raise your hand if you know the answer.",
+      "exZh": "如果你知道答案就請舉手。"
+    },
+    {
+      "en": "pay attention",
+      "kk": "",
+      "zh": "專心；注意",
+      "emoji": "👀",
+      "type": "phrase",
+      "ex": "Please pay attention to the board.",
+      "exZh": "請專心看黑板。"
+    },
+    {
+      "en": "take notes",
+      "kk": "",
+      "zh": "做筆記",
+      "emoji": "📝",
+      "type": "phrase",
+      "ex": "I take notes during every lesson.",
+      "exZh": "我每堂課都做筆記。"
+    },
+    {
+      "en": "hand in",
+      "kk": "",
+      "zh": "繳交",
+      "emoji": "📥",
+      "type": "phrase",
+      "ex": "Please hand in your homework on Friday.",
+      "exZh": "請在週五繳交作業。"
+    },
+    {
+      "en": "look up",
+      "kk": "",
+      "zh": "查閱（字典等）",
+      "emoji": "🔍",
+      "type": "phrase",
+      "ex": "Look up the word in the dictionary.",
+      "exZh": "把這個字在字典裡查一查。"
+    },
+    {
+      "en": "line up",
+      "kk": "",
+      "zh": "排隊",
+      "emoji": "🚶",
+      "type": "phrase",
+      "ex": "Boys and girls, please line up at the door.",
+      "exZh": "同學們，請在門口排隊。"
+    },
+    {
+      "en": "clean up",
+      "kk": "",
+      "zh": "打掃；收拾乾淨",
+      "emoji": "🧹",
+      "type": "phrase",
+      "ex": "Let us clean up the classroom together.",
+      "exZh": "我們一起把教室打掃乾淨吧。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "May I go to the restroom?",
+      "zh": "我可以去上廁所嗎？",
+      "note": "上課中需要離開教室時"
+    },
+    {
+      "en": "Could you say that again, please?",
+      "zh": "可以請你再說一次嗎？",
+      "note": "沒聽清楚老師說的話時"
+    },
+    {
+      "en": "I do not understand this question.",
+      "zh": "我不懂這個問題。",
+      "note": "遇到不會的題目時"
+    },
+    {
+      "en": "Please open your books to page twenty.",
+      "zh": "請把書翻到第二十頁。",
+      "note": "老師指示課本頁數時"
+    },
+    {
+      "en": "Can I borrow your pencil?",
+      "zh": "我可以借你的鉛筆嗎？",
+      "note": "忘記帶文具時"
+    },
+    {
+      "en": "I forgot my homework at home.",
+      "zh": "我把作業忘在家裡了。",
+      "note": "向老師說明沒帶作業時"
+    },
+    {
+      "en": "Who has the red marker?",
+      "zh": "誰有紅色的白板筆？",
+      "note": "找東西時"
+    },
+    {
+      "en": "Please be quiet and listen.",
+      "zh": "請安靜並仔細聽。",
+      "note": "要同學安靜時"
+    },
+    {
+      "en": "What does this word mean?",
+      "zh": "這個字是什麼意思？",
+      "note": "詢問單字意思時"
+    },
+    {
+      "en": "Can you help me with this problem?",
+      "zh": "你可以幫我解這一題嗎？",
+      "note": "向同學求助時"
+    },
+    {
+      "en": "It is time for class.",
+      "zh": "該上課了。",
+      "note": "提醒大家進教室時"
+    },
+    {
+      "en": "Please sit down and take out your notebook.",
+      "zh": "請坐下並拿出筆記本。",
+      "note": "老師開始上課時"
+    },
+    {
+      "en": "Whose backpack is this?",
+      "zh": "這是誰的書包？",
+      "note": "發現遺失物品時"
+    },
+    {
+      "en": "Class is over. See you tomorrow!",
+      "zh": "下課了，明天見！",
+      "note": "一天課程結束時"
+    }
+  ],
+  "dialogues": [
+    {
+      "title": "借東西",
+      "lines": [
+        {
+          "who": "A",
+          "en": "Excuse me, do you have an extra eraser?",
+          "zh": "不好意思，你有多的橡皮擦嗎？"
+        },
+        {
+          "who": "B",
+          "en": "Yes, here you are.",
+          "zh": "有，給你。"
+        },
+        {
+          "who": "A",
+          "en": "Thank you! I will give it back after class.",
+          "zh": "謝謝！下課後我會還你。"
+        },
+        {
+          "who": "B",
+          "en": "No problem. You can keep it.",
+          "zh": "沒關係，你可以留著。"
+        }
+      ]
+    },
+    {
+      "title": "忘記帶作業",
+      "lines": [
+        {
+          "who": "A",
+          "en": "Where is your homework, Tom?",
+          "zh": "你的作業呢，湯姆？"
+        },
+        {
+          "who": "B",
+          "en": "I am sorry. I left it at home.",
+          "zh": "對不起，我把它忘在家裡了。"
+        },
+        {
+          "who": "A",
+          "en": "Please hand it in tomorrow.",
+          "zh": "請明天交。"
+        },
+        {
+          "who": "B",
+          "en": "Yes, I will bring it. Thank you, Ms. Lin.",
+          "zh": "好的，我會帶來。謝謝林老師。"
+        }
+      ]
+    }
+  ]
+}

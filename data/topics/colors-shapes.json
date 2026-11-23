@@ -1,0 +1,467 @@
+{
+  "id": "colors-shapes",
+  "title": "Colors and Shapes",
+  "zh": "顏色與形狀",
+  "emoji": "🌈",
+  "backdrop": "classroom",
+  "intro": "學會顏色和形狀的英文，並能描述東西的樣子。",
+  "words": [
+    {
+      "en": "color",
+      "kk": "ˋkʌlɚ",
+      "zh": "顏色",
+      "emoji": "🎨",
+      "type": "word",
+      "ex": "What color is your bag?",
+      "exZh": "你的書包是什麼顏色？"
+    },
+    {
+      "en": "shape",
+      "kk": "ˋʃep",
+      "zh": "形狀",
+      "emoji": "🔷",
+      "type": "word",
+      "ex": "This shape has three sides.",
+      "exZh": "這個形狀有三個邊。"
+    },
+    {
+      "en": "rainbow",
+      "kk": "ˋrenˏbo",
+      "zh": "彩虹",
+      "emoji": "🌈",
+      "type": "word",
+      "ex": "A rainbow appeared after the rain.",
+      "exZh": "雨後出現了彩虹。"
+    },
+    {
+      "en": "red",
+      "kk": "ˋrɛd",
+      "zh": "紅色",
+      "emoji": "🔴",
+      "type": "word",
+      "ex": "The apple is bright red.",
+      "exZh": "這顆蘋果是鮮紅色的。"
+    },
+    {
+      "en": "orange",
+      "kk": "ˋɔrɪndʒ",
+      "zh": "橘色",
+      "emoji": "🟠",
+      "type": "word",
+      "ex": "She wears an orange scarf.",
+      "exZh": "她戴著橘色圍巾。"
+    },
+    {
+      "en": "yellow",
+      "kk": "ˋjɛlo",
+      "zh": "黃色",
+      "emoji": "🟡",
+      "type": "word",
+      "ex": "Sunflowers are yellow.",
+      "exZh": "向日葵是黃色的。"
+    },
+    {
+      "en": "green",
+      "kk": "ˋgrin",
+      "zh": "綠色",
+      "emoji": "🟢",
+      "type": "word",
+      "ex": "The leaves turn green in spring.",
+      "exZh": "葉子在春天變綠。"
+    },
+    {
+      "en": "blue",
+      "kk": "ˋblu",
+      "zh": "藍色",
+      "emoji": "🔵",
+      "type": "word",
+      "ex": "The sky is blue today.",
+      "exZh": "今天天空是藍色的。"
+    },
+    {
+      "en": "purple",
+      "kk": "ˋpɝpl̩",
+      "zh": "紫色",
+      "emoji": "🟣",
+      "type": "word",
+      "ex": "Grapes can be purple.",
+      "exZh": "葡萄可以是紫色的。"
+    },
+    {
+      "en": "pink",
+      "kk": "ˋpɪŋk",
+      "zh": "粉紅色",
+      "emoji": "🩷",
+      "type": "word",
+      "ex": "She has a pink bicycle.",
+      "exZh": "她有一輛粉紅色的腳踏車。"
+    },
+    {
+      "en": "brown",
+      "kk": "ˋbraʊn",
+      "zh": "咖啡色；棕色",
+      "emoji": "🟤",
+      "type": "word",
+      "ex": "The bear is brown.",
+      "exZh": "這隻熊是棕色的。"
+    },
+    {
+      "en": "black",
+      "kk": "ˋblæk",
+      "zh": "黑色",
+      "emoji": "⚫",
+      "type": "word",
+      "ex": "My cat is black.",
+      "exZh": "我的貓是黑色的。"
+    },
+    {
+      "en": "white",
+      "kk": "ˋhwaɪt",
+      "zh": "白色",
+      "emoji": "⚪",
+      "type": "word",
+      "ex": "Snow is white and cold.",
+      "exZh": "雪是白色又冰冷的。"
+    },
+    {
+      "en": "gray",
+      "kk": "ˋgre",
+      "zh": "灰色",
+      "emoji": "🩶",
+      "type": "word",
+      "ex": "The clouds look gray today.",
+      "exZh": "今天的雲看起來是灰色的。"
+    },
+    {
+      "en": "gold",
+      "kk": "ˋgold",
+      "zh": "金色；黃金",
+      "emoji": "🥇",
+      "type": "word",
+      "ex": "He wears a gold ring.",
+      "exZh": "他戴著一枚金戒指。"
+    },
+    {
+      "en": "silver",
+      "kk": "ˋsɪlvɚ",
+      "zh": "銀色；銀",
+      "emoji": "🥈",
+      "type": "word",
+      "ex": "The spoon is silver.",
+      "exZh": "這支湯匙是銀色的。"
+    },
+    {
+      "en": "circle",
+      "kk": "ˋsɝkl̩",
+      "zh": "圓形",
+      "emoji": "⭕",
+      "type": "word",
+      "ex": "Draw a big circle on the paper.",
+      "exZh": "在紙上畫一個大圓。"
+    },
+    {
+      "en": "square",
+      "kk": "ˋskwɛr",
+      "zh": "正方形",
+      "emoji": "🔲",
+      "type": "word",
+      "ex": "A square has four equal sides.",
+      "exZh": "正方形有四個等長的邊。"
+    },
+    {
+      "en": "triangle",
+      "kk": "ˋtraɪˏæŋgl̩",
+      "zh": "三角形",
+      "emoji": "📐",
+      "type": "word",
+      "ex": "A triangle has three corners.",
+      "exZh": "三角形有三個角。"
+    },
+    {
+      "en": "rectangle",
+      "kk": "ˋrɛkˏtæŋgl̩",
+      "zh": "長方形",
+      "emoji": "🚪",
+      "type": "word",
+      "ex": "The door is a rectangle.",
+      "exZh": "門是長方形的。"
+    },
+    {
+      "en": "oval",
+      "kk": "ˋovl̩",
+      "zh": "橢圓形",
+      "emoji": "🥚",
+      "type": "word",
+      "ex": "An egg is oval.",
+      "exZh": "蛋是橢圓形的。"
+    },
+    {
+      "en": "diamond",
+      "kk": "ˋdaɪmənd",
+      "zh": "菱形；鑽石",
+      "emoji": "♦️",
+      "type": "word",
+      "ex": "The kite looks like a diamond.",
+      "exZh": "這個風箏看起來像菱形。"
+    },
+    {
+      "en": "star",
+      "kk": "ˋstɑr",
+      "zh": "星星；星形",
+      "emoji": "⭐",
+      "type": "word",
+      "ex": "Draw a star on the card.",
+      "exZh": "在卡片上畫一顆星星。"
+    },
+    {
+      "en": "heart",
+      "kk": "ˋhɑrt",
+      "zh": "愛心；心形",
+      "emoji": "❤️",
+      "type": "word",
+      "ex": "She drew a heart on the letter.",
+      "exZh": "她在信上畫了一顆愛心。"
+    },
+    {
+      "en": "crescent",
+      "kk": "ˋkrɛsnt",
+      "zh": "新月形",
+      "emoji": "🌙",
+      "type": "word",
+      "ex": "The moon looks like a crescent tonight.",
+      "exZh": "今晚的月亮像一彎新月。"
+    },
+    {
+      "en": "cube",
+      "kk": "ˋkjub",
+      "zh": "立方體",
+      "emoji": "🧊",
+      "type": "word",
+      "ex": "An ice cube is a small cube.",
+      "exZh": "冰塊是一個小小的立方體。"
+    },
+    {
+      "en": "sphere",
+      "kk": "ˋsfɪr",
+      "zh": "球體",
+      "emoji": "🔮",
+      "type": "word",
+      "ex": "The globe is a sphere.",
+      "exZh": "地球儀是一個球體。"
+    },
+    {
+      "en": "cone",
+      "kk": "ˋkon",
+      "zh": "圓錐體",
+      "emoji": "🍦",
+      "type": "word",
+      "ex": "The ice cream cone is shaped like a cone.",
+      "exZh": "冰淇淋甜筒的形狀像圓錐體。"
+    },
+    {
+      "en": "cylinder",
+      "kk": "ˋsɪləndɚ",
+      "zh": "圓柱體",
+      "emoji": "🥫",
+      "type": "word",
+      "ex": "A can is a cylinder.",
+      "exZh": "罐頭是圓柱體。"
+    },
+    {
+      "en": "pyramid",
+      "kk": "ˋpɪrəmɪd",
+      "zh": "金字塔；角錐",
+      "emoji": "🔺",
+      "type": "word",
+      "ex": "The pyramid has a square base.",
+      "exZh": "這座金字塔的底部是正方形。"
+    },
+    {
+      "en": "stripe",
+      "kk": "ˋstraɪp",
+      "zh": "條紋",
+      "emoji": "🦓",
+      "type": "word",
+      "ex": "The zebra has black and white stripes.",
+      "exZh": "斑馬有黑白相間的條紋。"
+    },
+    {
+      "en": "light blue",
+      "kk": "",
+      "zh": "淺藍色",
+      "emoji": "🩵",
+      "type": "phrase",
+      "ex": "She painted the wall light blue.",
+      "exZh": "她把牆壁漆成淺藍色。"
+    },
+    {
+      "en": "dark green",
+      "kk": "",
+      "zh": "深綠色",
+      "emoji": "🌲",
+      "type": "phrase",
+      "ex": "The pine tree is dark green.",
+      "exZh": "松樹是深綠色的。"
+    },
+    {
+      "en": "mix colors",
+      "kk": "",
+      "zh": "混色",
+      "emoji": "🧪",
+      "type": "phrase",
+      "ex": "If you mix red and yellow, you get orange.",
+      "exZh": "把紅色和黃色混在一起就會變成橘色。"
+    },
+    {
+      "en": "color in",
+      "kk": "",
+      "zh": "著色；塗色",
+      "emoji": "🖍️",
+      "type": "phrase",
+      "ex": "Please color in the star with yellow.",
+      "exZh": "請把星星塗成黃色。"
+    },
+    {
+      "en": "in the shape of",
+      "kk": "",
+      "zh": "形狀像……",
+      "emoji": "🧩",
+      "type": "phrase",
+      "ex": "The cake is in the shape of a heart.",
+      "exZh": "這個蛋糕做成愛心的形狀。"
+    },
+    {
+      "en": "straight line",
+      "kk": "",
+      "zh": "直線",
+      "emoji": "📏",
+      "type": "phrase",
+      "ex": "Draw a straight line with a ruler.",
+      "exZh": "用尺畫一條直線。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "What color is it?",
+      "zh": "它是什麼顏色？",
+      "note": "詢問顏色"
+    },
+    {
+      "en": "What is your favorite color?",
+      "zh": "你最喜歡什麼顏色？",
+      "note": "聊喜好時"
+    },
+    {
+      "en": "It is bright red.",
+      "zh": "它是鮮紅色的。",
+      "note": "描述顏色"
+    },
+    {
+      "en": "What shape is this?",
+      "zh": "這是什麼形狀？",
+      "note": "詢問形狀"
+    },
+    {
+      "en": "It looks like a circle.",
+      "zh": "它看起來像個圓形。",
+      "note": "描述形狀"
+    },
+    {
+      "en": "Can you pass me the blue crayon?",
+      "zh": "你可以把藍色蠟筆遞給我嗎？",
+      "note": "美勞課借東西"
+    },
+    {
+      "en": "Let us mix yellow and blue.",
+      "zh": "我們把黃色和藍色混在一起吧。",
+      "note": "做顏料實驗"
+    },
+    {
+      "en": "Color the star yellow.",
+      "zh": "把星星塗成黃色。",
+      "note": "老師指示作業時"
+    },
+    {
+      "en": "Draw a big triangle in the middle.",
+      "zh": "在中間畫一個大三角形。",
+      "note": "美術指令"
+    },
+    {
+      "en": "How many sides does a square have?",
+      "zh": "正方形有幾個邊？",
+      "note": "數學課提問"
+    },
+    {
+      "en": "The sun is round and bright.",
+      "zh": "太陽又圓又亮。",
+      "note": "描述事物"
+    },
+    {
+      "en": "I like your pink shirt.",
+      "zh": "我喜歡你的粉紅色襯衫。",
+      "note": "稱讚穿著"
+    },
+    {
+      "en": "Which one is bigger, the circle or the square?",
+      "zh": "圓形和正方形哪個比較大？",
+      "note": "比較大小"
+    },
+    {
+      "en": "Look! There is a rainbow in the sky!",
+      "zh": "看！天空有一道彩虹！",
+      "note": "見到彩虹時"
+    }
+  ],
+  "dialogues": [
+    {
+      "title": "在美勞課",
+      "lines": [
+        {
+          "who": "A",
+          "en": "What color do you want to use?",
+          "zh": "你想用什麼顏色？"
+        },
+        {
+          "who": "B",
+          "en": "I want to use green and yellow.",
+          "zh": "我想用綠色和黃色。"
+        },
+        {
+          "who": "A",
+          "en": "What are you drawing?",
+          "zh": "你在畫什麼？"
+        },
+        {
+          "who": "B",
+          "en": "A big star over the blue house.",
+          "zh": "藍色房子上方的一顆大星星。"
+        }
+      ]
+    },
+    {
+      "title": "找形狀",
+      "lines": [
+        {
+          "who": "A",
+          "en": "Look at this box. What shape is it?",
+          "zh": "看這個盒子，它是什麼形狀？"
+        },
+        {
+          "who": "B",
+          "en": "It is a cube.",
+          "zh": "它是立方體。"
+        },
+        {
+          "who": "A",
+          "en": "And what about the clock?",
+          "zh": "那時鐘呢？"
+        },
+        {
+          "who": "B",
+          "en": "The clock is a circle.",
+          "zh": "時鐘是圓形。"
+        }
+      ]
+    }
+  ]
+}

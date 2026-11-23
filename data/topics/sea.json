@@ -1,0 +1,468 @@
+{
+  "id": "sea",
+  "title": "Sea Life and Beach",
+  "zh": "海洋生物與海邊",
+  "emoji": "🐬",
+  "backdrop": "sea",
+  "intro": "認識海裡的生物與沙灘上的東西，學會說去海邊玩的句子。",
+  "words": [
+    {
+      "en": "fish",
+      "kk": "fɪʃ",
+      "zh": "魚",
+      "emoji": "🐟",
+      "type": "word",
+      "ex": "We saw many colorful fish.",
+      "exZh": "我們看到很多彩色的魚。"
+    },
+    {
+      "en": "dolphin",
+      "kk": "ˋdɑlfɪn",
+      "zh": "海豚",
+      "emoji": "🐬",
+      "type": "word",
+      "ex": "The dolphin jumped out of the water.",
+      "exZh": "海豚跳出水面。"
+    },
+    {
+      "en": "whale",
+      "kk": "hwel",
+      "zh": "鯨魚",
+      "emoji": "🐋",
+      "type": "word",
+      "ex": "A whale is the biggest animal in the sea.",
+      "exZh": "鯨魚是海裡最大的動物。"
+    },
+    {
+      "en": "shark",
+      "kk": "ʃɑrk",
+      "zh": "鯊魚",
+      "emoji": "🦈",
+      "type": "word",
+      "ex": "The shark swam past the divers.",
+      "exZh": "鯊魚從潛水員身邊游過。"
+    },
+    {
+      "en": "octopus",
+      "kk": "ˋɑktəpəs",
+      "zh": "章魚",
+      "emoji": "🐙",
+      "type": "word",
+      "ex": "An octopus has eight arms.",
+      "exZh": "章魚有八隻觸手。"
+    },
+    {
+      "en": "squid",
+      "kk": "skwɪd",
+      "zh": "烏賊；魷魚",
+      "emoji": "🦑",
+      "type": "word",
+      "ex": "We had fried squid for dinner.",
+      "exZh": "我們晚餐吃炸花枝。"
+    },
+    {
+      "en": "jellyfish",
+      "kk": "ˋdʒɛlɪˏfɪʃ",
+      "zh": "水母",
+      "emoji": "🪼",
+      "type": "word",
+      "ex": "The jellyfish floated in the water.",
+      "exZh": "水母漂浮在水中。"
+    },
+    {
+      "en": "starfish",
+      "kk": "ˋstɑrˏfɪʃ",
+      "zh": "海星",
+      "emoji": "⭐",
+      "type": "word",
+      "ex": "I found a starfish on the rocks.",
+      "exZh": "我在岩石上發現一隻海星。"
+    },
+    {
+      "en": "crab",
+      "kk": "kræb",
+      "zh": "螃蟹",
+      "emoji": "🦀",
+      "type": "word",
+      "ex": "The crab walks sideways.",
+      "exZh": "螃蟹橫著走。"
+    },
+    {
+      "en": "lobster",
+      "kk": "ˋlɑbstɚ",
+      "zh": "龍蝦",
+      "emoji": "🦞",
+      "type": "word",
+      "ex": "The lobster is bright red.",
+      "exZh": "龍蝦是鮮紅色的。"
+    },
+    {
+      "en": "shrimp",
+      "kk": "ʃrɪmp",
+      "zh": "蝦子",
+      "emoji": "🦐",
+      "type": "word",
+      "ex": "She ordered shrimp and rice.",
+      "exZh": "她點了蝦子和飯。"
+    },
+    {
+      "en": "seal",
+      "kk": "sil",
+      "zh": "海豹",
+      "emoji": "🦭",
+      "type": "word",
+      "ex": "The seal clapped its flippers.",
+      "exZh": "海豹拍動牠的鰭肢。"
+    },
+    {
+      "en": "turtle",
+      "kk": "ˋtɝtl̩",
+      "zh": "海龜",
+      "emoji": "🐢",
+      "type": "word",
+      "ex": "A sea turtle came onto the beach.",
+      "exZh": "一隻海龜爬上了沙灘。"
+    },
+    {
+      "en": "seahorse",
+      "kk": "ˋsiˏhɔrs",
+      "zh": "海馬",
+      "emoji": "🐴",
+      "type": "word",
+      "ex": "The seahorse is very small.",
+      "exZh": "海馬非常小。"
+    },
+    {
+      "en": "coral",
+      "kk": "ˋkɔrəl",
+      "zh": "珊瑚",
+      "emoji": "🪸",
+      "type": "word",
+      "ex": "Colorful coral grows on the reef.",
+      "exZh": "彩色的珊瑚生長在礁石上。"
+    },
+    {
+      "en": "seaweed",
+      "kk": "ˋsiˏwid",
+      "zh": "海藻",
+      "emoji": "🌿",
+      "type": "word",
+      "ex": "Seaweed washed up on the beach.",
+      "exZh": "海藻被沖上了沙灘。"
+    },
+    {
+      "en": "ocean",
+      "kk": "ˋoʃən",
+      "zh": "海洋",
+      "emoji": "🌊",
+      "type": "word",
+      "ex": "The ocean is deep and blue.",
+      "exZh": "海洋又深又藍。"
+    },
+    {
+      "en": "wave",
+      "kk": "wev",
+      "zh": "波浪",
+      "emoji": "🌊",
+      "type": "word",
+      "ex": "A big wave hit the rocks.",
+      "exZh": "一個大浪拍上了岩石。"
+    },
+    {
+      "en": "beach",
+      "kk": "bitʃ",
+      "zh": "海灘",
+      "emoji": "🏖️",
+      "type": "word",
+      "ex": "We played on the beach all day.",
+      "exZh": "我們整天在海灘上玩。"
+    },
+    {
+      "en": "sand",
+      "kk": "sænd",
+      "zh": "沙子",
+      "emoji": "⏳",
+      "type": "word",
+      "ex": "The sand is hot under my feet.",
+      "exZh": "沙子踩起來腳底好燙。"
+    },
+    {
+      "en": "shell",
+      "kk": "ʃɛl",
+      "zh": "貝殼",
+      "emoji": "🐚",
+      "type": "word",
+      "ex": "I picked up a pretty shell.",
+      "exZh": "我撿到一個漂亮的貝殼。"
+    },
+    {
+      "en": "sandcastle",
+      "kk": "ˋsændˏkæsl̩",
+      "zh": "沙堡",
+      "emoji": "🏰",
+      "type": "word",
+      "ex": "The kids built a huge sandcastle.",
+      "exZh": "孩子們堆了一座大沙堡。"
+    },
+    {
+      "en": "swimsuit",
+      "kk": "ˋswɪmˏsut",
+      "zh": "泳衣",
+      "emoji": "🩱",
+      "type": "word",
+      "ex": "Don't forget your swimsuit.",
+      "exZh": "別忘了帶你的泳衣。"
+    },
+    {
+      "en": "sunscreen",
+      "kk": "ˋsʌnˏskrin",
+      "zh": "防曬乳",
+      "emoji": "🧴",
+      "type": "word",
+      "ex": "Put on some sunscreen first.",
+      "exZh": "先擦一點防曬乳。"
+    },
+    {
+      "en": "surfboard",
+      "kk": "ˋsɝfˏbɔrd",
+      "zh": "衝浪板",
+      "emoji": "🏄",
+      "type": "word",
+      "ex": "He carried his surfboard to the water.",
+      "exZh": "他扛著衝浪板走向海邊。"
+    },
+    {
+      "en": "lifeguard",
+      "kk": "ˋlaɪfˏgɑrd",
+      "zh": "救生員",
+      "emoji": "🛟",
+      "type": "word",
+      "ex": "The lifeguard watched the swimmers.",
+      "exZh": "救生員看著游泳的人。"
+    },
+    {
+      "en": "boat",
+      "kk": "bot",
+      "zh": "小船",
+      "emoji": "⛵",
+      "type": "word",
+      "ex": "We took a boat to the island.",
+      "exZh": "我們搭船去小島。"
+    },
+    {
+      "en": "anchor",
+      "kk": "ˋæŋkɚ",
+      "zh": "錨",
+      "emoji": "⚓",
+      "type": "word",
+      "ex": "The sailor dropped the anchor.",
+      "exZh": "水手放下了錨。"
+    },
+    {
+      "en": "lighthouse",
+      "kk": "ˋlaɪtˏhaʊs",
+      "zh": "燈塔",
+      "emoji": "🗼",
+      "type": "word",
+      "ex": "The lighthouse guides the ships.",
+      "exZh": "燈塔為船隻指引方向。"
+    },
+    {
+      "en": "go swimming",
+      "kk": "",
+      "zh": "去游泳",
+      "emoji": "🏊",
+      "type": "phrase",
+      "ex": "Let's go swimming this afternoon.",
+      "exZh": "我們今天下午去游泳吧。"
+    },
+    {
+      "en": "go snorkeling",
+      "kk": "",
+      "zh": "去浮潛",
+      "emoji": "🤿",
+      "type": "phrase",
+      "ex": "We went snorkeling and saw coral.",
+      "exZh": "我們去浮潛，看到了珊瑚。"
+    },
+    {
+      "en": "collect shells",
+      "kk": "",
+      "zh": "撿貝殼",
+      "emoji": "🐚",
+      "type": "phrase",
+      "ex": "The children collect shells by the shore.",
+      "exZh": "孩子們在岸邊撿貝殼。"
+    },
+    {
+      "en": "build a sandcastle",
+      "kk": "",
+      "zh": "堆沙堡",
+      "emoji": "🏰",
+      "type": "phrase",
+      "ex": "Let's build a sandcastle together.",
+      "exZh": "我們一起來堆沙堡吧。"
+    },
+    {
+      "en": "catch a wave",
+      "kk": "",
+      "zh": "衝浪（趁浪而起）",
+      "emoji": "🏄",
+      "type": "phrase",
+      "ex": "He tried to catch a wave.",
+      "exZh": "他試著乘上一道浪。"
+    },
+    {
+      "en": "high tide",
+      "kk": "",
+      "zh": "漲潮",
+      "emoji": "🌊",
+      "type": "phrase",
+      "ex": "The beach is smaller at high tide.",
+      "exZh": "漲潮時海灘會變小。"
+    },
+    {
+      "en": "low tide",
+      "kk": "",
+      "zh": "退潮",
+      "emoji": "🏖️",
+      "type": "phrase",
+      "ex": "We looked for crabs at low tide.",
+      "exZh": "我們在退潮時找螃蟹。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Let's go to the beach!",
+      "zh": "我們去海邊吧！",
+      "note": "邀請朋友去海邊"
+    },
+    {
+      "en": "The water is nice and warm.",
+      "zh": "海水又溫暖又舒服。",
+      "note": "形容水溫"
+    },
+    {
+      "en": "Is it safe to swim here?",
+      "zh": "在這裡游泳安全嗎？",
+      "note": "詢問安全"
+    },
+    {
+      "en": "Don't swim too far from the shore.",
+      "zh": "不要游離岸邊太遠。",
+      "note": "提醒安全"
+    },
+    {
+      "en": "Did you put on sunscreen?",
+      "zh": "你擦防曬了嗎？",
+      "note": "出發前提醒"
+    },
+    {
+      "en": "Look at that huge wave!",
+      "zh": "看那個好大的浪！",
+      "note": "看到大浪時"
+    },
+    {
+      "en": "I found a really pretty shell.",
+      "zh": "我找到一個很漂亮的貝殼。",
+      "note": "分享發現"
+    },
+    {
+      "en": "What time is high tide?",
+      "zh": "幾點漲潮？",
+      "note": "詢問潮汐時間"
+    },
+    {
+      "en": "Can you help me bury my feet?",
+      "zh": "你可以幫我把腳埋起來嗎？",
+      "note": "玩沙時"
+    },
+    {
+      "en": "I'm going to rent a surfboard.",
+      "zh": "我要去租一塊衝浪板。",
+      "note": "計畫活動"
+    },
+    {
+      "en": "Watch out for jellyfish.",
+      "zh": "小心水母。",
+      "note": "提醒危險"
+    },
+    {
+      "en": "The sunset over the sea is beautiful.",
+      "zh": "海上的夕陽好美。",
+      "note": "欣賞風景"
+    },
+    {
+      "en": "Dolphins are very smart animals.",
+      "zh": "海豚是非常聰明的動物。",
+      "note": "聊海洋生物"
+    },
+    {
+      "en": "I'm getting sunburned.",
+      "zh": "我快曬傷了。",
+      "note": "覺得太陽太大時"
+    },
+    {
+      "en": "We should clean up the trash on the beach.",
+      "zh": "我們應該清理海灘上的垃圾。",
+      "note": "環保提醒"
+    }
+  ],
+  "dialogues": [
+    {
+      "title": "在海邊",
+      "lines": [
+        {
+          "who": "A",
+          "en": "The water looks great. Let's go swimming!",
+          "zh": "海水看起來很棒，我們去游泳吧！"
+        },
+        {
+          "who": "B",
+          "en": "Wait, did you put on sunscreen?",
+          "zh": "等一下，你擦防曬了嗎？"
+        },
+        {
+          "who": "A",
+          "en": "Oh, not yet. Can you pass it to me?",
+          "zh": "噢，還沒。可以拿給我嗎？"
+        },
+        {
+          "who": "B",
+          "en": "Here you are. Don't go too far.",
+          "zh": "給你。不要游太遠。"
+        }
+      ]
+    },
+    {
+      "title": "潮間帶發現",
+      "lines": [
+        {
+          "who": "A",
+          "en": "Look! There is a crab under the rock.",
+          "zh": "看！岩石下面有一隻螃蟹。"
+        },
+        {
+          "who": "B",
+          "en": "Wow, it is so small!",
+          "zh": "哇，好小喔！"
+        },
+        {
+          "who": "A",
+          "en": "Let's not touch it.",
+          "zh": "我們不要碰牠。"
+        },
+        {
+          "who": "B",
+          "en": "Right. We will put the shell back too.",
+          "zh": "對，我們也把貝殼放回去。"
+        },
+        {
+          "who": "A",
+          "en": "Good idea.",
+          "zh": "好主意。"
+        }
+      ]
+    }
+  ]
+}

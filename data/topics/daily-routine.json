@@ -1,0 +1,486 @@
+{
+  "id": "daily-routine",
+  "title": "Daily Routine",
+  "zh": "一天的作息",
+  "emoji": "⏰",
+  "backdrop": "home",
+  "intro": "學會用英文說從早到晚的每日作息與頻率副詞。",
+  "words": [
+    {
+      "en": "morning",
+      "kk": "ˋmɔrnɪŋ",
+      "zh": "早晨；上午",
+      "emoji": "🌅",
+      "type": "word",
+      "ex": "I feel fresh in the morning.",
+      "exZh": "我早上覺得精神很好。"
+    },
+    {
+      "en": "noon",
+      "kk": "nun",
+      "zh": "中午",
+      "emoji": "🌞",
+      "type": "word",
+      "ex": "We have lunch at noon.",
+      "exZh": "我們中午吃午餐。"
+    },
+    {
+      "en": "afternoon",
+      "kk": "ˏæftɚˋnun",
+      "zh": "下午",
+      "emoji": "🌤️",
+      "type": "word",
+      "ex": "I have a piano lesson this afternoon.",
+      "exZh": "我今天下午有鋼琴課。"
+    },
+    {
+      "en": "evening",
+      "kk": "ˋivnɪŋ",
+      "zh": "傍晚；晚上",
+      "emoji": "🌆",
+      "type": "word",
+      "ex": "We take a walk in the evening.",
+      "exZh": "我們傍晚會去散步。"
+    },
+    {
+      "en": "midnight",
+      "kk": "ˋmɪdˏnaɪt",
+      "zh": "午夜；半夜十二點",
+      "emoji": "🌃",
+      "type": "word",
+      "ex": "He went to sleep at midnight.",
+      "exZh": "他午夜十二點才去睡。"
+    },
+    {
+      "en": "breakfast",
+      "kk": "ˋbrɛkfəst",
+      "zh": "早餐",
+      "emoji": "🥞",
+      "type": "word",
+      "ex": "I eat breakfast at seven.",
+      "exZh": "我七點吃早餐。"
+    },
+    {
+      "en": "lunch",
+      "kk": "lʌntʃ",
+      "zh": "午餐",
+      "emoji": "🍱",
+      "type": "word",
+      "ex": "What did you have for lunch?",
+      "exZh": "你午餐吃了什麼？"
+    },
+    {
+      "en": "dinner",
+      "kk": "ˋdɪnɚ",
+      "zh": "晚餐",
+      "emoji": "🍝",
+      "type": "word",
+      "ex": "Dinner is at six thirty.",
+      "exZh": "晚餐是六點半。"
+    },
+    {
+      "en": "snack",
+      "kk": "snæk",
+      "zh": "點心；零食",
+      "emoji": "🍪",
+      "type": "word",
+      "ex": "I have a snack after school.",
+      "exZh": "我放學後會吃點心。"
+    },
+    {
+      "en": "homework",
+      "kk": "ˋhomˏwɝk",
+      "zh": "家庭作業",
+      "emoji": "📝",
+      "type": "word",
+      "ex": "I finish my homework before dinner.",
+      "exZh": "我在晚餐前寫完功課。"
+    },
+    {
+      "en": "class",
+      "kk": "klæs",
+      "zh": "課；班級",
+      "emoji": "🏫",
+      "type": "word",
+      "ex": "My first class starts at eight.",
+      "exZh": "我的第一堂課八點開始。"
+    },
+    {
+      "en": "recess",
+      "kk": "rɪˋsɛs",
+      "zh": "下課時間",
+      "emoji": "🤸",
+      "type": "word",
+      "ex": "We play ball at recess.",
+      "exZh": "我們下課時間玩球。"
+    },
+    {
+      "en": "bus",
+      "kk": "bʌs",
+      "zh": "公車；巴士",
+      "emoji": "🚌",
+      "type": "word",
+      "ex": "The bus comes every ten minutes.",
+      "exZh": "公車每十分鐘來一班。"
+    },
+    {
+      "en": "uniform",
+      "kk": "ˋjunəˏfɔrm",
+      "zh": "制服",
+      "emoji": "👔",
+      "type": "word",
+      "ex": "I wear a uniform to school.",
+      "exZh": "我穿制服去上學。"
+    },
+    {
+      "en": "backpack",
+      "kk": "ˋbækˏpæk",
+      "zh": "後背包",
+      "emoji": "🎒",
+      "type": "word",
+      "ex": "My backpack is very heavy today.",
+      "exZh": "我的背包今天很重。"
+    },
+    {
+      "en": "schedule",
+      "kk": "ˋskɛdʒul",
+      "zh": "時間表；行程",
+      "emoji": "🗓️",
+      "type": "word",
+      "ex": "My schedule is full this week.",
+      "exZh": "我這週的行程很滿。"
+    },
+    {
+      "en": "routine",
+      "kk": "ruˋtin",
+      "zh": "例行公事；日常作息",
+      "emoji": "🔁",
+      "type": "word",
+      "ex": "Exercise is part of my daily routine.",
+      "exZh": "運動是我日常作息的一部分。"
+    },
+    {
+      "en": "bedtime",
+      "kk": "ˋbɛdˏtaɪm",
+      "zh": "就寢時間",
+      "emoji": "🌛",
+      "type": "word",
+      "ex": "Nine o'clock is my bedtime.",
+      "exZh": "九點是我的就寢時間。"
+    },
+    {
+      "en": "weekday",
+      "kk": "ˋwikˏde",
+      "zh": "平日",
+      "emoji": "📅",
+      "type": "word",
+      "ex": "I get up early on weekdays.",
+      "exZh": "我平日很早起床。"
+    },
+    {
+      "en": "weekend",
+      "kk": "ˋwikˋɛnd",
+      "zh": "週末",
+      "emoji": "🏖️",
+      "type": "word",
+      "ex": "We visit Grandma on weekends.",
+      "exZh": "我們週末會去看奶奶。"
+    },
+    {
+      "en": "commute",
+      "kk": "kəˋmjut",
+      "zh": "通勤",
+      "emoji": "🚇",
+      "type": "word",
+      "ex": "My commute takes forty minutes.",
+      "exZh": "我的通勤要花四十分鐘。"
+    },
+    {
+      "en": "exercise",
+      "kk": "ˋɛksɚˏsaɪz",
+      "zh": "運動",
+      "emoji": "🏃",
+      "type": "word",
+      "ex": "I exercise for thirty minutes every day.",
+      "exZh": "我每天運動三十分鐘。"
+    },
+    {
+      "en": "relax",
+      "kk": "rɪˋlæks",
+      "zh": "放鬆",
+      "emoji": "😌",
+      "type": "word",
+      "ex": "I relax by listening to music.",
+      "exZh": "我聽音樂來放鬆。"
+    },
+    {
+      "en": "always",
+      "kk": "ˋɔlwez",
+      "zh": "總是",
+      "emoji": "💯",
+      "type": "word",
+      "ex": "She always goes to school by bike.",
+      "exZh": "她總是騎腳踏車上學。"
+    },
+    {
+      "en": "usually",
+      "kk": "ˋjuʒuəlɪ",
+      "zh": "通常",
+      "emoji": "👍",
+      "type": "word",
+      "ex": "I usually get up at six.",
+      "exZh": "我通常六點起床。"
+    },
+    {
+      "en": "often",
+      "kk": "ˋɔfən",
+      "zh": "經常",
+      "emoji": "🔂",
+      "type": "word",
+      "ex": "We often eat out on Fridays.",
+      "exZh": "我們星期五常外出用餐。"
+    },
+    {
+      "en": "sometimes",
+      "kk": "ˋsʌmˏtaɪmz",
+      "zh": "有時候",
+      "emoji": "🤷",
+      "type": "word",
+      "ex": "Sometimes I walk to school.",
+      "exZh": "有時候我走路上學。"
+    },
+    {
+      "en": "never",
+      "kk": "ˋnɛvɚ",
+      "zh": "從不",
+      "emoji": "🚫",
+      "type": "word",
+      "ex": "I never skip breakfast.",
+      "exZh": "我從不跳過早餐。"
+    },
+    {
+      "en": "early",
+      "kk": "ˋɝlɪ",
+      "zh": "早的；提早",
+      "emoji": "🐓",
+      "type": "word",
+      "ex": "He gets up early every day.",
+      "exZh": "他每天都很早起。"
+    },
+    {
+      "en": "wake up",
+      "kk": "",
+      "zh": "醒來",
+      "emoji": "👀",
+      "type": "phrase",
+      "ex": "I wake up at six thirty.",
+      "exZh": "我六點半醒來。"
+    },
+    {
+      "en": "get up",
+      "kk": "",
+      "zh": "起床",
+      "emoji": "🛌",
+      "type": "phrase",
+      "ex": "Get up! It is time for school.",
+      "exZh": "起床了！該上學了。"
+    },
+    {
+      "en": "brush teeth",
+      "kk": "",
+      "zh": "刷牙",
+      "emoji": "🪥",
+      "type": "phrase",
+      "ex": "I brush my teeth twice a day.",
+      "exZh": "我一天刷兩次牙。"
+    },
+    {
+      "en": "get dressed",
+      "kk": "",
+      "zh": "穿好衣服",
+      "emoji": "👕",
+      "type": "phrase",
+      "ex": "He gets dressed in two minutes.",
+      "exZh": "他兩分鐘就穿好衣服。"
+    },
+    {
+      "en": "go to school",
+      "kk": "",
+      "zh": "去上學",
+      "emoji": "🏫",
+      "type": "phrase",
+      "ex": "I go to school with my brother.",
+      "exZh": "我和哥哥一起去上學。"
+    },
+    {
+      "en": "take the bus",
+      "kk": "",
+      "zh": "搭公車",
+      "emoji": "🚏",
+      "type": "phrase",
+      "ex": "She takes the bus to work.",
+      "exZh": "她搭公車上班。"
+    },
+    {
+      "en": "do homework",
+      "kk": "",
+      "zh": "寫功課",
+      "emoji": "✏️",
+      "type": "phrase",
+      "ex": "I do homework after dinner.",
+      "exZh": "我晚餐後寫功課。"
+    },
+    {
+      "en": "come home",
+      "kk": "",
+      "zh": "回家",
+      "emoji": "🏡",
+      "type": "phrase",
+      "ex": "Dad comes home at seven.",
+      "exZh": "爸爸七點回到家。"
+    },
+    {
+      "en": "read a book",
+      "kk": "",
+      "zh": "看書",
+      "emoji": "📖",
+      "type": "phrase",
+      "ex": "I read a book before bed.",
+      "exZh": "我睡前會看書。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "What time do you get up?",
+      "zh": "你幾點起床？",
+      "note": "詢問作息時"
+    },
+    {
+      "en": "I usually get up at six thirty.",
+      "zh": "我通常六點半起床。",
+      "note": "說明自己的作息時"
+    },
+    {
+      "en": "What is your daily routine like?",
+      "zh": "你每天的作息是怎麼樣的？",
+      "note": "想了解別人的生活時"
+    },
+    {
+      "en": "I eat breakfast and then I go to school.",
+      "zh": "我吃完早餐就去上學。",
+      "note": "描述早上的事情時"
+    },
+    {
+      "en": "How do you get to school?",
+      "zh": "你怎麼去學校？",
+      "note": "詢問交通方式時"
+    },
+    {
+      "en": "I take the bus to school.",
+      "zh": "我搭公車上學。",
+      "note": "回答交通方式時"
+    },
+    {
+      "en": "What time does school start?",
+      "zh": "學校幾點開始上課？",
+      "note": "詢問上課時間時"
+    },
+    {
+      "en": "School starts at eight and ends at four.",
+      "zh": "學校八點開始，四點結束。",
+      "note": "說明上課時間時"
+    },
+    {
+      "en": "I am running late!",
+      "zh": "我要遲到了！",
+      "note": "趕時間時"
+    },
+    {
+      "en": "I do my homework right after school.",
+      "zh": "我一放學就寫功課。",
+      "note": "說明課後安排時"
+    },
+    {
+      "en": "What do you do on weekends?",
+      "zh": "你週末都做什麼？",
+      "note": "聊週末活動時"
+    },
+    {
+      "en": "I never stay up past eleven.",
+      "zh": "我從不熬夜超過十一點。",
+      "note": "說明自己的習慣時"
+    },
+    {
+      "en": "Time to get up. Breakfast is ready.",
+      "zh": "該起床了，早餐好了。",
+      "note": "叫家人起床時"
+    },
+    {
+      "en": "It is getting late. Let us go home.",
+      "zh": "時間不早了，我們回家吧。",
+      "note": "準備結束活動時"
+    }
+  ],
+  "dialogues": [
+    {
+      "title": "聊作息",
+      "lines": [
+        {
+          "who": "A",
+          "en": "What time do you get up?",
+          "zh": "你幾點起床？"
+        },
+        {
+          "who": "B",
+          "en": "I usually get up at six thirty.",
+          "zh": "我通常六點半起床。"
+        },
+        {
+          "who": "A",
+          "en": "Wow, that is early! What do you do next?",
+          "zh": "哇，好早！然後你做什麼？"
+        },
+        {
+          "who": "B",
+          "en": "I brush my teeth, get dressed, and eat breakfast.",
+          "zh": "我刷牙、換衣服，然後吃早餐。"
+        },
+        {
+          "who": "A",
+          "en": "Then I take the bus to school.",
+          "zh": "然後我搭公車去上學。"
+        }
+      ]
+    },
+    {
+      "title": "放學後",
+      "lines": [
+        {
+          "who": "A",
+          "en": "What do you do after school?",
+          "zh": "你放學後做什麼？"
+        },
+        {
+          "who": "B",
+          "en": "I go home and have a snack.",
+          "zh": "我回家吃點心。"
+        },
+        {
+          "who": "A",
+          "en": "Do you do your homework right away?",
+          "zh": "你馬上寫功課嗎？"
+        },
+        {
+          "who": "B",
+          "en": "Yes, I always finish it before dinner.",
+          "zh": "對，我總是在晚餐前寫完。"
+        },
+        {
+          "who": "A",
+          "en": "Good habit! When is your bedtime?",
+          "zh": "好習慣！你幾點睡覺？"
+        }
+      ]
+    }
+  ]
+}

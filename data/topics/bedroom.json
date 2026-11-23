@@ -1,0 +1,477 @@
+{
+  "id": "bedroom",
+  "title": "Bedroom",
+  "zh": "臥室",
+  "emoji": "🛏️",
+  "backdrop": "bedroom",
+  "intro": "認識臥室裡的物品，學會說睡前與起床的日常用語。",
+  "words": [
+    {
+      "en": "bed",
+      "kk": "bɛd",
+      "zh": "床",
+      "emoji": "🛏️",
+      "type": "word",
+      "ex": "My bed is next to the window.",
+      "exZh": "我的床在窗戶旁邊。"
+    },
+    {
+      "en": "pillow",
+      "kk": "ˋpɪlo",
+      "zh": "枕頭",
+      "emoji": "😪",
+      "type": "word",
+      "ex": "I need a softer pillow.",
+      "exZh": "我需要一個更軟的枕頭。"
+    },
+    {
+      "en": "comforter",
+      "kk": "ˋkʌmfɚtɚ",
+      "zh": "羽絨被；被子",
+      "emoji": "🛌",
+      "type": "word",
+      "ex": "The comforter keeps me warm.",
+      "exZh": "這條被子讓我很暖和。"
+    },
+    {
+      "en": "sheet",
+      "kk": "ʃit",
+      "zh": "床單",
+      "emoji": "🏳️",
+      "type": "word",
+      "ex": "Mom changes the sheets every week.",
+      "exZh": "媽媽每週都換床單。"
+    },
+    {
+      "en": "mattress",
+      "kk": "ˋmætrɪs",
+      "zh": "床墊",
+      "emoji": "🟦",
+      "type": "word",
+      "ex": "This mattress is a little hard.",
+      "exZh": "這張床墊有點硬。"
+    },
+    {
+      "en": "pillowcase",
+      "kk": "ˋpɪloˏkes",
+      "zh": "枕頭套",
+      "emoji": "🧺",
+      "type": "word",
+      "ex": "The pillowcase has little stars on it.",
+      "exZh": "這個枕頭套上有小星星。"
+    },
+    {
+      "en": "wardrobe",
+      "kk": "ˋwɔrdˏrob",
+      "zh": "衣櫃",
+      "emoji": "🚪",
+      "type": "word",
+      "ex": "Her dresses are in the wardrobe.",
+      "exZh": "她的洋裝在衣櫃裡。"
+    },
+    {
+      "en": "closet",
+      "kk": "ˋklɑzɪt",
+      "zh": "壁櫥；衣櫥",
+      "emoji": "👗",
+      "type": "word",
+      "ex": "I hung my jacket in the closet.",
+      "exZh": "我把外套掛在衣櫥裡。"
+    },
+    {
+      "en": "dresser",
+      "kk": "ˋdrɛsɚ",
+      "zh": "五斗櫃",
+      "emoji": "🗄️",
+      "type": "word",
+      "ex": "Your socks are in the dresser.",
+      "exZh": "你的襪子在五斗櫃裡。"
+    },
+    {
+      "en": "nightstand",
+      "kk": "ˋnaɪtˏstænd",
+      "zh": "床頭櫃",
+      "emoji": "🕯️",
+      "type": "word",
+      "ex": "I keep a glass of water on the nightstand.",
+      "exZh": "我在床頭櫃上放了一杯水。"
+    },
+    {
+      "en": "alarm clock",
+      "kk": "əˋlɑrm ˏklɑk",
+      "zh": "鬧鐘",
+      "emoji": "⏰",
+      "type": "word",
+      "ex": "My alarm clock rings at six thirty.",
+      "exZh": "我的鬧鐘六點半會響。"
+    },
+    {
+      "en": "night light",
+      "kk": "ˋnaɪt ˏlaɪt",
+      "zh": "小夜燈",
+      "emoji": "🌙",
+      "type": "word",
+      "ex": "The baby sleeps with a night light.",
+      "exZh": "寶寶開著小夜燈睡覺。"
+    },
+    {
+      "en": "bunk bed",
+      "kk": "ˋbʌŋk ˏbɛd",
+      "zh": "雙層床",
+      "emoji": "🪜",
+      "type": "word",
+      "ex": "My brother sleeps on the top bunk bed.",
+      "exZh": "我弟弟睡在雙層床的上鋪。"
+    },
+    {
+      "en": "hanger",
+      "kk": "ˋhæŋɚ",
+      "zh": "衣架",
+      "emoji": "🧥",
+      "type": "word",
+      "ex": "Put your shirt on a hanger.",
+      "exZh": "把你的襯衫掛在衣架上。"
+    },
+    {
+      "en": "pajamas",
+      "kk": "pəˋdʒæməz",
+      "zh": "睡衣",
+      "emoji": "🩳",
+      "type": "word",
+      "ex": "He put on his pajamas at nine.",
+      "exZh": "他九點換上睡衣。"
+    },
+    {
+      "en": "teddy bear",
+      "kk": "ˋtɛdɪ ˏbɛr",
+      "zh": "泰迪熊",
+      "emoji": "🧸",
+      "type": "word",
+      "ex": "She hugs her teddy bear at night.",
+      "exZh": "她晚上抱著泰迪熊。"
+    },
+    {
+      "en": "diary",
+      "kk": "ˋdaɪərɪ",
+      "zh": "日記",
+      "emoji": "📔",
+      "type": "word",
+      "ex": "I write in my diary every night.",
+      "exZh": "我每天晚上寫日記。"
+    },
+    {
+      "en": "laundry basket",
+      "kk": "ˋlɔndrɪ ˏbæskɪt",
+      "zh": "洗衣籃",
+      "emoji": "🧺",
+      "type": "word",
+      "ex": "Put your dirty clothes in the laundry basket.",
+      "exZh": "把你的髒衣服放進洗衣籃。"
+    },
+    {
+      "en": "headboard",
+      "kk": "ˋhɛdˏbɔrd",
+      "zh": "床頭板",
+      "emoji": "🛏",
+      "type": "word",
+      "ex": "There is a shelf behind the headboard.",
+      "exZh": "床頭板後面有個置物架。"
+    },
+    {
+      "en": "quilt",
+      "kk": "kwɪlt",
+      "zh": "棉被",
+      "emoji": "🧵",
+      "type": "word",
+      "ex": "Grandma made this quilt by hand.",
+      "exZh": "這條棉被是奶奶手工做的。"
+    },
+    {
+      "en": "mosquito net",
+      "kk": "məˋskito ˏnɛt",
+      "zh": "蚊帳",
+      "emoji": "🦟",
+      "type": "word",
+      "ex": "We hang a mosquito net over the bed.",
+      "exZh": "我們在床上掛了蚊帳。"
+    },
+    {
+      "en": "suitcase",
+      "kk": "ˋsutˏkes",
+      "zh": "行李箱",
+      "emoji": "🧳",
+      "type": "word",
+      "ex": "My suitcase is under the bed.",
+      "exZh": "我的行李箱在床底下。"
+    },
+    {
+      "en": "jewelry box",
+      "kk": "ˋdʒuəlrɪ ˏbɑks",
+      "zh": "珠寶盒",
+      "emoji": "💍",
+      "type": "word",
+      "ex": "She keeps her ring in a jewelry box.",
+      "exZh": "她把戒指放在珠寶盒裡。"
+    },
+    {
+      "en": "perfume",
+      "kk": "ˋpɝfjum",
+      "zh": "香水",
+      "emoji": "🌸",
+      "type": "word",
+      "ex": "This perfume smells like flowers.",
+      "exZh": "這瓶香水聞起來像花香。"
+    },
+    {
+      "en": "poster",
+      "kk": "ˋpostɚ",
+      "zh": "海報",
+      "emoji": "🖼️",
+      "type": "word",
+      "ex": "He has a space poster on the wall.",
+      "exZh": "他的牆上有一張太空海報。"
+    },
+    {
+      "en": "desk",
+      "kk": "dɛsk",
+      "zh": "書桌",
+      "emoji": "🖥️",
+      "type": "word",
+      "ex": "I do my homework at my desk.",
+      "exZh": "我在書桌前寫功課。"
+    },
+    {
+      "en": "toy",
+      "kk": "tɔɪ",
+      "zh": "玩具",
+      "emoji": "🪀",
+      "type": "word",
+      "ex": "Please put your toys away.",
+      "exZh": "請把你的玩具收好。"
+    },
+    {
+      "en": "socks",
+      "kk": "sɑks",
+      "zh": "襪子",
+      "emoji": "🧦",
+      "type": "word",
+      "ex": "I cannot find my other sock.",
+      "exZh": "我找不到另一隻襪子。"
+    },
+    {
+      "en": "bedspread",
+      "kk": "ˋbɛdˏsprɛd",
+      "zh": "床罩",
+      "emoji": "🛏️",
+      "type": "word",
+      "ex": "The bedspread is blue and white.",
+      "exZh": "這條床罩是藍白相間的。"
+    },
+    {
+      "en": "go to bed",
+      "kk": "",
+      "zh": "上床睡覺",
+      "emoji": "😴",
+      "type": "phrase",
+      "ex": "I go to bed at ten.",
+      "exZh": "我十點上床睡覺。"
+    },
+    {
+      "en": "make the bed",
+      "kk": "",
+      "zh": "鋪床；整理床鋪",
+      "emoji": "🛏️",
+      "type": "phrase",
+      "ex": "Please make the bed before school.",
+      "exZh": "上學前請整理好床鋪。"
+    },
+    {
+      "en": "fall asleep",
+      "kk": "",
+      "zh": "睡著",
+      "emoji": "💤",
+      "type": "phrase",
+      "ex": "I fell asleep during the movie.",
+      "exZh": "我看電影時睡著了。"
+    },
+    {
+      "en": "get under the covers",
+      "kk": "",
+      "zh": "鑽進被子裡",
+      "emoji": "🛌",
+      "type": "phrase",
+      "ex": "It is cold, so I get under the covers.",
+      "exZh": "天氣冷，所以我鑽進被子裡。"
+    },
+    {
+      "en": "set the alarm",
+      "kk": "",
+      "zh": "設定鬧鐘",
+      "emoji": "⏰",
+      "type": "phrase",
+      "ex": "Do not forget to set the alarm.",
+      "exZh": "別忘了設定鬧鐘。"
+    },
+    {
+      "en": "turn off the light",
+      "kk": "",
+      "zh": "關燈",
+      "emoji": "🌑",
+      "type": "phrase",
+      "ex": "Turn off the light and go to sleep.",
+      "exZh": "把燈關掉去睡覺。"
+    },
+    {
+      "en": "sleep in",
+      "kk": "",
+      "zh": "睡過頭；賴床",
+      "emoji": "🥱",
+      "type": "phrase",
+      "ex": "I like to sleep in on Sundays.",
+      "exZh": "我週日喜歡賴床。"
+    },
+    {
+      "en": "stay up late",
+      "kk": "",
+      "zh": "熬夜",
+      "emoji": "🦉",
+      "type": "phrase",
+      "ex": "Do not stay up late tonight.",
+      "exZh": "今晚不要熬夜。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "It is time for bed.",
+      "zh": "該睡覺了。",
+      "note": "提醒孩子就寢時"
+    },
+    {
+      "en": "Good night. Sleep tight.",
+      "zh": "晚安，好好睡。",
+      "note": "睡前道晚安時"
+    },
+    {
+      "en": "Sweet dreams!",
+      "zh": "祝你有個好夢！",
+      "note": "睡前祝福時"
+    },
+    {
+      "en": "Did you sleep well?",
+      "zh": "你睡得好嗎？",
+      "note": "早上見面時"
+    },
+    {
+      "en": "I could not fall asleep last night.",
+      "zh": "我昨晚睡不著。",
+      "note": "睡眠不好時"
+    },
+    {
+      "en": "I am so sleepy.",
+      "zh": "我好睏。",
+      "note": "想睡覺時"
+    },
+    {
+      "en": "Can you turn off the light, please?",
+      "zh": "可以請你關燈嗎？",
+      "note": "準備睡覺時"
+    },
+    {
+      "en": "Do not forget to set your alarm.",
+      "zh": "別忘了設鬧鐘。",
+      "note": "提醒隔天要早起時"
+    },
+    {
+      "en": "I have to get up at six tomorrow.",
+      "zh": "我明天六點就要起床。",
+      "note": "說明明天的行程時"
+    },
+    {
+      "en": "Please make your bed.",
+      "zh": "請整理你的床。",
+      "note": "請孩子整理房間時"
+    },
+    {
+      "en": "Clean your room before dinner.",
+      "zh": "晚餐前把你的房間整理乾淨。",
+      "note": "請孩子打掃房間時"
+    },
+    {
+      "en": "I need another blanket. It is cold.",
+      "zh": "我需要多一條毯子，好冷。",
+      "note": "覺得冷時"
+    },
+    {
+      "en": "Wake up! You will be late.",
+      "zh": "起床了！你會遲到的。",
+      "note": "叫人起床時"
+    },
+    {
+      "en": "I stayed up too late last night.",
+      "zh": "我昨晚熬夜熬太晚了。",
+      "note": "解釋為什麼很累時"
+    }
+  ],
+  "dialogues": [
+    {
+      "title": "睡前",
+      "lines": [
+        {
+          "who": "A",
+          "en": "It is ten o'clock. Time for bed.",
+          "zh": "十點了，該睡覺了。"
+        },
+        {
+          "who": "B",
+          "en": "Can I read for five more minutes?",
+          "zh": "我可以再看五分鐘書嗎？"
+        },
+        {
+          "who": "A",
+          "en": "Okay, but then turn off the light.",
+          "zh": "好吧，但之後要關燈。"
+        },
+        {
+          "who": "B",
+          "en": "I will. Good night, Mom.",
+          "zh": "我會的。晚安，媽媽。"
+        },
+        {
+          "who": "A",
+          "en": "Good night. Sweet dreams!",
+          "zh": "晚安，祝你有個好夢！"
+        }
+      ]
+    },
+    {
+      "title": "早上叫起床",
+      "lines": [
+        {
+          "who": "A",
+          "en": "Wake up! It is already seven.",
+          "zh": "起床了！已經七點了。"
+        },
+        {
+          "who": "B",
+          "en": "Five more minutes, please.",
+          "zh": "請再讓我睡五分鐘。"
+        },
+        {
+          "who": "A",
+          "en": "No way. You will be late for school.",
+          "zh": "不行，你上學會遲到。"
+        },
+        {
+          "who": "B",
+          "en": "Oh no! I forgot to set the alarm.",
+          "zh": "糟了！我忘了設鬧鐘。"
+        },
+        {
+          "who": "A",
+          "en": "Hurry up and make your bed.",
+          "zh": "快點，把床鋪好。"
+        }
+      ]
+    }
+  ]
+}

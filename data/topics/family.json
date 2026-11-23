@@ -1,0 +1,455 @@
+{
+  "id": "family",
+  "title": "Family",
+  "zh": "家庭",
+  "emoji": "👨‍👩‍👧",
+  "backdrop": "home",
+  "intro": "認識家人的稱呼，介紹自己的家庭與親戚。",
+  "words": [
+    {
+      "en": "family",
+      "kk": "ˋfæməlɪ",
+      "zh": "家庭；家人",
+      "emoji": "👨‍👩‍👧",
+      "type": "word",
+      "ex": "I have a big family.",
+      "exZh": "我有一個大家庭。"
+    },
+    {
+      "en": "parent",
+      "kk": "ˋpɛrənt",
+      "zh": "父親或母親",
+      "emoji": "👫",
+      "type": "word",
+      "ex": "My parent works at a bank.",
+      "exZh": "我的家長在銀行工作。"
+    },
+    {
+      "en": "father",
+      "kk": "ˋfɑðɚ",
+      "zh": "父親",
+      "emoji": "👨",
+      "type": "word",
+      "ex": "My father cooks on Sundays.",
+      "exZh": "我爸爸星期天會下廚。"
+    },
+    {
+      "en": "mother",
+      "kk": "ˋmʌðɚ",
+      "zh": "母親",
+      "emoji": "👩",
+      "type": "word",
+      "ex": "My mother reads me a story.",
+      "exZh": "我媽媽念故事給我聽。"
+    },
+    {
+      "en": "dad",
+      "kk": "dæd",
+      "zh": "爸爸",
+      "emoji": "🧔",
+      "type": "word",
+      "ex": "Dad drives me to school.",
+      "exZh": "爸爸開車載我上學。"
+    },
+    {
+      "en": "mom",
+      "kk": "mɑm",
+      "zh": "媽媽",
+      "emoji": "👩‍🍼",
+      "type": "word",
+      "ex": "Mom made breakfast for us.",
+      "exZh": "媽媽幫我們做了早餐。"
+    },
+    {
+      "en": "brother",
+      "kk": "ˋbrʌðɚ",
+      "zh": "兄弟",
+      "emoji": "👦",
+      "type": "word",
+      "ex": "My brother plays baseball.",
+      "exZh": "我哥哥打棒球。"
+    },
+    {
+      "en": "sister",
+      "kk": "ˋsɪstɚ",
+      "zh": "姊妹",
+      "emoji": "👧",
+      "type": "word",
+      "ex": "My sister is ten years old.",
+      "exZh": "我妹妹十歲。"
+    },
+    {
+      "en": "grandfather",
+      "kk": "ˋɡrændˏfɑðɚ",
+      "zh": "祖父；外祖父",
+      "emoji": "👴",
+      "type": "word",
+      "ex": "My grandfather tells funny stories.",
+      "exZh": "我爺爺會講有趣的故事。"
+    },
+    {
+      "en": "grandmother",
+      "kk": "ˋɡrændˏmʌðɚ",
+      "zh": "祖母；外祖母",
+      "emoji": "👵",
+      "type": "word",
+      "ex": "My grandmother makes rice dumplings.",
+      "exZh": "我奶奶會做粽子。"
+    },
+    {
+      "en": "uncle",
+      "kk": "ˋʌŋkl̩",
+      "zh": "叔叔；舅舅；伯父",
+      "emoji": "🧑‍🦱",
+      "type": "word",
+      "ex": "My uncle lives in Kaohsiung.",
+      "exZh": "我叔叔住在高雄。"
+    },
+    {
+      "en": "aunt",
+      "kk": "ænt",
+      "zh": "阿姨；姑姑；舅媽",
+      "emoji": "👩‍🦰",
+      "type": "word",
+      "ex": "My aunt gave me a gift.",
+      "exZh": "我阿姨送了我一份禮物。"
+    },
+    {
+      "en": "cousin",
+      "kk": "ˋkʌzn̩",
+      "zh": "堂（表）兄弟姊妹",
+      "emoji": "🧒",
+      "type": "word",
+      "ex": "My cousin visits us every summer.",
+      "exZh": "我表哥每年夏天都來看我們。"
+    },
+    {
+      "en": "son",
+      "kk": "sʌn",
+      "zh": "兒子",
+      "emoji": "👶",
+      "type": "word",
+      "ex": "Their son is two years old.",
+      "exZh": "他們的兒子兩歲。"
+    },
+    {
+      "en": "daughter",
+      "kk": "ˋdɔtɚ",
+      "zh": "女兒",
+      "emoji": "👧🏻",
+      "type": "word",
+      "ex": "She has one daughter.",
+      "exZh": "她有一個女兒。"
+    },
+    {
+      "en": "husband",
+      "kk": "ˋhʌzbənd",
+      "zh": "丈夫",
+      "emoji": "🤵",
+      "type": "word",
+      "ex": "Her husband is a doctor.",
+      "exZh": "她的丈夫是醫生。"
+    },
+    {
+      "en": "wife",
+      "kk": "waɪf",
+      "zh": "妻子",
+      "emoji": "👰",
+      "type": "word",
+      "ex": "His wife teaches music.",
+      "exZh": "他的太太教音樂。"
+    },
+    {
+      "en": "baby",
+      "kk": "ˋbebɪ",
+      "zh": "嬰兒",
+      "emoji": "🍼",
+      "type": "word",
+      "ex": "The baby is sleeping now.",
+      "exZh": "寶寶現在正在睡覺。"
+    },
+    {
+      "en": "twin",
+      "kk": "twɪn",
+      "zh": "雙胞胎之一",
+      "emoji": "👯",
+      "type": "word",
+      "ex": "My twin sister looks like me.",
+      "exZh": "我的雙胞胎妹妹長得像我。"
+    },
+    {
+      "en": "relative",
+      "kk": "ˋrɛlətɪv",
+      "zh": "親戚",
+      "emoji": "🧑‍🧑‍🧒‍🧒",
+      "type": "word",
+      "ex": "Many relatives visit us at New Year.",
+      "exZh": "許多親戚在新年來看我們。"
+    },
+    {
+      "en": "only child",
+      "kk": "",
+      "zh": "獨生子女",
+      "emoji": "🧍",
+      "type": "phrase",
+      "ex": "I am an only child.",
+      "exZh": "我是獨生子。"
+    },
+    {
+      "en": "married",
+      "kk": "ˋmærɪd",
+      "zh": "已婚的",
+      "emoji": "💍",
+      "type": "word",
+      "ex": "My aunt got married last year.",
+      "exZh": "我阿姨去年結婚了。"
+    },
+    {
+      "en": "photo",
+      "kk": "ˋfoto",
+      "zh": "照片",
+      "emoji": "📷",
+      "type": "word",
+      "ex": "This photo is from our trip.",
+      "exZh": "這張照片是我們旅行時拍的。"
+    },
+    {
+      "en": "home",
+      "kk": "hom",
+      "zh": "家",
+      "emoji": "🏠",
+      "type": "word",
+      "ex": "We stay home on weekends.",
+      "exZh": "我們週末待在家。"
+    },
+    {
+      "en": "love",
+      "kk": "lʌv",
+      "zh": "愛",
+      "emoji": "❤️",
+      "type": "word",
+      "ex": "I love my family very much.",
+      "exZh": "我非常愛我的家人。"
+    },
+    {
+      "en": "together",
+      "kk": "təˋɡɛðɚ",
+      "zh": "一起",
+      "emoji": "👨‍👩‍👦‍👦",
+      "type": "word",
+      "ex": "We eat dinner together.",
+      "exZh": "我們一起吃晚餐。"
+    },
+    {
+      "en": "take care of",
+      "kk": "",
+      "zh": "照顧",
+      "emoji": "🤲",
+      "type": "phrase",
+      "ex": "I take care of my little brother.",
+      "exZh": "我照顧我的弟弟。"
+    },
+    {
+      "en": "look like",
+      "kk": "",
+      "zh": "長得像",
+      "emoji": "🪞",
+      "type": "phrase",
+      "ex": "You look like your mother.",
+      "exZh": "你長得很像你媽媽。"
+    },
+    {
+      "en": "grow up",
+      "kk": "",
+      "zh": "長大",
+      "emoji": "🌱",
+      "type": "phrase",
+      "ex": "I want to be a nurse when I grow up.",
+      "exZh": "我長大後想當護士。"
+    },
+    {
+      "en": "get along with",
+      "kk": "",
+      "zh": "與…相處融洽",
+      "emoji": "🫂",
+      "type": "phrase",
+      "ex": "I get along with my cousins.",
+      "exZh": "我和表兄弟姊妹相處得很好。"
+    },
+    {
+      "en": "be born",
+      "kk": "",
+      "zh": "出生",
+      "emoji": "🎂",
+      "type": "phrase",
+      "ex": "I was born in Taipei.",
+      "exZh": "我在台北出生。"
+    },
+    {
+      "en": "live with",
+      "kk": "",
+      "zh": "與…同住",
+      "emoji": "🏘️",
+      "type": "phrase",
+      "ex": "I live with my grandparents.",
+      "exZh": "我和祖父母住在一起。"
+    },
+    {
+      "en": "family tree",
+      "kk": "",
+      "zh": "家族樹；族譜",
+      "emoji": "🌳",
+      "type": "phrase",
+      "ex": "We drew a family tree in class.",
+      "exZh": "我們在課堂上畫了一張家族樹。"
+    },
+    {
+      "en": "big sister",
+      "kk": "",
+      "zh": "姊姊",
+      "emoji": "🙋‍♀️",
+      "type": "phrase",
+      "ex": "My big sister helps me with homework.",
+      "exZh": "我姊姊幫我寫功課。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "This is a photo of my family.",
+      "zh": "這是我的全家福照片。",
+      "note": "介紹家人照片時"
+    },
+    {
+      "en": "There are five people in my family.",
+      "zh": "我家有五個人。",
+      "note": "說明家裡人數時"
+    },
+    {
+      "en": "Do you have any brothers or sisters?",
+      "zh": "你有兄弟姊妹嗎？",
+      "note": "詢問對方的家人時"
+    },
+    {
+      "en": "I have one older brother.",
+      "zh": "我有一個哥哥。",
+      "note": "說明自己的兄弟姊妹時"
+    },
+    {
+      "en": "I am an only child.",
+      "zh": "我是獨生子（女）。",
+      "note": "說明自己沒有兄弟姊妹時"
+    },
+    {
+      "en": "Who is that woman in the picture?",
+      "zh": "照片裡的那位女士是誰？",
+      "note": "詢問照片中的人時"
+    },
+    {
+      "en": "She is my aunt.",
+      "zh": "她是我的阿姨。",
+      "note": "回答對方對親戚的詢問時"
+    },
+    {
+      "en": "My parents both work.",
+      "zh": "我的父母都有工作。",
+      "note": "談到父母時"
+    },
+    {
+      "en": "I live with my grandparents.",
+      "zh": "我和祖父母同住。",
+      "note": "說明與誰同住時"
+    },
+    {
+      "en": "We have dinner together every night.",
+      "zh": "我們每天晚上一起吃晚餐。",
+      "note": "描述家庭習慣時"
+    },
+    {
+      "en": "My mom is a very kind person.",
+      "zh": "我媽媽是一個很親切的人。",
+      "note": "稱讚家人時"
+    },
+    {
+      "en": "I look like my father.",
+      "zh": "我長得像我爸爸。",
+      "note": "談論外貌像誰時"
+    },
+    {
+      "en": "How is your family?",
+      "zh": "你的家人好嗎？",
+      "note": "關心對方家人時"
+    },
+    {
+      "en": "My family is going to visit my uncle.",
+      "zh": "我們全家要去探望我叔叔。",
+      "note": "談論家庭計畫時"
+    },
+    {
+      "en": "I love my family.",
+      "zh": "我愛我的家人。",
+      "note": "表達對家人的感情時"
+    }
+  ],
+  "dialogues": [
+    {
+      "title": "看家庭照片",
+      "lines": [
+        {
+          "who": "A",
+          "en": "Who is this?",
+          "zh": "這是誰？"
+        },
+        {
+          "who": "B",
+          "en": "She is my aunt. She lives in Tainan.",
+          "zh": "她是我的阿姨，住在台南。"
+        },
+        {
+          "who": "A",
+          "en": "And who is the boy next to her?",
+          "zh": "那她旁邊的男孩是誰？"
+        },
+        {
+          "who": "B",
+          "en": "That is my cousin, Jack.",
+          "zh": "那是我的表哥傑克。"
+        },
+        {
+          "who": "A",
+          "en": "You have a big family!",
+          "zh": "你的家人真多！"
+        }
+      ]
+    },
+    {
+      "title": "聊兄弟姊妹",
+      "lines": [
+        {
+          "who": "A",
+          "en": "Do you have any brothers or sisters?",
+          "zh": "你有兄弟姊妹嗎？"
+        },
+        {
+          "who": "B",
+          "en": "Yes, I have a little sister. How about you?",
+          "zh": "有，我有一個妹妹。你呢？"
+        },
+        {
+          "who": "A",
+          "en": "I am an only child.",
+          "zh": "我是獨生子。"
+        },
+        {
+          "who": "B",
+          "en": "Do you feel lonely sometimes?",
+          "zh": "你有時候會覺得孤單嗎？"
+        },
+        {
+          "who": "A",
+          "en": "A little, but I like playing with my cousins.",
+          "zh": "有一點，不過我喜歡跟表兄弟姊妹玩。"
+        }
+      ]
+    }
+  ]
+}

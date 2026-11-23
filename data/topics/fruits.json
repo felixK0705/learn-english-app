@@ -1,0 +1,445 @@
+{
+  "id": "fruits",
+  "title": "Fruits",
+  "zh": "水果",
+  "emoji": "🍎",
+  "backdrop": "shop",
+  "intro": "在水果攤認識各種水果，學會挑選與購買的說法。",
+  "words": [
+    {
+      "en": "apple",
+      "kk": "ˋæpḷ",
+      "zh": "蘋果",
+      "emoji": "🍎",
+      "type": "word",
+      "ex": "I eat an apple every morning.",
+      "exZh": "我每天早上吃一顆蘋果。"
+    },
+    {
+      "en": "banana",
+      "kk": "bəˋnænə",
+      "zh": "香蕉",
+      "emoji": "🍌",
+      "type": "word",
+      "ex": "Monkeys love to eat bananas.",
+      "exZh": "猴子愛吃香蕉。"
+    },
+    {
+      "en": "orange",
+      "kk": "ˋɔrɪndʒ",
+      "zh": "柳橙",
+      "emoji": "🍊",
+      "type": "word",
+      "ex": "She drinks orange juice for breakfast.",
+      "exZh": "她早餐喝柳橙汁。"
+    },
+    {
+      "en": "grape",
+      "kk": "grep",
+      "zh": "葡萄",
+      "emoji": "🍇",
+      "type": "word",
+      "ex": "These grapes are sweet and cold.",
+      "exZh": "這些葡萄又甜又冰。"
+    },
+    {
+      "en": "strawberry",
+      "kk": "ˋstrɔˏbɛrɪ",
+      "zh": "草莓",
+      "emoji": "🍓",
+      "type": "word",
+      "ex": "Strawberries are in season in winter.",
+      "exZh": "草莓在冬天是盛產期。"
+    },
+    {
+      "en": "watermelon",
+      "kk": "ˋwɔtɚˏmɛlən",
+      "zh": "西瓜",
+      "emoji": "🍉",
+      "type": "word",
+      "ex": "We shared a watermelon on a hot day.",
+      "exZh": "大熱天我們分著吃一顆西瓜。"
+    },
+    {
+      "en": "pineapple",
+      "kk": "ˋpaɪnˏæpḷ",
+      "zh": "鳳梨",
+      "emoji": "🍍",
+      "type": "word",
+      "ex": "Pineapple cake is a famous Taiwanese gift.",
+      "exZh": "鳳梨酥是台灣有名的伴手禮。"
+    },
+    {
+      "en": "mango",
+      "kk": "ˋmæŋgo",
+      "zh": "芒果",
+      "emoji": "🥭",
+      "type": "word",
+      "ex": "Mango shaved ice is my favorite.",
+      "exZh": "芒果冰是我的最愛。"
+    },
+    {
+      "en": "peach",
+      "kk": "pitʃ",
+      "zh": "桃子",
+      "emoji": "🍑",
+      "type": "word",
+      "ex": "The peach is soft and juicy.",
+      "exZh": "這顆桃子又軟又多汁。"
+    },
+    {
+      "en": "pear",
+      "kk": "pɛr",
+      "zh": "梨子",
+      "emoji": "🍐",
+      "type": "word",
+      "ex": "He cut the pear into small pieces.",
+      "exZh": "他把梨子切成小塊。"
+    },
+    {
+      "en": "cherry",
+      "kk": "ˋtʃɛrɪ",
+      "zh": "櫻桃",
+      "emoji": "🍒",
+      "type": "word",
+      "ex": "There is a cherry on top of the cake.",
+      "exZh": "蛋糕上面有一顆櫻桃。"
+    },
+    {
+      "en": "lemon",
+      "kk": "ˋlɛmən",
+      "zh": "檸檬",
+      "emoji": "🍋",
+      "type": "word",
+      "ex": "This lemon is very sour.",
+      "exZh": "這顆檸檬非常酸。"
+    },
+    {
+      "en": "kiwi",
+      "kk": "ˋkiwɪ",
+      "zh": "奇異果",
+      "emoji": "🥝",
+      "type": "word",
+      "ex": "A kiwi has a lot of vitamin C.",
+      "exZh": "奇異果含有很多維生素 C。"
+    },
+    {
+      "en": "guava",
+      "kk": "ˋgwɑvə",
+      "zh": "芭樂；番石榴",
+      "emoji": "🍏",
+      "type": "word",
+      "ex": "Taiwanese guava is crunchy and sweet.",
+      "exZh": "台灣的芭樂又脆又甜。"
+    },
+    {
+      "en": "persimmon",
+      "kk": "pɚˋsɪmən",
+      "zh": "柿子",
+      "emoji": "🍅",
+      "type": "word",
+      "ex": "Persimmons turn orange in autumn.",
+      "exZh": "柿子在秋天會變成橘紅色。"
+    },
+    {
+      "en": "lychee",
+      "kk": "ˋlaɪtʃi",
+      "zh": "荔枝",
+      "emoji": "🍓",
+      "type": "word",
+      "ex": "Lychee season starts in early summer.",
+      "exZh": "荔枝季從初夏開始。"
+    },
+    {
+      "en": "pomelo",
+      "kk": "ˋpɑməlo",
+      "zh": "柚子",
+      "emoji": "🍋",
+      "type": "word",
+      "ex": "We eat pomelo during the Moon Festival.",
+      "exZh": "我們中秋節吃柚子。"
+    },
+    {
+      "en": "dragon fruit",
+      "kk": "ˋdrægən frut",
+      "zh": "火龍果",
+      "emoji": "🐉",
+      "type": "word",
+      "ex": "Dragon fruit has tiny black seeds.",
+      "exZh": "火龍果有小小的黑籽。"
+    },
+    {
+      "en": "coconut",
+      "kk": "ˋkokəˏnʌt",
+      "zh": "椰子",
+      "emoji": "🥥",
+      "type": "word",
+      "ex": "He drank coconut water at the beach.",
+      "exZh": "他在海邊喝椰子水。"
+    },
+    {
+      "en": "blueberry",
+      "kk": "ˋbluˏbɛrɪ",
+      "zh": "藍莓",
+      "emoji": "🫐",
+      "type": "word",
+      "ex": "I put blueberries in my yogurt.",
+      "exZh": "我在優格裡放了藍莓。"
+    },
+    {
+      "en": "melon",
+      "kk": "ˋmɛlən",
+      "zh": "甜瓜；哈密瓜",
+      "emoji": "🍈",
+      "type": "word",
+      "ex": "The melon smells very sweet.",
+      "exZh": "這顆哈密瓜聞起來很香甜。"
+    },
+    {
+      "en": "avocado",
+      "kk": "ˏævəˋkɑdo",
+      "zh": "酪梨；牛油果",
+      "emoji": "🥑",
+      "type": "word",
+      "ex": "She likes avocado on toast.",
+      "exZh": "她喜歡在吐司上放酪梨。"
+    },
+    {
+      "en": "wax apple",
+      "kk": "wæks ˋæpḷ",
+      "zh": "蓮霧",
+      "emoji": "🍎",
+      "type": "word",
+      "ex": "A wax apple is light and watery.",
+      "exZh": "蓮霧口感清爽多汁。"
+    },
+    {
+      "en": "durian",
+      "kk": "ˋdʊriən",
+      "zh": "榴槤",
+      "emoji": "🍈",
+      "type": "word",
+      "ex": "Durian has a very strong smell.",
+      "exZh": "榴槤的味道非常濃。"
+    },
+    {
+      "en": "seed",
+      "kk": "sid",
+      "zh": "種子；果籽",
+      "emoji": "🌱",
+      "type": "word",
+      "ex": "Spit out the seeds before you swallow.",
+      "exZh": "吞下去之前先把籽吐出來。"
+    },
+    {
+      "en": "ripe",
+      "kk": "raɪp",
+      "zh": "成熟的",
+      "emoji": "🍌",
+      "type": "word",
+      "ex": "The bananas are ripe and yellow.",
+      "exZh": "這些香蕉熟了，黃黃的。"
+    },
+    {
+      "en": "juicy",
+      "kk": "ˋdʒusɪ",
+      "zh": "多汁的",
+      "emoji": "🍑",
+      "type": "word",
+      "ex": "What a juicy orange!",
+      "exZh": "好多汁的柳橙啊！"
+    },
+    {
+      "en": "peel",
+      "kk": "pil",
+      "zh": "果皮；剝皮",
+      "emoji": "🍊",
+      "type": "word",
+      "ex": "Please peel the apple for me.",
+      "exZh": "請幫我削蘋果皮。"
+    },
+    {
+      "en": "fruit salad",
+      "kk": "",
+      "zh": "水果沙拉",
+      "emoji": "🥗",
+      "type": "phrase",
+      "ex": "We made a big fruit salad for the party.",
+      "exZh": "我們為派對做了一大盤水果沙拉。"
+    },
+    {
+      "en": "a bunch of grapes",
+      "kk": "",
+      "zh": "一串葡萄",
+      "emoji": "🍇",
+      "type": "phrase",
+      "ex": "I bought a bunch of grapes at the market.",
+      "exZh": "我在市場買了一串葡萄。"
+    },
+    {
+      "en": "in season",
+      "kk": "",
+      "zh": "當季；盛產",
+      "emoji": "📅",
+      "type": "phrase",
+      "ex": "Mangoes are in season in summer.",
+      "exZh": "芒果在夏天是當季水果。"
+    },
+    {
+      "en": "squeeze a lemon",
+      "kk": "",
+      "zh": "擠檸檬",
+      "emoji": "🍋",
+      "type": "phrase",
+      "ex": "Squeeze a lemon into the water.",
+      "exZh": "把檸檬擠進水裡。"
+    },
+    {
+      "en": "a slice of watermelon",
+      "kk": "",
+      "zh": "一片西瓜",
+      "emoji": "🍉",
+      "type": "phrase",
+      "ex": "Would you like a slice of watermelon?",
+      "exZh": "你要吃一片西瓜嗎？"
+    },
+    {
+      "en": "go bad",
+      "kk": "",
+      "zh": "壞掉；腐爛",
+      "emoji": "🤢",
+      "type": "phrase",
+      "ex": "The strawberries will go bad soon.",
+      "exZh": "這些草莓快要壞掉了。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "How much are the strawberries?",
+      "zh": "草莓怎麼賣？",
+      "note": "詢問價格時"
+    },
+    {
+      "en": "Can I try one?",
+      "zh": "我可以試吃一個嗎？",
+      "note": "想試吃時"
+    },
+    {
+      "en": "Is this one sweet?",
+      "zh": "這個甜嗎？",
+      "note": "詢問甜不甜"
+    },
+    {
+      "en": "Please pick a ripe one for me.",
+      "zh": "請幫我挑一顆熟的。",
+      "note": "請老闆挑水果時"
+    },
+    {
+      "en": "I would like two pounds of apples.",
+      "zh": "我要兩磅蘋果。",
+      "note": "指定購買重量時"
+    },
+    {
+      "en": "Are these mangoes in season?",
+      "zh": "這些芒果是當季的嗎？",
+      "note": "詢問是否盛產"
+    },
+    {
+      "en": "Could you cut it for me?",
+      "zh": "可以幫我切一下嗎？",
+      "note": "請老闆切水果時"
+    },
+    {
+      "en": "Can I get a discount if I buy more?",
+      "zh": "多買可以算便宜一點嗎？",
+      "note": "討價還價時"
+    },
+    {
+      "en": "I am allergic to kiwi.",
+      "zh": "我對奇異果過敏。",
+      "note": "說明過敏時"
+    },
+    {
+      "en": "This one is too sour for me.",
+      "zh": "這個對我來說太酸了。",
+      "note": "表達口味偏好時"
+    },
+    {
+      "en": "What is your favorite fruit?",
+      "zh": "你最喜歡的水果是什麼？",
+      "note": "聊天找話題時"
+    },
+    {
+      "en": "Please put them in a bag.",
+      "zh": "請幫我裝袋。",
+      "note": "結帳時"
+    },
+    {
+      "en": "Fruit is good for your health.",
+      "zh": "水果對健康有益。",
+      "note": "勸人多吃水果時"
+    },
+    {
+      "en": "These are fresh from the farm.",
+      "zh": "這些是產地直送的。",
+      "note": "老闆介紹水果時"
+    }
+  ],
+  "dialogues": [
+    {
+      "title": "在水果攤",
+      "lines": [
+        {
+          "who": "A",
+          "en": "Hi! How much are the grapes?",
+          "zh": "嗨！葡萄怎麼賣？"
+        },
+        {
+          "who": "B",
+          "en": "They are one hundred dollars a bunch.",
+          "zh": "一串一百元。"
+        },
+        {
+          "who": "A",
+          "en": "Can I try one first?",
+          "zh": "我可以先試吃一顆嗎？"
+        },
+        {
+          "who": "B",
+          "en": "Sure. They are very sweet.",
+          "zh": "當然，它們很甜。"
+        },
+        {
+          "who": "A",
+          "en": "Great! I will take two bunches.",
+          "zh": "太好了！我要兩串。"
+        }
+      ]
+    },
+    {
+      "title": "選一顆好西瓜",
+      "lines": [
+        {
+          "who": "A",
+          "en": "Is this watermelon ripe?",
+          "zh": "這顆西瓜熟了嗎？"
+        },
+        {
+          "who": "B",
+          "en": "Knock on it. It sounds ripe to me.",
+          "zh": "敲敲看，聽起來是熟的。"
+        },
+        {
+          "who": "A",
+          "en": "Can you cut it in half?",
+          "zh": "可以幫我切成一半嗎？"
+        },
+        {
+          "who": "B",
+          "en": "No problem. Here you are.",
+          "zh": "沒問題，給你。"
+        }
+      ]
+    }
+  ]
+}

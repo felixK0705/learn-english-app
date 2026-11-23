@@ -1,0 +1,463 @@
+{
+  "id": "numbers",
+  "title": "Numbers",
+  "zh": "數字",
+  "emoji": "🔢",
+  "backdrop": "classroom",
+  "intro": "學會基數、序數、次數與分數的說法，數數與買東西都用得上。",
+  "words": [
+    {
+      "en": "zero",
+      "kk": "ˋzɪro",
+      "zh": "零",
+      "emoji": "0️⃣",
+      "type": "word",
+      "ex": "The temperature is zero degrees.",
+      "exZh": "氣溫是零度。"
+    },
+    {
+      "en": "one",
+      "kk": "wʌn",
+      "zh": "一",
+      "emoji": "1️⃣",
+      "type": "word",
+      "ex": "I have one brother.",
+      "exZh": "我有一個哥哥。"
+    },
+    {
+      "en": "two",
+      "kk": "tu",
+      "zh": "二",
+      "emoji": "2️⃣",
+      "type": "word",
+      "ex": "There are two cats on the sofa.",
+      "exZh": "沙發上有兩隻貓。"
+    },
+    {
+      "en": "three",
+      "kk": "θri",
+      "zh": "三",
+      "emoji": "3️⃣",
+      "type": "word",
+      "ex": "I need three apples.",
+      "exZh": "我需要三顆蘋果。"
+    },
+    {
+      "en": "five",
+      "kk": "faɪv",
+      "zh": "五",
+      "emoji": "5️⃣",
+      "type": "word",
+      "ex": "Give me five minutes, please.",
+      "exZh": "請給我五分鐘。"
+    },
+    {
+      "en": "ten",
+      "kk": "tɛn",
+      "zh": "十",
+      "emoji": "🔟",
+      "type": "word",
+      "ex": "There are ten students in the room.",
+      "exZh": "教室裡有十個學生。"
+    },
+    {
+      "en": "twelve",
+      "kk": "twɛlv",
+      "zh": "十二",
+      "emoji": "🔢",
+      "type": "word",
+      "ex": "A year has twelve months.",
+      "exZh": "一年有十二個月。"
+    },
+    {
+      "en": "thirteen",
+      "kk": "ˋθɝˋtin",
+      "zh": "十三",
+      "emoji": "🔢",
+      "type": "word",
+      "ex": "My brother is thirteen years old.",
+      "exZh": "我弟弟十三歲。"
+    },
+    {
+      "en": "twenty",
+      "kk": "ˋtwɛntɪ",
+      "zh": "二十",
+      "emoji": "🔢",
+      "type": "word",
+      "ex": "The ticket costs twenty dollars.",
+      "exZh": "這張票要二十元。"
+    },
+    {
+      "en": "fifty",
+      "kk": "ˋfɪftɪ",
+      "zh": "五十",
+      "emoji": "🔢",
+      "type": "word",
+      "ex": "He walked fifty steps.",
+      "exZh": "他走了五十步。"
+    },
+    {
+      "en": "hundred",
+      "kk": "ˋhʌndrəd",
+      "zh": "一百",
+      "emoji": "💯",
+      "type": "word",
+      "ex": "A hundred people came to the party.",
+      "exZh": "有一百個人來參加派對。"
+    },
+    {
+      "en": "thousand",
+      "kk": "ˋθaʊzṇd",
+      "zh": "一千",
+      "emoji": "🔢",
+      "type": "word",
+      "ex": "The bike costs three thousand dollars.",
+      "exZh": "這輛腳踏車要三千元。"
+    },
+    {
+      "en": "million",
+      "kk": "ˋmɪljən",
+      "zh": "百萬",
+      "emoji": "💰",
+      "type": "word",
+      "ex": "The city has two million people.",
+      "exZh": "這座城市有兩百萬人。"
+    },
+    {
+      "en": "first",
+      "kk": "fɝst",
+      "zh": "第一",
+      "emoji": "🥇",
+      "type": "word",
+      "ex": "She won first place.",
+      "exZh": "她得到第一名。"
+    },
+    {
+      "en": "second",
+      "kk": "ˋsɛkənd",
+      "zh": "第二",
+      "emoji": "🥈",
+      "type": "word",
+      "ex": "He came in second in the race.",
+      "exZh": "他在比賽中得到第二名。"
+    },
+    {
+      "en": "third",
+      "kk": "θɝd",
+      "zh": "第三",
+      "emoji": "🥉",
+      "type": "word",
+      "ex": "My room is on the third floor.",
+      "exZh": "我的房間在三樓。"
+    },
+    {
+      "en": "fifth",
+      "kk": "fɪfθ",
+      "zh": "第五",
+      "emoji": "5️⃣",
+      "type": "word",
+      "ex": "Today is the fifth of May.",
+      "exZh": "今天是五月五日。"
+    },
+    {
+      "en": "twelfth",
+      "kk": "twɛlfθ",
+      "zh": "第十二",
+      "emoji": "🔢",
+      "type": "word",
+      "ex": "Her birthday is on the twelfth.",
+      "exZh": "她的生日在十二號。"
+    },
+    {
+      "en": "twentieth",
+      "kk": "ˋtwɛntɪɪθ",
+      "zh": "第二十",
+      "emoji": "🔢",
+      "type": "word",
+      "ex": "This is the twentieth page.",
+      "exZh": "這是第二十頁。"
+    },
+    {
+      "en": "twenty-first",
+      "kk": "ˋtwɛntɪ ˋfɝst",
+      "zh": "第二十一",
+      "emoji": "🔢",
+      "type": "word",
+      "ex": "We live in the twenty-first century.",
+      "exZh": "我們生活在二十一世紀。"
+    },
+    {
+      "en": "hundredth",
+      "kk": "ˋhʌndrədθ",
+      "zh": "第一百",
+      "emoji": "🏆",
+      "type": "word",
+      "ex": "It is our hundredth anniversary.",
+      "exZh": "這是我們的一百週年紀念。"
+    },
+    {
+      "en": "once",
+      "kk": "wʌns",
+      "zh": "一次",
+      "emoji": "☝️",
+      "type": "word",
+      "ex": "I go to the dentist once a year.",
+      "exZh": "我一年看一次牙醫。"
+    },
+    {
+      "en": "twice",
+      "kk": "twaɪs",
+      "zh": "兩次",
+      "emoji": "✌️",
+      "type": "word",
+      "ex": "I brush my teeth twice a day.",
+      "exZh": "我一天刷兩次牙。"
+    },
+    {
+      "en": "dozen",
+      "kk": "ˋdʌzn̩",
+      "zh": "一打（十二個）",
+      "emoji": "🥚",
+      "type": "word",
+      "ex": "I bought a dozen eggs.",
+      "exZh": "我買了一打雞蛋。"
+    },
+    {
+      "en": "pair",
+      "kk": "pɛr",
+      "zh": "一雙；一對",
+      "emoji": "🧦",
+      "type": "word",
+      "ex": "I need a new pair of shoes.",
+      "exZh": "我需要一雙新鞋。"
+    },
+    {
+      "en": "double",
+      "kk": "ˋdʌbl̩",
+      "zh": "兩倍的；加倍",
+      "emoji": "✖️",
+      "type": "word",
+      "ex": "A double bed is very big.",
+      "exZh": "雙人床非常大。"
+    },
+    {
+      "en": "number",
+      "kk": "ˋnʌmbɚ",
+      "zh": "數字；號碼",
+      "emoji": "🔢",
+      "type": "word",
+      "ex": "What is your phone number?",
+      "exZh": "你的電話號碼是多少？"
+    },
+    {
+      "en": "three times",
+      "kk": "",
+      "zh": "三次",
+      "emoji": "3️⃣",
+      "type": "phrase",
+      "ex": "I called him three times.",
+      "exZh": "我打了三次電話給他。"
+    },
+    {
+      "en": "a half",
+      "kk": "",
+      "zh": "一半",
+      "emoji": "🌗",
+      "type": "phrase",
+      "ex": "I ate a half of the pizza.",
+      "exZh": "我吃了半個披薩。"
+    },
+    {
+      "en": "a quarter",
+      "kk": "",
+      "zh": "四分之一",
+      "emoji": "🍕",
+      "type": "phrase",
+      "ex": "Cut the cake into a quarter.",
+      "exZh": "把蛋糕切成四分之一。"
+    },
+    {
+      "en": "one third",
+      "kk": "",
+      "zh": "三分之一",
+      "emoji": "🥧",
+      "type": "phrase",
+      "ex": "One third of the class is absent.",
+      "exZh": "全班有三分之一的人缺席。"
+    },
+    {
+      "en": "two thirds",
+      "kk": "",
+      "zh": "三分之二",
+      "emoji": "🥧",
+      "type": "phrase",
+      "ex": "Two thirds of the bottle is empty.",
+      "exZh": "這瓶子有三分之二是空的。"
+    },
+    {
+      "en": "three quarters",
+      "kk": "",
+      "zh": "四分之三",
+      "emoji": "🍰",
+      "type": "phrase",
+      "ex": "Three quarters of the pie is gone.",
+      "exZh": "派已經被吃掉四分之三。"
+    },
+    {
+      "en": "odd number",
+      "kk": "",
+      "zh": "奇數",
+      "emoji": "🔢",
+      "type": "phrase",
+      "ex": "Seven is an odd number.",
+      "exZh": "七是奇數。"
+    },
+    {
+      "en": "even number",
+      "kk": "",
+      "zh": "偶數",
+      "emoji": "🔢",
+      "type": "phrase",
+      "ex": "Eight is an even number.",
+      "exZh": "八是偶數。"
+    },
+    {
+      "en": "one hundred and one",
+      "kk": "",
+      "zh": "一百零一",
+      "emoji": "💯",
+      "type": "phrase",
+      "ex": "There are one hundred and one dogs.",
+      "exZh": "有一百零一隻狗。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "How many are there?",
+      "zh": "有幾個？",
+      "note": "詢問數量"
+    },
+    {
+      "en": "There are twelve eggs in a dozen.",
+      "zh": "一打有十二顆蛋。",
+      "note": "解釋單位"
+    },
+    {
+      "en": "What's your phone number?",
+      "zh": "你的電話號碼是多少？",
+      "note": "留聯絡方式"
+    },
+    {
+      "en": "My number is zero nine one two...",
+      "zh": "我的號碼是零九一二……",
+      "note": "口說電話號碼"
+    },
+    {
+      "en": "How much does it cost?",
+      "zh": "這個多少錢？",
+      "note": "購物詢價"
+    },
+    {
+      "en": "It's fifty dollars.",
+      "zh": "五十元。",
+      "note": "回答價錢"
+    },
+    {
+      "en": "I live on the twenty-first floor.",
+      "zh": "我住在二十一樓。",
+      "note": "說明樓層"
+    },
+    {
+      "en": "Today is the third of June.",
+      "zh": "今天是六月三日。",
+      "note": "說日期"
+    },
+    {
+      "en": "She came in first place.",
+      "zh": "她得了第一名。",
+      "note": "談比賽名次"
+    },
+    {
+      "en": "I go swimming twice a week.",
+      "zh": "我一週游泳兩次。",
+      "note": "說頻率"
+    },
+    {
+      "en": "Please cut the cake in half.",
+      "zh": "請把蛋糕切成兩半。",
+      "note": "分食物"
+    },
+    {
+      "en": "A quarter of the class is late.",
+      "zh": "全班有四分之一的人遲到。",
+      "note": "說比例"
+    },
+    {
+      "en": "Two thirds of the pizza is gone.",
+      "zh": "披薩已經被吃掉三分之二。",
+      "note": "說剩餘量"
+    },
+    {
+      "en": "Let's count from one to ten.",
+      "zh": "我們從一數到十吧。",
+      "note": "教小朋友數數"
+    },
+    {
+      "en": "Is eleven an odd or even number?",
+      "zh": "十一是奇數還是偶數？",
+      "note": "數學課"
+    }
+  ],
+  "dialogues": [
+    {
+      "title": "買雞蛋",
+      "lines": [
+        {
+          "who": "A",
+          "en": "How much are the eggs?",
+          "zh": "雞蛋多少錢？"
+        },
+        {
+          "who": "B",
+          "en": "A dozen is sixty dollars.",
+          "zh": "一打六十元。"
+        },
+        {
+          "who": "A",
+          "en": "I'd like two dozen, please.",
+          "zh": "我要兩打，麻煩你。"
+        },
+        {
+          "who": "B",
+          "en": "That will be one hundred and twenty dollars.",
+          "zh": "一共是一百二十元。"
+        }
+      ]
+    },
+    {
+      "title": "分披薩",
+      "lines": [
+        {
+          "who": "A",
+          "en": "Let's cut the pizza into four pieces.",
+          "zh": "我們把披薩切成四片。"
+        },
+        {
+          "who": "B",
+          "en": "I'll take a quarter.",
+          "zh": "我要四分之一。"
+        },
+        {
+          "who": "A",
+          "en": "I already ate two thirds of mine.",
+          "zh": "我的已經吃掉三分之二了。"
+        },
+        {
+          "who": "B",
+          "en": "Wow, you eat so fast!",
+          "zh": "哇，你吃好快！"
+        }
+      ]
+    }
+  ]
+}

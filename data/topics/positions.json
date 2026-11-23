@@ -1,0 +1,477 @@
+{
+  "id": "positions",
+  "title": "Positions",
+  "zh": "位置與方位介系詞",
+  "emoji": "📍",
+  "backdrop": "park",
+  "intro": "用 in、on、under 等介系詞，說出東西在哪裡、怎麼走。",
+  "words": [
+    {
+      "en": "in",
+      "kk": "ɪn",
+      "zh": "在……裡面",
+      "emoji": "📥",
+      "type": "word",
+      "ex": "The cat is in the box.",
+      "exZh": "貓咪在盒子裡。"
+    },
+    {
+      "en": "on",
+      "kk": "ɑn",
+      "zh": "在……上面（接觸）",
+      "emoji": "🔛",
+      "type": "word",
+      "ex": "The book is on the table.",
+      "exZh": "書在桌子上。"
+    },
+    {
+      "en": "under",
+      "kk": "ˋʌndɚ",
+      "zh": "在……下面",
+      "emoji": "🔽",
+      "type": "word",
+      "ex": "The ball is under the chair.",
+      "exZh": "球在椅子下面。"
+    },
+    {
+      "en": "above",
+      "kk": "əˋbʌv",
+      "zh": "在……上方",
+      "emoji": "⬆️",
+      "type": "word",
+      "ex": "There is a lamp above the table.",
+      "exZh": "桌子上方有一盞燈。"
+    },
+    {
+      "en": "below",
+      "kk": "bɪˋlo",
+      "zh": "在……下方",
+      "emoji": "⬇️",
+      "type": "word",
+      "ex": "Write your name below the line.",
+      "exZh": "把名字寫在線的下方。"
+    },
+    {
+      "en": "over",
+      "kk": "ˋovɚ",
+      "zh": "在……正上方；越過",
+      "emoji": "🌉",
+      "type": "word",
+      "ex": "The bird flew over the house.",
+      "exZh": "小鳥飛過房子上空。"
+    },
+    {
+      "en": "beside",
+      "kk": "bɪˋsaɪd",
+      "zh": "在……旁邊",
+      "emoji": "🧑‍🤝‍🧑",
+      "type": "word",
+      "ex": "She sat beside her mother.",
+      "exZh": "她坐在媽媽旁邊。"
+    },
+    {
+      "en": "near",
+      "kk": "nɪr",
+      "zh": "靠近",
+      "emoji": "📌",
+      "type": "word",
+      "ex": "The bank is near the station.",
+      "exZh": "銀行在車站附近。"
+    },
+    {
+      "en": "behind",
+      "kk": "bɪˋhaɪnd",
+      "zh": "在……後面",
+      "emoji": "🙈",
+      "type": "word",
+      "ex": "The dog hid behind the tree.",
+      "exZh": "小狗躲在樹後面。"
+    },
+    {
+      "en": "inside",
+      "kk": "ɪnˋsaɪd",
+      "zh": "在裡面",
+      "emoji": "🔲",
+      "type": "word",
+      "ex": "It is warm inside the house.",
+      "exZh": "屋子裡面很溫暖。"
+    },
+    {
+      "en": "outside",
+      "kk": "ˋaʊtˋsaɪd",
+      "zh": "在外面",
+      "emoji": "🌳",
+      "type": "word",
+      "ex": "The kids are playing outside.",
+      "exZh": "孩子們在外面玩。"
+    },
+    {
+      "en": "between",
+      "kk": "bəˋtwin",
+      "zh": "在……之間",
+      "emoji": "↔️",
+      "type": "word",
+      "ex": "The school is between the park and the library.",
+      "exZh": "學校在公園和圖書館之間。"
+    },
+    {
+      "en": "among",
+      "kk": "əˋmʌŋ",
+      "zh": "在……當中",
+      "emoji": "👥",
+      "type": "word",
+      "ex": "He stood among the students.",
+      "exZh": "他站在學生們當中。"
+    },
+    {
+      "en": "around",
+      "kk": "əˋraʊnd",
+      "zh": "在……周圍",
+      "emoji": "🔄",
+      "type": "word",
+      "ex": "We sat around the table.",
+      "exZh": "我們圍坐在桌子旁。"
+    },
+    {
+      "en": "through",
+      "kk": "θru",
+      "zh": "穿過",
+      "emoji": "🚇",
+      "type": "word",
+      "ex": "The train goes through the tunnel.",
+      "exZh": "火車穿過隧道。"
+    },
+    {
+      "en": "across",
+      "kk": "əˋkrɔs",
+      "zh": "橫越；在對面",
+      "emoji": "🚸",
+      "type": "word",
+      "ex": "Walk across the street carefully.",
+      "exZh": "小心地走過馬路。"
+    },
+    {
+      "en": "along",
+      "kk": "əˋlɔŋ",
+      "zh": "沿著",
+      "emoji": "🚶",
+      "type": "word",
+      "ex": "We walked along the river.",
+      "exZh": "我們沿著河邊走。"
+    },
+    {
+      "en": "into",
+      "kk": "ˋɪntu",
+      "zh": "進入",
+      "emoji": "🚪",
+      "type": "word",
+      "ex": "He jumped into the pool.",
+      "exZh": "他跳進了游泳池。"
+    },
+    {
+      "en": "up",
+      "kk": "ʌp",
+      "zh": "向上；在上面",
+      "emoji": "🔼",
+      "type": "word",
+      "ex": "Climb up the stairs.",
+      "exZh": "爬上樓梯。"
+    },
+    {
+      "en": "down",
+      "kk": "daʊn",
+      "zh": "向下",
+      "emoji": "🔻",
+      "type": "word",
+      "ex": "The ball rolled down the hill.",
+      "exZh": "球滾下山坡。"
+    },
+    {
+      "en": "left",
+      "kk": "lɛft",
+      "zh": "左邊",
+      "emoji": "👈",
+      "type": "word",
+      "ex": "Turn left at the corner.",
+      "exZh": "在轉角左轉。"
+    },
+    {
+      "en": "right",
+      "kk": "raɪt",
+      "zh": "右邊",
+      "emoji": "👉",
+      "type": "word",
+      "ex": "The bank is on your right.",
+      "exZh": "銀行在你的右手邊。"
+    },
+    {
+      "en": "top",
+      "kk": "tɑp",
+      "zh": "頂部",
+      "emoji": "🔝",
+      "type": "word",
+      "ex": "The cat is at the top of the tree.",
+      "exZh": "貓咪在樹的頂端。"
+    },
+    {
+      "en": "bottom",
+      "kk": "ˋbɑtəm",
+      "zh": "底部",
+      "emoji": "⏬",
+      "type": "word",
+      "ex": "The key is at the bottom of my bag.",
+      "exZh": "鑰匙在我包包的底部。"
+    },
+    {
+      "en": "middle",
+      "kk": "ˋmɪdl",
+      "zh": "中間",
+      "emoji": "🎯",
+      "type": "word",
+      "ex": "He stood in the middle of the room.",
+      "exZh": "他站在房間的中間。"
+    },
+    {
+      "en": "corner",
+      "kk": "ˋkɔrnɚ",
+      "zh": "轉角；角落",
+      "emoji": "📐",
+      "type": "word",
+      "ex": "The store is on the corner.",
+      "exZh": "那家店在轉角處。"
+    },
+    {
+      "en": "front",
+      "kk": "frʌnt",
+      "zh": "前面",
+      "emoji": "⏩",
+      "type": "word",
+      "ex": "Please sit in the front.",
+      "exZh": "請坐在前面。"
+    },
+    {
+      "en": "back",
+      "kk": "bæk",
+      "zh": "後面",
+      "emoji": "⏪",
+      "type": "word",
+      "ex": "My bike is in the back of the car.",
+      "exZh": "我的腳踏車在車子後面。"
+    },
+    {
+      "en": "next to",
+      "kk": "",
+      "zh": "在……旁邊",
+      "emoji": "🤝",
+      "type": "phrase",
+      "ex": "The bank is next to the post office.",
+      "exZh": "銀行在郵局旁邊。"
+    },
+    {
+      "en": "in front of",
+      "kk": "",
+      "zh": "在……前面",
+      "emoji": "🧍",
+      "type": "phrase",
+      "ex": "A car stopped in front of the house.",
+      "exZh": "一輛車停在房子前面。"
+    },
+    {
+      "en": "on top of",
+      "kk": "",
+      "zh": "在……頂端；在……之上",
+      "emoji": "🏔️",
+      "type": "phrase",
+      "ex": "Put the hat on top of the box.",
+      "exZh": "把帽子放在盒子上面。"
+    },
+    {
+      "en": "far from",
+      "kk": "",
+      "zh": "離……很遠",
+      "emoji": "🛣️",
+      "type": "phrase",
+      "ex": "My school is far from my home.",
+      "exZh": "我的學校離家很遠。"
+    },
+    {
+      "en": "across from",
+      "kk": "",
+      "zh": "在……對面",
+      "emoji": "🏪",
+      "type": "phrase",
+      "ex": "The cafe is across from the library.",
+      "exZh": "咖啡店在圖書館對面。"
+    },
+    {
+      "en": "in the middle of",
+      "kk": "",
+      "zh": "在……正中間",
+      "emoji": "⭕",
+      "type": "phrase",
+      "ex": "There is a table in the middle of the room.",
+      "exZh": "房間正中間有一張桌子。"
+    },
+    {
+      "en": "on the left",
+      "kk": "",
+      "zh": "在左邊",
+      "emoji": "⬅️",
+      "type": "phrase",
+      "ex": "The toilet is on the left.",
+      "exZh": "洗手間在左邊。"
+    },
+    {
+      "en": "on the right",
+      "kk": "",
+      "zh": "在右邊",
+      "emoji": "➡️",
+      "type": "phrase",
+      "ex": "The bank is on the right.",
+      "exZh": "銀行在右邊。"
+    },
+    {
+      "en": "out of",
+      "kk": "",
+      "zh": "從……出來",
+      "emoji": "🚶",
+      "type": "phrase",
+      "ex": "He ran out of the room.",
+      "exZh": "他跑出了房間。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Where is my phone?",
+      "zh": "我的手機在哪裡？",
+      "note": "找東西時"
+    },
+    {
+      "en": "It is on the table.",
+      "zh": "它在桌子上。",
+      "note": "回答位置時"
+    },
+    {
+      "en": "Look under the bed.",
+      "zh": "去床底下找找。",
+      "note": "提示尋找位置時"
+    },
+    {
+      "en": "It is between the sofa and the lamp.",
+      "zh": "它在沙發和檯燈之間。",
+      "note": "說明東西的位置時"
+    },
+    {
+      "en": "Who is standing behind you?",
+      "zh": "誰站在你後面？",
+      "note": "詢問位置時"
+    },
+    {
+      "en": "The post office is next to the bank.",
+      "zh": "郵局在銀行旁邊。",
+      "note": "指路時"
+    },
+    {
+      "en": "Go straight and turn left at the corner.",
+      "zh": "直走，在轉角左轉。",
+      "note": "指路時"
+    },
+    {
+      "en": "It is across from the park.",
+      "zh": "它在公園對面。",
+      "note": "描述地點位置時"
+    },
+    {
+      "en": "Is the restroom near here?",
+      "zh": "洗手間在這附近嗎？",
+      "note": "詢問地點時"
+    },
+    {
+      "en": "Put the box on top of the shelf.",
+      "zh": "把箱子放在架子頂端。",
+      "note": "請人放東西時"
+    },
+    {
+      "en": "Please sit in the front.",
+      "zh": "請坐在前面。",
+      "note": "安排座位時"
+    },
+    {
+      "en": "I am standing in front of the school.",
+      "zh": "我正站在學校前面。",
+      "note": "告訴朋友自己位置時"
+    },
+    {
+      "en": "It is far from here. We should take a bus.",
+      "zh": "離這裡很遠，我們應該搭公車。",
+      "note": "討論距離時"
+    },
+    {
+      "en": "The keys are inside my bag.",
+      "zh": "鑰匙在我的包包裡面。",
+      "note": "說明物品位置時"
+    }
+  ],
+  "dialogues": [
+    {
+      "title": "找東西",
+      "lines": [
+        {
+          "who": "A",
+          "en": "Where is my phone?",
+          "zh": "我的手機在哪裡？"
+        },
+        {
+          "who": "B",
+          "en": "Is it on the table?",
+          "zh": "它在桌上嗎？"
+        },
+        {
+          "who": "A",
+          "en": "No, it is not there.",
+          "zh": "不在那裡。"
+        },
+        {
+          "who": "B",
+          "en": "Look under the cushion.",
+          "zh": "找一下靠墊下面。"
+        },
+        {
+          "who": "A",
+          "en": "Found it! It was between the cushions.",
+          "zh": "找到了！它在靠墊中間。"
+        }
+      ]
+    },
+    {
+      "title": "問路",
+      "lines": [
+        {
+          "who": "A",
+          "en": "Excuse me, where is the library?",
+          "zh": "不好意思，圖書館在哪裡？"
+        },
+        {
+          "who": "B",
+          "en": "Go straight and turn right at the corner.",
+          "zh": "直走，在轉角右轉。"
+        },
+        {
+          "who": "A",
+          "en": "Is it far from here?",
+          "zh": "離這裡遠嗎？"
+        },
+        {
+          "who": "B",
+          "en": "No, it is next to the bank.",
+          "zh": "不遠，它在銀行旁邊。"
+        },
+        {
+          "who": "A",
+          "en": "Thank you so much!",
+          "zh": "非常謝謝你！"
+        }
+      ]
+    }
+  ]
+}

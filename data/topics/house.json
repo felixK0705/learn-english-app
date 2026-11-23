@@ -1,0 +1,477 @@
+{
+  "id": "house",
+  "title": "House",
+  "zh": "房屋與房間",
+  "emoji": "🏠",
+  "backdrop": "home",
+  "intro": "認識房子的各個部分，學會描述自己住的地方。",
+  "words": [
+    {
+      "en": "house",
+      "kk": "ˋhaʊs",
+      "zh": "房子",
+      "emoji": "🏠",
+      "type": "word",
+      "ex": "We bought a small house last year.",
+      "exZh": "我們去年買了一棟小房子。"
+    },
+    {
+      "en": "apartment",
+      "kk": "əˋpɑrtmənt",
+      "zh": "公寓",
+      "emoji": "🏢",
+      "type": "word",
+      "ex": "Their apartment is on the fifth floor.",
+      "exZh": "他們的公寓在五樓。"
+    },
+    {
+      "en": "floor",
+      "kk": "flɔr",
+      "zh": "樓層；地板",
+      "emoji": "🪵",
+      "type": "word",
+      "ex": "The kitchen floor is very clean.",
+      "exZh": "廚房的地板很乾淨。"
+    },
+    {
+      "en": "ceiling",
+      "kk": "ˋsilɪŋ",
+      "zh": "天花板",
+      "emoji": "⬆️",
+      "type": "word",
+      "ex": "There is a spider on the ceiling.",
+      "exZh": "天花板上有一隻蜘蛛。"
+    },
+    {
+      "en": "wall",
+      "kk": "wɔl",
+      "zh": "牆壁",
+      "emoji": "🧱",
+      "type": "word",
+      "ex": "She hung a map on the wall.",
+      "exZh": "她在牆上掛了一張地圖。"
+    },
+    {
+      "en": "roof",
+      "kk": "ruf",
+      "zh": "屋頂",
+      "emoji": "🔺",
+      "type": "word",
+      "ex": "Snow covered the roof this morning.",
+      "exZh": "今天早上雪覆蓋了屋頂。"
+    },
+    {
+      "en": "door",
+      "kk": "dɔr",
+      "zh": "門",
+      "emoji": "🚪",
+      "type": "word",
+      "ex": "Please close the door behind you.",
+      "exZh": "請隨手關門。"
+    },
+    {
+      "en": "window",
+      "kk": "ˋwɪndo",
+      "zh": "窗戶",
+      "emoji": "🪟",
+      "type": "word",
+      "ex": "The window faces the garden.",
+      "exZh": "這扇窗戶面向花園。"
+    },
+    {
+      "en": "stairs",
+      "kk": "sterz",
+      "zh": "樓梯",
+      "emoji": "🪜",
+      "type": "word",
+      "ex": "Be careful on the stairs.",
+      "exZh": "上下樓梯要小心。"
+    },
+    {
+      "en": "garage",
+      "kk": "gəˋrɑʒ",
+      "zh": "車庫",
+      "emoji": "🚗",
+      "type": "word",
+      "ex": "Dad parked the car in the garage.",
+      "exZh": "爸爸把車停在車庫裡。"
+    },
+    {
+      "en": "yard",
+      "kk": "jɑrd",
+      "zh": "院子",
+      "emoji": "🌳",
+      "type": "word",
+      "ex": "The kids are playing in the yard.",
+      "exZh": "孩子們在院子裡玩。"
+    },
+    {
+      "en": "fence",
+      "kk": "fɛns",
+      "zh": "圍籬",
+      "emoji": "🚧",
+      "type": "word",
+      "ex": "We painted the fence white.",
+      "exZh": "我們把圍籬漆成白色。"
+    },
+    {
+      "en": "balcony",
+      "kk": "ˋbælkənɪ",
+      "zh": "陽台",
+      "emoji": "🏙️",
+      "type": "word",
+      "ex": "I water my plants on the balcony.",
+      "exZh": "我在陽台幫植物澆水。"
+    },
+    {
+      "en": "hallway",
+      "kk": "ˋhɔlˏwe",
+      "zh": "走廊；玄關",
+      "emoji": "🚶",
+      "type": "word",
+      "ex": "Leave your umbrella in the hallway.",
+      "exZh": "把你的雨傘放在玄關。"
+    },
+    {
+      "en": "basement",
+      "kk": "ˋbesmənt",
+      "zh": "地下室",
+      "emoji": "🕳️",
+      "type": "word",
+      "ex": "We keep old boxes in the basement.",
+      "exZh": "我們把舊箱子放在地下室。"
+    },
+    {
+      "en": "attic",
+      "kk": "ˋætɪk",
+      "zh": "閣樓",
+      "emoji": "📦",
+      "type": "word",
+      "ex": "The attic is dusty and dark.",
+      "exZh": "閣樓又髒又暗。"
+    },
+    {
+      "en": "chimney",
+      "kk": "ˋtʃɪmnɪ",
+      "zh": "煙囪",
+      "emoji": "🏭",
+      "type": "word",
+      "ex": "Smoke came out of the chimney.",
+      "exZh": "煙從煙囪冒出來。"
+    },
+    {
+      "en": "doorbell",
+      "kk": "ˋdɔrˏbɛl",
+      "zh": "門鈴",
+      "emoji": "🔔",
+      "type": "word",
+      "ex": "Someone just rang the doorbell.",
+      "exZh": "剛才有人按了門鈴。"
+    },
+    {
+      "en": "mailbox",
+      "kk": "ˋmelˏbɑks",
+      "zh": "信箱",
+      "emoji": "📮",
+      "type": "word",
+      "ex": "I checked the mailbox for letters.",
+      "exZh": "我去信箱看有沒有信。"
+    },
+    {
+      "en": "key",
+      "kk": "ki",
+      "zh": "鑰匙",
+      "emoji": "🔑",
+      "type": "word",
+      "ex": "I can not find my house key.",
+      "exZh": "我找不到我家的鑰匙。"
+    },
+    {
+      "en": "lock",
+      "kk": "lɑk",
+      "zh": "鎖",
+      "emoji": "🔒",
+      "type": "word",
+      "ex": "The lock on the gate is broken.",
+      "exZh": "大門的鎖壞了。"
+    },
+    {
+      "en": "elevator",
+      "kk": "ˋɛləˏvetɚ",
+      "zh": "電梯",
+      "emoji": "🛗",
+      "type": "word",
+      "ex": "Let us take the elevator to the tenth floor.",
+      "exZh": "我們搭電梯到十樓吧。"
+    },
+    {
+      "en": "neighbor",
+      "kk": "ˋnebɚ",
+      "zh": "鄰居",
+      "emoji": "🙋",
+      "type": "word",
+      "ex": "Our neighbor is very friendly.",
+      "exZh": "我們的鄰居非常友善。"
+    },
+    {
+      "en": "address",
+      "kk": "əˋdrɛs",
+      "zh": "地址",
+      "emoji": "📍",
+      "type": "word",
+      "ex": "What is your home address?",
+      "exZh": "你家的地址是什麼？"
+    },
+    {
+      "en": "rent",
+      "kk": "rɛnt",
+      "zh": "房租；租",
+      "emoji": "💰",
+      "type": "word",
+      "ex": "The rent is due on the first of the month.",
+      "exZh": "房租每個月一號要繳。"
+    },
+    {
+      "en": "landlord",
+      "kk": "ˋlændˏlɔrd",
+      "zh": "房東",
+      "emoji": "🧑‍💼",
+      "type": "word",
+      "ex": "The landlord fixed the heater.",
+      "exZh": "房東修好了暖氣。"
+    },
+    {
+      "en": "doormat",
+      "kk": "ˋdɔrˏmæt",
+      "zh": "門墊",
+      "emoji": "🟫",
+      "type": "word",
+      "ex": "Wipe your feet on the doormat.",
+      "exZh": "在門墊上擦一下腳。"
+    },
+    {
+      "en": "lawn",
+      "kk": "lɔn",
+      "zh": "草坪",
+      "emoji": "🌱",
+      "type": "word",
+      "ex": "Dad mows the lawn every weekend.",
+      "exZh": "爸爸每個週末都割草。"
+    },
+    {
+      "en": "gate",
+      "kk": "get",
+      "zh": "大門；柵欄門",
+      "emoji": "⛩️",
+      "type": "word",
+      "ex": "Please shut the gate.",
+      "exZh": "請把大門關上。"
+    },
+    {
+      "en": "porch",
+      "kk": "portʃ",
+      "zh": "門廊",
+      "emoji": "🪑",
+      "type": "word",
+      "ex": "We drink tea on the porch.",
+      "exZh": "我們在門廊喝茶。"
+    },
+    {
+      "en": "move in",
+      "kk": "",
+      "zh": "搬進來；入住",
+      "emoji": "🚚",
+      "type": "phrase",
+      "ex": "We move in next Monday.",
+      "exZh": "我們下週一搬進來。"
+    },
+    {
+      "en": "move out",
+      "kk": "",
+      "zh": "搬出去",
+      "emoji": "📦",
+      "type": "phrase",
+      "ex": "We move out of this apartment in June.",
+      "exZh": "我們六月要搬離這間公寓。"
+    },
+    {
+      "en": "lock up",
+      "kk": "",
+      "zh": "鎖好門窗",
+      "emoji": "🔐",
+      "type": "phrase",
+      "ex": "Do not forget to lock up when you leave.",
+      "exZh": "離開時別忘了鎖好門窗。"
+    },
+    {
+      "en": "next door",
+      "kk": "",
+      "zh": "隔壁",
+      "emoji": "🏘️",
+      "type": "phrase",
+      "ex": "My best friend lives next door.",
+      "exZh": "我最好的朋友住在隔壁。"
+    },
+    {
+      "en": "go upstairs",
+      "kk": "",
+      "zh": "上樓",
+      "emoji": "🔼",
+      "type": "phrase",
+      "ex": "I will go upstairs and get my bag.",
+      "exZh": "我上樓去拿我的包包。"
+    },
+    {
+      "en": "go downstairs",
+      "kk": "",
+      "zh": "下樓",
+      "emoji": "🔽",
+      "type": "phrase",
+      "ex": "Let us go downstairs for dinner.",
+      "exZh": "我們下樓去吃晚餐吧。"
+    },
+    {
+      "en": "knock on the door",
+      "kk": "",
+      "zh": "敲門",
+      "emoji": "✊",
+      "type": "phrase",
+      "ex": "Please knock on the door first.",
+      "exZh": "請先敲門。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Welcome to my home.",
+      "zh": "歡迎來我家。",
+      "note": "客人到訪時"
+    },
+    {
+      "en": "Come on in and make yourself at home.",
+      "zh": "請進，別客氣，當自己家。",
+      "note": "招呼客人進門時"
+    },
+    {
+      "en": "Where is the bathroom?",
+      "zh": "請問洗手間在哪裡？",
+      "note": "到別人家詢問時"
+    },
+    {
+      "en": "Please take off your shoes at the door.",
+      "zh": "請在門口脫鞋。",
+      "note": "請客人脫鞋時"
+    },
+    {
+      "en": "I live in an apartment on the third floor.",
+      "zh": "我住在三樓的公寓。",
+      "note": "介紹自己住的地方時"
+    },
+    {
+      "en": "Our house has two floors and a small yard.",
+      "zh": "我們家有兩層樓和一個小院子。",
+      "note": "描述房子時"
+    },
+    {
+      "en": "Who is it?",
+      "zh": "請問是哪位？",
+      "note": "有人按門鈴或敲門時"
+    },
+    {
+      "en": "Could you hold the door for me?",
+      "zh": "可以幫我扶一下門嗎？",
+      "note": "雙手拿東西進出時"
+    },
+    {
+      "en": "I forgot my key. I am locked out.",
+      "zh": "我忘了帶鑰匙，被鎖在外面了。",
+      "note": "進不了家門時"
+    },
+    {
+      "en": "How much is the rent per month?",
+      "zh": "每個月的房租是多少？",
+      "note": "租房子詢問價格時"
+    },
+    {
+      "en": "When can I move in?",
+      "zh": "我什麼時候可以搬進來？",
+      "note": "與房東討論入住時間時"
+    },
+    {
+      "en": "The elevator is out of order.",
+      "zh": "電梯故障了。",
+      "note": "電梯壞掉時"
+    },
+    {
+      "en": "Which floor are you going to?",
+      "zh": "你要去幾樓？",
+      "note": "在電梯裡詢問別人時"
+    },
+    {
+      "en": "Our neighbors are very quiet.",
+      "zh": "我們的鄰居都很安靜。",
+      "note": "談論居住環境時"
+    }
+  ],
+  "dialogues": [
+    {
+      "title": "新朋友來家裡",
+      "lines": [
+        {
+          "who": "A",
+          "en": "Hi, Amy! Come on in.",
+          "zh": "嗨，艾咪！快進來。"
+        },
+        {
+          "who": "B",
+          "en": "Thanks, Tom. Your house is so nice!",
+          "zh": "謝謝你，湯姆。你家好漂亮！"
+        },
+        {
+          "who": "A",
+          "en": "Please take off your shoes at the door.",
+          "zh": "請在門口脫鞋。"
+        },
+        {
+          "who": "B",
+          "en": "Sure. Where should I put my bag?",
+          "zh": "好的。我的包包要放哪裡？"
+        },
+        {
+          "who": "A",
+          "en": "Put it in the hallway.",
+          "zh": "放在玄關就好。"
+        }
+      ]
+    },
+    {
+      "title": "找房子",
+      "lines": [
+        {
+          "who": "A",
+          "en": "Hello, I am looking for an apartment.",
+          "zh": "你好，我在找公寓。"
+        },
+        {
+          "who": "B",
+          "en": "We have one on the fifth floor.",
+          "zh": "我們有一間在五樓。"
+        },
+        {
+          "who": "A",
+          "en": "Does it have a balcony?",
+          "zh": "它有陽台嗎？"
+        },
+        {
+          "who": "B",
+          "en": "Yes, and the rent is not expensive.",
+          "zh": "有，而且房租不貴。"
+        },
+        {
+          "who": "A",
+          "en": "Great. Can I see it today?",
+          "zh": "太好了。我今天可以看房嗎？"
+        }
+      ]
+    }
+  ]
+}

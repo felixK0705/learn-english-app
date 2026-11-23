@@ -1,0 +1,472 @@
+{
+  "id": "appliances",
+  "title": "Appliances",
+  "zh": "家電用品",
+  "emoji": "🔌",
+  "backdrop": "home",
+  "intro": "認識生活中常用的家電，學會說開關、充電與使用方式。",
+  "words": [
+    {
+      "en": "TV",
+      "kk": "ˏtiˋvi",
+      "zh": "電視",
+      "emoji": "📺",
+      "type": "word",
+      "ex": "The TV is too loud.",
+      "exZh": "電視太大聲了。"
+    },
+    {
+      "en": "washing machine",
+      "kk": "ˋwɑʃɪŋ məˏʃin",
+      "zh": "洗衣機",
+      "emoji": "🫧",
+      "type": "word",
+      "ex": "The washing machine is making a noise.",
+      "exZh": "洗衣機正在發出噪音。"
+    },
+    {
+      "en": "dryer",
+      "kk": "ˋdraɪɚ",
+      "zh": "烘乾機",
+      "emoji": "🌬️",
+      "type": "word",
+      "ex": "Put the wet towels in the dryer.",
+      "exZh": "把濕毛巾放進烘乾機。"
+    },
+    {
+      "en": "microwave",
+      "kk": "ˋmaɪkroˏwev",
+      "zh": "微波爐",
+      "emoji": "📟",
+      "type": "word",
+      "ex": "Heat the soup in the microwave.",
+      "exZh": "把湯放進微波爐加熱。"
+    },
+    {
+      "en": "toaster",
+      "kk": "ˋtostɚ",
+      "zh": "烤麵包機",
+      "emoji": "🍞",
+      "type": "word",
+      "ex": "The toaster is on the counter.",
+      "exZh": "烤麵包機在流理台上。"
+    },
+    {
+      "en": "blender",
+      "kk": "ˋblɛndɚ",
+      "zh": "果汁機；攪拌機",
+      "emoji": "🥤",
+      "type": "word",
+      "ex": "I made a smoothie with the blender.",
+      "exZh": "我用果汁機做了一杯冰沙。"
+    },
+    {
+      "en": "rice cooker",
+      "kk": "ˋraɪs ˏkʊkɚ",
+      "zh": "電子鍋",
+      "emoji": "🍚",
+      "type": "word",
+      "ex": "The rice cooker keeps the rice warm.",
+      "exZh": "電子鍋會讓飯保持溫熱。"
+    },
+    {
+      "en": "air conditioner",
+      "kk": "ˋɛr kənˏdɪʃənɚ",
+      "zh": "冷氣機",
+      "emoji": "❄️",
+      "type": "word",
+      "ex": "Please turn on the air conditioner.",
+      "exZh": "請開冷氣。"
+    },
+    {
+      "en": "fan",
+      "kk": "fæn",
+      "zh": "電風扇",
+      "emoji": "🪭",
+      "type": "word",
+      "ex": "A fan is enough on a mild day.",
+      "exZh": "天氣不太熱時有電風扇就夠了。"
+    },
+    {
+      "en": "heater",
+      "kk": "ˋhitɚ",
+      "zh": "暖氣機；暖爐",
+      "emoji": "♨️",
+      "type": "word",
+      "ex": "The heater warms up the room fast.",
+      "exZh": "暖氣機讓房間很快就暖起來。"
+    },
+    {
+      "en": "hair dryer",
+      "kk": "ˋhɛr ˏdraɪɚ",
+      "zh": "吹風機",
+      "emoji": "💨",
+      "type": "word",
+      "ex": "She dries her hair with a hair dryer.",
+      "exZh": "她用吹風機吹頭髮。"
+    },
+    {
+      "en": "vacuum cleaner",
+      "kk": "ˋvækjuəm ˏklinɚ",
+      "zh": "吸塵器",
+      "emoji": "🧹",
+      "type": "word",
+      "ex": "The vacuum cleaner is very loud.",
+      "exZh": "吸塵器的聲音很大。"
+    },
+    {
+      "en": "dishwasher",
+      "kk": "ˋdɪʃˏwɑʃɚ",
+      "zh": "洗碗機",
+      "emoji": "🍽️",
+      "type": "word",
+      "ex": "Load the dishes into the dishwasher.",
+      "exZh": "把碗盤放進洗碗機。"
+    },
+    {
+      "en": "water heater",
+      "kk": "ˋwɔtɚ ˏhitɚ",
+      "zh": "熱水器",
+      "emoji": "🚿",
+      "type": "word",
+      "ex": "The water heater is broken.",
+      "exZh": "熱水器壞了。"
+    },
+    {
+      "en": "freezer",
+      "kk": "ˋfrizɚ",
+      "zh": "冷凍庫",
+      "emoji": "🥶",
+      "type": "word",
+      "ex": "The ice cream is in the freezer.",
+      "exZh": "冰淇淋在冷凍庫裡。"
+    },
+    {
+      "en": "coffee maker",
+      "kk": "ˋkɔfɪ ˏmekɚ",
+      "zh": "咖啡機",
+      "emoji": "☕",
+      "type": "word",
+      "ex": "Dad starts the coffee maker at seven.",
+      "exZh": "爸爸七點啟動咖啡機。"
+    },
+    {
+      "en": "computer",
+      "kk": "kəmˋpjutɚ",
+      "zh": "電腦",
+      "emoji": "🖥️",
+      "type": "word",
+      "ex": "My computer is very slow today.",
+      "exZh": "我的電腦今天很慢。"
+    },
+    {
+      "en": "laptop",
+      "kk": "ˋlæpˏtɑp",
+      "zh": "筆記型電腦",
+      "emoji": "💻",
+      "type": "word",
+      "ex": "She works on a laptop.",
+      "exZh": "她用筆記型電腦工作。"
+    },
+    {
+      "en": "printer",
+      "kk": "ˋprɪntɚ",
+      "zh": "印表機",
+      "emoji": "🖨️",
+      "type": "word",
+      "ex": "The printer is out of paper.",
+      "exZh": "印表機沒紙了。"
+    },
+    {
+      "en": "speaker",
+      "kk": "ˋspikɚ",
+      "zh": "喇叭；音響",
+      "emoji": "🔊",
+      "type": "word",
+      "ex": "The speaker sounds really good.",
+      "exZh": "這個喇叭的音質真好。"
+    },
+    {
+      "en": "camera",
+      "kk": "ˋkæmərə",
+      "zh": "相機",
+      "emoji": "📷",
+      "type": "word",
+      "ex": "He took a photo with his camera.",
+      "exZh": "他用相機拍了一張照片。"
+    },
+    {
+      "en": "charger",
+      "kk": "ˋtʃɑrdʒɚ",
+      "zh": "充電器",
+      "emoji": "🔋",
+      "type": "word",
+      "ex": "Can I borrow your phone charger?",
+      "exZh": "我可以借你的手機充電器嗎？"
+    },
+    {
+      "en": "battery",
+      "kk": "ˋbætərɪ",
+      "zh": "電池",
+      "emoji": "🪫",
+      "type": "word",
+      "ex": "The battery is almost dead.",
+      "exZh": "電池快沒電了。"
+    },
+    {
+      "en": "plug",
+      "kk": "plʌg",
+      "zh": "插頭",
+      "emoji": "🔌",
+      "type": "word",
+      "ex": "Pull the plug out of the wall.",
+      "exZh": "把插頭從牆上拔掉。"
+    },
+    {
+      "en": "cord",
+      "kk": "kɔrd",
+      "zh": "電線",
+      "emoji": "🪢",
+      "type": "word",
+      "ex": "Do not step on the cord.",
+      "exZh": "不要踩到電線。"
+    },
+    {
+      "en": "light bulb",
+      "kk": "ˋlaɪt ˏbʌlb",
+      "zh": "燈泡",
+      "emoji": "💡",
+      "type": "word",
+      "ex": "The light bulb burned out.",
+      "exZh": "燈泡燒壞了。"
+    },
+    {
+      "en": "flashlight",
+      "kk": "ˋflæʃˏlaɪt",
+      "zh": "手電筒",
+      "emoji": "🔦",
+      "type": "word",
+      "ex": "I need a flashlight in the dark.",
+      "exZh": "我在黑暗中需要手電筒。"
+    },
+    {
+      "en": "air purifier",
+      "kk": "ˋɛr ˏpjʊrəˏfaɪɚ",
+      "zh": "空氣清淨機",
+      "emoji": "🌫️",
+      "type": "word",
+      "ex": "The air purifier is running all day.",
+      "exZh": "空氣清淨機整天都開著。"
+    },
+    {
+      "en": "radio",
+      "kk": "ˋredɪˏo",
+      "zh": "收音機",
+      "emoji": "📻",
+      "type": "word",
+      "ex": "Grandpa listens to the radio.",
+      "exZh": "爺爺聽收音機。"
+    },
+    {
+      "en": "headphones",
+      "kk": "ˋhɛdˏfonz",
+      "zh": "耳機",
+      "emoji": "🎧",
+      "type": "word",
+      "ex": "I wear headphones on the train.",
+      "exZh": "我在火車上戴耳機。"
+    },
+    {
+      "en": "turn on",
+      "kk": "",
+      "zh": "打開（電器）",
+      "emoji": "🟢",
+      "type": "phrase",
+      "ex": "Turn on the TV, please.",
+      "exZh": "請打開電視。"
+    },
+    {
+      "en": "turn off",
+      "kk": "",
+      "zh": "關掉（電器）",
+      "emoji": "🔴",
+      "type": "phrase",
+      "ex": "Turn off the fan before you leave.",
+      "exZh": "離開前請關掉電風扇。"
+    },
+    {
+      "en": "plug in",
+      "kk": "",
+      "zh": "插上插頭",
+      "emoji": "🔌",
+      "type": "phrase",
+      "ex": "Plug in the charger over there.",
+      "exZh": "把充電器插在那邊。"
+    },
+    {
+      "en": "unplug",
+      "kk": "",
+      "zh": "拔掉插頭",
+      "emoji": "🪫",
+      "type": "phrase",
+      "ex": "Unplug the iron after using it.",
+      "exZh": "用完熨斗要拔掉插頭。"
+    },
+    {
+      "en": "set the timer",
+      "kk": "",
+      "zh": "設定計時器",
+      "emoji": "⏲️",
+      "type": "phrase",
+      "ex": "Set the timer for ten minutes.",
+      "exZh": "把計時器設定十分鐘。"
+    },
+    {
+      "en": "run out of battery",
+      "kk": "",
+      "zh": "電池耗盡",
+      "emoji": "🪫",
+      "type": "phrase",
+      "ex": "My phone ran out of battery.",
+      "exZh": "我的手機沒電了。"
+    },
+    {
+      "en": "turn up the volume",
+      "kk": "",
+      "zh": "把音量調大",
+      "emoji": "🔉",
+      "type": "phrase",
+      "ex": "Can you turn up the volume?",
+      "exZh": "你可以把音量調大嗎？"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Could you turn on the air conditioner?",
+      "zh": "可以請你開冷氣嗎？",
+      "note": "覺得熱時"
+    },
+    {
+      "en": "It is too cold. Please turn it off.",
+      "zh": "太冷了，請把它關掉。",
+      "note": "覺得冷氣太強時"
+    },
+    {
+      "en": "Where is the remote for the fan?",
+      "zh": "電風扇的遙控器在哪裡？",
+      "note": "找不到遙控器時"
+    },
+    {
+      "en": "The washing machine is not working.",
+      "zh": "洗衣機壞了。",
+      "note": "電器故障時"
+    },
+    {
+      "en": "This printer is out of order.",
+      "zh": "這台印表機故障了。",
+      "note": "電器故障時"
+    },
+    {
+      "en": "How do I turn this on?",
+      "zh": "這個要怎麼開？",
+      "note": "不會使用電器時"
+    },
+    {
+      "en": "Can I use your charger?",
+      "zh": "我可以用你的充電器嗎？",
+      "note": "手機沒電時"
+    },
+    {
+      "en": "My laptop is out of battery.",
+      "zh": "我的筆電沒電了。",
+      "note": "需要充電時"
+    },
+    {
+      "en": "Is there an outlet nearby?",
+      "zh": "附近有插座嗎？",
+      "note": "找插座時"
+    },
+    {
+      "en": "Please unplug it before you clean it.",
+      "zh": "清潔前請先拔掉插頭。",
+      "note": "提醒用電安全時"
+    },
+    {
+      "en": "Turn down the TV. I am studying.",
+      "zh": "電視小聲一點，我在念書。",
+      "note": "需要安靜時"
+    },
+    {
+      "en": "The microwave is beeping.",
+      "zh": "微波爐在嗶嗶響。",
+      "note": "食物加熱好時"
+    },
+    {
+      "en": "Do not leave the heater on at night.",
+      "zh": "晚上不要一直開著暖氣機。",
+      "note": "提醒用電安全時"
+    },
+    {
+      "en": "Let me know if the dryer finishes.",
+      "zh": "烘乾機好了請告訴我。",
+      "note": "請人留意時"
+    }
+  ],
+  "dialogues": [
+    {
+      "title": "冷氣太冷",
+      "lines": [
+        {
+          "who": "A",
+          "en": "It is so hot in here.",
+          "zh": "這裡好熱。"
+        },
+        {
+          "who": "B",
+          "en": "Let me turn on the air conditioner.",
+          "zh": "我來開冷氣。"
+        },
+        {
+          "who": "A",
+          "en": "Thanks. Where is the remote?",
+          "zh": "謝謝。遙控器在哪裡？"
+        },
+        {
+          "who": "B",
+          "en": "It is on the shelf. Set it to twenty-six degrees.",
+          "zh": "在架子上。設定二十六度。"
+        },
+        {
+          "who": "A",
+          "en": "Okay. Oh, now it is a little cold.",
+          "zh": "好。喔，現在有點冷了。"
+        }
+      ]
+    },
+    {
+      "title": "手機沒電",
+      "lines": [
+        {
+          "who": "A",
+          "en": "My phone ran out of battery.",
+          "zh": "我的手機沒電了。"
+        },
+        {
+          "who": "B",
+          "en": "You can use my charger.",
+          "zh": "你可以用我的充電器。"
+        },
+        {
+          "who": "A",
+          "en": "Great. Is there an outlet nearby?",
+          "zh": "太好了。附近有插座嗎？"
+        },
+        {
+          "who": "B",
+          "en": "Yes, next to the TV.",
+          "zh": "有，在電視旁邊。"
+        }
+      ]
+    }
+  ]
+}

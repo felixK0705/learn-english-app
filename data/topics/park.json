@@ -1,0 +1,476 @@
+{
+  "id": "park",
+  "title": "At the Park",
+  "zh": "公園與遊樂場",
+  "emoji": "🌳",
+  "backdrop": "park",
+  "intro": "在公園與遊樂場玩耍時會用到的單字和句子。",
+  "words": [
+    {
+      "en": "playground",
+      "kk": "ˋpleˏgraʊnd",
+      "zh": "遊樂場；操場",
+      "emoji": "🛝",
+      "type": "word",
+      "ex": "Kids are running on the playground.",
+      "exZh": "孩子們在遊樂場上跑來跑去。"
+    },
+    {
+      "en": "slide",
+      "kk": "ˋslaɪd",
+      "zh": "溜滑梯",
+      "emoji": "🛝",
+      "type": "word",
+      "ex": "She went down the slide fast.",
+      "exZh": "她很快溜下了滑梯。"
+    },
+    {
+      "en": "swing",
+      "kk": "ˋswɪŋ",
+      "zh": "鞦韆",
+      "emoji": "🪁",
+      "type": "word",
+      "ex": "Push me on the swing, please.",
+      "exZh": "請在鞦韆上推我。"
+    },
+    {
+      "en": "seesaw",
+      "kk": "ˋsiˏsɔ",
+      "zh": "蹺蹺板",
+      "emoji": "⚖️",
+      "type": "word",
+      "ex": "Two kids are on the seesaw.",
+      "exZh": "兩個孩子在玩蹺蹺板。"
+    },
+    {
+      "en": "sandbox",
+      "kk": "ˋsændˏbɑks",
+      "zh": "沙坑",
+      "emoji": "🏖️",
+      "type": "word",
+      "ex": "The baby plays in the sandbox.",
+      "exZh": "寶寶在沙坑裡玩。"
+    },
+    {
+      "en": "jungle gym",
+      "kk": "ˋdʒʌŋgl̩ ˏdʒɪm",
+      "zh": "攀爬架",
+      "emoji": "🧗",
+      "type": "word",
+      "ex": "He climbed to the top of the jungle gym.",
+      "exZh": "他爬到了攀爬架的頂端。"
+    },
+    {
+      "en": "fountain",
+      "kk": "ˋfaʊntn̩",
+      "zh": "噴水池",
+      "emoji": "⛲",
+      "type": "word",
+      "ex": "Coins lie at the bottom of the fountain.",
+      "exZh": "噴水池底有一些硬幣。"
+    },
+    {
+      "en": "pond",
+      "kk": "ˋpɑnd",
+      "zh": "池塘",
+      "emoji": "🪷",
+      "type": "word",
+      "ex": "There are ducks in the pond.",
+      "exZh": "池塘裡有幾隻鴨子。"
+    },
+    {
+      "en": "duck",
+      "kk": "ˋdʌk",
+      "zh": "鴨子",
+      "emoji": "🦆",
+      "type": "word",
+      "ex": "A duck is swimming across the pond.",
+      "exZh": "一隻鴨子正游過池塘。"
+    },
+    {
+      "en": "bench",
+      "kk": "ˋbɛntʃ",
+      "zh": "長椅",
+      "emoji": "🪑",
+      "type": "word",
+      "ex": "Let us sit on that bench.",
+      "exZh": "我們坐在那張長椅上吧。"
+    },
+    {
+      "en": "path",
+      "kk": "ˋpæθ",
+      "zh": "小徑",
+      "emoji": "🛤",
+      "type": "word",
+      "ex": "This path leads to the lake.",
+      "exZh": "這條小徑通往湖邊。"
+    },
+    {
+      "en": "lawn",
+      "kk": "ˋlɔn",
+      "zh": "草坪",
+      "emoji": "🌿",
+      "type": "word",
+      "ex": "Please keep off the lawn.",
+      "exZh": "請勿踐踏草坪。"
+    },
+    {
+      "en": "tree",
+      "kk": "ˋtri",
+      "zh": "樹",
+      "emoji": "🌳",
+      "type": "word",
+      "ex": "We sat under a big tree.",
+      "exZh": "我們坐在一棵大樹下。"
+    },
+    {
+      "en": "flower",
+      "kk": "ˋflaʊɚ",
+      "zh": "花",
+      "emoji": "🌸",
+      "type": "word",
+      "ex": "These flowers smell so sweet.",
+      "exZh": "這些花聞起來好香。"
+    },
+    {
+      "en": "kite",
+      "kk": "ˋkaɪt",
+      "zh": "風箏",
+      "emoji": "🪁",
+      "type": "word",
+      "ex": "His kite flew high in the sky.",
+      "exZh": "他的風箏在天空飛得很高。"
+    },
+    {
+      "en": "picnic",
+      "kk": "ˋpɪknɪk",
+      "zh": "野餐",
+      "emoji": "🧺",
+      "type": "word",
+      "ex": "We packed a picnic lunch.",
+      "exZh": "我們準備了野餐午餐。"
+    },
+    {
+      "en": "blanket",
+      "kk": "ˋblæŋkɪt",
+      "zh": "毯子",
+      "emoji": "🛏️",
+      "type": "word",
+      "ex": "Spread the blanket on the grass.",
+      "exZh": "把毯子鋪在草地上。"
+    },
+    {
+      "en": "bicycle",
+      "kk": "ˋbaɪsɪkl̩",
+      "zh": "腳踏車",
+      "emoji": "🚲",
+      "type": "word",
+      "ex": "She rides her bicycle to the park.",
+      "exZh": "她騎腳踏車去公園。"
+    },
+    {
+      "en": "skateboard",
+      "kk": "ˋsketˏbord",
+      "zh": "滑板",
+      "emoji": "🛹",
+      "type": "word",
+      "ex": "He does tricks on his skateboard.",
+      "exZh": "他用滑板表演特技。"
+    },
+    {
+      "en": "scooter",
+      "kk": "ˋskutɚ",
+      "zh": "滑板車",
+      "emoji": "🛴",
+      "type": "word",
+      "ex": "My little brother rides a scooter.",
+      "exZh": "我弟弟騎滑板車。"
+    },
+    {
+      "en": "stroller",
+      "kk": "ˋstrolɚ",
+      "zh": "嬰兒推車",
+      "emoji": "👶",
+      "type": "word",
+      "ex": "A mom pushes a stroller down the path.",
+      "exZh": "一位媽媽推著嬰兒車走在小徑上。"
+    },
+    {
+      "en": "squirrel",
+      "kk": "ˋskwɝəl",
+      "zh": "松鼠",
+      "emoji": "🐿️",
+      "type": "word",
+      "ex": "A squirrel ran up the tree.",
+      "exZh": "一隻松鼠跑上了樹。"
+    },
+    {
+      "en": "pigeon",
+      "kk": "ˋpɪdʒɪn",
+      "zh": "鴿子",
+      "emoji": "🕊️",
+      "type": "word",
+      "ex": "Pigeons are eating bread crumbs.",
+      "exZh": "鴿子正在吃麵包屑。"
+    },
+    {
+      "en": "statue",
+      "kk": "ˋstætʃu",
+      "zh": "雕像",
+      "emoji": "🗽",
+      "type": "word",
+      "ex": "There is a statue in the center of the park.",
+      "exZh": "公園中央有一座雕像。"
+    },
+    {
+      "en": "leash",
+      "kk": "ˋliʃ",
+      "zh": "牽繩",
+      "emoji": "🦮",
+      "type": "word",
+      "ex": "Keep your dog on a leash.",
+      "exZh": "請用牽繩牽好你的狗。"
+    },
+    {
+      "en": "puppy",
+      "kk": "ˋpʌpɪ",
+      "zh": "小狗",
+      "emoji": "🐶",
+      "type": "word",
+      "ex": "The puppy loves to chase a ball.",
+      "exZh": "小狗喜歡追球。"
+    },
+    {
+      "en": "sprinkler",
+      "kk": "ˋsprɪŋklɚ",
+      "zh": "灑水器",
+      "emoji": "💦",
+      "type": "word",
+      "ex": "Kids ran through the sprinkler.",
+      "exZh": "孩子們跑過灑水器。"
+    },
+    {
+      "en": "hill",
+      "kk": "ˋhɪl",
+      "zh": "小山丘",
+      "emoji": "⛰️",
+      "type": "word",
+      "ex": "We rolled down the grassy hill.",
+      "exZh": "我們從長滿草的山坡上滾下來。"
+    },
+    {
+      "en": "bridge",
+      "kk": "ˋbrɪdʒ",
+      "zh": "橋",
+      "emoji": "🌉",
+      "type": "word",
+      "ex": "A small bridge crosses the stream.",
+      "exZh": "一座小橋橫跨溪流。"
+    },
+    {
+      "en": "recycling bin",
+      "kk": "riˋsaɪklɪŋ ˏbɪn",
+      "zh": "資源回收桶",
+      "emoji": "♻️",
+      "type": "word",
+      "ex": "Put the bottle in the recycling bin.",
+      "exZh": "把瓶子丟進資源回收桶。"
+    },
+    {
+      "en": "ice cream truck",
+      "kk": "ˋaɪs ˏkrim ˏtrʌk",
+      "zh": "冰淇淋車",
+      "emoji": "🍦",
+      "type": "word",
+      "ex": "The ice cream truck is here!",
+      "exZh": "冰淇淋車來了！"
+    },
+    {
+      "en": "have a picnic",
+      "kk": "",
+      "zh": "去野餐",
+      "emoji": "🥪",
+      "type": "phrase",
+      "ex": "Let us have a picnic by the lake.",
+      "exZh": "我們到湖邊野餐吧。"
+    },
+    {
+      "en": "fly a kite",
+      "kk": "",
+      "zh": "放風箏",
+      "emoji": "🌬️",
+      "type": "phrase",
+      "ex": "It is windy, so we can fly a kite.",
+      "exZh": "今天有風，我們可以放風箏。"
+    },
+    {
+      "en": "feed the ducks",
+      "kk": "",
+      "zh": "餵鴨子",
+      "emoji": "🍞",
+      "type": "phrase",
+      "ex": "The children feed the ducks with bread.",
+      "exZh": "孩子們用麵包餵鴨子。"
+    },
+    {
+      "en": "walk the dog",
+      "kk": "",
+      "zh": "遛狗",
+      "emoji": "🐕",
+      "type": "phrase",
+      "ex": "I walk the dog every evening.",
+      "exZh": "我每天傍晚遛狗。"
+    },
+    {
+      "en": "ride a bike",
+      "kk": "",
+      "zh": "騎腳踏車",
+      "emoji": "🚴",
+      "type": "phrase",
+      "ex": "Can you ride a bike without help?",
+      "exZh": "你可以不靠人幫忙就騎腳踏車嗎？"
+    },
+    {
+      "en": "play tag",
+      "kk": "",
+      "zh": "玩鬼抓人",
+      "emoji": "🏃‍♂️",
+      "type": "phrase",
+      "ex": "We played tag until it got dark.",
+      "exZh": "我們玩鬼抓人一直到天黑。"
+    },
+    {
+      "en": "take a walk",
+      "kk": "",
+      "zh": "散步",
+      "emoji": "🚶‍♀️",
+      "type": "phrase",
+      "ex": "Grandpa takes a walk after dinner.",
+      "exZh": "爺爺晚飯後散步。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Let us go to the park!",
+      "zh": "我們去公園吧！",
+      "note": "邀請朋友出門玩"
+    },
+    {
+      "en": "Do you want to go on the swings?",
+      "zh": "你想去玩鞦韆嗎？",
+      "note": "在遊樂場邀請玩伴"
+    },
+    {
+      "en": "Wait for your turn, please.",
+      "zh": "請等輪到你。",
+      "note": "提醒排隊玩設施"
+    },
+    {
+      "en": "Be careful! The slide is wet.",
+      "zh": "小心！滑梯是濕的。",
+      "note": "提醒安全"
+    },
+    {
+      "en": "Push me higher!",
+      "zh": "把我推高一點！",
+      "note": "玩鞦韆時"
+    },
+    {
+      "en": "Can I play with you?",
+      "zh": "我可以和你們一起玩嗎？",
+      "note": "想加入別人遊戲時"
+    },
+    {
+      "en": "Look at the ducks on the pond!",
+      "zh": "看池塘裡的鴨子！",
+      "note": "引起同伴注意"
+    },
+    {
+      "en": "It is such a beautiful day.",
+      "zh": "今天天氣真好。",
+      "note": "讚嘆好天氣"
+    },
+    {
+      "en": "Let us sit on the bench and rest.",
+      "zh": "我們坐在長椅上休息吧。",
+      "note": "走累時"
+    },
+    {
+      "en": "Please do not litter.",
+      "zh": "請不要亂丟垃圾。",
+      "note": "提醒公共禮儀"
+    },
+    {
+      "en": "Keep your dog on a leash.",
+      "zh": "請牽好你的狗。",
+      "note": "提醒遛狗規定"
+    },
+    {
+      "en": "I will race you to the tree!",
+      "zh": "我跟你比賽誰先跑到那棵樹！",
+      "note": "玩跑步遊戲"
+    },
+    {
+      "en": "It is getting late. Time to go home.",
+      "zh": "天色晚了，該回家了。",
+      "note": "結束玩耍時"
+    },
+    {
+      "en": "Can I have an ice cream, please?",
+      "zh": "我可以吃冰淇淋嗎？",
+      "note": "向家人撒嬌或向店員購買"
+    }
+  ],
+  "dialogues": [
+    {
+      "title": "在遊樂場認識朋友",
+      "lines": [
+        {
+          "who": "A",
+          "en": "Hi! Can I play with you?",
+          "zh": "嗨！我可以和你們一起玩嗎？"
+        },
+        {
+          "who": "B",
+          "en": "Sure! We are playing tag.",
+          "zh": "當然！我們在玩鬼抓人。"
+        },
+        {
+          "who": "A",
+          "en": "Great. Who is it?",
+          "zh": "太好了，誰當鬼？"
+        },
+        {
+          "who": "B",
+          "en": "Mia is it. Run!",
+          "zh": "小米當鬼，快跑！"
+        }
+      ]
+    },
+    {
+      "title": "野餐",
+      "lines": [
+        {
+          "who": "A",
+          "en": "Where should we put the blanket?",
+          "zh": "毯子要鋪在哪裡？"
+        },
+        {
+          "who": "B",
+          "en": "Under that big tree.",
+          "zh": "那棵大樹下面。"
+        },
+        {
+          "who": "A",
+          "en": "I brought sandwiches and juice.",
+          "zh": "我帶了三明治和果汁。"
+        },
+        {
+          "who": "B",
+          "en": "Yum! Let us have a picnic.",
+          "zh": "好棒！我們開始野餐吧。"
+        }
+      ]
+    }
+  ]
+}
