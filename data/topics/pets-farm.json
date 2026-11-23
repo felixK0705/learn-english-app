@@ -8,7 +8,7 @@
   "words": [
     {
       "en": "dog",
-      "kk": "dɔg",
+      "kk": "ˋdɔg",
       "zh": "狗",
       "emoji": "🐶",
       "type": "word",
@@ -26,7 +26,7 @@
     },
     {
       "en": "cat",
-      "kk": "kæt",
+      "kk": "ˋkæt",
       "zh": "貓",
       "emoji": "🐱",
       "type": "word",
@@ -70,17 +70,17 @@
       "exZh": "我們有兩隻金魚養在魚缸裡。"
     },
     {
-      "en": "guinea pig",
-      "kk": "ˋgɪnɪ ˏpɪg",
-      "zh": "天竺鼠",
-      "emoji": "🐹",
+      "en": "lizard",
+      "kk": "ˋlɪzɚd",
+      "zh": "蜥蜴",
+      "emoji": "🦎",
       "type": "word",
-      "ex": "The guinea pig eats fresh grass.",
-      "exZh": "天竺鼠吃新鮮的草。"
+      "ex": "My brother keeps a lizard as a pet.",
+      "exZh": "我哥哥養了一隻蜥蜴當寵物。"
     },
     {
       "en": "leash",
-      "kk": "liʃ",
+      "kk": "ˋliʃ",
       "zh": "狗繩；牽繩",
       "emoji": "🦮",
       "type": "word",
@@ -88,17 +88,17 @@
       "exZh": "請用牽繩拴好你的狗。"
     },
     {
-      "en": "collar",
-      "kk": "ˋkɑlɚ",
-      "zh": "項圈",
-      "emoji": "📿",
+      "en": "paw",
+      "kk": "ˋpɔ",
+      "zh": "（動物的）腳掌",
+      "emoji": "🐾",
       "type": "word",
-      "ex": "The dog has a red collar.",
-      "exZh": "那隻狗戴著紅色項圈。"
+      "ex": "The dog gave me its paw.",
+      "exZh": "小狗把牠的腳掌伸給我（握手）。"
     },
     {
       "en": "bone",
-      "kk": "bon",
+      "kk": "ˋbon",
       "zh": "骨頭",
       "emoji": "🦴",
       "type": "word",
@@ -107,7 +107,7 @@
     },
     {
       "en": "barn",
-      "kk": "bɑrn",
+      "kk": "ˋbɑrn",
       "zh": "穀倉；畜舍",
       "emoji": "🏚️",
       "type": "word",
@@ -134,7 +134,7 @@
     },
     {
       "en": "cow",
-      "kk": "kaʊ",
+      "kk": "ˋkaʊ",
       "zh": "乳牛",
       "emoji": "🐄",
       "type": "word",
@@ -143,7 +143,7 @@
     },
     {
       "en": "pig",
-      "kk": "pɪg",
+      "kk": "ˋpɪg",
       "zh": "豬",
       "emoji": "🐖",
       "type": "word",
@@ -152,7 +152,7 @@
     },
     {
       "en": "sheep",
-      "kk": "ʃip",
+      "kk": "ˋʃip",
       "zh": "綿羊",
       "emoji": "🐑",
       "type": "word",
@@ -161,7 +161,7 @@
     },
     {
       "en": "goat",
-      "kk": "got",
+      "kk": "ˋgot",
       "zh": "山羊",
       "emoji": "🐐",
       "type": "word",
@@ -170,7 +170,7 @@
     },
     {
       "en": "horse",
-      "kk": "hɔrs",
+      "kk": "ˋhɔrs",
       "zh": "馬",
       "emoji": "🐴",
       "type": "word",
@@ -206,7 +206,7 @@
     },
     {
       "en": "duck",
-      "kk": "dʌk",
+      "kk": "ˋdʌk",
       "zh": "鴨子",
       "emoji": "🦆",
       "type": "word",
@@ -215,7 +215,7 @@
     },
     {
       "en": "goose",
-      "kk": "gus",
+      "kk": "ˋgus",
       "zh": "鵝",
       "emoji": "🪿",
       "type": "word",
@@ -233,7 +233,7 @@
     },
     {
       "en": "egg",
-      "kk": "ɛg",
+      "kk": "ˋɛg",
       "zh": "蛋",
       "emoji": "🥚",
       "type": "word",
@@ -242,7 +242,7 @@
     },
     {
       "en": "milk",
-      "kk": "mɪlk",
+      "kk": "ˋmɪlk",
       "zh": "牛奶",
       "emoji": "🥛",
       "type": "word",
@@ -251,7 +251,7 @@
     },
     {
       "en": "hay",
-      "kk": "he",
+      "kk": "ˋhe",
       "zh": "乾草",
       "emoji": "🌾",
       "type": "word",
@@ -260,7 +260,7 @@
     },
     {
       "en": "fence",
-      "kk": "fɛns",
+      "kk": "ˋfɛns",
       "zh": "柵欄",
       "emoji": "🚧",
       "type": "word",
@@ -268,13 +268,22 @@
       "exZh": "羊群在柵欄後面。"
     },
     {
-      "en": "scarecrow",
-      "kk": "ˋskɛrˏkro",
-      "zh": "稻草人",
-      "emoji": "🎃",
+      "en": "water buffalo",
+      "kk": "ˋwɔtɚ ˏbʌfl̩ˏo",
+      "zh": "水牛",
+      "emoji": "🐃",
       "type": "word",
-      "ex": "The scarecrow stands in the field.",
-      "exZh": "稻草人站在田裡。"
+      "ex": "The water buffalo is working in the rice field.",
+      "exZh": "水牛正在稻田裡工作。"
+    },
+    {
+      "en": "guinea pig",
+      "kk": "ˋgɪnɪ ˏpɪg",
+      "zh": "天竺鼠",
+      "emoji": "🐹",
+      "type": "word",
+      "ex": "The guinea pig eats fresh grass.",
+      "exZh": "天竺鼠吃新鮮的草。"
     },
     {
       "en": "walk the dog",
@@ -327,7 +336,7 @@
       "zh": "受過如廁訓練的",
       "emoji": "🏠",
       "type": "phrase",
-      "ex": "Our puppy is not house-trained yet.",
+      "ex": "Our puppy isn't house-trained yet.",
       "exZh": "我們的小狗還沒學會如廁訓練。"
     },
     {
@@ -368,7 +377,7 @@
     },
     {
       "en": "Don't worry, she is very gentle.",
-      "zh": "別擔心，她很溫馴。",
+      "zh": "別擔心，牠很溫馴。",
       "note": "安撫對方"
     },
     {

@@ -21,21 +21,21 @@
       "zh": "晴朗的",
       "emoji": "☀️",
       "type": "word",
-      "ex": "It is a sunny day.",
+      "ex": "It's a sunny day.",
       "exZh": "今天是個大晴天。"
     },
     {
       "en": "cloudy",
       "kk": "ˋklaʊdɪ",
       "zh": "多雲的",
-      "emoji": "☁️",
+      "emoji": "🌥️",
       "type": "word",
-      "ex": "It is cloudy this morning.",
+      "ex": "It's cloudy this morning.",
       "exZh": "今天早上是多雲的天氣。"
     },
     {
       "en": "cloud",
-      "kk": "klaʊd",
+      "kk": "ˋklaʊd",
       "zh": "雲",
       "emoji": "☁️",
       "type": "word",
@@ -44,7 +44,7 @@
     },
     {
       "en": "rain",
-      "kk": "ren",
+      "kk": "ˋren",
       "zh": "雨；下雨",
       "emoji": "🌧️",
       "type": "word",
@@ -62,7 +62,7 @@
     },
     {
       "en": "snow",
-      "kk": "sno",
+      "kk": "ˋsno",
       "zh": "雪；下雪",
       "emoji": "❄️",
       "type": "word",
@@ -84,12 +84,12 @@
       "zh": "有風的",
       "emoji": "💨",
       "type": "word",
-      "ex": "It is too windy to fly a kite.",
+      "ex": "It's too windy to fly a kite.",
       "exZh": "風太大了，不能放風箏。"
     },
     {
       "en": "wind",
-      "kk": "wɪnd",
+      "kk": "ˋwɪnd",
       "zh": "風",
       "emoji": "🌬️",
       "type": "word",
@@ -98,7 +98,7 @@
     },
     {
       "en": "storm",
-      "kk": "stɔrm",
+      "kk": "ˋstɔrm",
       "zh": "暴風雨",
       "emoji": "⛈️",
       "type": "word",
@@ -125,7 +125,7 @@
     },
     {
       "en": "fog",
-      "kk": "fɔg",
+      "kk": "ˋfɔg",
       "zh": "霧",
       "emoji": "🌫️",
       "type": "word",
@@ -160,13 +160,13 @@
       "exZh": "別忘了帶你的雨傘。"
     },
     {
-      "en": "raincoat",
-      "kk": "ˋrenˏkot",
-      "zh": "雨衣",
-      "emoji": "🧥",
+      "en": "flood",
+      "kk": "ˋflʌd",
+      "zh": "水災；淹水",
+      "emoji": "🌊",
       "type": "word",
-      "ex": "She wore a yellow raincoat.",
-      "exZh": "她穿著一件黃色雨衣。"
+      "ex": "The heavy rain caused a flood.",
+      "exZh": "大雨造成了水災。"
     },
     {
       "en": "puddle",
@@ -187,26 +187,26 @@
       "exZh": "氣溫是二十度。"
     },
     {
-      "en": "degree",
-      "kk": "dɪˋgri",
-      "zh": "度",
-      "emoji": "🌡️",
+      "en": "tornado",
+      "kk": "tɔrˋnedo",
+      "zh": "龍捲風",
+      "emoji": "🌪️",
       "type": "word",
-      "ex": "It is thirty degrees outside.",
-      "exZh": "外面是三十度。"
+      "ex": "A tornado destroyed many houses.",
+      "exZh": "一場龍捲風摧毀了許多房子。"
     },
     {
       "en": "hot",
-      "kk": "hɑt",
+      "kk": "ˋhɑt",
       "zh": "熱的",
       "emoji": "🥵",
       "type": "word",
-      "ex": "It is very hot today.",
+      "ex": "It's very hot today.",
       "exZh": "今天非常熱。"
     },
     {
       "en": "cold",
-      "kk": "kold",
+      "kk": "ˋkold",
       "zh": "冷的",
       "emoji": "🥶",
       "type": "word",
@@ -215,7 +215,7 @@
     },
     {
       "en": "warm",
-      "kk": "wɔrm",
+      "kk": "ˋwɔrm",
       "zh": "溫暖的",
       "emoji": "😊",
       "type": "word",
@@ -224,7 +224,7 @@
     },
     {
       "en": "cool",
-      "kk": "kul",
+      "kk": "ˋkul",
       "zh": "涼爽的",
       "emoji": "🍃",
       "type": "word",
@@ -251,7 +251,7 @@
     },
     {
       "en": "spring",
-      "kk": "sprɪŋ",
+      "kk": "ˋsprɪŋ",
       "zh": "春天",
       "emoji": "🌱",
       "type": "word",
@@ -284,6 +284,24 @@
       "type": "word",
       "ex": "I wear a scarf in winter.",
       "exZh": "我冬天會戴圍巾。"
+    },
+    {
+      "en": "raincoat",
+      "kk": "ˋrenˏkot",
+      "zh": "雨衣",
+      "emoji": "🧥",
+      "type": "word",
+      "ex": "She wore a yellow raincoat.",
+      "exZh": "她穿著一件黃色雨衣。"
+    },
+    {
+      "en": "degree",
+      "kk": "dɪˋgri",
+      "zh": "度",
+      "emoji": "🌡️",
+      "type": "word",
+      "ex": "It's thirty degrees outside.",
+      "exZh": "外面是三十度。"
     },
     {
       "en": "weather forecast",

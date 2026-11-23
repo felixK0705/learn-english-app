@@ -25,15 +25,6 @@
       "exZh": "他帶著筆記型電腦去學校。"
     },
     {
-      "en": "tablet",
-      "kk": "ˋtæblɪt",
-      "zh": "平板電腦",
-      "emoji": "📱",
-      "type": "word",
-      "ex": "She reads books on a tablet.",
-      "exZh": "她用平板電腦看書。"
-    },
-    {
       "en": "keyboard",
       "kk": "ˋkiˏbord",
       "zh": "鍵盤",
@@ -52,13 +43,13 @@
       "exZh": "按滑鼠的左鍵。"
     },
     {
-      "en": "monitor",
-      "kk": "ˋmɑnətɚ",
-      "zh": "螢幕；顯示器",
-      "emoji": "🖥",
+      "en": "virus",
+      "kk": "ˋvaɪrəs",
+      "zh": "（電腦）病毒",
+      "emoji": "🦠",
       "type": "word",
-      "ex": "The monitor is too bright.",
-      "exZh": "螢幕太亮了。"
+      "ex": "My computer has a virus.",
+      "exZh": "我的電腦中毒了。"
     },
     {
       "en": "printer",
@@ -88,19 +79,19 @@
       "exZh": "開會請打開你的網路攝影機。"
     },
     {
-      "en": "cable",
-      "kk": "ˋkebl̩",
-      "zh": "傳輸線；電線",
-      "emoji": "🔌",
+      "en": "chat",
+      "kk": "ˋtʃæt",
+      "zh": "聊天；線上聊天",
+      "emoji": "💬",
       "type": "word",
-      "ex": "This cable is too short.",
-      "exZh": "這條線太短了。"
+      "ex": "I chat with my cousin online every night.",
+      "exZh": "我每天晚上都和表哥在網路上聊天。"
     },
     {
       "en": "charger",
       "kk": "ˋtʃɑrdʒɚ",
       "zh": "充電器",
-      "emoji": "🔋",
+      "emoji": "🔌",
       "type": "word",
       "ex": "Where is my phone charger?",
       "exZh": "我的手機充電器在哪裡？"
@@ -109,7 +100,7 @@
       "en": "battery",
       "kk": "ˋbætərɪ",
       "zh": "電池",
-      "emoji": "🪫",
+      "emoji": "🔋",
       "type": "word",
       "ex": "The battery is almost dead.",
       "exZh": "電池快沒電了。"
@@ -138,7 +129,7 @@
       "zh": "文件",
       "emoji": "📄",
       "type": "word",
-      "ex": "I am typing a document.",
+      "ex": "I'm typing a document.",
       "exZh": "我正在打一份文件。"
     },
     {
@@ -237,7 +228,7 @@
       "zh": "電子郵件",
       "emoji": "📧",
       "type": "word",
-      "ex": "I will send you an email tonight.",
+      "ex": "I'll send you an email tonight.",
       "exZh": "我今晚會寄電子郵件給你。"
     },
     {
@@ -246,7 +237,7 @@
       "zh": "密碼",
       "emoji": "🔑",
       "type": "word",
-      "ex": "Do not tell anyone your password.",
+      "ex": "Don't tell anyone your password.",
       "exZh": "不要告訴任何人你的密碼。"
     },
     {
@@ -257,6 +248,24 @@
       "type": "word",
       "ex": "Please type your username here.",
       "exZh": "請在這裡輸入你的使用者名稱。"
+    },
+    {
+      "en": "tablet",
+      "kk": "ˋtæblɪt",
+      "zh": "平板電腦",
+      "emoji": "📱",
+      "type": "word",
+      "ex": "She reads books on a tablet.",
+      "exZh": "她用平板電腦看書。"
+    },
+    {
+      "en": "monitor",
+      "kk": "ˋmɑnətɚ",
+      "zh": "螢幕；顯示器",
+      "emoji": "🖥️",
+      "type": "word",
+      "ex": "The monitor is too bright.",
+      "exZh": "螢幕太亮了。"
     },
     {
       "en": "turn on",
@@ -291,7 +300,7 @@
       "zh": "登出",
       "emoji": "🚪",
       "type": "phrase",
-      "ex": "Do not forget to log out.",
+      "ex": "Don't forget to log out.",
       "exZh": "別忘了登出。"
     },
     {
@@ -361,7 +370,7 @@
       "note": "詢問密碼"
     },
     {
-      "en": "My computer is not working.",
+      "en": "My computer isn't working.",
       "zh": "我的電腦壞了。",
       "note": "尋求協助時"
     },
@@ -381,7 +390,7 @@
       "note": "提醒備份"
     },
     {
-      "en": "I will send you the link.",
+      "en": "I'll send you the link.",
       "zh": "我會把連結寄給你。",
       "note": "分享網址"
     },
@@ -401,7 +410,7 @@
       "note": "手機或電腦沒電時"
     },
     {
-      "en": "Do not click on strange links.",
+      "en": "Don't click on strange links.",
       "zh": "不要點奇怪的連結。",
       "note": "提醒網路安全"
     },
@@ -427,7 +436,7 @@
       "lines": [
         {
           "who": "A",
-          "en": "My computer will not turn on.",
+          "en": "My computer won't turn on.",
           "zh": "我的電腦打不開。"
         },
         {
@@ -437,8 +446,8 @@
         },
         {
           "who": "A",
-          "en": "Oh, the cable came out. Thanks!",
-          "zh": "噢，電線掉了。謝謝！"
+          "en": "Oh, the plug came out. Thanks!",
+          "zh": "噢，插頭掉了。謝謝！"
         },
         {
           "who": "B",

@@ -8,7 +8,7 @@
   "words": [
     {
       "en": "shirt",
-      "kk": "ʃɝt",
+      "kk": "ˋʃɝt",
       "zh": "襯衫",
       "emoji": "👔",
       "type": "word",
@@ -30,7 +30,7 @@
       "zh": "毛衣",
       "emoji": "🧶",
       "type": "word",
-      "ex": "Put on a sweater. It is cold.",
+      "ex": "Put on a sweater. It’s cold.",
       "exZh": "穿件毛衣吧，天氣很冷。"
     },
     {
@@ -53,7 +53,7 @@
     },
     {
       "en": "dress",
-      "kk": "drɛs",
+      "kk": "ˋdrɛs",
       "zh": "洋裝",
       "emoji": "👗",
       "type": "word",
@@ -62,7 +62,7 @@
     },
     {
       "en": "skirt",
-      "kk": "skɝt",
+      "kk": "ˋskɝt",
       "zh": "裙子",
       "emoji": "💃",
       "type": "word",
@@ -71,7 +71,7 @@
     },
     {
       "en": "pants",
-      "kk": "pænts",
+      "kk": "ˋpænts",
       "zh": "褲子",
       "emoji": "👖",
       "type": "word",
@@ -79,26 +79,26 @@
       "exZh": "這條褲子有點緊。"
     },
     {
-      "en": "jeans",
-      "kk": "dʒinz",
-      "zh": "牛仔褲",
-      "emoji": "👖",
+      "en": "high heels",
+      "kk": "ˋhaɪ ˏhilz",
+      "zh": "高跟鞋",
+      "emoji": "👠",
       "type": "word",
-      "ex": "I wear jeans on weekends.",
-      "exZh": "我週末都穿牛仔褲。"
+      "ex": "My mom wore high heels to the wedding.",
+      "exZh": "我媽媽穿高跟鞋去參加婚禮。"
     },
     {
       "en": "shorts",
-      "kk": "ʃɔrts",
+      "kk": "ˋʃɔrts",
       "zh": "短褲",
       "emoji": "🩳",
       "type": "word",
-      "ex": "It is hot, so I wear shorts.",
+      "ex": "It’s hot, so I wear shorts.",
       "exZh": "天氣很熱，所以我穿短褲。"
     },
     {
       "en": "suit",
-      "kk": "sut",
+      "kk": "ˋsut",
       "zh": "西裝",
       "emoji": "🤵",
       "type": "word",
@@ -106,17 +106,17 @@
       "exZh": "他為了面試買了一套新西裝。"
     },
     {
-      "en": "tie",
-      "kk": "taɪ",
-      "zh": "領帶",
-      "emoji": "🪢",
+      "en": "face mask",
+      "kk": "ˋfes ˏmæsk",
+      "zh": "口罩",
+      "emoji": "😷",
       "type": "word",
-      "ex": "My dad ties his tie every morning.",
-      "exZh": "我爸爸每天早上打領帶。"
+      "ex": "Please wear a face mask on the bus.",
+      "exZh": "搭公車時請戴口罩。"
     },
     {
       "en": "socks",
-      "kk": "sɑks",
+      "kk": "ˋsɑks",
       "zh": "襪子",
       "emoji": "🧦",
       "type": "word",
@@ -125,7 +125,7 @@
     },
     {
       "en": "shoes",
-      "kk": "ʃuz",
+      "kk": "ˋʃuz",
       "zh": "鞋子",
       "emoji": "👞",
       "type": "word",
@@ -143,7 +143,7 @@
     },
     {
       "en": "boots",
-      "kk": "buts",
+      "kk": "ˋbuts",
       "zh": "靴子",
       "emoji": "🥾",
       "type": "word",
@@ -154,7 +154,7 @@
       "en": "sandals",
       "kk": "ˋsændl̩z",
       "zh": "涼鞋",
-      "emoji": "🩴",
+      "emoji": "👡",
       "type": "word",
       "ex": "She wears sandals at the beach.",
       "exZh": "她在海灘穿涼鞋。"
@@ -163,14 +163,14 @@
       "en": "slippers",
       "kk": "ˋslɪpɚz",
       "zh": "拖鞋",
-      "emoji": "🥿",
+      "emoji": "🩴",
       "type": "word",
       "ex": "Please wear slippers inside.",
       "exZh": "請在室內穿拖鞋。"
     },
     {
       "en": "hat",
-      "kk": "hæt",
+      "kk": "ˋhæt",
       "zh": "帽子",
       "emoji": "👒",
       "type": "word",
@@ -179,7 +179,7 @@
     },
     {
       "en": "cap",
-      "kk": "kæp",
+      "kk": "ˋkæp",
       "zh": "鴨舌帽；棒球帽",
       "emoji": "🧢",
       "type": "word",
@@ -188,7 +188,7 @@
     },
     {
       "en": "scarf",
-      "kk": "skɑrf",
+      "kk": "ˋskɑrf",
       "zh": "圍巾",
       "emoji": "🧣",
       "type": "word",
@@ -197,7 +197,7 @@
     },
     {
       "en": "gloves",
-      "kk": "glʌvz",
+      "kk": "ˋglʌvz",
       "zh": "手套",
       "emoji": "🧤",
       "type": "word",
@@ -215,7 +215,7 @@
     },
     {
       "en": "watch",
-      "kk": "wɑtʃ",
+      "kk": "ˋwɑtʃ",
       "zh": "手錶",
       "emoji": "⌚",
       "type": "word",
@@ -224,7 +224,7 @@
     },
     {
       "en": "handbag",
-      "kk": "ˋhænˏbæg",
+      "kk": "ˋhændˏbæg",
       "zh": "手提包",
       "emoji": "👜",
       "type": "word",
@@ -251,7 +251,7 @@
     },
     {
       "en": "ring",
-      "kk": "rɪŋ",
+      "kk": "ˋrɪŋ",
       "zh": "戒指",
       "emoji": "💍",
       "type": "word",
@@ -269,12 +269,30 @@
     },
     {
       "en": "size",
-      "kk": "saɪz",
+      "kk": "ˋsaɪz",
       "zh": "尺寸；尺碼",
       "emoji": "📏",
       "type": "word",
       "ex": "What size do you wear?",
       "exZh": "你穿什麼尺寸？"
+    },
+    {
+      "en": "jeans",
+      "kk": "ˋdʒinz",
+      "zh": "牛仔褲",
+      "emoji": "👖",
+      "type": "word",
+      "ex": "I wear jeans on weekends.",
+      "exZh": "我週末都穿牛仔褲。"
+    },
+    {
+      "en": "tie",
+      "kk": "ˋtaɪ",
+      "zh": "領帶",
+      "emoji": "👔",
+      "type": "word",
+      "ex": "My dad ties his tie every morning.",
+      "exZh": "我爸爸每天早上打領帶。"
     },
     {
       "en": "put on",
@@ -357,7 +375,7 @@
       "note": "詢問尺寸"
     },
     {
-      "en": "It is a little too tight.",
+      "en": "It’s a little too tight.",
       "zh": "這有點太緊了。",
       "note": "試穿後覺得不合身"
     },
@@ -387,7 +405,7 @@
       "note": "稱讚別人的穿著"
     },
     {
-      "en": "I will take it.",
+      "en": "I’ll take it.",
       "zh": "我要買這個。",
       "note": "決定購買時"
     },
@@ -407,7 +425,7 @@
       "note": "詢問衣服材質"
     },
     {
-      "en": "You should wear a jacket. It is cold.",
+      "en": "You should wear a jacket. It’s cold.",
       "zh": "你應該穿件外套，天氣很冷。",
       "note": "提醒別人保暖"
     }
@@ -428,7 +446,7 @@
         },
         {
           "who": "A",
-          "en": "It is a little tight. Do you have a bigger size?",
+          "en": "It’s a little tight. Do you have a bigger size?",
           "zh": "有點緊，有大一點的尺寸嗎？"
         },
         {
@@ -468,7 +486,7 @@
         },
         {
           "who": "A",
-          "en": "They fit well. I will take them.",
+          "en": "They fit well. I’ll take them.",
           "zh": "很合腳，我要買。"
         }
       ]

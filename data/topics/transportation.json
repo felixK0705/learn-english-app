@@ -8,7 +8,7 @@
   "words": [
     {
       "en": "bus",
-      "kk": "bʌs",
+      "kk": "ˋbʌs",
       "zh": "公車",
       "emoji": "🚌",
       "type": "word",
@@ -17,7 +17,7 @@
     },
     {
       "en": "train",
-      "kk": "tren",
+      "kk": "ˋtren",
       "zh": "火車",
       "emoji": "🚆",
       "type": "word",
@@ -26,7 +26,7 @@
     },
     {
       "en": "MRT",
-      "kk": "ˋɛmˋarˋti",
+      "kk": "ˏɛmˏɑrˋti",
       "zh": "捷運",
       "emoji": "🚇",
       "type": "word",
@@ -63,7 +63,7 @@
     {
       "en": "motorcycle",
       "kk": "ˋmotɚˏsaɪkl̩",
-      "zh": "重型機車",
+      "zh": "摩托車；重型機車",
       "emoji": "🏍️",
       "type": "word",
       "ex": "He bought a red motorcycle.",
@@ -71,7 +71,7 @@
     },
     {
       "en": "car",
-      "kk": "kɑr",
+      "kk": "ˋkɑr",
       "zh": "汽車",
       "emoji": "🚗",
       "type": "word",
@@ -80,7 +80,7 @@
     },
     {
       "en": "truck",
-      "kk": "trʌk",
+      "kk": "ˋtrʌk",
       "zh": "卡車",
       "emoji": "🚚",
       "type": "word",
@@ -98,7 +98,7 @@
     },
     {
       "en": "high-speed rail",
-      "kk": "ˋhaɪˋspid ˏrel",
+      "kk": "ˋhaɪˏspid ˋrel",
       "zh": "高鐵",
       "emoji": "🚄",
       "type": "word",
@@ -134,7 +134,7 @@
     },
     {
       "en": "fare",
-      "kk": "fɛr",
+      "kk": "ˋfɛr",
       "zh": "車資",
       "emoji": "💵",
       "type": "word",
@@ -152,7 +152,7 @@
     },
     {
       "en": "passenger",
-      "kk": "ˋpæsndʒɚ",
+      "kk": "ˋpæsn̩dʒɚ",
       "zh": "乘客",
       "emoji": "🙋",
       "type": "word",
@@ -170,7 +170,7 @@
     },
     {
       "en": "seat",
-      "kk": "sit",
+      "kk": "ˋsit",
       "zh": "座位",
       "emoji": "💺",
       "type": "word",
@@ -178,13 +178,13 @@
       "exZh": "這個座位有人坐嗎？"
     },
     {
-      "en": "seat belt",
-      "kk": "ˋsit ˏbɛlt",
-      "zh": "安全帶",
-      "emoji": "🔒",
+      "en": "helicopter",
+      "kk": "ˋhɛlɪˏkɑptɚ",
+      "zh": "直升機",
+      "emoji": "🚁",
       "type": "word",
-      "ex": "Always wear your seat belt.",
-      "exZh": "一定要繫好安全帶。"
+      "ex": "A helicopter flew over the city.",
+      "exZh": "一架直升機飛過城市上空。"
     },
     {
       "en": "helmet",
@@ -215,7 +215,7 @@
     },
     {
       "en": "route",
-      "kk": "rut",
+      "kk": "ˋrut",
       "zh": "路線",
       "emoji": "📍",
       "type": "word",
@@ -233,7 +233,7 @@
     },
     {
       "en": "tire",
-      "kk": "taɪr",
+      "kk": "ˋtaɪr",
       "zh": "輪胎",
       "emoji": "🛞",
       "type": "word",
@@ -273,7 +273,7 @@
       "zh": "下（車、船、飛機）",
       "emoji": "🔚",
       "type": "phrase",
-      "ex": "I will get off at the next stop.",
+      "ex": "I’ll get off at the next stop.",
       "exZh": "我會在下一站下車。"
     },
     {
@@ -388,12 +388,12 @@
       "note": "告知發車時間"
     },
     {
-      "en": "Please give up your seat to those in need.",
+      "en": "Please offer your seat to people who need it.",
       "zh": "請把座位讓給需要的人。",
       "note": "提醒禮讓博愛座"
     },
     {
-      "en": "We are stuck in traffic.",
+      "en": "We’re stuck in traffic.",
       "zh": "我們塞在車陣中。",
       "note": "告訴朋友會遲到"
     },
@@ -464,7 +464,7 @@
         },
         {
           "who": "A",
-          "en": "A little, but we will be there in fifteen minutes.",
+          "en": "A little, but we’ll be there in fifteen minutes.",
           "zh": "有一點，不過十五分鐘就會到。"
         }
       ]

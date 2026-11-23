@@ -17,7 +17,7 @@
     },
     {
       "en": "one",
-      "kk": "wʌn",
+      "kk": "ˋwʌn",
       "zh": "一",
       "emoji": "1️⃣",
       "type": "word",
@@ -26,7 +26,7 @@
     },
     {
       "en": "two",
-      "kk": "tu",
+      "kk": "ˋtu",
       "zh": "二",
       "emoji": "2️⃣",
       "type": "word",
@@ -35,7 +35,7 @@
     },
     {
       "en": "three",
-      "kk": "θri",
+      "kk": "ˋθri",
       "zh": "三",
       "emoji": "3️⃣",
       "type": "word",
@@ -43,8 +43,17 @@
       "exZh": "我需要三顆蘋果。"
     },
     {
+      "en": "four",
+      "kk": "ˋfor",
+      "zh": "四",
+      "emoji": "4️⃣",
+      "type": "word",
+      "ex": "A car has four wheels.",
+      "exZh": "汽車有四個輪子。"
+    },
+    {
       "en": "five",
-      "kk": "faɪv",
+      "kk": "ˋfaɪv",
       "zh": "五",
       "emoji": "5️⃣",
       "type": "word",
@@ -52,8 +61,44 @@
       "exZh": "請給我五分鐘。"
     },
     {
+      "en": "six",
+      "kk": "ˋsɪks",
+      "zh": "六",
+      "emoji": "6️⃣",
+      "type": "word",
+      "ex": "I get up at six every morning.",
+      "exZh": "我每天早上六點起床。"
+    },
+    {
+      "en": "seven",
+      "kk": "ˋsɛvən",
+      "zh": "七",
+      "emoji": "7️⃣",
+      "type": "word",
+      "ex": "There are seven days in a week.",
+      "exZh": "一個星期有七天。"
+    },
+    {
+      "en": "eight",
+      "kk": "ˋet",
+      "zh": "八",
+      "emoji": "8️⃣",
+      "type": "word",
+      "ex": "A spider has eight legs.",
+      "exZh": "蜘蛛有八隻腳。"
+    },
+    {
+      "en": "nine",
+      "kk": "ˋnaɪn",
+      "zh": "九",
+      "emoji": "9️⃣",
+      "type": "word",
+      "ex": "School starts at nine.",
+      "exZh": "學校九點開始上課。"
+    },
+    {
       "en": "ten",
-      "kk": "tɛn",
+      "kk": "ˋtɛn",
       "zh": "十",
       "emoji": "🔟",
       "type": "word",
@@ -62,9 +107,9 @@
     },
     {
       "en": "twelve",
-      "kk": "twɛlv",
+      "kk": "ˋtwɛlv",
       "zh": "十二",
-      "emoji": "🔢",
+      "emoji": "🕛",
       "type": "word",
       "ex": "A year has twelve months.",
       "exZh": "一年有十二個月。"
@@ -73,7 +118,7 @@
       "en": "thirteen",
       "kk": "ˋθɝˋtin",
       "zh": "十三",
-      "emoji": "🔢",
+      "emoji": "1️⃣3️⃣",
       "type": "word",
       "ex": "My brother is thirteen years old.",
       "exZh": "我弟弟十三歲。"
@@ -82,7 +127,7 @@
       "en": "twenty",
       "kk": "ˋtwɛntɪ",
       "zh": "二十",
-      "emoji": "🔢",
+      "emoji": "2️⃣0️⃣",
       "type": "word",
       "ex": "The ticket costs twenty dollars.",
       "exZh": "這張票要二十元。"
@@ -91,7 +136,7 @@
       "en": "fifty",
       "kk": "ˋfɪftɪ",
       "zh": "五十",
-      "emoji": "🔢",
+      "emoji": "5️⃣0️⃣",
       "type": "word",
       "ex": "He walked fifty steps.",
       "exZh": "他走了五十步。"
@@ -125,7 +170,7 @@
     },
     {
       "en": "first",
-      "kk": "fɝst",
+      "kk": "ˋfɝst",
       "zh": "第一",
       "emoji": "🥇",
       "type": "word",
@@ -143,7 +188,7 @@
     },
     {
       "en": "third",
-      "kk": "θɝd",
+      "kk": "ˋθɝd",
       "zh": "第三",
       "emoji": "🥉",
       "type": "word",
@@ -152,36 +197,18 @@
     },
     {
       "en": "fifth",
-      "kk": "fɪfθ",
+      "kk": "ˋfɪfθ",
       "zh": "第五",
-      "emoji": "5️⃣",
+      "emoji": "🏅",
       "type": "word",
       "ex": "Today is the fifth of May.",
       "exZh": "今天是五月五日。"
     },
     {
-      "en": "twelfth",
-      "kk": "twɛlfθ",
-      "zh": "第十二",
-      "emoji": "🔢",
-      "type": "word",
-      "ex": "Her birthday is on the twelfth.",
-      "exZh": "她的生日在十二號。"
-    },
-    {
-      "en": "twentieth",
-      "kk": "ˋtwɛntɪɪθ",
-      "zh": "第二十",
-      "emoji": "🔢",
-      "type": "word",
-      "ex": "This is the twentieth page.",
-      "exZh": "這是第二十頁。"
-    },
-    {
       "en": "twenty-first",
       "kk": "ˋtwɛntɪ ˋfɝst",
       "zh": "第二十一",
-      "emoji": "🔢",
+      "emoji": "2️⃣1️⃣",
       "type": "word",
       "ex": "We live in the twenty-first century.",
       "exZh": "我們生活在二十一世紀。"
@@ -190,14 +217,14 @@
       "en": "hundredth",
       "kk": "ˋhʌndrədθ",
       "zh": "第一百",
-      "emoji": "🏆",
+      "emoji": "💯",
       "type": "word",
-      "ex": "It is our hundredth anniversary.",
+      "ex": "It's our hundredth anniversary.",
       "exZh": "這是我們的一百週年紀念。"
     },
     {
       "en": "once",
-      "kk": "wʌns",
+      "kk": "ˋwʌns",
       "zh": "一次",
       "emoji": "☝️",
       "type": "word",
@@ -206,7 +233,7 @@
     },
     {
       "en": "twice",
-      "kk": "twaɪs",
+      "kk": "ˋtwaɪs",
       "zh": "兩次",
       "emoji": "✌️",
       "type": "word",
@@ -224,7 +251,7 @@
     },
     {
       "en": "pair",
-      "kk": "pɛr",
+      "kk": "ˋpɛr",
       "zh": "一雙；一對",
       "emoji": "🧦",
       "type": "word",
@@ -250,13 +277,40 @@
       "exZh": "你的電話號碼是多少？"
     },
     {
-      "en": "three times",
-      "kk": "",
-      "zh": "三次",
-      "emoji": "3️⃣",
-      "type": "phrase",
-      "ex": "I called him three times.",
-      "exZh": "我打了三次電話給他。"
+      "en": "count",
+      "kk": "ˋkaʊnt",
+      "zh": "數；計算",
+      "emoji": "🧮",
+      "type": "word",
+      "ex": "Can you count from one to twenty?",
+      "exZh": "你會從一數到二十嗎？"
+    },
+    {
+      "en": "plus",
+      "kk": "ˋplʌs",
+      "zh": "加",
+      "emoji": "➕",
+      "type": "word",
+      "ex": "Three plus four is seven.",
+      "exZh": "三加四等於七。"
+    },
+    {
+      "en": "minus",
+      "kk": "ˋmaɪnəs",
+      "zh": "減",
+      "emoji": "➖",
+      "type": "word",
+      "ex": "Ten minus two is eight.",
+      "exZh": "十減二等於八。"
+    },
+    {
+      "en": "equals",
+      "kk": "ˋikwəlz",
+      "zh": "等於",
+      "emoji": "🟰",
+      "type": "word",
+      "ex": "Two plus two equals four.",
+      "exZh": "二加二等於四。"
     },
     {
       "en": "a half",
@@ -273,8 +327,8 @@
       "zh": "四分之一",
       "emoji": "🍕",
       "type": "phrase",
-      "ex": "Cut the cake into a quarter.",
-      "exZh": "把蛋糕切成四分之一。"
+      "ex": "A quarter of the students walk to school.",
+      "exZh": "四分之一的學生走路上學。"
     },
     {
       "en": "one third",
@@ -302,6 +356,15 @@
       "type": "phrase",
       "ex": "Three quarters of the pie is gone.",
       "exZh": "派已經被吃掉四分之三。"
+    },
+    {
+      "en": "three times",
+      "kk": "",
+      "zh": "三次",
+      "emoji": "3️⃣",
+      "type": "phrase",
+      "ex": "I called him three times.",
+      "exZh": "我打了三次電話給他。"
     },
     {
       "en": "odd number",
@@ -373,7 +436,7 @@
       "note": "說日期"
     },
     {
-      "en": "She came in first place.",
+      "en": "She won first place.",
       "zh": "她得了第一名。",
       "note": "談比賽名次"
     },
@@ -429,7 +492,7 @@
         },
         {
           "who": "B",
-          "en": "That will be one hundred and twenty dollars.",
+          "en": "That'll be one hundred and twenty dollars.",
           "zh": "一共是一百二十元。"
         }
       ]

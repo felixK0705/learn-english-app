@@ -17,7 +17,7 @@
     },
     {
       "en": "hill",
-      "kk": "hɪl",
+      "kk": "ˋhɪl",
       "zh": "小山丘",
       "emoji": "⛰️",
       "type": "word",
@@ -35,7 +35,7 @@
     },
     {
       "en": "lake",
-      "kk": "lek",
+      "kk": "ˋlek",
       "zh": "湖",
       "emoji": "🛶",
       "type": "word",
@@ -98,7 +98,7 @@
     },
     {
       "en": "cave",
-      "kk": "kev",
+      "kk": "ˋkev",
       "zh": "洞穴",
       "emoji": "🕳️",
       "type": "word",
@@ -107,7 +107,7 @@
     },
     {
       "en": "cliff",
-      "kk": "klɪf",
+      "kk": "ˋklɪf",
       "zh": "懸崖",
       "emoji": "🧗",
       "type": "word",
@@ -116,7 +116,7 @@
     },
     {
       "en": "rock",
-      "kk": "rɑk",
+      "kk": "ˋrɑk",
       "zh": "岩石",
       "emoji": "🪨",
       "type": "word",
@@ -125,7 +125,7 @@
     },
     {
       "en": "sky",
-      "kk": "skaɪ",
+      "kk": "ˋskaɪ",
       "zh": "天空",
       "emoji": "🌤️",
       "type": "word",
@@ -134,7 +134,7 @@
     },
     {
       "en": "sun",
-      "kk": "sʌn",
+      "kk": "ˋsʌn",
       "zh": "太陽",
       "emoji": "☀️",
       "type": "word",
@@ -143,7 +143,7 @@
     },
     {
       "en": "moon",
-      "kk": "mun",
+      "kk": "ˋmun",
       "zh": "月亮",
       "emoji": "🌙",
       "type": "word",
@@ -152,7 +152,7 @@
     },
     {
       "en": "star",
-      "kk": "stɑr",
+      "kk": "ˋstɑr",
       "zh": "星星",
       "emoji": "⭐",
       "type": "word",
@@ -170,7 +170,7 @@
     },
     {
       "en": "earth",
-      "kk": "ɝθ",
+      "kk": "ˋɝθ",
       "zh": "地球",
       "emoji": "🌍",
       "type": "word",
@@ -242,21 +242,12 @@
     },
     {
       "en": "satellite",
-      "kk": "ˋsætlˏaɪt",
+      "kk": "ˋsætl̩ˏaɪt",
       "zh": "衛星",
       "emoji": "🛰️",
       "type": "word",
       "ex": "A satellite takes pictures of Earth.",
       "exZh": "衛星為地球拍照。"
-    },
-    {
-      "en": "universe",
-      "kk": "ˋjunəˏvɝs",
-      "zh": "宇宙",
-      "emoji": "🌌",
-      "type": "word",
-      "ex": "The universe is very large.",
-      "exZh": "宇宙非常遼闊。"
     },
     {
       "en": "sunrise",
@@ -275,6 +266,15 @@
       "type": "word",
       "ex": "The sunset was orange and pink.",
       "exZh": "日落是橘色和粉紅色的。"
+    },
+    {
+      "en": "universe",
+      "kk": "ˋjunəˏvɝs",
+      "zh": "宇宙",
+      "emoji": "🌌",
+      "type": "word",
+      "ex": "The universe is very large.",
+      "exZh": "宇宙非常遼闊。"
     },
     {
       "en": "solar system",
@@ -438,7 +438,7 @@
         },
         {
           "who": "B",
-          "en": "Yes, that is Venus. It is very bright.",
+          "en": "Yes, that's Venus. It's very bright.",
           "zh": "對，那是金星，非常亮。"
         },
         {
@@ -453,7 +453,7 @@
       "lines": [
         {
           "who": "A",
-          "en": "We are almost at the top of the mountain.",
+          "en": "We're almost at the top of the mountain.",
           "zh": "我們快到山頂了。"
         },
         {

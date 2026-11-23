@@ -7,13 +7,13 @@
   "intro": "認識花園與天空中的小昆蟲和鳥兒，學會描述牠們在做什麼。",
   "words": [
     {
-      "en": "insect",
-      "kk": "ˋɪnsɛkt",
-      "zh": "昆蟲",
-      "emoji": "🐛",
+      "en": "cockroach",
+      "kk": "ˋkɑkˏrotʃ",
+      "zh": "蟑螂",
+      "emoji": "🪳",
       "type": "word",
-      "ex": "An insect has six legs.",
-      "exZh": "昆蟲有六隻腳。"
+      "ex": "I saw a cockroach under the sink.",
+      "exZh": "我在水槽下看到一隻蟑螂。"
     },
     {
       "en": "butterfly",
@@ -26,7 +26,7 @@
     },
     {
       "en": "bee",
-      "kk": "bi",
+      "kk": "ˋbi",
       "zh": "蜜蜂",
       "emoji": "🐝",
       "type": "word",
@@ -35,7 +35,7 @@
     },
     {
       "en": "ant",
-      "kk": "ænt",
+      "kk": "ˋænt",
       "zh": "螞蟻",
       "emoji": "🐜",
       "type": "word",
@@ -62,7 +62,7 @@
     },
     {
       "en": "fly",
-      "kk": "flaɪ",
+      "kk": "ˋflaɪ",
       "zh": "蒼蠅",
       "emoji": "🪰",
       "type": "word",
@@ -75,17 +75,17 @@
       "zh": "蜘蛛",
       "emoji": "🕷️",
       "type": "word",
-      "ex": "The spider made a web in the corner.",
+      "ex": "The spider spun a web in the corner.",
       "exZh": "蜘蛛在角落結了一張網。"
     },
     {
-      "en": "dragonfly",
-      "kk": "ˋdrægənˏflaɪ",
-      "zh": "蜻蜓",
-      "emoji": "🪰",
+      "en": "scorpion",
+      "kk": "ˋskɔrpɪən",
+      "zh": "蠍子",
+      "emoji": "🦂",
       "type": "word",
-      "ex": "A dragonfly rested on the leaf.",
-      "exZh": "一隻蜻蜓停在葉子上。"
+      "ex": "A scorpion has a sting in its tail.",
+      "exZh": "蠍子的尾巴上有毒刺。"
     },
     {
       "en": "grasshopper",
@@ -97,13 +97,13 @@
       "exZh": "蚱蜢跳走了。"
     },
     {
-      "en": "cricket",
-      "kk": "ˋkrɪkɪt",
-      "zh": "蟋蟀",
-      "emoji": "🦗",
+      "en": "chick",
+      "kk": "ˋtʃɪk",
+      "zh": "小雞；雛鳥",
+      "emoji": "🐤",
       "type": "word",
-      "ex": "I can hear a cricket outside.",
-      "exZh": "我聽得到外面有蟋蟀的叫聲。"
+      "ex": "The baby chick is soft and yellow.",
+      "exZh": "小雞軟軟的、黃黃的。"
     },
     {
       "en": "firefly",
@@ -134,7 +134,7 @@
     },
     {
       "en": "snail",
-      "kk": "snel",
+      "kk": "ˋsnel",
       "zh": "蝸牛",
       "emoji": "🐌",
       "type": "word",
@@ -143,7 +143,7 @@
     },
     {
       "en": "worm",
-      "kk": "wɝm",
+      "kk": "ˋwɝm",
       "zh": "蟲；蚯蚓",
       "emoji": "🪱",
       "type": "word",
@@ -152,7 +152,7 @@
     },
     {
       "en": "wing",
-      "kk": "wɪŋ",
+      "kk": "ˋwɪŋ",
       "zh": "翅膀",
       "emoji": "🪽",
       "type": "word",
@@ -161,7 +161,7 @@
     },
     {
       "en": "nest",
-      "kk": "nɛst",
+      "kk": "ˋnɛst",
       "zh": "巢",
       "emoji": "🪺",
       "type": "word",
@@ -178,17 +178,8 @@
       "exZh": "我撿到一根藍色的羽毛。"
     },
     {
-      "en": "beak",
-      "kk": "bik",
-      "zh": "鳥喙",
-      "emoji": "🐦",
-      "type": "word",
-      "ex": "The bird has a sharp beak.",
-      "exZh": "這隻鳥有尖尖的喙。"
-    },
-    {
       "en": "bird",
-      "kk": "bɝd",
+      "kk": "ˋbɝd",
       "zh": "鳥",
       "emoji": "🐦",
       "type": "word",
@@ -196,17 +187,17 @@
       "exZh": "一隻小鳥在籬笆上唱歌。"
     },
     {
-      "en": "sparrow",
-      "kk": "ˋspæro",
-      "zh": "麻雀",
-      "emoji": "🐦",
+      "en": "web",
+      "kk": "ˋwɛb",
+      "zh": "蜘蛛網",
+      "emoji": "🕸️",
       "type": "word",
-      "ex": "Sparrows live in the city.",
-      "exZh": "麻雀生活在城市裡。"
+      "ex": "A fly got stuck in the spider web.",
+      "exZh": "一隻蒼蠅被蜘蛛網黏住了。"
     },
     {
       "en": "crow",
-      "kk": "kro",
+      "kk": "ˋkro",
       "zh": "烏鴉",
       "emoji": "🐦‍⬛",
       "type": "word",
@@ -233,7 +224,7 @@
     },
     {
       "en": "owl",
-      "kk": "aʊl",
+      "kk": "ˋaʊl",
       "zh": "貓頭鷹",
       "emoji": "🦉",
       "type": "word",
@@ -251,7 +242,7 @@
     },
     {
       "en": "swan",
-      "kk": "swɑn",
+      "kk": "ˋswɑn",
       "zh": "天鵝",
       "emoji": "🦢",
       "type": "word",
@@ -259,13 +250,13 @@
       "exZh": "一隻白天鵝游過湖面。"
     },
     {
-      "en": "seagull",
-      "kk": "ˋsiˏgʌl",
-      "zh": "海鷗",
-      "emoji": "🐦",
+      "en": "hatch",
+      "kk": "ˋhætʃ",
+      "zh": "孵化；破殼而出",
+      "emoji": "🐣",
       "type": "word",
-      "ex": "A seagull stole my french fries.",
-      "exZh": "一隻海鷗偷走了我的薯條。"
+      "ex": "The eggs will hatch next week.",
+      "exZh": "這些蛋下星期就會孵化。"
     },
     {
       "en": "peacock",
@@ -277,13 +268,22 @@
       "exZh": "孔雀展開了牠的尾羽。"
     },
     {
-      "en": "woodpecker",
-      "kk": "ˋwʊdˏpɛkɚ",
-      "zh": "啄木鳥",
-      "emoji": "🐦",
+      "en": "insect",
+      "kk": "ˋɪnsɛkt",
+      "zh": "昆蟲",
+      "emoji": "🐞",
       "type": "word",
-      "ex": "The woodpecker tapped on the tree.",
-      "exZh": "啄木鳥在樹幹上啄來啄去。"
+      "ex": "An insect has six legs.",
+      "exZh": "昆蟲有六隻腳。"
+    },
+    {
+      "en": "dragonfly",
+      "kk": "ˋdrægənˏflaɪ",
+      "zh": "蜻蜓",
+      "emoji": "🪰",
+      "type": "word",
+      "ex": "A dragonfly rested on the leaf.",
+      "exZh": "一隻蜻蜓停在葉子上。"
     },
     {
       "en": "spread its wings",
@@ -437,7 +437,7 @@
         },
         {
           "who": "B",
-          "en": "It is a woodpecker. Listen to it tapping.",
+          "en": "It's a woodpecker. Listen to it tapping.",
           "zh": "那是啄木鳥，聽牠啄樹的聲音。"
         },
         {
@@ -472,7 +472,7 @@
         },
         {
           "who": "B",
-          "en": "Let's go inside. It is getting dark.",
+          "en": "Let's go inside. It's getting dark.",
           "zh": "我們進屋吧，天快黑了。"
         },
         {

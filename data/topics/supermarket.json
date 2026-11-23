@@ -44,7 +44,7 @@
     },
     {
       "en": "aisle",
-      "kk": "aɪl",
+      "kk": "ˋaɪl",
       "zh": "走道",
       "emoji": "🚶‍♂️",
       "type": "word",
@@ -53,7 +53,7 @@
     },
     {
       "en": "shelf",
-      "kk": "ʃɛlf",
+      "kk": "ˋʃɛlf",
       "zh": "貨架",
       "emoji": "🗄️",
       "type": "word",
@@ -89,7 +89,7 @@
     },
     {
       "en": "price",
-      "kk": "praɪs",
+      "kk": "ˋpraɪs",
       "zh": "價格",
       "emoji": "🏷️",
       "type": "word",
@@ -125,7 +125,7 @@
     },
     {
       "en": "milk",
-      "kk": "mɪlk",
+      "kk": "ˋmɪlk",
       "zh": "牛奶",
       "emoji": "🥛",
       "type": "word",
@@ -134,16 +134,16 @@
     },
     {
       "en": "bread",
-      "kk": "brɛd",
+      "kk": "ˋbrɛd",
       "zh": "麵包",
       "emoji": "🍞",
       "type": "word",
-      "ex": "I like toast with fresh bread.",
-      "exZh": "我喜歡配新鮮麵包吃吐司。"
+      "ex": "This bread is still warm from the oven.",
+      "exZh": "這個麵包剛出爐，還是溫的。"
     },
     {
       "en": "egg",
-      "kk": "ɛg",
+      "kk": "ˋɛg",
       "zh": "蛋",
       "emoji": "🥚",
       "type": "word",
@@ -152,7 +152,7 @@
     },
     {
       "en": "rice",
-      "kk": "raɪs",
+      "kk": "ˋraɪs",
       "zh": "米；米飯",
       "emoji": "🍚",
       "type": "word",
@@ -161,7 +161,7 @@
     },
     {
       "en": "instant noodles",
-      "kk": "ˋɪnstənt ˋnudl̩z",
+      "kk": "ˋɪnstənt ˏnudl̩z",
       "zh": "泡麵",
       "emoji": "🍜",
       "type": "word",
@@ -170,7 +170,7 @@
     },
     {
       "en": "snack",
-      "kk": "snæk",
+      "kk": "ˋsnæk",
       "zh": "點心；零食",
       "emoji": "🍿",
       "type": "word",
@@ -179,7 +179,7 @@
     },
     {
       "en": "juice",
-      "kk": "dʒus",
+      "kk": "ˋdʒus",
       "zh": "果汁",
       "emoji": "🧃",
       "type": "word",
@@ -188,7 +188,7 @@
     },
     {
       "en": "bottled water",
-      "kk": "ˋbɑtld ˋwɔtɚ",
+      "kk": "ˋbɑtl̩d ˏwɔtɚ",
       "zh": "瓶裝水",
       "emoji": "💧",
       "type": "word",
@@ -206,7 +206,7 @@
     },
     {
       "en": "vegetable",
-      "kk": "ˋvɛdʒtəbl̩",
+      "kk": "ˋvɛdʒətəbl̩",
       "zh": "蔬菜",
       "emoji": "🥬",
       "type": "word",
@@ -215,7 +215,7 @@
     },
     {
       "en": "meat",
-      "kk": "mit",
+      "kk": "ˋmit",
       "zh": "肉",
       "emoji": "🥩",
       "type": "word",
@@ -233,7 +233,7 @@
     },
     {
       "en": "cheese",
-      "kk": "tʃiz",
+      "kk": "ˋtʃiz",
       "zh": "起司",
       "emoji": "🧀",
       "type": "word",
@@ -282,7 +282,7 @@
       "zh": "買一送一",
       "emoji": "🎁",
       "type": "phrase",
-      "ex": "It is buy one get one free today.",
+      "ex": "It's buy one get one free today.",
       "exZh": "今天買一送一。"
     },
     {
@@ -316,7 +316,7 @@
       "en": "run out of",
       "kk": "",
       "zh": "用完；賣完",
-      "emoji": "🈳",
+      "emoji": "🫙",
       "type": "phrase",
       "ex": "We ran out of eggs this morning.",
       "exZh": "我們今天早上雞蛋用完了。"
@@ -336,7 +336,7 @@
       "zh": "順便買；拿取",
       "emoji": "🛍️",
       "type": "phrase",
-      "ex": "I will pick up some fruit on the way.",
+      "ex": "I'll pick up some fruit on the way.",
       "exZh": "我會順路買些水果。"
     }
   ],
@@ -407,9 +407,9 @@
       "note": "找結帳處"
     },
     {
-      "en": "Can I pay for my package here?",
-      "zh": "我可以在這裡繳包裹的費用嗎？",
-      "note": "在便利商店取貨付款"
+      "en": "Can I pick up and pay for my package here?",
+      "zh": "我可以在這裡取貨付款嗎？",
+      "note": "在便利商店取包裹時"
     }
   ],
   "dialogues": [
@@ -423,7 +423,7 @@
         },
         {
           "who": "B",
-          "en": "It is in aisle three, next to the cheese.",
+          "en": "It's in aisle three, next to the cheese.",
           "zh": "在第三走道，起司旁邊。"
         },
         {
@@ -433,12 +433,12 @@
         },
         {
           "who": "B",
-          "en": "Yes, it is buy one get one free.",
+          "en": "Yes, it's buy one get one free.",
           "zh": "有，買一送一。"
         },
         {
           "who": "A",
-          "en": "Great, I will take two.",
+          "en": "Great, I'll take two.",
           "zh": "太好了，我要兩個。"
         }
       ]
@@ -448,7 +448,7 @@
       "lines": [
         {
           "who": "A",
-          "en": "Hello. That will be one hundred and ten dollars.",
+          "en": "Hello. That'll be one hundred and ten dollars.",
           "zh": "你好，總共一百一十元。"
         },
         {

@@ -7,13 +7,13 @@
   "intro": "在公園與遊樂場玩耍時會用到的單字和句子。",
   "words": [
     {
-      "en": "playground",
-      "kk": "ˋpleˏgraʊnd",
-      "zh": "遊樂場；操場",
-      "emoji": "🛝",
+      "en": "merry-go-round",
+      "kk": "ˋmɛrɪgoˏraʊnd",
+      "zh": "旋轉木馬",
+      "emoji": "🎠",
       "type": "word",
-      "ex": "Kids are running on the playground.",
-      "exZh": "孩子們在遊樂場上跑來跑去。"
+      "ex": "The kids are riding the merry-go-round.",
+      "exZh": "孩子們正在坐旋轉木馬。"
     },
     {
       "en": "slide",
@@ -21,26 +21,26 @@
       "zh": "溜滑梯",
       "emoji": "🛝",
       "type": "word",
-      "ex": "She went down the slide fast.",
-      "exZh": "她很快溜下了滑梯。"
+      "ex": "She went down the slide very fast.",
+      "exZh": "她很快地溜下溜滑梯。"
     },
     {
-      "en": "swing",
-      "kk": "ˋswɪŋ",
-      "zh": "鞦韆",
-      "emoji": "🪁",
+      "en": "frisbee",
+      "kk": "ˋfrɪzbɪ",
+      "zh": "飛盤",
+      "emoji": "🥏",
       "type": "word",
-      "ex": "Push me on the swing, please.",
-      "exZh": "請在鞦韆上推我。"
+      "ex": "Let's throw the frisbee on the lawn.",
+      "exZh": "我們在草坪上丟飛盤吧。"
     },
     {
-      "en": "seesaw",
-      "kk": "ˋsiˏsɔ",
-      "zh": "蹺蹺板",
-      "emoji": "⚖️",
+      "en": "bubbles",
+      "kk": "ˋbʌbl̩z",
+      "zh": "泡泡",
+      "emoji": "🫧",
       "type": "word",
-      "ex": "Two kids are on the seesaw.",
-      "exZh": "兩個孩子在玩蹺蹺板。"
+      "ex": "The children are blowing bubbles.",
+      "exZh": "孩子們正在吹泡泡。"
     },
     {
       "en": "sandbox",
@@ -93,17 +93,17 @@
       "zh": "長椅",
       "emoji": "🪑",
       "type": "word",
-      "ex": "Let us sit on that bench.",
+      "ex": "Let's sit on that bench.",
       "exZh": "我們坐在那張長椅上吧。"
     },
     {
-      "en": "path",
-      "kk": "ˋpæθ",
-      "zh": "小徑",
-      "emoji": "🛤",
+      "en": "ball",
+      "kk": "ˋbɔl",
+      "zh": "球",
+      "emoji": "⚽",
       "type": "word",
-      "ex": "This path leads to the lake.",
-      "exZh": "這條小徑通往湖邊。"
+      "ex": "The boys are kicking a ball on the grass.",
+      "exZh": "男孩們正在草地上踢球。"
     },
     {
       "en": "lawn",
@@ -151,13 +151,13 @@
       "exZh": "我們準備了野餐午餐。"
     },
     {
-      "en": "blanket",
-      "kk": "ˋblæŋkɪt",
-      "zh": "毯子",
-      "emoji": "🛏️",
+      "en": "jogger",
+      "kk": "ˋdʒɑgɚ",
+      "zh": "慢跑的人",
+      "emoji": "🏃",
       "type": "word",
-      "ex": "Spread the blanket on the grass.",
-      "exZh": "把毯子鋪在草地上。"
+      "ex": "A jogger runs around the pond every morning.",
+      "exZh": "每天早上都有一位慢跑者繞著池塘跑步。"
     },
     {
       "en": "bicycle",
@@ -187,13 +187,13 @@
       "exZh": "我弟弟騎滑板車。"
     },
     {
-      "en": "stroller",
-      "kk": "ˋstrolɚ",
-      "zh": "嬰兒推車",
-      "emoji": "👶",
+      "en": "jump rope",
+      "kk": "ˋdʒʌmp ˏrop",
+      "zh": "跳繩",
+      "emoji": "🪢",
       "type": "word",
-      "ex": "A mom pushes a stroller down the path.",
-      "exZh": "一位媽媽推著嬰兒車走在小徑上。"
+      "ex": "The girls are playing jump rope on the path.",
+      "exZh": "女孩們在小路上跳繩。"
     },
     {
       "en": "squirrel",
@@ -286,12 +286,48 @@
       "exZh": "冰淇淋車來了！"
     },
     {
+      "en": "playground",
+      "kk": "ˋpleˏgraʊnd",
+      "zh": "遊樂場；操場",
+      "emoji": "🛝",
+      "type": "word",
+      "ex": "Kids are running on the playground.",
+      "exZh": "孩子們在遊樂場上跑來跑去。"
+    },
+    {
+      "en": "swing",
+      "kk": "ˋswɪŋ",
+      "zh": "鞦韆",
+      "emoji": "🎠",
+      "type": "word",
+      "ex": "Push me on the swing, please.",
+      "exZh": "請在鞦韆上推我。"
+    },
+    {
+      "en": "seesaw",
+      "kk": "ˋsiˏsɔ",
+      "zh": "蹺蹺板",
+      "emoji": "⚖️",
+      "type": "word",
+      "ex": "Two kids are on the seesaw.",
+      "exZh": "兩個孩子在玩蹺蹺板。"
+    },
+    {
+      "en": "stroller",
+      "kk": "ˋstrolɚ",
+      "zh": "嬰兒推車",
+      "emoji": "👶",
+      "type": "word",
+      "ex": "A mom pushes a stroller down the path.",
+      "exZh": "一位媽媽推著嬰兒車走在小徑上。"
+    },
+    {
       "en": "have a picnic",
       "kk": "",
       "zh": "去野餐",
       "emoji": "🥪",
       "type": "phrase",
-      "ex": "Let us have a picnic by the lake.",
+      "ex": "Let's have a picnic by the lake.",
       "exZh": "我們到湖邊野餐吧。"
     },
     {
@@ -300,7 +336,7 @@
       "zh": "放風箏",
       "emoji": "🌬️",
       "type": "phrase",
-      "ex": "It is windy, so we can fly a kite.",
+      "ex": "It's windy, so we can fly a kite.",
       "exZh": "今天有風，我們可以放風箏。"
     },
     {
@@ -334,7 +370,7 @@
       "en": "play tag",
       "kk": "",
       "zh": "玩鬼抓人",
-      "emoji": "🏃‍♂️",
+      "emoji": "🏃‍♀️",
       "type": "phrase",
       "ex": "We played tag until it got dark.",
       "exZh": "我們玩鬼抓人一直到天黑。"
@@ -351,13 +387,13 @@
   ],
   "sentences": [
     {
-      "en": "Let us go to the park!",
+      "en": "Let's go to the park!",
       "zh": "我們去公園吧！",
       "note": "邀請朋友出門玩"
     },
     {
-      "en": "Do you want to go on the swings?",
-      "zh": "你想去玩鞦韆嗎？",
+      "en": "Do you want to go on the merry-go-round?",
+      "zh": "你想去坐旋轉木馬嗎？",
       "note": "在遊樂場邀請玩伴"
     },
     {
@@ -371,8 +407,8 @@
       "note": "提醒安全"
     },
     {
-      "en": "Push me higher!",
-      "zh": "把我推高一點！",
+      "en": "Push me on the swing, please!",
+      "zh": "請推我盪鞦韆！",
       "note": "玩鞦韆時"
     },
     {
@@ -386,17 +422,17 @@
       "note": "引起同伴注意"
     },
     {
-      "en": "It is such a beautiful day.",
+      "en": "It's such a beautiful day.",
       "zh": "今天天氣真好。",
       "note": "讚嘆好天氣"
     },
     {
-      "en": "Let us sit on the bench and rest.",
+      "en": "Let's sit on the bench and rest.",
       "zh": "我們坐在長椅上休息吧。",
       "note": "走累時"
     },
     {
-      "en": "Please do not litter.",
+      "en": "Please don't litter.",
       "zh": "請不要亂丟垃圾。",
       "note": "提醒公共禮儀"
     },
@@ -406,12 +442,12 @@
       "note": "提醒遛狗規定"
     },
     {
-      "en": "I will race you to the tree!",
+      "en": "I'll race you to the tree!",
       "zh": "我跟你比賽誰先跑到那棵樹！",
       "note": "玩跑步遊戲"
     },
     {
-      "en": "It is getting late. Time to go home.",
+      "en": "It's getting late. Time to go home.",
       "zh": "天色晚了，該回家了。",
       "note": "結束玩耍時"
     },
@@ -432,7 +468,7 @@
         },
         {
           "who": "B",
-          "en": "Sure! We are playing tag.",
+          "en": "Sure! We're playing tag.",
           "zh": "當然！我們在玩鬼抓人。"
         },
         {
@@ -467,7 +503,7 @@
         },
         {
           "who": "B",
-          "en": "Yum! Let us have a picnic.",
+          "en": "Yum! Let's have a picnic.",
           "zh": "好棒！我們開始野餐吧。"
         }
       ]

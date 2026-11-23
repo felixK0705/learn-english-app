@@ -88,13 +88,13 @@
       "exZh": "彩紙屑飛向空中。"
     },
     {
-      "en": "streamer",
-      "kk": "ˋstrimɚ",
-      "zh": "彩帶",
+      "en": "ribbon",
+      "kk": "ˋrɪbən",
+      "zh": "緞帶；絲帶",
       "emoji": "🎀",
       "type": "word",
-      "ex": "We hung streamers on the wall.",
-      "exZh": "我們把彩帶掛在牆上。"
+      "ex": "She tied a pink ribbon around the gift.",
+      "exZh": "她在禮物上綁了一條粉紅色緞帶。"
     },
     {
       "en": "banner",
@@ -172,7 +172,7 @@
       "en": "host",
       "kk": "ˋhost",
       "zh": "主人；主辦人",
-      "emoji": "🧑‍🍳",
+      "emoji": "🤵",
       "type": "word",
       "ex": "The host greeted everyone at the door.",
       "exZh": "主人在門口迎接大家。"
@@ -196,13 +196,13 @@
       "exZh": "閉上眼睛許個願。"
     },
     {
-      "en": "decoration",
-      "kk": "ˏdɛkəˋreʃən",
-      "zh": "裝飾",
+      "en": "piñata",
+      "kk": "pɪnˋjɑtə",
+      "zh": "皮納塔（裝滿糖果的彩罐）",
       "emoji": "🪅",
       "type": "word",
-      "ex": "The decorations look so pretty.",
-      "exZh": "這些裝飾看起來好漂亮。"
+      "ex": "The kids hit the piñata, and candy fell out.",
+      "exZh": "孩子們敲打皮納塔彩罐，糖果掉了出來。"
     },
     {
       "en": "prize",
@@ -223,13 +223,13 @@
       "exZh": "小丑逗得孩子們哈哈大笑。"
     },
     {
-      "en": "tablecloth",
-      "kk": "ˋtebl̩ˏklɔθ",
-      "zh": "桌巾",
-      "emoji": "🧺",
+      "en": "party popper",
+      "kk": "ˋpɑrtɪ ˏpɑpɚ",
+      "zh": "拉炮",
+      "emoji": "🎉",
       "type": "word",
-      "ex": "Spread the tablecloth on the table.",
-      "exZh": "把桌巾鋪在桌子上。"
+      "ex": "Pull the party popper when she comes in!",
+      "exZh": "她一進來就拉拉炮！"
     },
     {
       "en": "paper plate",
@@ -304,7 +304,7 @@
       "exZh": "吹之前先許個願。"
     },
     {
-      "en": "sing happy birthday",
+      "en": "sing Happy Birthday",
       "kk": "",
       "zh": "唱生日快樂歌",
       "emoji": "🎶",
@@ -316,7 +316,7 @@
       "en": "throw a party",
       "kk": "",
       "zh": "舉辦派對",
-      "emoji": "🎉",
+      "emoji": "🏠",
       "type": "phrase",
       "ex": "My parents will throw a party for me.",
       "exZh": "我爸媽要為我辦一場派對。"
@@ -361,7 +361,7 @@
       "note": "詢問年齡"
     },
     {
-      "en": "I am turning ten today.",
+      "en": "I'm turning ten today.",
       "zh": "我今天滿十歲了。",
       "note": "壽星回答時"
     },
@@ -401,7 +401,7 @@
       "note": "招待客人時"
     },
     {
-      "en": "Let us play a game!",
+      "en": "Let's play a game!",
       "zh": "我們來玩遊戲吧！",
       "note": "派對活動時"
     },
@@ -416,9 +416,9 @@
       "note": "離開派對時"
     },
     {
-      "en": "Many happy returns of the day!",
-      "zh": "祝你生日年年快樂！",
-      "note": "正式或書面的祝福"
+      "en": "Have a wonderful birthday!",
+      "zh": "祝你有個美好的生日！",
+      "note": "祝福壽星時"
     }
   ],
   "dialogues": [
@@ -442,7 +442,7 @@
         },
         {
           "who": "B",
-          "en": "It is a book about dinosaurs. I love it!",
+          "en": "It's a book about dinosaurs. I love it!",
           "zh": "是一本恐龍的書，我好喜歡！"
         }
       ]
@@ -452,7 +452,7 @@
       "lines": [
         {
           "who": "A",
-          "en": "Now it is time for the cake!",
+          "en": "Now it's time for the cake!",
           "zh": "現在是吃蛋糕的時間了！"
         },
         {

@@ -8,7 +8,7 @@
   "words": [
     {
       "en": "bank",
-      "kk": "bæŋk",
+      "kk": "ˋbæŋk",
       "zh": "銀行",
       "emoji": "🏦",
       "type": "word",
@@ -17,7 +17,7 @@
     },
     {
       "en": "post office",
-      "kk": "ˋpostˏɔfɪs",
+      "kk": "ˋpost ˏɔfɪs",
       "zh": "郵局",
       "emoji": "🏤",
       "type": "word",
@@ -46,7 +46,7 @@
       "en": "savings account",
       "kk": "ˋsevɪŋz əˏkaʊnt",
       "zh": "儲蓄帳戶",
-      "emoji": "🐖",
+      "emoji": "🐷",
       "type": "word",
       "ex": "She has a savings account.",
       "exZh": "她有一個儲蓄帳戶。"
@@ -89,7 +89,7 @@
     },
     {
       "en": "cash",
-      "kk": "kæʃ",
+      "kk": "ˋkæʃ",
       "zh": "現金",
       "emoji": "💵",
       "type": "word",
@@ -98,7 +98,7 @@
     },
     {
       "en": "coin",
-      "kk": "kɔɪn",
+      "kk": "ˋkɔɪn",
       "zh": "硬幣",
       "emoji": "🪙",
       "type": "word",
@@ -134,7 +134,7 @@
     },
     {
       "en": "loan",
-      "kk": "lon",
+      "kk": "ˋlon",
       "zh": "貸款",
       "emoji": "📑",
       "type": "word",
@@ -152,7 +152,7 @@
     },
     {
       "en": "fee",
-      "kk": "fi",
+      "kk": "ˋfi",
       "zh": "手續費",
       "emoji": "🧮",
       "type": "word",
@@ -188,7 +188,7 @@
     },
     {
       "en": "stamp",
-      "kk": "stæmp",
+      "kk": "ˋstæmp",
       "zh": "郵票",
       "emoji": "🏷️",
       "type": "word",
@@ -233,7 +233,7 @@
     },
     {
       "en": "mail",
-      "kk": "mel",
+      "kk": "ˋmel",
       "zh": "郵件",
       "emoji": "📬",
       "type": "word",

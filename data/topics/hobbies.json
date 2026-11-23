@@ -25,13 +25,13 @@
       "exZh": "他有很多郵票收藏。"
     },
     {
-      "en": "stamp",
-      "kk": "ˋstæmp",
-      "zh": "郵票",
-      "emoji": "📮",
+      "en": "reading",
+      "kk": "ˋridɪŋ",
+      "zh": "閱讀",
+      "emoji": "📖",
       "type": "word",
-      "ex": "I got a rare stamp from Japan.",
-      "exZh": "我得到一張來自日本的珍貴郵票。"
+      "ex": "Reading is a great way to relax.",
+      "exZh": "閱讀是放鬆的好方法。"
     },
     {
       "en": "puzzle",
@@ -73,7 +73,7 @@
       "en": "painting",
       "kk": "ˋpentɪŋ",
       "zh": "繪畫；畫作",
-      "emoji": "🖼",
+      "emoji": "🎨",
       "type": "word",
       "ex": "The painting is full of colors.",
       "exZh": "這幅畫色彩豐富。"
@@ -106,13 +106,13 @@
       "exZh": "奶奶喜歡織圍巾。"
     },
     {
-      "en": "yarn",
-      "kk": "ˋjɑrn",
-      "zh": "毛線",
-      "emoji": "🧵",
+      "en": "sewing",
+      "kk": "ˋsoɪŋ",
+      "zh": "縫紉",
+      "emoji": "🪡",
       "type": "word",
-      "ex": "I bought red yarn for the hat.",
-      "exZh": "我買了紅色毛線來織帽子。"
+      "ex": "My aunt is good at sewing.",
+      "exZh": "我阿姨很會縫紉。"
     },
     {
       "en": "origami",
@@ -138,8 +138,8 @@
       "zh": "烹飪",
       "emoji": "🍳",
       "type": "word",
-      "ex": "Cooking is my favorite hobby.",
-      "exZh": "烹飪是我最愛的嗜好。"
+      "ex": "Cooking is fun, and you can eat what you make.",
+      "exZh": "烹飪很有趣，而且可以吃自己做的東西。"
     },
     {
       "en": "baking",
@@ -207,7 +207,7 @@
     {
       "en": "magic trick",
       "kk": "ˋmædʒɪk ˏtrɪk",
-      "zh": "魔術",
+      "zh": "魔術；戲法",
       "emoji": "🪄",
       "type": "word",
       "ex": "He showed us a magic trick.",
@@ -226,7 +226,7 @@
       "en": "comic book",
       "kk": "ˋkɑmɪk ˏbʊk",
       "zh": "漫畫書",
-      "emoji": "📕",
+      "emoji": "💬",
       "type": "word",
       "ex": "I read a comic book every night.",
       "exZh": "我每晚讀一本漫畫書。"
@@ -259,13 +259,13 @@
       "exZh": "我們昨晚看了一部好笑的電影。"
     },
     {
-      "en": "album",
-      "kk": "ˋælbəm",
-      "zh": "相簿；專輯",
-      "emoji": "📔",
+      "en": "drawing",
+      "kk": "ˋdrɔɪŋ",
+      "zh": "畫畫；素描",
+      "emoji": "✏️",
       "type": "word",
-      "ex": "She keeps all her photos in an album.",
-      "exZh": "她把所有照片放在相簿裡。"
+      "ex": "Drawing is my favorite hobby.",
+      "exZh": "畫畫是我最喜歡的嗜好。"
     },
     {
       "en": "telescope",
@@ -284,6 +284,24 @@
       "type": "word",
       "ex": "I write in my diary every day.",
       "exZh": "我每天寫日記。"
+    },
+    {
+      "en": "album",
+      "kk": "ˋælbəm",
+      "zh": "相簿；專輯",
+      "emoji": "📔",
+      "type": "word",
+      "ex": "She keeps all her photos in an album.",
+      "exZh": "她把所有照片放在相簿裡。"
+    },
+    {
+      "en": "yarn",
+      "kk": "ˋjɑrn",
+      "zh": "毛線",
+      "emoji": "🧶",
+      "type": "word",
+      "ex": "I bought red yarn for the hat.",
+      "exZh": "我買了紅色毛線來織帽子。"
     },
     {
       "en": "take photos",
@@ -336,7 +354,7 @@
       "zh": "拼拼圖",
       "emoji": "🔲",
       "type": "phrase",
-      "ex": "Let us do a puzzle together.",
+      "ex": "Let's do a puzzle together.",
       "exZh": "我們一起拼拼圖吧。"
     },
     {
@@ -361,7 +379,7 @@
       "note": "介紹自己的興趣"
     },
     {
-      "en": "I am really into baking these days.",
+      "en": "I'm really into baking these days.",
       "zh": "我最近很迷烘焙。",
       "note": "表示最近的熱情"
     },
@@ -411,7 +429,7 @@
       "note": "邀請加入"
     },
     {
-      "en": "I am not good at drawing, but I enjoy it.",
+      "en": "I'm not good at drawing, but I enjoy it.",
       "zh": "我不太會畫畫，但我很喜歡。",
       "note": "謙虛地說明程度"
     },
@@ -457,7 +475,7 @@
         },
         {
           "who": "B",
-          "en": "I am going camping with my family.",
+          "en": "I'm going camping with my family.",
           "zh": "我要和家人去露營。"
         },
         {
@@ -467,7 +485,7 @@
         },
         {
           "who": "B",
-          "en": "Of course! I will bring my new camera.",
+          "en": "Of course! I'll bring my new camera.",
           "zh": "當然！我會帶我的新相機。"
         }
       ]

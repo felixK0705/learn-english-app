@@ -62,7 +62,7 @@
     },
     {
       "en": "table tennis",
-      "kk": "ˋtebl̩ ˋtɛnɪs",
+      "kk": "ˋtebl̩ ˏtɛnɪs",
       "zh": "桌球",
       "emoji": "🏓",
       "type": "word",
@@ -133,13 +133,13 @@
       "exZh": "他穿白色的服裝練空手道。"
     },
     {
-      "en": "racket",
-      "kk": "ˋrækɪt",
-      "zh": "球拍",
-      "emoji": "🏸",
+      "en": "bowling",
+      "kk": "ˋbolɪŋ",
+      "zh": "保齡球",
+      "emoji": "🎳",
       "type": "word",
-      "ex": "Hold the racket with both hands.",
-      "exZh": "用雙手握住球拍。"
+      "ex": "We went bowling on Saturday night.",
+      "exZh": "我們星期六晚上去打保齡球。"
     },
     {
       "en": "bat",
@@ -147,17 +147,17 @@
       "zh": "球棒",
       "emoji": "🏏",
       "type": "word",
-      "ex": "He swung the bat hard.",
-      "exZh": "他用力揮動球棒。"
+      "ex": "He swung the bat and hit the ball.",
+      "exZh": "他揮動球棒擊中了球。"
     },
     {
-      "en": "helmet",
-      "kk": "ˋhɛlmɪt",
-      "zh": "安全帽；頭盔",
-      "emoji": "⛑️",
+      "en": "stadium",
+      "kk": "ˋstedɪəm",
+      "zh": "體育場；球場",
+      "emoji": "🏟️",
       "type": "word",
-      "ex": "Always wear a helmet.",
-      "exZh": "一定要戴安全帽。"
+      "ex": "The stadium was full of fans.",
+      "exZh": "體育場裡擠滿了球迷。"
     },
     {
       "en": "goal",
@@ -169,13 +169,13 @@
       "exZh": "球飛進了球門。"
     },
     {
-      "en": "net",
-      "kk": "ˋnɛt",
-      "zh": "網子",
-      "emoji": "🕸️",
+      "en": "hockey",
+      "kk": "ˋhɑkɪ",
+      "zh": "曲棍球",
+      "emoji": "🏒",
       "type": "word",
-      "ex": "The ball hit the net.",
-      "exZh": "球打到網子。"
+      "ex": "Ice hockey is a fast game.",
+      "exZh": "冰上曲棍球是一項節奏很快的運動。"
     },
     {
       "en": "referee",
@@ -241,21 +241,21 @@
       "exZh": "優勝者高舉獎盃。"
     },
     {
-      "en": "whistle",
-      "kk": "ˋhwɪsl̩",
-      "zh": "哨子",
-      "emoji": "📣",
+      "en": "football",
+      "kk": "ˋfʊtˏbɔl",
+      "zh": "美式足球",
+      "emoji": "🏈",
       "type": "word",
-      "ex": "The coach blew his whistle.",
-      "exZh": "教練吹響了哨子。"
+      "ex": "Football is very popular in the U.S.",
+      "exZh": "美式足球在美國非常受歡迎。"
     },
     {
       "en": "scoreboard",
-      "kk": "ˋskɔrˏbord",
+      "kk": "ˋskorˏbord",
       "zh": "計分板",
       "emoji": "📊",
       "type": "word",
-      "ex": "Look at the scoreboard. It is a tie.",
+      "ex": "Look at the scoreboard. It's a tie.",
       "exZh": "看計分板，現在是平手。"
     },
     {
@@ -264,17 +264,17 @@
       "zh": "賽跑；比賽",
       "emoji": "🏁",
       "type": "word",
-      "ex": "I came second in the race.",
+      "ex": "I came in second in the race.",
       "exZh": "我在賽跑中得了第二名。"
     },
     {
-      "en": "track",
-      "kk": "ˋtræk",
-      "zh": "跑道",
-      "emoji": "🛤️",
+      "en": "cycling",
+      "kk": "ˋsaɪklɪŋ",
+      "zh": "自行車運動",
+      "emoji": "🚴",
       "type": "word",
-      "ex": "We run around the track.",
-      "exZh": "我們繞著跑道跑步。"
+      "ex": "Cycling is good for your legs.",
+      "exZh": "騎自行車對你的腿很好。"
     },
     {
       "en": "jersey",
@@ -293,6 +293,24 @@
       "type": "word",
       "ex": "I bought new sneakers for P.E.",
       "exZh": "我為體育課買了新的運動鞋。"
+    },
+    {
+      "en": "racket",
+      "kk": "ˋrækɪt",
+      "zh": "球拍",
+      "emoji": "🏸",
+      "type": "word",
+      "ex": "Hold the racket with both hands.",
+      "exZh": "用雙手握住球拍。"
+    },
+    {
+      "en": "helmet",
+      "kk": "ˋhɛlmɪt",
+      "zh": "安全帽；頭盔",
+      "emoji": "🪖",
+      "type": "word",
+      "ex": "Always wear a helmet.",
+      "exZh": "一定要戴安全帽。"
     },
     {
       "en": "warm up",
@@ -318,7 +336,7 @@
       "zh": "玩接球",
       "emoji": "🤾",
       "type": "phrase",
-      "ex": "Let us play catch in the yard.",
+      "ex": "Let's play catch in the yard.",
       "exZh": "我們到院子玩接球吧。"
     },
     {
@@ -371,7 +389,7 @@
       "note": "稱讚隊友"
     },
     {
-      "en": "Let us warm up first.",
+      "en": "Let's warm up first.",
       "zh": "我們先暖身吧。",
       "note": "運動開始前"
     },
@@ -381,7 +399,7 @@
       "note": "觀賽或分組時"
     },
     {
-      "en": "I am on the school swimming team.",
+      "en": "I'm on the school swimming team.",
       "zh": "我是學校游泳隊的。",
       "note": "介紹自己的隊伍"
     },
@@ -406,7 +424,7 @@
       "note": "說明運動習慣"
     },
     {
-      "en": "Be careful! Do not get hurt.",
+      "en": "Be careful! Don't get hurt.",
       "zh": "小心！不要受傷。",
       "note": "提醒安全"
     },
@@ -432,12 +450,12 @@
         },
         {
           "who": "B",
-          "en": "Sure! I will bring my racket.",
+          "en": "Sure! I'll bring my racket.",
           "zh": "好啊！我會帶我的球拍。"
         },
         {
           "who": "A",
-          "en": "Let us meet at the gym at four.",
+          "en": "Let's meet at the gym at four.",
           "zh": "我們四點在體育館見。"
         },
         {

@@ -44,7 +44,7 @@
     },
     {
       "en": "guest",
-      "kk": "gɛst",
+      "kk": "ˋgɛst",
       "zh": "房客；客人",
       "emoji": "🙆",
       "type": "word",
@@ -79,13 +79,13 @@
       "exZh": "雙人房有一張大床。"
     },
     {
-      "en": "suite",
-      "kk": "swit",
-      "zh": "套房",
-      "emoji": "🏩",
+      "en": "view",
+      "kk": "ˋvju",
+      "zh": "景色；視野",
+      "emoji": "🌅",
       "type": "word",
-      "ex": "They stayed in the honeymoon suite.",
-      "exZh": "他們住在蜜月套房。"
+      "ex": "Our room has a great ocean view.",
+      "exZh": "我們的房間有很棒的海景。"
     },
     {
       "en": "key card",
@@ -107,7 +107,7 @@
     },
     {
       "en": "floor",
-      "kk": "flɔr",
+      "kk": "ˋflor",
       "zh": "樓層",
       "emoji": "🏢",
       "type": "word",
@@ -138,7 +138,7 @@
       "zh": "毯子",
       "emoji": "💤",
       "type": "word",
-      "ex": "It is cold. I need another blanket.",
+      "ex": "It’s cold. I need another blanket.",
       "exZh": "好冷，我需要多一條毯子。"
     },
     {
@@ -179,7 +179,7 @@
     },
     {
       "en": "remote control",
-      "kk": "rɪˋmot kənˋtrol",
+      "kk": "rɪˋmot kənˏtrol",
       "zh": "遙控器",
       "emoji": "📺",
       "type": "word",
@@ -260,7 +260,7 @@
     },
     {
       "en": "gym",
-      "kk": "dʒɪm",
+      "kk": "ˋdʒɪm",
       "zh": "健身房",
       "emoji": "🏋️",
       "type": "word",
@@ -282,8 +282,8 @@
       "zh": "退房",
       "emoji": "✅",
       "type": "phrase",
-      "ex": "Check out is at eleven.",
-      "exZh": "退房時間是十一點。"
+      "ex": "Please check out by eleven.",
+      "exZh": "請在十一點前退房。"
     },
     {
       "en": "book a room",
@@ -291,8 +291,8 @@
       "zh": "訂房",
       "emoji": "📞",
       "type": "phrase",
-      "ex": "I want to book a room for Friday.",
-      "exZh": "我想訂星期五的房間。"
+      "ex": "I’d like to book a room for Friday night.",
+      "exZh": "我想訂星期五晚上的房間。"
     },
     {
       "en": "stay at",
@@ -300,7 +300,7 @@
       "zh": "住在（某處）",
       "emoji": "🛌",
       "type": "phrase",
-      "ex": "We will stay at a hotel near the beach.",
+      "ex": "We’ll stay at a hotel near the beach.",
       "exZh": "我們會住在海灘附近的飯店。"
     },
     {
@@ -367,12 +367,12 @@
       "note": "確認房價內容"
     },
     {
-      "en": "What time is check out?",
+      "en": "What time is checkout?",
       "zh": "幾點退房？",
       "note": "詢問退房時間"
     },
     {
-      "en": "Could I have a late check out?",
+      "en": "Could I have a late checkout?",
       "zh": "我可以延後退房嗎？",
       "note": "想晚一點離開時"
     },
@@ -428,7 +428,7 @@
         },
         {
           "who": "A",
-          "en": "Here is your key card. You are in room 806.",
+          "en": "Here is your key card. You’re in room 806.",
           "zh": "這是您的房卡，您的房間是806。"
         },
         {
@@ -453,7 +453,7 @@
         },
         {
           "who": "B",
-          "en": "I’m sorry. I will send someone right away.",
+          "en": "I’m sorry. I’ll send someone right away.",
           "zh": "很抱歉，我立刻派人過去。"
         },
         {

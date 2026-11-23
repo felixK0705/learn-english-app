@@ -8,7 +8,7 @@
   "words": [
     {
       "en": "time",
-      "kk": "taɪm",
+      "kk": "ˋtaɪm",
       "zh": "時間",
       "emoji": "⏰",
       "type": "word",
@@ -26,7 +26,7 @@
     },
     {
       "en": "hour",
-      "kk": "aʊr",
+      "kk": "ˋaʊr",
       "zh": "小時",
       "emoji": "⌛",
       "type": "word",
@@ -35,7 +35,7 @@
     },
     {
       "en": "day",
-      "kk": "de",
+      "kk": "ˋde",
       "zh": "天；日",
       "emoji": "📅",
       "type": "word",
@@ -44,7 +44,7 @@
     },
     {
       "en": "week",
-      "kk": "wik",
+      "kk": "ˋwik",
       "zh": "週；星期",
       "emoji": "🗓️",
       "type": "word",
@@ -53,16 +53,16 @@
     },
     {
       "en": "month",
-      "kk": "mʌnθ",
+      "kk": "ˋmʌnθ",
       "zh": "月",
-      "emoji": "📆",
+      "emoji": "🈷️",
       "type": "word",
       "ex": "My birthday is next month.",
       "exZh": "我的生日在下個月。"
     },
     {
       "en": "year",
-      "kk": "jɪr",
+      "kk": "ˋjɪr",
       "zh": "年",
       "emoji": "🎆",
       "type": "word",
@@ -98,7 +98,7 @@
     },
     {
       "en": "noon",
-      "kk": "nun",
+      "kk": "ˋnun",
       "zh": "中午；正午",
       "emoji": "🕛",
       "type": "word",
@@ -129,7 +129,7 @@
       "zh": "明天",
       "emoji": "➡️",
       "type": "word",
-      "ex": "I will see you tomorrow.",
+      "ex": "I'll see you tomorrow.",
       "exZh": "我明天會見到你。"
     },
     {
@@ -143,7 +143,7 @@
     },
     {
       "en": "weekend",
-      "kk": "ˋwikˋɛnd",
+      "kk": "ˋwikˏɛnd",
       "zh": "週末",
       "emoji": "🎉",
       "type": "word",
@@ -154,14 +154,14 @@
       "en": "calendar",
       "kk": "ˋkæləndɚ",
       "zh": "日曆；行事曆",
-      "emoji": "🗓️",
+      "emoji": "📆",
       "type": "word",
       "ex": "Mark it on the calendar.",
       "exZh": "把它標在日曆上。"
     },
     {
       "en": "clock",
-      "kk": "klɑk",
+      "kk": "ˋklɑk",
       "zh": "時鐘",
       "emoji": "🕰️",
       "type": "word",
@@ -282,7 +282,7 @@
       "zh": "（幾點）半",
       "emoji": "🕧",
       "type": "phrase",
-      "ex": "It is half past three.",
+      "ex": "It's half past three.",
       "exZh": "現在是三點半。"
     },
     {

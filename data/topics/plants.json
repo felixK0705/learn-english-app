@@ -8,7 +8,7 @@
   "words": [
     {
       "en": "plant",
-      "kk": "plænt",
+      "kk": "ˋplænt",
       "zh": "植物；種植",
       "emoji": "🪴",
       "type": "word",
@@ -19,14 +19,14 @@
       "en": "flower",
       "kk": "ˋflaʊɚ",
       "zh": "花",
-      "emoji": "🌸",
+      "emoji": "🌼",
       "type": "word",
       "ex": "She picked a yellow flower.",
       "exZh": "她摘了一朵黃色的花。"
     },
     {
       "en": "rose",
-      "kk": "roz",
+      "kk": "ˋroz",
       "zh": "玫瑰",
       "emoji": "🌹",
       "type": "word",
@@ -52,26 +52,26 @@
       "exZh": "粉紅色的鬱金香在春天盛開。"
     },
     {
-      "en": "daisy",
-      "kk": "ˋdezɪ",
-      "zh": "雛菊",
-      "emoji": "🌼",
+      "en": "lotus",
+      "kk": "ˋlotəs",
+      "zh": "蓮花；荷花",
+      "emoji": "🪷",
       "type": "word",
-      "ex": "Daisies grow in the grass.",
-      "exZh": "雛菊長在草地上。"
+      "ex": "Lotus flowers grow in the pond.",
+      "exZh": "荷花長在池塘裡。"
     },
     {
-      "en": "lily",
-      "kk": "ˋlɪlɪ",
-      "zh": "百合",
+      "en": "hibiscus",
+      "kk": "haɪˋbɪskəs",
+      "zh": "扶桑花；朱槿",
       "emoji": "🌺",
       "type": "word",
-      "ex": "The lily smells sweet.",
-      "exZh": "百合聞起來很香。"
+      "ex": "Red hibiscus flowers bloom all year in Taiwan.",
+      "exZh": "紅色的扶桑花在台灣全年都會開。"
     },
     {
       "en": "cherry blossom",
-      "kk": "ˋtʃɛrɪ ˋblɑsəm",
+      "kk": "ˋtʃɛrɪ ˏblɑsəm",
       "zh": "櫻花",
       "emoji": "🌸",
       "type": "word",
@@ -80,7 +80,7 @@
     },
     {
       "en": "tree",
-      "kk": "tri",
+      "kk": "ˋtri",
       "zh": "樹",
       "emoji": "🌳",
       "type": "word",
@@ -89,7 +89,7 @@
     },
     {
       "en": "pine",
-      "kk": "paɪn",
+      "kk": "ˋpaɪn",
       "zh": "松樹",
       "emoji": "🌲",
       "type": "word",
@@ -98,7 +98,7 @@
     },
     {
       "en": "palm tree",
-      "kk": "pɑm tri",
+      "kk": "ˋpɑm ˏtri",
       "zh": "棕櫚樹",
       "emoji": "🌴",
       "type": "word",
@@ -109,7 +109,7 @@
       "en": "bamboo",
       "kk": "bæmˋbu",
       "zh": "竹子",
-      "emoji": "🎍",
+      "emoji": "🎋",
       "type": "word",
       "ex": "Bamboo grows very fast.",
       "exZh": "竹子長得很快。"
@@ -134,7 +134,7 @@
     },
     {
       "en": "grass",
-      "kk": "græs",
+      "kk": "ˋgræs",
       "zh": "草",
       "emoji": "🌱",
       "type": "word",
@@ -143,7 +143,7 @@
     },
     {
       "en": "leaf",
-      "kk": "lif",
+      "kk": "ˋlif",
       "zh": "葉子",
       "emoji": "🍃",
       "type": "word",
@@ -151,35 +151,35 @@
       "exZh": "一片葉子掉在我頭上。"
     },
     {
-      "en": "petal",
-      "kk": "ˋpɛtl̩",
-      "zh": "花瓣",
-      "emoji": "🌸",
+      "en": "maple leaf",
+      "kk": "ˋmepl̩ ˏlif",
+      "zh": "楓葉",
+      "emoji": "🍁",
       "type": "word",
-      "ex": "Each flower has five petals.",
-      "exZh": "每朵花有五片花瓣。"
+      "ex": "Maple leaves turn red in autumn.",
+      "exZh": "楓葉在秋天會變紅。"
     },
     {
-      "en": "stem",
-      "kk": "stɛm",
-      "zh": "莖",
-      "emoji": "🌿",
+      "en": "clover",
+      "kk": "ˋklovɚ",
+      "zh": "幸運草；三葉草",
+      "emoji": "🍀",
       "type": "word",
-      "ex": "The stem is long and thin.",
-      "exZh": "莖又長又細。"
+      "ex": "I found a four-leaf clover!",
+      "exZh": "我找到一株四葉幸運草！"
     },
     {
       "en": "root",
-      "kk": "rut",
+      "kk": "ˋrut",
       "zh": "根",
-      "emoji": "🥕",
+      "emoji": "🫚",
       "type": "word",
       "ex": "The roots take water from the soil.",
       "exZh": "根從土壤中吸收水分。"
     },
     {
       "en": "branch",
-      "kk": "bræntʃ",
+      "kk": "ˋbræntʃ",
       "zh": "樹枝",
       "emoji": "🌿",
       "type": "word",
@@ -188,7 +188,7 @@
     },
     {
       "en": "seed",
-      "kk": "sid",
+      "kk": "ˋsid",
       "zh": "種子",
       "emoji": "🌰",
       "type": "word",
@@ -196,17 +196,17 @@
       "exZh": "我在盆子裡種下一顆種子。"
     },
     {
-      "en": "bud",
-      "kk": "bʌd",
-      "zh": "花苞；嫩芽",
-      "emoji": "🌱",
+      "en": "lavender",
+      "kk": "ˋlævəndɚ",
+      "zh": "薰衣草",
+      "emoji": "🪻",
       "type": "word",
-      "ex": "The rose bud will open soon.",
-      "exZh": "那朵玫瑰花苞快開了。"
+      "ex": "Lavender has a lovely smell.",
+      "exZh": "薰衣草有很好聞的香味。"
     },
     {
       "en": "soil",
-      "kk": "sɔɪl",
+      "kk": "ˋsɔɪl",
       "zh": "土壤",
       "emoji": "🟤",
       "type": "word",
@@ -223,13 +223,13 @@
       "exZh": "我們有一座小花園。"
     },
     {
-      "en": "pot",
-      "kk": "pɑt",
-      "zh": "花盆；盆",
-      "emoji": "🪴",
+      "en": "wilt",
+      "kk": "ˋwɪlt",
+      "zh": "枯萎；凋謝",
+      "emoji": "🥀",
       "type": "word",
-      "ex": "Put the plant in a bigger pot.",
-      "exZh": "把植物換到比較大的盆子。"
+      "ex": "The flowers wilted in the hot sun.",
+      "exZh": "花在大太陽下枯萎了。"
     },
     {
       "en": "bouquet",
@@ -242,7 +242,7 @@
     },
     {
       "en": "vine",
-      "kk": "vaɪn",
+      "kk": "ˋvaɪn",
       "zh": "藤蔓",
       "emoji": "🍇",
       "type": "word",
@@ -251,7 +251,7 @@
     },
     {
       "en": "weed",
-      "kk": "wid",
+      "kk": "ˋwid",
       "zh": "雜草",
       "emoji": "🌾",
       "type": "word",
@@ -259,13 +259,40 @@
       "exZh": "我拔掉了雜草。"
     },
     {
-      "en": "moss",
-      "kk": "mɔs",
-      "zh": "苔蘚",
-      "emoji": "🟩",
+      "en": "wood",
+      "kk": "ˋwʊd",
+      "zh": "木頭；木材",
+      "emoji": "🪵",
       "type": "word",
-      "ex": "Moss grows on the old rocks.",
-      "exZh": "苔蘚長在老岩石上。"
+      "ex": "This table is made of wood.",
+      "exZh": "這張桌子是木頭做的。"
+    },
+    {
+      "en": "petal",
+      "kk": "ˋpɛtl̩",
+      "zh": "花瓣",
+      "emoji": "🌸",
+      "type": "word",
+      "ex": "Each flower has five petals.",
+      "exZh": "每朵花有五片花瓣。"
+    },
+    {
+      "en": "stem",
+      "kk": "ˋstɛm",
+      "zh": "莖",
+      "emoji": "🌿",
+      "type": "word",
+      "ex": "The stem is long and thin.",
+      "exZh": "莖又長又細。"
+    },
+    {
+      "en": "daisy",
+      "kk": "ˋdezɪ",
+      "zh": "雛菊",
+      "emoji": "🌼",
+      "type": "word",
+      "ex": "Daisies grow in the grass.",
+      "exZh": "雛菊長在草地上。"
     },
     {
       "en": "water the plants",
@@ -304,13 +331,13 @@
       "exZh": "請不要在公園裡摘花。"
     },
     {
-      "en": "grow up",
+      "en": "grow tall",
       "kk": "",
       "zh": "長大；生長",
       "emoji": "📈",
       "type": "phrase",
-      "ex": "Tomatoes grow up fast in summer.",
-      "exZh": "番茄在夏天長得很快。"
+      "ex": "Sunflowers grow tall in summer.",
+      "exZh": "向日葵在夏天長得很高。"
     },
     {
       "en": "fall off the tree",
@@ -429,7 +456,7 @@
         },
         {
           "who": "B",
-          "en": "Pink, please. They are for my mother.",
+          "en": "Pink, please. They're for my mother.",
           "zh": "請給我粉紅色的，是要送我媽媽的。"
         },
         {

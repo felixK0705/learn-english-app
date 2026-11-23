@@ -53,7 +53,7 @@
     },
     {
       "en": "history",
-      "kk": "ˋhɪstṛɪ",
+      "kk": "ˋhɪstərɪ",
       "zh": "歷史",
       "emoji": "🏛️",
       "type": "word",
@@ -89,7 +89,7 @@
     },
     {
       "en": "social studies",
-      "kk": "ˋsoʃəl ˋstʌdɪz",
+      "kk": "ˋsoʃəl ˏstʌdɪz",
       "zh": "社會（科）",
       "emoji": "🧑‍🤝‍🧑",
       "type": "word",
@@ -181,7 +181,7 @@
       "en": "library",
       "kk": "ˋlaɪˏbrɛrɪ",
       "zh": "圖書館",
-      "emoji": "🏛",
+      "emoji": "📚",
       "type": "word",
       "ex": "I borrow books from the library.",
       "exZh": "我從圖書館借書。"
@@ -228,7 +228,7 @@
       "zh": "走廊",
       "emoji": "🚪",
       "type": "word",
-      "ex": "Do not run in the hallway.",
+      "ex": "Don't run in the hallway.",
       "exZh": "不要在走廊上奔跑。"
     },
     {
@@ -242,7 +242,7 @@
     },
     {
       "en": "report card",
-      "kk": "rɪˋpɔrt ˏkɑrd",
+      "kk": "rɪˋport ˏkɑrd",
       "zh": "成績單",
       "emoji": "🧾",
       "type": "word",
@@ -253,7 +253,7 @@
       "en": "semester",
       "kk": "səˋmɛstɚ",
       "zh": "學期",
-      "emoji": "🍂",
+      "emoji": "📆",
       "type": "word",
       "ex": "The new semester starts in September.",
       "exZh": "新學期九月開始。"
@@ -262,7 +262,7 @@
       "en": "club",
       "kk": "ˋklʌb",
       "zh": "社團",
-      "emoji": "🧩",
+      "emoji": "♟️",
       "type": "word",
       "ex": "I joined the chess club.",
       "exZh": "我參加了西洋棋社。"
@@ -289,7 +289,7 @@
       "en": "do homework",
       "kk": "",
       "zh": "寫作業",
-      "emoji": "📚",
+      "emoji": "✏️",
       "type": "phrase",
       "ex": "I do my homework at the kitchen table.",
       "exZh": "我在廚房的桌子上寫作業。"
@@ -333,7 +333,7 @@
     {
       "en": "study for",
       "kk": "",
-      "zh": "為……而準備（考試）",
+      "zh": "為……讀書準備",
       "emoji": "🧠",
       "type": "phrase",
       "ex": "I need to study for the math test.",
@@ -347,8 +347,8 @@
       "note": "聊學校生活時"
     },
     {
-      "en": "I am good at math, but weak in English.",
-      "zh": "我數學很好，但英文比較弱。",
+      "en": "I'm good at math, but not so good at English.",
+      "zh": "我數學很好，但英文沒那麼好。",
       "note": "談自己的強項與弱項"
     },
     {
@@ -372,7 +372,7 @@
       "note": "分享好成績"
     },
     {
-      "en": "Let us study together after school.",
+      "en": "Let's study together after school.",
       "zh": "我們放學後一起讀書吧。",
       "note": "邀請同學一起複習"
     },
@@ -402,7 +402,7 @@
       "note": "和同學比較課表"
     },
     {
-      "en": "I am nervous about the exam.",
+      "en": "I'm nervous about the exam.",
       "zh": "我對這次考試感到緊張。",
       "note": "表達考前心情"
     },
@@ -448,12 +448,12 @@
         },
         {
           "who": "B",
-          "en": "Not really. I studied only one hour.",
+          "en": "Not really. I only studied for an hour.",
           "zh": "還沒，我只讀了一個小時。"
         },
         {
           "who": "A",
-          "en": "Let us review in the library at lunch.",
+          "en": "Let's review in the library at lunch.",
           "zh": "我們午餐時間到圖書館複習吧。"
         },
         {

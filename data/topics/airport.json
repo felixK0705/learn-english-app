@@ -10,7 +10,7 @@
       "en": "airport",
       "kk": "ˋɛrˏport",
       "zh": "機場",
-      "emoji": "🛬",
+      "emoji": "✈️",
       "type": "word",
       "ex": "We arrived at the airport early.",
       "exZh": "我們很早就到機場了。"
@@ -19,7 +19,7 @@
       "en": "airplane",
       "kk": "ˋɛrˏplen",
       "zh": "飛機",
-      "emoji": "✈️",
+      "emoji": "🛩️",
       "type": "word",
       "ex": "The airplane is very large.",
       "exZh": "這架飛機非常大。"
@@ -27,7 +27,7 @@
     {
       "en": "pilot",
       "kk": "ˋpaɪlət",
-      "zh": "飛行員",
+      "zh": "飛行員；機長",
       "emoji": "👨‍✈️",
       "type": "word",
       "ex": "The pilot welcomed everyone on board.",
@@ -35,7 +35,7 @@
     },
     {
       "en": "flight attendant",
-      "kk": "ˋflaɪt əˋtɛndənt",
+      "kk": "ˋflaɪt əˏtɛndənt",
       "zh": "空服員",
       "emoji": "👩‍✈️",
       "type": "word",
@@ -44,7 +44,7 @@
     },
     {
       "en": "flight",
-      "kk": "flaɪt",
+      "kk": "ˋflaɪt",
       "zh": "班機；飛行",
       "emoji": "🛫",
       "type": "word",
@@ -88,13 +88,13 @@
       "exZh": "我的行李很重。"
     },
     {
-      "en": "suitcase",
-      "kk": "ˋsutˏkes",
-      "zh": "行李箱",
-      "emoji": "💼",
+      "en": "tourist",
+      "kk": "ˋtʊrɪst",
+      "zh": "觀光客；遊客",
+      "emoji": "📸",
       "type": "word",
-      "ex": "She packed a big suitcase.",
-      "exZh": "她打包了一個大行李箱。"
+      "ex": "Many tourists visit Taiwan every year.",
+      "exZh": "每年都有許多觀光客來台灣。"
     },
     {
       "en": "carry-on",
@@ -116,7 +116,7 @@
     },
     {
       "en": "check-in counter",
-      "kk": "ˋtʃɛkˏɪn ˋkaʊntɚ",
+      "kk": "ˋtʃɛkˏɪn ˏkaʊntɚ",
       "zh": "報到櫃台",
       "emoji": "💁",
       "type": "word",
@@ -152,7 +152,7 @@
     },
     {
       "en": "gate",
-      "kk": "get",
+      "kk": "ˋget",
       "zh": "登機門",
       "emoji": "🚪",
       "type": "word",
@@ -163,7 +163,7 @@
       "en": "terminal",
       "kk": "ˋtɝmənl̩",
       "zh": "航廈",
-      "emoji": "🏗️",
+      "emoji": "🏢",
       "type": "word",
       "ex": "Our flight leaves from Terminal Two.",
       "exZh": "我們的班機從第二航廈起飛。"
@@ -187,13 +187,13 @@
       "exZh": "抵達時間是傍晚六點。"
     },
     {
-      "en": "runway",
-      "kk": "ˋrʌnˏwe",
-      "zh": "跑道",
-      "emoji": "🛩️",
+      "en": "currency exchange",
+      "kk": "ˋkɝənsɪ ɪksˏtʃendʒ",
+      "zh": "外幣兌換處",
+      "emoji": "💱",
       "type": "word",
-      "ex": "The plane is moving down the runway.",
-      "exZh": "飛機正沿著跑道滑行。"
+      "ex": "You can change money at the currency exchange.",
+      "exZh": "你可以在外幣兌換處換錢。"
     },
     {
       "en": "landing",
@@ -233,7 +233,7 @@
     },
     {
       "en": "duty-free shop",
-      "kk": "ˋdjutɪˋfri ˏʃɑp",
+      "kk": "ˏdjutɪˋfri ˏʃɑp",
       "zh": "免稅店",
       "emoji": "🍾",
       "type": "word",
@@ -275,6 +275,15 @@
       "type": "word",
       "ex": "The life jacket is under your seat.",
       "exZh": "救生衣在您的座位下方。"
+    },
+    {
+      "en": "suitcase",
+      "kk": "ˋsutˏkes",
+      "zh": "行李箱",
+      "emoji": "🧳",
+      "type": "word",
+      "ex": "She packed a big suitcase.",
+      "exZh": "她打包了一個大行李箱。"
     },
     {
       "en": "check in",
@@ -348,7 +357,7 @@
       "note": "辦理行李託運"
     },
     {
-      "en": "Is this a carry-on or checked bag?",
+      "en": "Is this a carry-on or a checked bag?",
       "zh": "這是隨身還是託運行李？",
       "note": "櫃台人員詢問"
     },
@@ -398,9 +407,9 @@
       "note": "抵達後找行李"
     },
     {
-      "en": "Do I have anything to declare?",
-      "zh": "我有東西需要申報嗎？",
-      "note": "通關時"
+      "en": "Do you have anything to declare?",
+      "zh": "您有東西需要申報嗎？",
+      "note": "海關人員詢問"
     },
     {
       "en": "Please turn off your phone.",
@@ -429,7 +438,7 @@
         },
         {
           "who": "B",
-          "en": "Just this suitcase. I will keep my carry-on.",
+          "en": "Just this suitcase. I’ll keep my carry-on.",
           "zh": "只有這個行李箱，隨身行李我自己帶。"
         },
         {

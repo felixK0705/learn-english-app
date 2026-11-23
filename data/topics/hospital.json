@@ -17,7 +17,7 @@
     },
     {
       "en": "nurse",
-      "kk": "nɝs",
+      "kk": "ˋnɝs",
       "zh": "護理師",
       "emoji": "👩‍⚕️",
       "type": "word",
@@ -152,7 +152,7 @@
     },
     {
       "en": "cough",
-      "kk": "kɔf",
+      "kk": "ˋkɔf",
       "zh": "咳嗽",
       "emoji": "😷",
       "type": "word",
@@ -161,7 +161,7 @@
     },
     {
       "en": "cold",
-      "kk": "kold",
+      "kk": "ˋkold",
       "zh": "感冒",
       "emoji": "🥶",
       "type": "word",
@@ -170,7 +170,7 @@
     },
     {
       "en": "flu",
-      "kk": "flu",
+      "kk": "ˋflu",
       "zh": "流感",
       "emoji": "🦠",
       "type": "word",
@@ -206,7 +206,7 @@
     },
     {
       "en": "sore throat",
-      "kk": "ˋsor ˋθrot",
+      "kk": "ˏsor ˋθrot",
       "zh": "喉嚨痛",
       "emoji": "🗣️",
       "type": "word",
@@ -215,7 +215,7 @@
     },
     {
       "en": "runny nose",
-      "kk": "ˋrʌnɪ ˋnoz",
+      "kk": "ˏrʌnɪ ˋnoz",
       "zh": "流鼻水",
       "emoji": "🤧",
       "type": "word",
@@ -233,7 +233,7 @@
     },
     {
       "en": "pain",
-      "kk": "pen",
+      "kk": "ˋpen",
       "zh": "疼痛",
       "emoji": "😖",
       "type": "word",
@@ -253,7 +253,7 @@
       "en": "vaccine",
       "kk": "vækˋsin",
       "zh": "疫苗",
-      "emoji": "🧪",
+      "emoji": "🧫",
       "type": "word",
       "ex": "Get your flu vaccine every year.",
       "exZh": "每年都要打流感疫苗。"

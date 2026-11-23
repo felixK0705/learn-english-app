@@ -8,7 +8,7 @@
   "words": [
     {
       "en": "fish",
-      "kk": "fɪʃ",
+      "kk": "ˋfɪʃ",
       "zh": "魚",
       "emoji": "🐟",
       "type": "word",
@@ -26,7 +26,7 @@
     },
     {
       "en": "whale",
-      "kk": "hwel",
+      "kk": "ˋhwel",
       "zh": "鯨魚",
       "emoji": "🐋",
       "type": "word",
@@ -35,7 +35,7 @@
     },
     {
       "en": "shark",
-      "kk": "ʃɑrk",
+      "kk": "ˋʃɑrk",
       "zh": "鯊魚",
       "emoji": "🦈",
       "type": "word",
@@ -53,12 +53,12 @@
     },
     {
       "en": "squid",
-      "kk": "skwɪd",
+      "kk": "ˋskwɪd",
       "zh": "烏賊；魷魚",
       "emoji": "🦑",
       "type": "word",
       "ex": "We had fried squid for dinner.",
-      "exZh": "我們晚餐吃炸花枝。"
+      "exZh": "我們晚餐吃了炸魷魚。"
     },
     {
       "en": "jellyfish",
@@ -80,7 +80,7 @@
     },
     {
       "en": "crab",
-      "kk": "kræb",
+      "kk": "ˋkræb",
       "zh": "螃蟹",
       "emoji": "🦀",
       "type": "word",
@@ -98,7 +98,7 @@
     },
     {
       "en": "shrimp",
-      "kk": "ʃrɪmp",
+      "kk": "ˋʃrɪmp",
       "zh": "蝦子",
       "emoji": "🦐",
       "type": "word",
@@ -107,7 +107,7 @@
     },
     {
       "en": "seal",
-      "kk": "sil",
+      "kk": "ˋsil",
       "zh": "海豹",
       "emoji": "🦭",
       "type": "word",
@@ -124,13 +124,13 @@
       "exZh": "一隻海龜爬上了沙灘。"
     },
     {
-      "en": "seahorse",
-      "kk": "ˋsiˏhɔrs",
-      "zh": "海馬",
-      "emoji": "🐴",
+      "en": "ship",
+      "kk": "ˋʃɪp",
+      "zh": "船；大船",
+      "emoji": "🚢",
       "type": "word",
-      "ex": "The seahorse is very small.",
-      "exZh": "海馬非常小。"
+      "ex": "A big ship sailed into the harbor.",
+      "exZh": "一艘大船駛進了港口。"
     },
     {
       "en": "coral",
@@ -151,17 +151,17 @@
       "exZh": "海藻被沖上了沙灘。"
     },
     {
-      "en": "ocean",
-      "kk": "ˋoʃən",
-      "zh": "海洋",
-      "emoji": "🌊",
+      "en": "sunglasses",
+      "kk": "ˋsʌnˏglæsɪz",
+      "zh": "太陽眼鏡",
+      "emoji": "🕶️",
       "type": "word",
-      "ex": "The ocean is deep and blue.",
-      "exZh": "海洋又深又藍。"
+      "ex": "Wear sunglasses at the beach.",
+      "exZh": "在海邊要戴太陽眼鏡。"
     },
     {
       "en": "wave",
-      "kk": "wev",
+      "kk": "ˋwev",
       "zh": "波浪",
       "emoji": "🌊",
       "type": "word",
@@ -170,7 +170,7 @@
     },
     {
       "en": "beach",
-      "kk": "bitʃ",
+      "kk": "ˋbitʃ",
       "zh": "海灘",
       "emoji": "🏖️",
       "type": "word",
@@ -179,7 +179,7 @@
     },
     {
       "en": "sand",
-      "kk": "sænd",
+      "kk": "ˋsænd",
       "zh": "沙子",
       "emoji": "⏳",
       "type": "word",
@@ -188,7 +188,7 @@
     },
     {
       "en": "shell",
-      "kk": "ʃɛl",
+      "kk": "ˋʃɛl",
       "zh": "貝殼",
       "emoji": "🐚",
       "type": "word",
@@ -224,7 +224,7 @@
     },
     {
       "en": "surfboard",
-      "kk": "ˋsɝfˏbɔrd",
+      "kk": "ˋsɝfˏbord",
       "zh": "衝浪板",
       "emoji": "🏄",
       "type": "word",
@@ -242,7 +242,7 @@
     },
     {
       "en": "boat",
-      "kk": "bot",
+      "kk": "ˋbot",
       "zh": "小船",
       "emoji": "⛵",
       "type": "word",
@@ -259,13 +259,22 @@
       "exZh": "水手放下了錨。"
     },
     {
-      "en": "lighthouse",
-      "kk": "ˋlaɪtˏhaʊs",
-      "zh": "燈塔",
-      "emoji": "🗼",
+      "en": "flip-flops",
+      "kk": "ˋflɪpˏflɑps",
+      "zh": "夾腳拖鞋",
+      "emoji": "🩴",
       "type": "word",
-      "ex": "The lighthouse guides the ships.",
-      "exZh": "燈塔為船隻指引方向。"
+      "ex": "I wear flip-flops on the sand.",
+      "exZh": "我在沙灘上穿夾腳拖。"
+    },
+    {
+      "en": "ocean",
+      "kk": "ˋoʃən",
+      "zh": "海洋",
+      "emoji": "🌊",
+      "type": "word",
+      "ex": "The ocean is deep and blue.",
+      "exZh": "海洋又深又藍。"
     },
     {
       "en": "go swimming",
@@ -373,8 +382,8 @@
       "note": "詢問潮汐時間"
     },
     {
-      "en": "Can you help me bury my feet?",
-      "zh": "你可以幫我把腳埋起來嗎？",
+      "en": "Can you help me bury my feet in the sand?",
+      "zh": "你可以幫我把腳埋進沙裡嗎？",
       "note": "玩沙時"
     },
     {
@@ -444,7 +453,7 @@
         },
         {
           "who": "B",
-          "en": "Wow, it is so small!",
+          "en": "Wow, it's so small!",
           "zh": "哇，好小喔！"
         },
         {
@@ -454,7 +463,7 @@
         },
         {
           "who": "B",
-          "en": "Right. We will put the shell back too.",
+          "en": "Right. We'll put the shell back too.",
           "zh": "對，我們也把貝殼放回去。"
         },
         {

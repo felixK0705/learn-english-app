@@ -8,7 +8,7 @@
   "words": [
     {
       "en": "left",
-      "kk": "lɛft",
+      "kk": "ˋlɛft",
       "zh": "左邊",
       "emoji": "⬅️",
       "type": "word",
@@ -17,7 +17,7 @@
     },
     {
       "en": "right",
-      "kk": "raɪt",
+      "kk": "ˋraɪt",
       "zh": "右邊",
       "emoji": "➡️",
       "type": "word",
@@ -26,7 +26,7 @@
     },
     {
       "en": "straight",
-      "kk": "stret",
+      "kk": "ˋstret",
       "zh": "直的；直接地",
       "emoji": "⬆️",
       "type": "word",
@@ -53,11 +53,11 @@
     },
     {
       "en": "block",
-      "kk": "blɑk",
+      "kk": "ˋblɑk",
       "zh": "街區",
-      "emoji": "🧱",
+      "emoji": "🏘️",
       "type": "word",
-      "ex": "It is three blocks from here.",
+      "ex": "It’s three blocks from here.",
       "exZh": "從這裡過去有三個街區。"
     },
     {
@@ -71,25 +71,25 @@
     },
     {
       "en": "street",
-      "kk": "strit",
+      "kk": "ˋstrit",
       "zh": "街道",
-      "emoji": "🛤️",
+      "emoji": "🛣️",
       "type": "word",
       "ex": "Which street is the hotel on?",
       "exZh": "飯店在哪一條街上？"
     },
     {
-      "en": "road",
-      "kk": "rod",
-      "zh": "馬路；道路",
-      "emoji": "🏞️",
+      "en": "stop sign",
+      "kk": "ˋstɑp ˏsaɪn",
+      "zh": "停車標誌",
+      "emoji": "🛑",
       "type": "word",
-      "ex": "This road leads to the lake.",
-      "exZh": "這條路通往湖邊。"
+      "ex": "Turn right at the stop sign.",
+      "exZh": "在停車標誌那裡右轉。"
     },
     {
       "en": "map",
-      "kk": "mæp",
+      "kk": "ˋmæp",
       "zh": "地圖",
       "emoji": "🗺️",
       "type": "word",
@@ -102,12 +102,12 @@
       "zh": "方向",
       "emoji": "🧭",
       "type": "word",
-      "ex": "We are going in the wrong direction.",
+      "ex": "We’re going in the wrong direction.",
       "exZh": "我們走錯方向了。"
     },
     {
       "en": "sign",
-      "kk": "saɪn",
+      "kk": "ˋsaɪn",
       "zh": "標誌；路標",
       "emoji": "🪧",
       "type": "word",
@@ -125,7 +125,7 @@
     },
     {
       "en": "north",
-      "kk": "norθ",
+      "kk": "ˋnɔrθ",
       "zh": "北方",
       "emoji": "🔼",
       "type": "word",
@@ -134,7 +134,7 @@
     },
     {
       "en": "south",
-      "kk": "saʊθ",
+      "kk": "ˋsaʊθ",
       "zh": "南方",
       "emoji": "🔽",
       "type": "word",
@@ -143,7 +143,7 @@
     },
     {
       "en": "east",
-      "kk": "ist",
+      "kk": "ˋist",
       "zh": "東方",
       "emoji": "▶️",
       "type": "word",
@@ -152,7 +152,7 @@
     },
     {
       "en": "west",
-      "kk": "wɛst",
+      "kk": "ˋwɛst",
       "zh": "西方",
       "emoji": "◀️",
       "type": "word",
@@ -170,7 +170,7 @@
     },
     {
       "en": "far",
-      "kk": "fɑr",
+      "kk": "ˋfɑr",
       "zh": "遠的",
       "emoji": "🔭",
       "type": "word",
@@ -179,7 +179,7 @@
     },
     {
       "en": "near",
-      "kk": "nɪr",
+      "kk": "ˋnɪr",
       "zh": "近的；在…附近",
       "emoji": "🤏",
       "type": "word",
@@ -291,7 +291,7 @@
       "zh": "直走",
       "emoji": "⏫",
       "type": "phrase",
-      "ex": "Go straight and you will see it.",
+      "ex": "Go straight and you’ll see it.",
       "exZh": "直走就會看到了。"
     },
     {
@@ -372,7 +372,7 @@
       "note": "安慰對方不會走錯"
     },
     {
-      "en": "It is on your right, next to the bank.",
+      "en": "It’s on your right, next to the bank.",
       "zh": "它在你的右邊，銀行隔壁。",
       "note": "說明確切位置"
     },
@@ -397,7 +397,7 @@
       "note": "詢問步行時間"
     },
     {
-      "en": "Walk past the traffic light and you will see it.",
+      "en": "Walk past the traffic light and you’ll see it.",
       "zh": "走過紅綠燈就會看到了。",
       "note": "指路時"
     },
@@ -433,7 +433,7 @@
         },
         {
           "who": "B",
-          "en": "No, it is only two blocks away, next to the bank.",
+          "en": "No, it’s only two blocks away, next to the bank.",
           "zh": "不遠，只有兩個街區，在銀行隔壁。"
         },
         {
@@ -463,7 +463,7 @@
         },
         {
           "who": "B",
-          "en": "It is around the corner, across from the cinema.",
+          "en": "It’s around the corner, across from the cinema.",
           "zh": "就在轉角，電影院對面。"
         },
         {

@@ -7,19 +7,19 @@
   "intro": "認識教室裡的物品與文具，學會上課時常用的說法。",
   "words": [
     {
-      "en": "desk",
-      "kk": "ˋdɛsk",
-      "zh": "書桌；課桌",
-      "emoji": "🪑",
+      "en": "pencil case",
+      "kk": "ˋpɛnsl̩ ˏkes",
+      "zh": "鉛筆盒",
+      "emoji": "👝",
       "type": "word",
-      "ex": "My desk is next to the window.",
-      "exZh": "我的課桌在窗戶旁邊。"
+      "ex": "I keep my pencils in my pencil case.",
+      "exZh": "我把鉛筆放在鉛筆盒裡。"
     },
     {
       "en": "chair",
       "kk": "ˋtʃɛr",
       "zh": "椅子",
-      "emoji": "💺",
+      "emoji": "🪑",
       "type": "word",
       "ex": "Please push your chair in.",
       "exZh": "請把你的椅子推進去。"
@@ -34,13 +34,13 @@
       "exZh": "老師在黑板上寫字。"
     },
     {
-      "en": "chalk",
-      "kk": "ˋtʃɔk",
-      "zh": "粉筆",
-      "emoji": "🖍️",
+      "en": "thumbtack",
+      "kk": "ˋθʌmˏtæk",
+      "zh": "圖釘",
+      "emoji": "📌",
       "type": "word",
-      "ex": "I need a piece of chalk.",
-      "exZh": "我需要一支粉筆。"
+      "ex": "Use a thumbtack to put the poster on the board.",
+      "exZh": "用圖釘把海報釘在布告欄上。"
     },
     {
       "en": "eraser",
@@ -124,17 +124,17 @@
       "exZh": "這個作品需要膠水。"
     },
     {
-      "en": "tape",
-      "kk": "ˋtep",
-      "zh": "膠帶",
-      "emoji": "🎞️",
+      "en": "paper clip",
+      "kk": "ˋpepɚ ˏklɪp",
+      "zh": "迴紋針",
+      "emoji": "📎",
       "type": "word",
-      "ex": "Put some tape on the poster.",
-      "exZh": "在海報上貼一些膠帶。"
+      "ex": "Hold the pages together with a paper clip.",
+      "exZh": "用迴紋針把這幾頁夾在一起。"
     },
     {
       "en": "crayon",
-      "kk": "ˋkreɑn",
+      "kk": "ˋkreən",
       "zh": "蠟筆",
       "emoji": "🖍️",
       "type": "word",
@@ -142,31 +142,22 @@
       "exZh": "她用黃色蠟筆畫了一個太陽。"
     },
     {
-      "en": "marker",
-      "kk": "ˋmɑrkɚ",
-      "zh": "麥克筆；白板筆",
-      "emoji": "🖌️",
+      "en": "bookmark",
+      "kk": "ˋbʊkˏmɑrk",
+      "zh": "書籤",
+      "emoji": "🔖",
       "type": "word",
-      "ex": "The teacher uses a red marker.",
-      "exZh": "老師使用紅色的白板筆。"
+      "ex": "Put a bookmark in your book.",
+      "exZh": "在你的書裡夾一張書籤。"
     },
     {
-      "en": "sharpener",
-      "kk": "ˋʃɑrpṇɚ",
-      "zh": "削鉛筆機",
-      "emoji": "🔪",
+      "en": "trash can",
+      "kk": "ˋtræʃ ˏkæn",
+      "zh": "垃圾桶",
+      "emoji": "🗑️",
       "type": "word",
-      "ex": "The pencil sharpener is on the shelf.",
-      "exZh": "削鉛筆機在架子上。"
-    },
-    {
-      "en": "calculator",
-      "kk": "ˋkælkjəˏletɚ",
-      "zh": "計算機",
-      "emoji": "🧮",
-      "type": "word",
-      "ex": "You can use a calculator in math class.",
-      "exZh": "數學課可以使用計算機。"
+      "ex": "Throw the paper into the trash can.",
+      "exZh": "把紙丟進垃圾桶。"
     },
     {
       "en": "clock",
@@ -201,7 +192,7 @@
       "zh": "投影機",
       "emoji": "📽️",
       "type": "word",
-      "ex": "The projector is not working today.",
+      "ex": "The projector isn't working today.",
       "exZh": "投影機今天壞了。"
     },
     {
@@ -241,13 +232,13 @@
       "exZh": "我的同學坐在我後面。"
     },
     {
-      "en": "stapler",
-      "kk": "ˋstepḷɚ",
-      "zh": "釘書機",
-      "emoji": "📎",
+      "en": "folder",
+      "kk": "ˋfoldɚ",
+      "zh": "資料夾",
+      "emoji": "📁",
       "type": "word",
-      "ex": "Can you pass me the stapler?",
-      "exZh": "你可以把釘書機遞給我嗎？"
+      "ex": "Put your worksheets in this folder.",
+      "exZh": "把你的學習單放進這個資料夾。"
     },
     {
       "en": "paper",
@@ -257,6 +248,60 @@
       "type": "word",
       "ex": "Please take out a sheet of paper.",
       "exZh": "請拿出一張紙。"
+    },
+    {
+      "en": "desk",
+      "kk": "ˋdɛsk",
+      "zh": "書桌；課桌",
+      "emoji": "🪑",
+      "type": "word",
+      "ex": "My desk is next to the window.",
+      "exZh": "我的課桌在窗戶旁邊。"
+    },
+    {
+      "en": "chalk",
+      "kk": "ˋtʃɔk",
+      "zh": "粉筆",
+      "emoji": "🖍️",
+      "type": "word",
+      "ex": "I need a piece of chalk.",
+      "exZh": "我需要一支粉筆。"
+    },
+    {
+      "en": "marker",
+      "kk": "ˋmɑrkɚ",
+      "zh": "麥克筆；白板筆",
+      "emoji": "🖊️",
+      "type": "word",
+      "ex": "The teacher uses a red marker.",
+      "exZh": "老師使用紅色的白板筆。"
+    },
+    {
+      "en": "calculator",
+      "kk": "ˋkælkjəˏletɚ",
+      "zh": "計算機",
+      "emoji": "🧮",
+      "type": "word",
+      "ex": "You can use a calculator in math class.",
+      "exZh": "數學課可以使用計算機。"
+    },
+    {
+      "en": "stapler",
+      "kk": "ˋstepḷɚ",
+      "zh": "釘書機",
+      "emoji": "🗜️",
+      "type": "word",
+      "ex": "Can you pass me the stapler?",
+      "exZh": "你可以把釘書機遞給我嗎？"
+    },
+    {
+      "en": "sharpener",
+      "kk": "ˋʃɑrpṇɚ",
+      "zh": "削鉛筆機",
+      "emoji": "✏️",
+      "type": "word",
+      "ex": "The pencil sharpener is on the shelf.",
+      "exZh": "削鉛筆機在架子上。"
     },
     {
       "en": "raise your hand",
@@ -318,7 +363,7 @@
       "zh": "打掃；收拾乾淨",
       "emoji": "🧹",
       "type": "phrase",
-      "ex": "Let us clean up the classroom together.",
+      "ex": "Let's clean up the classroom together.",
       "exZh": "我們一起把教室打掃乾淨吧。"
     }
   ],
@@ -334,7 +379,7 @@
       "note": "沒聽清楚老師說的話時"
     },
     {
-      "en": "I do not understand this question.",
+      "en": "I don't understand this question.",
       "zh": "我不懂這個問題。",
       "note": "遇到不會的題目時"
     },
@@ -374,7 +419,7 @@
       "note": "向同學求助時"
     },
     {
-      "en": "It is time for class.",
+      "en": "It's time for class.",
       "zh": "該上課了。",
       "note": "提醒大家進教室時"
     },
@@ -410,7 +455,7 @@
         },
         {
           "who": "A",
-          "en": "Thank you! I will give it back after class.",
+          "en": "Thank you! I'll give it back after class.",
           "zh": "謝謝！下課後我會還你。"
         },
         {
@@ -430,7 +475,7 @@
         },
         {
           "who": "B",
-          "en": "I am sorry. I left it at home.",
+          "en": "I'm sorry. I left it at home.",
           "zh": "對不起，我把它忘在家裡了。"
         },
         {
@@ -440,7 +485,7 @@
         },
         {
           "who": "B",
-          "en": "Yes, I will bring it. Thank you, Ms. Lin.",
+          "en": "Yes, I'll bring it. Thank you, Ms. Lin.",
           "zh": "好的，我會帶來。謝謝林老師。"
         }
       ]

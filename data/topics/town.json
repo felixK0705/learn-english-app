@@ -17,7 +17,7 @@
     },
     {
       "en": "downtown",
-      "kk": "ˋdaʊnˋtaʊn",
+      "kk": "ˏdaʊnˋtaʊn",
       "zh": "市中心",
       "emoji": "🌆",
       "type": "word",
@@ -62,7 +62,7 @@
     },
     {
       "en": "school",
-      "kk": "skul",
+      "kk": "ˋskul",
       "zh": "學校",
       "emoji": "🏫",
       "type": "word",
@@ -71,7 +71,7 @@
     },
     {
       "en": "church",
-      "kk": "tʃɝtʃ",
+      "kk": "ˋtʃɝtʃ",
       "zh": "教堂",
       "emoji": "⛪",
       "type": "word",
@@ -125,7 +125,7 @@
     },
     {
       "en": "gas station",
-      "kk": "ˋgæsˏsteʃən",
+      "kk": "ˋgæs ˏsteʃən",
       "zh": "加油站",
       "emoji": "⛽",
       "type": "word",
@@ -145,7 +145,7 @@
       "en": "police station",
       "kk": "pəˋlis ˏsteʃən",
       "zh": "警察局",
-      "emoji": "👮",
+      "emoji": "🚓",
       "type": "word",
       "ex": "He went to the police station to report it.",
       "exZh": "他去警察局報案。"
@@ -188,7 +188,7 @@
     },
     {
       "en": "bridge",
-      "kk": "brɪdʒ",
+      "kk": "ˋbrɪdʒ",
       "zh": "橋",
       "emoji": "🌉",
       "type": "word",
@@ -224,7 +224,7 @@
     },
     {
       "en": "mall",
-      "kk": "mɔl",
+      "kk": "ˋmɔl",
       "zh": "購物中心",
       "emoji": "🛍️",
       "type": "word",
@@ -233,7 +233,7 @@
     },
     {
       "en": "factory",
-      "kk": "ˋfæktrɪ",
+      "kk": "ˋfæktərɪ",
       "zh": "工廠",
       "emoji": "🏭",
       "type": "word",
@@ -353,7 +353,7 @@
       "note": "詢問觀光或娛樂時"
     },
     {
-      "en": "It is a quiet and friendly neighborhood.",
+      "en": "It’s a quiet and friendly neighborhood.",
       "zh": "那是個安靜又友善的社區。",
       "note": "形容住家環境"
     },
@@ -364,7 +364,7 @@
     },
     {
       "en": "The museum is just down the street.",
-      "zh": "博物館就在這條街的前面。",
+      "zh": "博物館就在這條街上，不遠。",
       "note": "告訴別人地點很近"
     },
     {
@@ -414,7 +414,7 @@
         },
         {
           "who": "B",
-          "en": "I’m from Tainan. It is an old city.",
+          "en": "I’m from Tainan. It’s an old city.",
           "zh": "我來自台南，那是一座古老的城市。"
         },
         {
@@ -424,7 +424,7 @@
         },
         {
           "who": "B",
-          "en": "It is famous for its temples and street food.",
+          "en": "It’s famous for its temples and street food.",
           "zh": "它以廟宇和路邊小吃聞名。"
         },
         {
@@ -454,7 +454,7 @@
         },
         {
           "who": "B",
-          "en": "No, it is only five minutes away on foot.",
+          "en": "No, it’s only five minutes away on foot.",
           "zh": "不遠，走路只要五分鐘。"
         },
         {

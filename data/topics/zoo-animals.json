@@ -80,7 +80,7 @@
     },
     {
       "en": "bear",
-      "kk": "bɛr",
+      "kk": "ˋbɛr",
       "zh": "熊",
       "emoji": "🐻",
       "type": "word",
@@ -89,7 +89,7 @@
     },
     {
       "en": "wolf",
-      "kk": "wʊlf",
+      "kk": "ˋwʊlf",
       "zh": "狼",
       "emoji": "🐺",
       "type": "word",
@@ -125,7 +125,7 @@
     },
     {
       "en": "snake",
-      "kk": "snek",
+      "kk": "ˋsnek",
       "zh": "蛇",
       "emoji": "🐍",
       "type": "word",
@@ -134,7 +134,7 @@
     },
     {
       "en": "camel",
-      "kk": "ˋkæml",
+      "kk": "ˋkæml̩",
       "zh": "駱駝",
       "emoji": "🐪",
       "type": "word",
@@ -178,13 +178,13 @@
       "exZh": "豹的毛皮上有斑點。"
     },
     {
-      "en": "cheetah",
-      "kk": "ˋtʃitə",
-      "zh": "獵豹",
-      "emoji": "🐆",
+      "en": "sloth",
+      "kk": "ˋsloθ",
+      "zh": "樹懶",
+      "emoji": "🦥",
       "type": "word",
-      "ex": "The cheetah is the fastest runner.",
-      "exZh": "獵豹是跑得最快的動物。"
+      "ex": "The sloth hangs upside down from a branch.",
+      "exZh": "樹懶倒掛在樹枝上。"
     },
     {
       "en": "flamingo",
@@ -197,7 +197,7 @@
     },
     {
       "en": "deer",
-      "kk": "dɪr",
+      "kk": "ˋdɪr",
       "zh": "鹿",
       "emoji": "🦌",
       "type": "word",
@@ -214,22 +214,22 @@
       "exZh": "陸龜走得非常慢。"
     },
     {
-      "en": "ostrich",
-      "kk": "ˋɔstrɪtʃ",
-      "zh": "鴕鳥",
-      "emoji": "🦤",
+      "en": "hedgehog",
+      "kk": "ˋhɛdʒˏhɑg",
+      "zh": "刺蝟",
+      "emoji": "🦔",
       "type": "word",
-      "ex": "An ostrich can run but cannot fly.",
-      "exZh": "鴕鳥會跑但不會飛。"
+      "ex": "The hedgehog rolled into a ball.",
+      "exZh": "刺蝟縮成了一顆球。"
     },
     {
-      "en": "cage",
-      "kk": "kedʒ",
-      "zh": "籠子",
-      "emoji": "🔒",
+      "en": "llama",
+      "kk": "ˋlɑmə",
+      "zh": "駱馬；羊駝",
+      "emoji": "🦙",
       "type": "word",
-      "ex": "The birds are in a big cage.",
-      "exZh": "鳥兒們在一個大籠子裡。"
+      "ex": "The llama has soft, thick fur.",
+      "exZh": "駱馬有柔軟又厚的毛。"
     },
     {
       "en": "zookeeper",
@@ -241,31 +241,40 @@
       "exZh": "管理員中午餵獅子。"
     },
     {
-      "en": "trunk",
-      "kk": "trʌŋk",
-      "zh": "象鼻",
-      "emoji": "🐘",
+      "en": "fox",
+      "kk": "ˋfɑks",
+      "zh": "狐狸",
+      "emoji": "🦊",
       "type": "word",
-      "ex": "The elephant sprays water with its trunk.",
-      "exZh": "大象用鼻子噴水。"
+      "ex": "The fox has a bushy tail.",
+      "exZh": "狐狸有一條毛茸茸的尾巴。"
     },
     {
-      "en": "tail",
-      "kk": "tel",
-      "zh": "尾巴",
-      "emoji": "🐕",
+      "en": "otter",
+      "kk": "ˋɑtɚ",
+      "zh": "水獺",
+      "emoji": "🦦",
       "type": "word",
-      "ex": "The monkey has a long tail.",
-      "exZh": "猴子有一條長尾巴。"
+      "ex": "The otter is floating on its back.",
+      "exZh": "水獺正仰躺著漂在水上。"
     },
     {
-      "en": "stripe",
-      "kk": "straɪp",
-      "zh": "條紋",
-      "emoji": "🦓",
+      "en": "raccoon",
+      "kk": "ræˋkun",
+      "zh": "浣熊",
+      "emoji": "🦝",
       "type": "word",
-      "ex": "Every zebra has different stripes.",
-      "exZh": "每隻斑馬的條紋都不一樣。"
+      "ex": "The raccoon washes its food in the water.",
+      "exZh": "浣熊會在水裡洗食物。"
+    },
+    {
+      "en": "cheetah",
+      "kk": "ˋtʃitə",
+      "zh": "獵豹",
+      "emoji": "🐆",
+      "type": "word",
+      "ex": "The cheetah is the fastest runner.",
+      "exZh": "獵豹是跑得最快的動物。"
     },
     {
       "en": "feed the animals",
@@ -273,7 +282,7 @@
       "zh": "餵動物",
       "emoji": "🥕",
       "type": "phrase",
-      "ex": "Please do not feed the animals.",
+      "ex": "Please don't feed the animals.",
       "exZh": "請不要餵動物。"
     },
     {
@@ -309,8 +318,8 @@
       "zh": "爬樹",
       "emoji": "🌳",
       "type": "phrase",
-      "ex": "Monkeys climb a tree very fast.",
-      "exZh": "猴子爬樹爬得很快。"
+      "ex": "This monkey can climb a tree very fast.",
+      "exZh": "這隻猴子爬樹爬得很快。"
     },
     {
       "en": "take a picture of",
@@ -353,7 +362,7 @@
       "note": "回答動物吃什麼"
     },
     {
-      "en": "It is as tall as a house.",
+      "en": "It's as tall as a house.",
       "zh": "牠像房子一樣高。",
       "note": "形容動物的大小"
     },
@@ -403,7 +412,7 @@
       "note": "好奇動物能力"
     },
     {
-      "en": "It is time to go home.",
+      "en": "It's time to go home.",
       "zh": "該回家了。",
       "note": "逛完動物園準備離開"
     }
@@ -429,7 +438,7 @@
         },
         {
           "who": "B",
-          "en": "No, it is only five minutes away.",
+          "en": "No, it's only five minutes away.",
           "zh": "不遠，只要五分鐘。"
         },
         {
@@ -449,7 +458,7 @@
         },
         {
           "who": "B",
-          "en": "It is so cute!",
+          "en": "It's so cute!",
           "zh": "好可愛喔！"
         },
         {
@@ -459,7 +468,7 @@
         },
         {
           "who": "B",
-          "en": "Sure, but do not use the flash.",
+          "en": "Sure, but don't use the flash.",
           "zh": "當然可以，但不要開閃光燈。"
         }
       ]

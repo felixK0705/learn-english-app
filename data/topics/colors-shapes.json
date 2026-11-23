@@ -172,7 +172,7 @@
       "en": "triangle",
       "kk": "ˋtraɪˏæŋgl̩",
       "zh": "三角形",
-      "emoji": "📐",
+      "emoji": "🔺",
       "type": "word",
       "ex": "A triangle has three corners.",
       "exZh": "三角形有三個角。"
@@ -224,7 +224,7 @@
     },
     {
       "en": "crescent",
-      "kk": "ˋkrɛsnt",
+      "kk": "ˋkrɛsn̩t",
       "zh": "新月形",
       "emoji": "🌙",
       "type": "word",
@@ -268,13 +268,13 @@
       "exZh": "罐頭是圓柱體。"
     },
     {
-      "en": "pyramid",
-      "kk": "ˋpɪrəmɪd",
-      "zh": "金字塔；角錐",
-      "emoji": "🔺",
+      "en": "octagon",
+      "kk": "ˋɑktəˏgɑn",
+      "zh": "八邊形",
+      "emoji": "🛑",
       "type": "word",
-      "ex": "The pyramid has a square base.",
-      "exZh": "這座金字塔的底部是正方形。"
+      "ex": "A stop sign is an octagon.",
+      "exZh": "停車標誌是八邊形的。"
     },
     {
       "en": "stripe",
@@ -352,7 +352,7 @@
       "note": "聊喜好時"
     },
     {
-      "en": "It is bright red.",
+      "en": "It's bright red.",
       "zh": "它是鮮紅色的。",
       "note": "描述顏色"
     },
@@ -372,7 +372,7 @@
       "note": "美勞課借東西"
     },
     {
-      "en": "Let us mix yellow and blue.",
+      "en": "Let's mix yellow and blue.",
       "zh": "我們把黃色和藍色混在一起吧。",
       "note": "做顏料實驗"
     },
@@ -448,7 +448,7 @@
         },
         {
           "who": "B",
-          "en": "It is a cube.",
+          "en": "It's a cube.",
           "zh": "它是立方體。"
         },
         {
