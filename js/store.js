@@ -4,7 +4,7 @@ const DAY = 86400000;
 const INTERVALS = [0, 1, 2, 4, 7, 15, 30]; // Leitner 複習間隔（天）
 
 const defaults = () => ({
-  settings: { rate: 0.9, accent: 'en-US', voice: '', showKK: true, showZh: true },
+  settings: { rate: 0.9, accent: 'en-US', voice: '', engine: 'auto', showKK: true, showZh: true, goal: 20 },
   fav: {},        // key -> true
   srs: {},        // key -> { box, due }
   seen: {},       // key -> 第一次看到的時間
@@ -60,6 +60,7 @@ export const store = {
     state.quiz[topicId] = q; save();
   },
 
+  setLast(id) { state.last = id; save(); },
   activity(n = 1) { const d = today(); state.days[d] = (state.days[d] || 0) + n; state.xp += n; save(); },
   streak() {
     let n = 0; const d = new Date();

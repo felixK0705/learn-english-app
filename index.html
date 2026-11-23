@@ -5,7 +5,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <title>情境英語圖鑑</title>
   <meta name="description" content="結合生活情境與插圖的英語單字、片語與會話學習 App">
-  <meta name="theme-color" content="#ffcf4a">
+  <meta name="theme-color" content="#f6f5fb" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#14121c" media="(prefers-color-scheme: dark)">
   <link rel="manifest" href="manifest.webmanifest">
   <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
   <link rel="apple-touch-icon" href="icons/icon-192.png">
@@ -15,21 +16,23 @@
   <meta name="apple-mobile-web-app-title" content="情境英語">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@500;600;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@600;700;800;900&family=Noto+Sans+TC:wght@400;500;700;900&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="css/app.css">
 </head>
 <body>
-  <div id="app">
-    <header id="topbar"></header>
-    <main id="view" tabindex="-1"><div class="loading">載入中…</div></main>
-    <nav id="tabbar" aria-label="主選單">
-      <a href="#/" data-nav="home"><span>🏠</span>首頁</a>
-      <a href="#/review" data-nav="review"><span>🃏</span>複習</a>
-      <a href="#/search" data-nav="search"><span>🔍</span>搜尋</a>
-      <a href="#/me" data-nav="me"><span>⭐</span>我的</a>
-    </nav>
+  <div class="layout">
+    <aside class="sidebar" aria-label="主選單">
+      <a class="brand" href="#/"><img src="icons/icon.svg" alt=""><span><b>情境英語圖鑑</b><small>Picture English</small></span></a>
+      <nav class="side-nav" id="sidenav"></nav>
+      <div class="side-card" id="sidecard"></div>
+    </aside>
+    <div class="main">
+      <header class="topbar" id="topbar"></header>
+      <main id="view" tabindex="-1"><div class="loading"><span class="spinner"></span></div></main>
+    </div>
   </div>
-  <div id="sheet" class="sheet" hidden></div>
+  <nav class="tabbar" id="tabbar" aria-label="主選單"></nav>
+  <div id="modal" class="modal" hidden></div>
   <div id="toast" class="toast" role="status" aria-live="polite"></div>
   <script type="module" src="js/app.js"></script>
 </body>

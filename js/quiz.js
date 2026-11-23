@@ -1,7 +1,8 @@
 // 主題小測驗：看圖選字、聽音辨圖、中翻英、拼字、句子重組
 import { store, keyOf } from './store.js';
 import { speak } from './speech.js';
-import { esc, $, shuffle, sample, beep, burst, sleep } from './util.js';
+import { esc, $, shuffle, sample, beep, burst } from './util.js';
+import { icon } from './icons.js';
 
 const TYPES = ['pic', 'listen', 'zh', 'spell', 'order'];
 
@@ -35,12 +36,12 @@ export function runQuiz(body, topic, { onDone }) {
   const finish = () => {
     const pts = Math.round((score / qs.length) * 100);
     onDone(pts); store.activity(qs.length);
-    const stars = pts >= 90 ? '⭐⭐⭐' : pts >= 60 ? '⭐⭐' : pts >= 30 ? '⭐' : '💪';
-    body.innerHTML = `<div class="quiz-end">
-      <div class="qs-pic">${pts >= 60 ? '🏆' : '📚'}</div><div class="stars">${stars}</div>
-      <h3>${pts} 分</h3><p>答對 ${score} / ${qs.length} 題${pts === 100 ? '，太厲害了！' : pts >= 60 ? '，做得好！' : '，再接再厲！'}</p>
-      ${wrong.length ? `<div class="wrong-list"><h4>需要加強（已加入複習清單）</h4>${wrong.map(w => `<button class="chip" data-say="${esc(w.en)}">${w.emoji || '💬'} ${esc(w.en)} <small>${esc(w.zh)}</small></button>`).join('')}</div>` : ''}
-      <div class="row"><button class="btn primary big" data-again>再玩一次</button><a class="btn big" href="#/review">去複習</a></div></div>`;
+    const stars = [1, 2, 3].map(n => `<span class="${pts >= [30, 60, 90][n - 1] ? 'on' : ''}">${icon('star')}</span>`).join('');
+    body.innerHTML = `<div class="result-card">
+      <div class="qs-art">${pts >= 60 ? '🏆' : '📚'}</div><div class="stars">${stars}</div>
+      <h3>${pts} 分</h3><p class="muted">答對 ${score} / ${qs.length} 題${pts === 100 ? '，太厲害了！' : pts >= 60 ? '，做得好！' : '，再接再厲！'}</p>
+      ${wrong.length ? `<div class="wrong-list"><h4>需要加強（已加入複習清單）・點一下聽發音</h4>${wrong.map(w => `<button class="pill" data-say="${esc(w.en)}">${w.emoji || '💬'} ${esc(w.en)}<span class="count">${esc(w.zh)}</span></button>`).join('')}</div>` : ''}
+      <div class="row"><button class="btn primary lg" data-again>${icon('rotate-ccw')}再玩一次</button><a class="btn lg" href="#/review">${icon('layers')}去複習</a></div></div>`;
     if (pts >= 60) { const r = $('.qs-pic', body).getBoundingClientRect(); burst(r.left + r.width / 2, r.top + r.height / 2); }
     $('[data-again]', body).onclick = () => runQuiz(body, topic, { onDone });
   };
@@ -59,11 +60,11 @@ export function runQuiz(body, topic, { onDone }) {
   const show = () => {
     if (i >= qs.length) return finish();
     const q = qs[i];
-    const head = `<div class="q-prog"><span>第 ${i + 1} / ${qs.length} 題</span><span class="bar"><i style="width:${(i / qs.length) * 100}%"></i></span><span>✅ ${score}</span></div>`;
-    const next = `<button class="btn primary big q-next" hidden>下一題 ›</button>`;
+    const head = `<div class="q-prog"><span>${i + 1} / ${qs.length}</span><div class="progress"><i style="width:${(i / qs.length) * 100}%"></i></div><span class="q-score">${icon('circle-check')}${score}</span></div>`;
+    const next = `<button class="btn primary lg q-next" hidden>${i + 1 === qs.length ? '看結果' : '下一題'}${icon('arrow-right')}</button>`;
     if (q.type === 'pic' || q.type === 'listen' || q.type === 'zh') {
       const prompt = q.type === 'pic' ? `<p class="q-ask">這是什麼？</p><div class="q-pic">${q.w.emoji}</div>`
-        : q.type === 'listen' ? `<p class="q-ask">聽聽看，是哪一個？</p><button class="q-listen" data-replay>🔊</button>`
+        : q.type === 'listen' ? `<p class="q-ask">聽聽看，是哪一個？</p><button class="q-listen" data-replay aria-label="再聽一次">${icon('volume-2')}</button>`
         : `<p class="q-ask">「${esc(q.w.zh)}」的英文是？</p><div class="q-pic sm">${q.w.emoji}</div>`;
       const opt = o => q.type === 'listen'
         ? `<button class="opt pic" data-en="${esc(o.en)}"><span>${o.emoji}</span><small>${esc(o.zh.split(/[；;]/)[0])}</small></button>`
@@ -85,7 +86,7 @@ export function runQuiz(body, topic, { onDone }) {
       body.innerHTML = `<div class="quiz">${head}<p class="q-ask">拼出這個單字：${esc(q.w.zh)}</p><div class="q-pic">${q.w.emoji}</div>
         <div class="spell-slots">${letters.map(() => '<span class="slot"></span>').join('')}</div>
         <div class="tiles">${tiles.map((c, n) => `<button class="tile" data-n="${n}">${c}</button>`).join('')}</div>
-        <div class="row"><button class="btn sm" data-undo>⌫ 刪除</button><button class="btn sm" data-hint>🔊 提示</button></div>${next}</div>`;
+        <div class="row"><button class="btn sm" data-undo>${icon('delete')}刪除</button><button class="btn sm" data-hint>${icon('volume-2')}聽提示</button></div>${next}</div>`;
       const typed = [];
       const slots = [...body.querySelectorAll('.slot')];
       const paint = () => slots.forEach((s, n) => (s.textContent = typed[n]?.c || ''));
@@ -111,7 +112,7 @@ export function runQuiz(body, topic, { onDone }) {
       const built = [];
       body.innerHTML = `<div class="quiz">${head}<p class="q-ask">把句子排好：</p><p class="q-zh">${esc(q.s.zh)}</p>
         <div class="order-built"></div><div class="tiles words"></div>
-        <div class="row"><button class="btn sm" data-undo>⌫ 刪除</button><button class="btn sm" data-hint>🔊 聽句子</button></div>${next}</div>`;
+        <div class="row"><button class="btn sm" data-undo>${icon('delete')}刪除</button><button class="btn sm" data-hint>${icon('volume-2')}聽句子</button></div>${next}</div>`;
       const paint = () => {
         $('.order-built', body).innerHTML = built.map(p => `<span class="wtile">${esc(p.t)}</span>`).join('') || '<span class="ph">點下方的字卡組成句子</span>';
         $('.tiles', body).innerHTML = pool.map((p, n) => `<button class="tile w" data-n="${n}" ${built.includes(p) ? 'disabled' : ''}>${esc(p.t)}</button>`).join('');
