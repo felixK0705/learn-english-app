@@ -1,13 +1,13 @@
 {
- "generated": "2026-11-23T17:16:05.121Z",
+ "generated": "2026-11-23T17:32:46.090Z",
  "categories": [
   {
    "id": "people",
    "zh": "人與社交",
    "en": "People & Social",
    "emoji": "🧑‍🤝‍🧑",
-   "color": "#ff8a65",
-   "soft": "#ffe3d8",
+   "color": "#F2A516",
+   "soft": "#FFE680",
    "topics": [
     {
      "id": "greetings",
@@ -142,8 +142,8 @@
    "zh": "居家生活",
    "en": "Home Life",
    "emoji": "🏠",
-   "color": "#4fc3f7",
-   "soft": "#dcf3fd",
+   "color": "#2F9BD6",
+   "soft": "#BFE6FA",
    "topics": [
     {
      "id": "house",
@@ -278,8 +278,8 @@
    "zh": "美食飲料",
    "en": "Food & Drinks",
    "emoji": "🍱",
-   "color": "#ffb300",
-   "soft": "#fff1c9",
+   "color": "#EE7A1E",
+   "soft": "#FFD3A6",
    "topics": [
     {
      "id": "fruits",
@@ -414,8 +414,8 @@
    "zh": "學校與休閒",
    "en": "School & Fun",
    "emoji": "🎒",
-   "color": "#ec6fa5",
-   "soft": "#fde0ed",
+   "color": "#E2558F",
+   "soft": "#FBC6DD",
    "topics": [
     {
      "id": "classroom",
@@ -550,8 +550,8 @@
    "zh": "城市與旅行",
    "en": "Town & Travel",
    "emoji": "🏙️",
-   "color": "#7e8ce0",
-   "soft": "#e3e6fb",
+   "color": "#7A62D6",
+   "soft": "#DCD2FA",
    "topics": [
     {
      "id": "town",
@@ -686,8 +686,8 @@
    "zh": "自然與知識",
    "en": "Nature & Basics",
    "emoji": "🌿",
-   "color": "#66bb6a",
-   "soft": "#e0f3e1",
+   "color": "#3FA35B",
+   "soft": "#C9EDB8",
    "topics": [
     {
      "id": "zoo-animals",

@@ -1,14 +1,116 @@
 [
-  { "id": "people", "zh": "人與社交", "en": "People & Social", "emoji": "🧑‍🤝‍🧑", "color": "#ff8a65", "soft": "#ffe3d8",
-    "topics": ["greetings", "family", "body", "feelings", "appearance", "jobs", "telephone", "polite", "holidays"] },
-  { "id": "home", "zh": "居家生活", "en": "Home Life", "emoji": "🏠", "color": "#4fc3f7", "soft": "#dcf3fd",
-    "topics": ["house", "living-room", "kitchen", "bathroom", "bedroom", "daily-routine", "chores", "appliances", "positions"] },
-  { "id": "food", "zh": "美食飲料", "en": "Food & Drinks", "emoji": "🍱", "color": "#ffb300", "soft": "#fff1c9",
-    "topics": ["fruits", "vegetables", "meat-seafood", "breakfast", "drinks-desserts", "restaurant", "night-market", "tastes-cooking", "fast-food"] },
-  { "id": "school", "zh": "學校與休閒", "en": "School & Fun", "emoji": "🎒", "color": "#ec6fa5", "soft": "#fde0ed",
-    "topics": ["classroom", "subjects", "music-room", "sports", "hobbies", "park", "party", "computer", "colors-shapes"] },
-  { "id": "town", "zh": "城市與旅行", "en": "Town & Travel", "emoji": "🏙️", "color": "#7e8ce0", "soft": "#e3e6fb",
-    "topics": ["town", "transportation", "directions", "supermarket", "clothes", "hospital", "airport", "hotel", "bank-post"] },
-  { "id": "nature", "zh": "自然與知識", "en": "Nature & Basics", "emoji": "🌿", "color": "#66bb6a", "soft": "#e0f3e1",
-    "topics": ["zoo-animals", "pets-farm", "sea", "insects-birds", "plants", "weather", "numbers", "time-calendar", "nature-space"] }
+  {
+    "id": "people",
+    "zh": "人與社交",
+    "en": "People & Social",
+    "emoji": "🧑‍🤝‍🧑",
+    "color": "#F2A516",
+    "soft": "#FFE680",
+    "topics": [
+      "greetings",
+      "family",
+      "body",
+      "feelings",
+      "appearance",
+      "jobs",
+      "telephone",
+      "polite",
+      "holidays"
+    ]
+  },
+  {
+    "id": "home",
+    "zh": "居家生活",
+    "en": "Home Life",
+    "emoji": "🏠",
+    "color": "#2F9BD6",
+    "soft": "#BFE6FA",
+    "topics": [
+      "house",
+      "living-room",
+      "kitchen",
+      "bathroom",
+      "bedroom",
+      "daily-routine",
+      "chores",
+      "appliances",
+      "positions"
+    ]
+  },
+  {
+    "id": "food",
+    "zh": "美食飲料",
+    "en": "Food & Drinks",
+    "emoji": "🍱",
+    "color": "#EE7A1E",
+    "soft": "#FFD3A6",
+    "topics": [
+      "fruits",
+      "vegetables",
+      "meat-seafood",
+      "breakfast",
+      "drinks-desserts",
+      "restaurant",
+      "night-market",
+      "tastes-cooking",
+      "fast-food"
+    ]
+  },
+  {
+    "id": "school",
+    "zh": "學校與休閒",
+    "en": "School & Fun",
+    "emoji": "🎒",
+    "color": "#E2558F",
+    "soft": "#FBC6DD",
+    "topics": [
+      "classroom",
+      "subjects",
+      "music-room",
+      "sports",
+      "hobbies",
+      "park",
+      "party",
+      "computer",
+      "colors-shapes"
+    ]
+  },
+  {
+    "id": "town",
+    "zh": "城市與旅行",
+    "en": "Town & Travel",
+    "emoji": "🏙️",
+    "color": "#7A62D6",
+    "soft": "#DCD2FA",
+    "topics": [
+      "town",
+      "transportation",
+      "directions",
+      "supermarket",
+      "clothes",
+      "hospital",
+      "airport",
+      "hotel",
+      "bank-post"
+    ]
+  },
+  {
+    "id": "nature",
+    "zh": "自然與知識",
+    "en": "Nature & Basics",
+    "emoji": "🌿",
+    "color": "#3FA35B",
+    "soft": "#C9EDB8",
+    "topics": [
+      "zoo-animals",
+      "pets-farm",
+      "sea",
+      "insects-birds",
+      "plants",
+      "weather",
+      "numbers",
+      "time-calendar",
+      "nature-space"
+    ]
+  }
 ]

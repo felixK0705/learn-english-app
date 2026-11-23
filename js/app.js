@@ -95,7 +95,7 @@ function openWord(topicId, w, { silent = false } = {}) {
   requestAnimationFrame(() => modal.classList.add('open'));
   modal.onclick = e => {
     if (e.target.closest('[data-close]') || e.target.closest('.wd-link')) closeModal();
-    else if (e.target.closest('[data-fav]')) { toast(store.toggleFav(k) ? '已加入收藏與複習清單' : '已取消收藏'); render(); renderChrome(currentNav); }
+    else if (e.target.closest('[data-fav]')) { store.toggleFav(k); render(); renderChrome(currentNav); }
   };
   if (!silent) speak(w.en);
 }
@@ -122,39 +122,41 @@ async function renderHome() {
   const last = store.state.last && topicMeta[store.state.last]?.meta;
 
   view.innerHTML = `
-  <section class="welcome">
-    <div><p class="eyebrow">${hello} 👋</p><h2>今天想學哪個生活情境？</h2>
-    <p class="muted">${t.topics} 個情境 · ${t.words + t.phrases} 個單字片語 · ${t.sentences} 句會話句型</p></div>
-  </section>
-  <section class="stats">
-    ${stat('flame', '連續天數', store.streak(), '天', 'orange')}
-    ${stat('book-open', '已學單字', store.seenCount(), '個', 'violet')}
-    ${stat('brain', '已熟記', store.mastered(), '個', 'green')}
-    <div class="stat"><span class="stat-ic blue">${icon('target')}</span><div class="stat-txt"><small>今日目標</small><b>${Math.min(today, goal)}<span>/ ${goal}</span></b><div class="progress"><i style="width:${Math.min(100, today / goal * 100)}%"></i></div></div></div>
+  <section class="home-head">
+    <div class="hello">
+      <p class="eyebrow">${hello}！</p>
+      <h2>今天想學哪個<br class="br-m">生活情境？</h2>
+      <p class="muted">${t.topics} 個情境・${t.words + t.phrases} 個單字片語・${t.sentences} 句會話</p>
+    </div>
+    <div class="mini-stats">
+      <span class="ms">${icon('flame', 'flame')}<b>${store.streak()}</b><small>連續天數</small></span>
+      <span class="ms">${icon('book-open')}<b>${store.seenCount()}</b><small>已學單字</small></span>
+      <span class="ms ms-goal"><span class="ring" style="--p:${Math.min(100, today / goal * 100)}">${icon('target')}</span><b>${Math.min(today, goal)}<i>/${goal}</i></b><small>今日目標</small></span>
+    </div>
   </section>
   <section class="feature">
-    ${dailyWord ? `<article class="wotd" style="--c:${catOf(daily[3]).color}">
+    ${dailyWord ? `<article class="wotd">
+      <div class="wotd-circle"></div>
+      <div class="wotd-art">${dailyWord.emoji}</div>
       <div class="wotd-txt">
-        <span class="pill-light">${icon('sparkles')}今日一字</span>
+        <span class="wotd-tag">${icon('sparkles')}今日一字</span>
         <h3>${esc(dailyWord.en)}</h3>
-        <p class="wotd-kk">${dailyWord.kk ? `[${esc(dailyWord.kk)}]` : ''}</p>
-        <p class="wotd-zh">${esc(dailyWord.zh)}</p>
+        <p class="wotd-meta">${dailyWord.kk ? `<span>[${esc(dailyWord.kk)}]</span>` : ''}<b>${esc(dailyWord.zh)}</b></p>
         <div class="wotd-actions">
-          <button class="btn white" data-say="${esc(dailyWord.en)}">${icon('volume-2')}聽發音</button>
-          <button class="btn ghost-light" data-open-daily>${icon('book-open')}看例句</button>
+          <button class="btn primary" data-say="${esc(dailyWord.en)}">${icon('volume-2')}聽發音</button>
+          <button class="btn" data-open-daily>${icon('book-open')}看例句</button>
         </div>
       </div>
-      <div class="wotd-art">${dailyWord.emoji}</div>
     </article>` : ''}
-    <article class="side-feature">
-      ${due ? `<a class="mini-card" href="#/review"><span class="stat-ic violet">${icon('layers')}</span><div><b>${due} 個單字待複習</b><small>間隔複習，記得更牢</small></div>${icon('chevron-right', 'chev')}</a>`
-        : `<div class="mini-card"><span class="stat-ic green">${icon('circle-check')}</span><div><b>沒有待複習的單字</b><small>收藏或答錯的字會自動加入</small></div></div>`}
-      ${last ? `<a class="mini-card" href="#/topic/${last.id}"><span class="mini-emoji" style="background:${catOf(last.id).soft}">${last.emoji}</span><div><b>繼續學習：${esc(last.zh)}</b><small>${esc(last.title)}</small></div>${icon('chevron-right', 'chev')}</a>`
-        : `<a class="mini-card" href="#/topic/greetings"><span class="mini-emoji" style="background:#ffe9e1">👋</span><div><b>從「打招呼」開始</b><small>Greetings & Introductions</small></div>${icon('chevron-right', 'chev')}</a>`}
-    </article>
+    <div class="side-feature">
+      ${due ? `<a class="mini-card" href="#/review"><span class="mc-ic tone-violet">${icon('layers')}</span><div><b>${due} 個單字待複習</b><small>間隔複習，記得更牢</small></div>${icon('chevron-right', 'chev')}</a>`
+        : `<div class="mini-card"><span class="mc-ic tone-green">${icon('circle-check')}</span><div><b>目前沒有待複習</b><small>收藏或答錯的字會自動加入</small></div></div>`}
+      ${last ? `<a class="mini-card" href="#/topic/${last.id}"><span class="mc-ic" style="background:${catOf(last.id).soft}">${last.emoji}</span><div><b>繼續學習</b><small>${esc(last.zh)}・${esc(last.title)}</small></div>${icon('chevron-right', 'chev')}</a>`
+        : `<a class="mini-card" href="#/topic/greetings"><span class="mc-ic" style="background:#FFE680">👋</span><div><b>從這裡開始</b><small>打招呼與自我介紹</small></div>${icon('chevron-right', 'chev')}</a>`}
+    </div>
   </section>
   <section class="topics-sec">
-    <div class="sec-head"><h2>生活情境</h2></div>
+    <div class="sec-head"><h2>生活情境</h2><small>${t.topics} 個主題</small></div>
     <div class="pills" role="tablist">
       <button class="pill ${homeFilter === 'all' ? 'on' : ''}" data-cat="all">全部</button>
       ${INDEX.categories.map(c => `<button class="pill ${homeFilter === c.id ? 'on' : ''}" data-cat="${c.id}" style="--c:${c.color}"><span>${c.emoji}</span>${esc(c.zh)}</button>`).join('')}
@@ -164,8 +166,8 @@ async function renderHome() {
   const list = $('#topicList');
   const paint = () => {
     const cats = INDEX.categories.filter(c => homeFilter === 'all' || c.id === homeFilter);
-    list.innerHTML = cats.map(c => `<div class="cat-block">
-      <h3 class="cat-title"><span style="background:${c.soft}">${c.emoji}</span>${esc(c.zh)}<small>${esc(c.en)}</small></h3>
+    list.innerHTML = cats.map(c => `<div class="cat-block" style="--c:${c.color};--soft:${c.soft}">
+      <h3 class="cat-title"><span>${c.emoji}</span>${esc(c.zh)}<small>${esc(c.en)}</small></h3>
       <div class="tgrid">${c.topics.map(t => topicCard(t, c)).join('')}</div></div>`).join('');
   };
   paint();
@@ -180,40 +182,37 @@ async function renderHome() {
 const stat = (ic, label, val, unit, tone) => `<div class="stat"><span class="stat-ic ${tone}">${icon(ic)}</span><div class="stat-txt"><small>${label}</small><b>${val}<span>${unit}</span></b></div></div>`;
 function topicCard(t, c) {
   const total = t.counts.words + t.counts.phrases;
-  const pct = Math.round(Math.min(1, store.seenCount(t.id) / total) * 100);
+  const seen = store.seenCount(t.id);
+  const pct = Math.round(Math.min(1, seen / total) * 100);
   const best = store.state.quiz[t.id]?.best;
   return `<a class="tcard" href="#/topic/${t.id}" style="--c:${c.color};--soft:${c.soft}">
-    <div class="tcard-art"><span>${t.emoji}</span>${best != null ? `<em title="測驗最佳成績">${icon('trophy')}${best}</em>` : ''}</div>
-    <div class="tcard-body">
-      <h4>${esc(t.title)}</h4><p>${esc(t.zh)}</p>
-      <div class="tcard-meta"><span>${total} 單字片語</span><span>${t.counts.sentences} 句</span></div>
-      <div class="progress sm"><i style="width:${pct}%"></i></div>
-    </div></a>`;
+    <span class="tcard-art">${t.emoji}</span>
+    ${best != null ? `<em class="tcard-best" title="測驗最佳成績">${icon('trophy')}${best}</em>` : ''}
+    <h4>${esc(t.title)}</h4><p>${esc(t.zh)}</p>
+    <div class="tcard-foot"><span>${total} 字・${t.counts.sentences} 句</span>${pct ? `<span class="tcard-pct">${pct}%</span>` : ''}</div>
+    <div class="progress sm"><i style="width:${pct}%"></i></div>
+  </a>`;
 }
+
+// 情境圖小卡的全域事件（只綁一次）
+let popCtl = null;
+addEventListener('scroll', () => popCtl?.place(), { passive: true });
+addEventListener('resize', () => popCtl?.place());
+document.addEventListener('click', e => { if (popCtl && !e.target.closest('#pop') && !e.target.closest('.si')) popCtl.hide(); });
 
 // ---------- 主題頁 ----------
 const TABS = [['scene', 'image', '情境圖'], ['words', 'list', '單字片語'], ['talk', 'messages-square', '會話'], ['quiz', 'pencil-line', '練習']];
 async function renderTopic(id, tab = 'scene') {
-  if (!topicMeta[id]) { view.innerHTML = '<p class="empty">找不到這個主題</p>'; return; }
+  if (!topicMeta[id]) { setTop({ title: '找不到主題', back: true }); view.innerHTML = `<div class="empty-card">${icon('compass')}<p>找不到這個主題<br><small>可能已更名或移除</small></p><a class="btn primary" href="#/">${icon('house')}回首頁</a></div>`; return; }
   const c = catOf(id), m = topicMeta[id].meta;
   const topic = await getTopic(id);
   store.setLast(id);
-  setTop({ title: esc(topic.title), back: true, crumb: `${c.emoji} ${esc(c.zh)}` });
+  setTop({ title: `${esc(topic.title)} <span class="tb-zh">${esc(topic.zh)}</span>`, back: true, crumb: `${c.emoji} ${esc(c.zh)}` });
   const total = m.counts.words + m.counts.phrases;
   const pct = Math.round(Math.min(1, store.seenCount(id) / total) * 100);
   view.innerHTML = `<div class="topic-page" style="--c:${c.color};--soft:${c.soft}">
-    <section class="thero">
-      <div class="thero-art">${topic.emoji}</div>
-      <div class="thero-txt">
-        <h2>${esc(topic.title)} <span>${esc(topic.zh)}</span></h2>
-        <p>${esc(topic.intro || '')}</p>
-        <div class="thero-meta">
-          <span>${icon('type')}${m.counts.words} 單字</span><span>${icon('layers')}${m.counts.phrases} 片語</span>
-          <span>${icon('messages-square')}${m.counts.sentences} 句型</span><span>${icon('circle-check')}已學 ${pct}%</span>
-        </div>
-      </div>
-    </section>
-    <div class="seg-wrap"><nav class="seg" role="tablist">${TABS.map(([k, ic, l]) => `<a role="tab" href="#/topic/${id}/${k}" class="${k === tab ? 'on' : ''}" aria-selected="${k === tab}">${icon(ic)}<span>${l}</span></a>`).join('')}</nav></div>
+    <div class="seg-wrap"><nav class="seg" role="tablist">${TABS.map(([k, ic, l]) => `<a role="tab" href="#/topic/${id}/${k}" class="${k === tab ? 'on' : ''}" aria-selected="${k === tab}">${icon(ic)}<span>${l}</span></a>`).join('')}</nav>
+    <span class="seg-meta">${icon('circle-check')}已學 ${pct}%・${m.counts.words + m.counts.phrases} 字・${m.counts.sentences} 句</span></div>
     <div id="tabbody"></div></div>`;
   const body = $('#tabbody');
   ({ scene: tabScene, words: tabWords, talk: tabTalk, quiz: tabQuiz }[tab] || tabScene)(body, topic, c);
@@ -223,7 +222,7 @@ function tabScene(body, topic) {
   const { html, items } = buildScene(topic);
   const phrases = topic.words.filter(w => w.type === 'phrase');
   body.innerHTML = `
-    <div class="scene-hint">${icon('volume-2')}<span>點任何一個單字或對話泡泡就會發音</span><span class="only-m">・左右滑動看完整情境</span></div>
+    <p class="scene-hint">${esc(topic.intro || '')}<span>${icon('volume-2')}點單字或對話泡泡就會發音<span class="only-m">・左右滑動看完整情境</span></span></p>
     ${html}
     <div class="find-bar" hidden></div>
     ${phrases.length ? `<div class="sec-head"><h3>實用片語</h3><small>點一下聽發音</small></div>
@@ -231,31 +230,54 @@ function tabScene(body, topic) {
     <div class="sec-head"><h3>情境對話</h3><a class="link" href="#/topic/${topic.id}/talk">全部 ${topic.sentences.length} 句型 ${icon('arrow-right')}</a></div>
     ${dialogueHtml(topic.dialogues[0])}`;
 
-  const canvas = $('.scene-canvas', body), pop = $('.pop', canvas), findBar = $('.find-bar', body);
-  let finding = null, popFor = null;
+  const canvas = $('.scene-canvas', body), findBar = $('.find-bar', body);
+  $('.pop', canvas)?.remove();
+  const pop = document.getElementById('pop') || document.body.appendChild(Object.assign(document.createElement('div'), { id: 'pop', className: 'pop', hidden: true }));
+  let finding = null, popFor = null, popEl = null;
 
+  const placePop = () => {
+    if (!popEl || pop.hidden) return;
+    const r = popEl.getBoundingClientRect(), pw = pop.offsetWidth, ph = pop.offsetHeight;
+    const vw = innerWidth, vh = innerHeight, topLimit = isDesktop() ? 84 : 120;
+    if (r.right < 0 || r.left > vw || r.bottom < topLimit || r.top > vh) { hidePop(); return; }
+    const cx = Math.min(Math.max(r.left + r.width / 2, pw / 2 + 10), vw - pw / 2 - 10);
+    const below = r.top - ph - 12 < topLimit;
+    pop.classList.toggle('below', below);
+    pop.style.left = `${cx}px`;
+    pop.style.top = below ? `${r.bottom + 10}px` : `${r.top - ph - 10}px`;
+    pop.style.setProperty('--ax', `${Math.min(Math.max(r.left + r.width / 2 - (cx - pw / 2), 18), pw - 18)}px`);
+  };
   const showPop = (el, w) => {
     const k = keyOf(topic.id, w.en), fav = store.isFav(k);
+    pop.style.setProperty('--c', catOf(topic.id).color);
     pop.innerHTML = `<div class="pop-head"><b>${esc(w.en)}</b>${w.kk ? `<span class="kk">[${esc(w.kk)}]</span>` : ''}</div>
       <div class="pop-zh">${esc(w.zh)}</div>
       <div class="pop-actions">
-        <button class="icon-btn" data-pa="say" aria-label="再聽一次">${icon('volume-2')}</button>
-        <button class="icon-btn" data-pa="slow" aria-label="慢速">${icon('snail')}</button>
-        <button class="icon-btn ${fav ? 'active' : ''}" data-pa="fav" aria-label="收藏">${icon(fav ? 'bookmark-check' : 'bookmark')}</button>
-        <button class="icon-btn" data-pa="more" aria-label="例句與詳細">${icon('book-open')}</button>
+        <button class="pop-btn" data-pa="say">${icon('volume-2')}<span>再聽</span></button>
+        <button class="pop-btn" data-pa="slow">${icon('snail')}<span>慢速</span></button>
+        <button class="pop-btn ${fav ? 'active' : ''}" data-pa="fav">${icon(fav ? 'bookmark-check' : 'bookmark')}<span>${fav ? '已收藏' : '收藏'}</span></button>
+        <button class="pop-btn" data-pa="more">${icon('book-open')}<span>例句</span></button>
       </div>`;
-    const left = parseFloat(el.style.left), top = parseFloat(el.style.top);
-    pop.style.left = `${Math.min(Math.max(left, 9), 91)}%`;
-    pop.classList.toggle('below', top < 40);
-    pop.style.top = top < 40 ? `calc(${top}% + 3.2em)` : `calc(${top}% - 2.6em)`;
-    pop.hidden = false; popFor = w;
+    pop.hidden = false; popFor = w; popEl = el;
+    placePop();
   };
-  const hidePop = () => { pop.hidden = true; popFor = null; $$('.si.hot', canvas).forEach(x => x.classList.remove('hot')); };
+  const hidePop = () => { pop.hidden = true; popFor = null; popEl = null; $$('.si.hot', canvas).forEach(x => x.classList.remove('hot')); };
+  const sc0 = $('.scene', body);
+  sc0.addEventListener('scroll', placePop, { passive: true });
+  popCtl = { place: placePop, hide: hidePop };
+  pop.onclick = e => {
+    const pa = e.target.closest('[data-pa]'); if (!pa || !popFor) return;
+    const w = popFor, k = keyOf(topic.id, w.en);
+    if (pa.dataset.pa === 'say') speak(w.en);
+    if (pa.dataset.pa === 'slow') speak(w.en, { rate: 0.55 });
+    if (pa.dataset.pa === 'fav') { store.toggleFav(k); showPop(popEl, w); renderChrome(currentNav); }
+    if (pa.dataset.pa === 'more') { const el = popEl; hidePop(); openWord(topic.id, w, { silent: true }); }
+  };
 
   const nextFind = () => {
     finding = items[Math.floor(Math.random() * items.length)];
     findBar.hidden = false;
-    findBar.innerHTML = `<span class="fb-ic">${icon('scan-search')}</span><div class="fb-txt"><small>找找看！聽發音，點出正確的圖</small><b>${store.settings().showZh ? esc(firstZh(finding.zh)) : '???'}</b></div>
+    findBar.innerHTML = `<span class="fb-ic">${icon('scan-search')}</span><div class="fb-txt"><small>找找看：在圖中點出</small><b>${store.settings().showZh ? esc(firstZh(finding.zh)) : '聽發音找出來'}</b></div>
       <button class="icon-btn" data-say="${esc(finding.en)}" aria-label="再聽一次">${icon('volume-2')}</button>
       <button class="btn sm" data-endfind>結束</button>`;
     speak(finding.en);
@@ -263,16 +285,7 @@ function tabScene(body, topic) {
   findBar.onclick = e => { if (e.target.closest('[data-endfind]')) { finding = null; findBar.hidden = true; canvas.classList.remove('finding'); } };
 
   canvas.addEventListener('click', async e => {
-    const it = e.target.closest('.si'), bub = e.target.closest('.sb'), act = e.target.closest('[data-act]'), pa = e.target.closest('[data-pa]');
-    if (pa && popFor) {
-      const w = popFor, k = keyOf(topic.id, w.en);
-      if (pa.dataset.pa === 'say') speak(w.en);
-      if (pa.dataset.pa === 'slow') speak(w.en, { rate: 0.55 });
-      if (pa.dataset.pa === 'fav') { toast(store.toggleFav(k) ? '已加入收藏' : '已取消收藏'); showPop($(`.si[data-i="${w.i}"]`, canvas), w); renderChrome(currentNav); }
-      if (pa.dataset.pa === 'more') openWord(topic.id, w, { silent: true });
-      return;
-    }
-    if (e.target.closest('.pop')) return;
+    const it = e.target.closest('.si'), bub = e.target.closest('.sb'), act = e.target.closest('[data-act]');
     if (act) { hidePop(); canvas.classList.add('finding'); nextFind(); findBar.scrollIntoView({ block: 'nearest', behavior: 'smooth' }); return; }
     if (bub) { hidePop(); bub.classList.add('hot'); await speak(bub.dataset.say); bub.classList.remove('hot'); return; }
     if (!it) { hidePop(); return; }
@@ -313,7 +326,7 @@ function tabWords(body, topic) {
     body.innerHTML = `<div class="toolbar">
       <div class="pills">${[['all', '全部', topic.words.length], ['word', '單字', topic.words.filter(w => w.type !== 'phrase').length], ['phrase', '片語', topic.words.filter(w => w.type === 'phrase').length], ['fav', '收藏', topic.words.filter(w => store.isFav(keyOf(topic.id, w.en))).length]]
         .map(([k, l, n]) => `<button class="pill ${filter === k ? 'on' : ''}" data-f="${k}">${l}<span class="count">${n}</span></button>`).join('')}</div>
-      <span class="muted small">${icon('volume-2')} 點卡片聽發音</span></div>
+      <span class="hint-s">${icon('volume-2')}點卡片聽發音</span></div>
       <div class="wgrid">${list.map(({ w, i }) => {
         const k = keyOf(topic.id, w.en), fav = store.isFav(k);
         return `<div class="wcard ${store.state.seen[k] ? 'seen' : ''}" data-i="${i}" role="button" tabindex="0" aria-label="${esc(w.en)}，點擊發音">
@@ -324,13 +337,13 @@ function tabWords(body, topic) {
             <button class="icon-btn sm" data-more="${i}" aria-label="例句與詳細">${icon('chevron-right')}</button>
           </div>
         </div>`;
-      }).join('') || `<p class="empty">${filter === 'fav' ? '還沒有收藏這個主題的單字' : '沒有內容'}</p>`}</div>`;
+      }).join('') || `<div class="empty-card">${icon('bookmark')}<p>${filter === 'fav' ? '這個主題還沒有收藏的單字<br><small>點單字卡右邊的書籤就能收藏，之後會出現在複習清單</small>' : '沒有內容'}</p></div>`}</div>`;
   };
   render();
   body.onclick = e => {
     const f = e.target.closest('[data-f]'), fav = e.target.closest('[data-fav]'), more = e.target.closest('[data-more]'), card = e.target.closest('.wcard');
     if (f) { filter = f.dataset.f; render(); return; }
-    if (fav) { const w = topic.words[fav.dataset.fav]; toast(store.toggleFav(keyOf(topic.id, w.en)) ? '已加入收藏' : '已取消收藏'); render(); renderChrome(currentNav); return; }
+    if (fav) { const w = topic.words[fav.dataset.fav]; toast(store.toggleFav(keyOf(topic.id, w.en)) ? `已收藏 ${w.en}` : `已取消收藏 ${w.en}`); render(); renderChrome(currentNav); return; }
     if (more) { openWord(topic.id, topic.words[more.dataset.more]); return; }
     if (card) {
       const w = topic.words[card.dataset.i];
@@ -471,8 +484,7 @@ async function renderSearch(q = '') {
       .sort((a, b) => (b[0].toLowerCase() === s) - (a[0].toLowerCase() === s) || b[0].toLowerCase().startsWith(s) - a[0].toLowerCase().startsWith(s) || a[0].length - b[0].length).slice(0, 120);
     res.innerHTML = hits.length ? `<p class="muted small">找到 ${hits.length} 筆${hits.length === 120 ? '以上' : ''}・點一下聽發音</p>` + hits.map((r, n) => `<div class="sr" data-n="${n}" role="button" tabindex="0">
       <span class="sr-art" style="background:${catOf(r[3]).soft}">${r[2]}</span>
-      <div class="sr-txt"><b>${esc(r[0])}</b><span>${esc(r[1])}</span></div>
-      <span class="badge" style="--c:${catOf(r[3]).color}">${r[4] === 's' ? '句型' : r[4] === 'p' ? '片語' : '單字'}</span>
+      <div class="sr-txt"><b>${esc(r[0])}</b><span>${esc(r[1])}</span><small>${r[4] === 's' ? '句型' : r[4] === 'p' ? '片語' : '單字'}・${esc(topicMeta[r[3]]?.meta.zh || '')}</small></div>
       ${r[4] !== 's' ? `<button class="icon-btn sm" data-more="${n}" aria-label="詳細">${icon('chevron-right')}</button>` : `<a class="icon-btn sm" href="#/topic/${r[3]}/talk" aria-label="前往主題">${icon('chevron-right')}</a>`}
     </div>`).join('') : `<div class="empty-card">${icon('search')}<p>找不到「${esc(s)}」相關的內容</p></div>`;
   };
@@ -562,7 +574,10 @@ async function route() {
   const [, page, a, b] = location.hash.replace(/^#/, '').split('/');
   currentNav = ['review', 'search', 'me'].includes(page) ? page : 'home';
   renderChrome(currentNav);
-  document.body.dataset.page = page || 'home';
+  document.body.dataset.page = page === 'topic' && !topicMeta[a] ? 'notfound' : (page || 'home');
+  if (page === 'topic' && topicMeta[a]) { document.body.style.setProperty('--page', catOf(a).soft); document.body.style.setProperty('--c', catOf(a).color); }
+  else { document.body.style.removeProperty('--page'); document.body.style.removeProperty('--c'); }
+  popCtl?.hide(); popCtl = null;
   try {
     if (page === 'topic') await renderTopic(a, b);
     else if (page === 'review') await renderReview();

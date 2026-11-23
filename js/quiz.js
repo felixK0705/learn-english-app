@@ -40,20 +40,26 @@ export function runQuiz(body, topic, { onDone }) {
     body.innerHTML = `<div class="result-card">
       <div class="qs-art">${pts >= 60 ? '🏆' : '📚'}</div><div class="stars">${stars}</div>
       <h3>${pts} 分</h3><p class="muted">答對 ${score} / ${qs.length} 題${pts === 100 ? '，太厲害了！' : pts >= 60 ? '，做得好！' : '，再接再厲！'}</p>
-      ${wrong.length ? `<div class="wrong-list"><h4>需要加強（已加入複習清單）・點一下聽發音</h4>${wrong.map(w => `<button class="pill" data-say="${esc(w.en)}">${w.emoji || '💬'} ${esc(w.en)}<span class="count">${esc(w.zh)}</span></button>`).join('')}</div>` : ''}
+      ${wrong.length ? `<div class="wrong-list"><h4>這些要再加強・已加入複習清單</h4>${wrong.map(w => `<button class="wl-row" data-say="${esc(w.en)}"><span class="wl-art">${w.emoji || '💬'}</span><span class="wl-txt"><b>${esc(w.en)}</b><small>${esc(w.zh)}</small></span>${icon('volume-2')}</button>`).join('')}</div>` : ''}
       <div class="row"><button class="btn primary lg" data-again>${icon('rotate-ccw')}再玩一次</button><a class="btn lg" href="#/review">${icon('layers')}去複習</a></div></div>`;
+    window.scrollTo({ top: 0, behavior: 'smooth' });
     if (pts >= 60) { const r = $('.qs-pic', body).getBoundingClientRect(); burst(r.left + r.width / 2, r.top + r.height / 2); }
     $('[data-again]', body).onclick = () => runQuiz(body, topic, { onDone });
   };
 
+  const answered = () => !$('.q-feedback', body).hidden;
   const answer = async (ok, item, el) => {
     if (ok) { score++; beep(true); if (el) { const r = el.getBoundingClientRect(); burst(r.left + r.width / 2, r.top + r.height / 2, ['⭐', '✨']); } }
     else { beep(false); wrong.push(item); }
-    if (item.emoji) store.grade(keyOf(topic.id, item.en), ok); // 句子不進字卡
-    if (!ok && item.emoji) store.addReview(keyOf(topic.id, item.en));
-    if (item.emoji) store.markSeen(keyOf(topic.id, item.en));
-    $('.q-next', body).hidden = false;
-    $('.q-next', body).focus();
+    if (item.emoji) { store.grade(keyOf(topic.id, item.en), ok); if (!ok) store.addReview(keyOf(topic.id, item.en)); store.markSeen(keyOf(topic.id, item.en)); }
+    const fb = $('.q-feedback', body);
+    fb.classList.add(ok ? 'ok' : 'no');
+    $('.qf-ic', fb).innerHTML = icon(ok ? 'circle-check' : 'circle-x');
+    $('.qf-txt', fb).innerHTML = ok
+      ? `<b>答對了！</b><span>${esc(item.en)}・${esc(item.zh)}</span>`
+      : `<b>正確答案</b><span>${esc(item.en)}・${esc(item.zh)}</span>`;
+    fb.hidden = false;
+    $('.q-next', body).focus({ preventScroll: true });
     await speak(item.en);
   };
 
@@ -61,7 +67,7 @@ export function runQuiz(body, topic, { onDone }) {
     if (i >= qs.length) return finish();
     const q = qs[i];
     const head = `<div class="q-prog"><span>${i + 1} / ${qs.length}</span><div class="progress"><i style="width:${(i / qs.length) * 100}%"></i></div><span class="q-score">${icon('circle-check')}${score}</span></div>`;
-    const next = `<button class="btn primary lg q-next" hidden>${i + 1 === qs.length ? '看結果' : '下一題'}${icon('arrow-right')}</button>`;
+    const next = `<div class="q-feedback" hidden><span class="qf-ic"></span><div class="qf-txt"></div><button class="btn lg q-next">${i + 1 === qs.length ? '看結果' : '繼續'}${icon('arrow-right')}</button></div>`;
     if (q.type === 'pic' || q.type === 'listen' || q.type === 'zh') {
       const prompt = q.type === 'pic' ? `<p class="q-ask">這是什麼？</p><div class="q-pic">${q.w.emoji}</div>`
         : q.type === 'listen' ? `<p class="q-ask">聽聽看，是哪一個？</p><button class="q-listen" data-replay aria-label="再聽一次">${icon('volume-2')}</button>`
@@ -91,7 +97,7 @@ export function runQuiz(body, topic, { onDone }) {
       const slots = [...body.querySelectorAll('.slot')];
       const paint = () => slots.forEach((s, n) => (s.textContent = typed[n]?.c || ''));
       body.querySelector('.quiz').onclick = e => {
-        if (!$('.q-next', body).hidden) return;
+        if (answered()) return;
         const t = e.target.closest('.tile');
         if (e.target.closest('[data-hint]')) speak(q.w.en, { rate: 0.6 });
         if (e.target.closest('[data-undo]') && typed.length) { const last = typed.pop(); last.el.disabled = false; paint(); }
@@ -100,7 +106,6 @@ export function runQuiz(body, topic, { onDone }) {
           if (typed.length === letters.length) {
             const ok = typed.map(x => x.c).join('') === q.w.en.toLowerCase();
             $('.spell-slots', body).classList.add(ok ? 'ok' : 'no');
-            if (!ok) $('.spell-slots', body).insertAdjacentHTML('afterend', `<p class="answer">正確答案：<b>${esc(q.w.en)}</b></p>`);
             answer(ok, q.w, $('.spell-slots', body));
           }
         }
@@ -119,7 +124,7 @@ export function runQuiz(body, topic, { onDone }) {
       };
       paint();
       body.querySelector('.quiz').onclick = e => {
-        if (!$('.q-next', body).hidden) return;
+        if (answered()) return;
         if (e.target.closest('[data-hint]')) speak(q.s.en);
         if (e.target.closest('[data-undo]')) { built.pop(); paint(); }
         const t = e.target.closest('.tile');
@@ -128,7 +133,6 @@ export function runQuiz(body, topic, { onDone }) {
           if (built.length === tokens.length) {
             const ok = built.map(p => p.t).join(' ') === q.s.en;
             $('.order-built', body).classList.add(ok ? 'ok' : 'no');
-            if (!ok) $('.order-built', body).insertAdjacentHTML('afterend', `<p class="answer">正確答案：<b>${esc(q.s.en)}</b></p>`);
             answer(ok, { en: q.s.en, zh: q.s.zh }, $('.order-built', body));
           }
         }

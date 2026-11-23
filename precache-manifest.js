@@ -1,5 +1,5 @@
 // 自動產生，請勿手動編輯（node tools/build-index.mjs）
-self.CACHE_VERSION = "956ef70560";
+self.CACHE_VERSION = "63d8771824";
 self.PRECACHE = [
  "./",
  "index.html",

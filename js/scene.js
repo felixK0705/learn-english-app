@@ -38,7 +38,7 @@ export function buildScene(topic) {
     const y = 7 + ((r + 0.42 + (rand() - 0.5) * 0.12) / ROWS) * 88; // 上下留白，避免最上排被裁切
     return `<button class="si" data-i="${w.i}" style="left:${x}%;top:${y}%;--d:${n * 12}ms" aria-label="${esc(w.en)} ${esc(w.zh)}">
         <span class="si-pic">${w.emoji}</span>
-        <span class="si-label"><b class="si-no">${n + 1}</b>${esc(w.en)}</span>
+        <span class="si-label${w.en.length > 9 ? ' long' : ''}"><b class="si-no">${n + 1}</b>${esc(w.en)}</span>
         <span class="si-zh">${esc(w.zh.split(/[；;、]/)[0])}</span></button>`;
   }).join('');
 
