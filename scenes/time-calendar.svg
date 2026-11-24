@@ -1,0 +1,214 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1100">
+  <defs>
+    <pattern id="dots" width="34" height="34" patternUnits="userSpaceOnUse"><circle cx="17" cy="17" r="2.6" fill="#d9ecd0"/></pattern>
+    <pattern id="plank" width="160" height="46" patternUnits="userSpaceOnUse"><rect width="160" height="46" fill="#e6b27a"/><path d="M0 45H160M80 0V46" stroke="#cf9659" stroke-width="3"/></pattern>
+    <linearGradient id="day" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffd9b8"/><stop offset=".16" stop-color="#ffe9c9"/>
+      <stop offset=".3" stop-color="#9fdcfb"/><stop offset=".5" stop-color="#b7e6fb"/>
+      <stop offset=".64" stop-color="#ffd59a"/><stop offset=".76" stop-color="#ff9f7a"/>
+      <stop offset=".86" stop-color="#7d76c9"/><stop offset="1" stop-color="#4d5a9e"/>
+    </linearGradient>
+  </defs>
+  <g stroke="#6b4a36" stroke-width="4" stroke-linejoin="round" stroke-linecap="round">
+    <!-- 牆面與地板 -->
+    <rect width="1600" height="1100" fill="#eef8e6" stroke="none"/>
+    <rect width="1600" height="860" fill="url(#dots)" stroke="none"/>
+    <rect y="860" width="1600" height="240" fill="url(#plank)" stroke="none"/>
+    <rect y="846" width="1600" height="16" fill="#fff"/>
+    <!-- 地毯 -->
+    <ellipse cx="1180" cy="1030" rx="330" ry="52" fill="#ffd9a0" stroke-width="3.5"/>
+    <ellipse cx="1180" cy="1030" rx="300" ry="40" fill="none" stroke="#ff8a5b" stroke-width="3" stroke-dasharray="12 10"/>
+
+    <!-- ===== 一天的窗景 ===== -->
+    <rect x="410" y="16" width="1180" height="272" rx="16" fill="#fff"/>
+    <rect x="424" y="30" width="1152" height="244" rx="8" fill="url(#day)"/>
+    <!-- 早上：太陽升起 -->
+    <g stroke="#f2a516" stroke-width="5"><path d="M520 178v-20M470 196l-14-12M570 196l14-12M488 186l-10-16M552 186l10-16"/></g>
+    <circle cx="520" cy="236" r="34" fill="#ffd23f"/>
+    <!-- 中午：太陽高掛 -->
+    <circle cx="760" cy="76" r="32" fill="#ffd23f"/>
+    <g stroke="#f2a516" stroke-width="5"><path d="M760 30v-6M760 122v6M714 76h-6M806 76h6M728 44l-5-5M792 44l5-5M728 108l-5 5M792 108l5 5"/></g>
+    <!-- 下午 -->
+    <circle cx="1000" cy="112" r="30" fill="#ffc94a"/>
+    <!-- 傍晚：夕陽 -->
+    <circle cx="1240" cy="240" r="36" fill="#ff8a3a"/>
+    <path d="M1180 210h40M1262 200h50" stroke="#fff" stroke-width="5" opacity=".6"/>
+    <!-- 午夜：月亮與星星 -->
+    <path d="M1478 50a34 34 0 1 0 30 52a28 28 0 1 1-30-52z" fill="#fff3a8"/>
+    <g fill="#fff3a8" stroke="none"><circle cx="1410" cy="70" r="4"/><circle cx="1540" cy="160" r="3.5"/><circle cx="1420" cy="190" r="3"/><circle cx="1556" cy="60" r="3"/><circle cx="1380" cy="140" r="2.5"/></g>
+    <!-- 遠山與房子 -->
+    <path d="M424 274V244q80-40 170-6q100-40 200 0q110-36 220 0q110-40 230 4q110-36 216 2q60-20 116 0V274z" fill="#8fcf6e"/>
+    <path d="M1340 256v-30l26-20l26 20v30z" fill="#ffe28a" stroke-width="3"/>
+    <rect x="1358" y="234" width="14" height="14" fill="#ffd23f" stroke-width="2.5"/>
+    <!-- 窗框 -->
+    <path d="M640 30V274M880 30V274M1120 30V274M1360 30V274" stroke="#fff" stroke-width="12"/>
+    <path d="M640 30V274M880 30V274M1120 30V274M1360 30V274" stroke-width="3"/>
+    <rect x="424" y="30" width="1152" height="244" rx="8" fill="none"/>
+    <rect x="400" y="282" width="1200" height="14" rx="6" fill="#fff"/>
+
+    <!-- ===== 年度表（月份） ===== -->
+    <rect x="22" y="322" width="146" height="550" rx="10" fill="#fff"/>
+    <rect x="22" y="322" width="146" height="54" rx="10" fill="#5fb7a6"/>
+    <text x="95" y="360" text-anchor="middle" font-family="Arial Rounded MT Bold,Arial,sans-serif" font-weight="700" font-size="28" fill="#fff" stroke="none">2026</text>
+    <path d="M60 322v-14M130 322v-14" stroke-width="5"/>
+        <rect x="34" y="383" width="122" height="34" rx="8" fill="#bfe7fb" stroke-width="2.5"/>
+    <text x="46" y="407" font-family="Arial Rounded MT Bold,Arial,sans-serif" font-weight="700" font-size="17" fill="#6b4a36" stroke="none">1</text>
+    <path d="M128 389v22M118 394l20 12M118 406l20-12" stroke="#5b8def" stroke-width="3.5"/>
+    <rect x="34" y="423" width="122" height="34" rx="8" fill="#ffc8dc" stroke-width="2.5"/>
+    <text x="46" y="447" font-family="Arial Rounded MT Bold,Arial,sans-serif" font-weight="700" font-size="17" fill="#6b4a36" stroke="none">2</text>
+    <path d="M128 449q-14-10-12-18q2-8 12-2q10-6 12 2q2 8-12 18z" fill="#ff6f8f" stroke-width="2.5"/>
+    <rect x="34" y="463" width="122" height="34" rx="8" fill="#c9efb5" stroke-width="2.5"/>
+    <text x="46" y="487" font-family="Arial Rounded MT Bold,Arial,sans-serif" font-weight="700" font-size="17" fill="#6b4a36" stroke="none">3</text>
+    <path d="M128 490v-12M128 478q-12 0-12-10q12 0 12 10q12 0 12-10q-12 0-12 10" fill="#7fc89a" stroke-width="2.5"/>
+    <rect x="34" y="503" width="122" height="34" rx="8" fill="#cfe3ff" stroke-width="2.5"/>
+    <text x="46" y="527" font-family="Arial Rounded MT Bold,Arial,sans-serif" font-weight="700" font-size="17" fill="#6b4a36" stroke="none">4</text>
+    <path d="M114 520q-2-12 10-12q4-8 12-4q10 0 8 12z" fill="#fff" stroke-width="2.5"/><path d="M122 525l-3 6M132 525l-3 6" stroke="#5b8def" stroke-width="3"/>
+    <rect x="34" y="543" width="122" height="34" rx="8" fill="#ffd9e8" stroke-width="2.5"/>
+    <text x="46" y="567" font-family="Arial Rounded MT Bold,Arial,sans-serif" font-weight="700" font-size="17" fill="#6b4a36" stroke="none">5</text>
+    <circle cx="128" cy="560" r="5" fill="#ffd23f" stroke-width="2"/><g fill="#ff9fc0" stroke-width="2"><circle cx="128" cy="551" r="5"/><circle cx="137" cy="560" r="5"/><circle cx="128" cy="569" r="5"/><circle cx="119" cy="560" r="5"/></g><circle cx="128" cy="560" r="5" fill="#ffd23f" stroke-width="2"/>
+    <rect x="34" y="583" width="122" height="34" rx="8" fill="#d6f1fc" stroke-width="2.5"/>
+    <text x="46" y="607" font-family="Arial Rounded MT Bold,Arial,sans-serif" font-weight="700" font-size="17" fill="#6b4a36" stroke="none">6</text>
+    <path d="M128 589q10 12 8 16q-2 6-8 6q-6 0-8-6q-2-4 8-16z" fill="#7fb8e8" stroke-width="2.5"/>
+    <rect x="34" y="623" width="122" height="34" rx="8" fill="#fff1a8" stroke-width="2.5"/>
+    <text x="46" y="647" font-family="Arial Rounded MT Bold,Arial,sans-serif" font-weight="700" font-size="17" fill="#6b4a36" stroke="none">7</text>
+    <circle cx="128" cy="640" r="8" fill="#ffd23f" stroke-width="2.5"/><path d="M128 625v4M128 651v4M113 640h4M139 640h4" stroke="#f2a516" stroke-width="3"/>
+    <rect x="34" y="663" width="122" height="34" rx="8" fill="#ffd9c2" stroke-width="2.5"/>
+    <text x="46" y="687" font-family="Arial Rounded MT Bold,Arial,sans-serif" font-weight="700" font-size="17" fill="#6b4a36" stroke="none">8</text>
+    <path d="M116 676a12 12 0 0 0 24 0z" fill="#ff7a8a" stroke-width="2.5"/><path d="M116 676h24" stroke="#3fa35b" stroke-width="4"/>
+    <rect x="34" y="703" width="122" height="34" rx="8" fill="#f7e1b5" stroke-width="2.5"/>
+    <text x="46" y="727" font-family="Arial Rounded MT Bold,Arial,sans-serif" font-weight="700" font-size="17" fill="#6b4a36" stroke="none">9</text>
+    <path d="M118 730q-2-20 20-20q2 20-20 20zM118 730l12-12" fill="#f2a516" stroke-width="2.5"/>
+    <rect x="34" y="743" width="122" height="34" rx="8" fill="#ffd0a0" stroke-width="2.5"/>
+    <text x="46" y="767" font-family="Arial Rounded MT Bold,Arial,sans-serif" font-weight="700" font-size="17" fill="#6b4a36" stroke="none">10</text>
+    <ellipse cx="128" cy="762" rx="12" ry="9" fill="#ff8a3a" stroke-width="2.5"/><path d="M128 753v-5" stroke="#3fa35b" stroke-width="3"/>
+    <rect x="34" y="783" width="122" height="34" rx="8" fill="#e8d5c0" stroke-width="2.5"/>
+    <text x="46" y="807" font-family="Arial Rounded MT Bold,Arial,sans-serif" font-weight="700" font-size="17" fill="#6b4a36" stroke="none">11</text>
+    <path d="M120 798h16q0 14-8 14q-8 0-8-14z" fill="#c8915e" stroke-width="2.5"/><path d="M118 798q10-12 20 0z" fill="#8a5a3a" stroke-width="2.5"/>
+    <rect x="34" y="823" width="122" height="34" rx="8" fill="#cfeedd" stroke-width="2.5"/>
+    <text x="46" y="847" font-family="Arial Rounded MT Bold,Arial,sans-serif" font-weight="700" font-size="17" fill="#6b4a36" stroke="none">12</text>
+    <path d="M128 828l10 16h-20zM128 836l12 16h-24z" fill="#3fa35b" stroke-width="2.5"/><circle cx="128" cy="827" r="3" fill="#ffd23f" stroke="none"/>
+
+    <!-- ===== 月曆 ===== -->
+    <g transform="translate(0 16)">
+    <rect x="420" y="426" width="750" height="334" rx="14" fill="#fff"/>
+    <rect x="430" y="444" width="730" height="42" rx="6" fill="#ff8a5b"/>
+    <circle cx="462" cy="465" r="13" fill="#f2a516" stroke-width="3"/><path d="M462 452v-6" stroke="#3fa35b" stroke-width="4"/>
+    <path d="M488 458h120M488 472h80" stroke="#fff" stroke-width="7"/>
+    <rect x="433" y="490" width="98" height="32" rx="6" fill="#7fb8e8" stroke-width="3"/>
+    <rect x="537" y="490" width="98" height="32" rx="6" fill="#9bd77f" stroke-width="3"/>
+    <rect x="641" y="490" width="98" height="32" rx="6" fill="#ffd23f" stroke-width="3"/>
+    <rect x="745" y="490" width="98" height="32" rx="6" fill="#c5a3ff" stroke-width="3"/>
+    <rect x="849" y="490" width="98" height="32" rx="6" fill="#ff9fb5" stroke-width="3"/>
+    <rect x="953" y="490" width="98" height="32" rx="6" fill="#ff7a8a" stroke-width="3"/>
+    <rect x="1057" y="490" width="98" height="32" rx="6" fill="#ff7a8a" stroke-width="3"/>
+    <rect x="950" y="526" width="208" height="226" fill="#ffe3e6" stroke="none"/>
+    <rect x="430" y="571" width="728" height="45" fill="#fff3a8" stroke="none" opacity=".8"/>
+    <path d="M430 526H1158" stroke="#e2cfb8" stroke-width="2.5"/>
+    <path d="M430 571H1158" stroke="#e2cfb8" stroke-width="2.5"/>
+    <path d="M430 616H1158" stroke="#e2cfb8" stroke-width="2.5"/>
+    <path d="M430 661H1158" stroke="#e2cfb8" stroke-width="2.5"/>
+    <path d="M430 706H1158" stroke="#e2cfb8" stroke-width="2.5"/>
+    <path d="M430 751H1158" stroke="#e2cfb8" stroke-width="2.5"/>
+    <path d="M430 526V751" stroke="#e2cfb8" stroke-width="2.5"/>
+    <path d="M534 526V751" stroke="#e2cfb8" stroke-width="2.5"/>
+    <path d="M638 526V751" stroke="#e2cfb8" stroke-width="2.5"/>
+    <path d="M742 526V751" stroke="#e2cfb8" stroke-width="2.5"/>
+    <path d="M846 526V751" stroke="#e2cfb8" stroke-width="2.5"/>
+    <path d="M950 526V751" stroke="#e2cfb8" stroke-width="2.5"/>
+    <path d="M1054 526V751" stroke="#e2cfb8" stroke-width="2.5"/>
+    <path d="M1158 526V751" stroke="#e2cfb8" stroke-width="2.5"/>
+    <rect x="430" y="526" width="728" height="225" fill="none" stroke-width="3"/>
+    <g font-family="Arial Rounded MT Bold,Arial,sans-serif" font-weight="700" font-size="17" fill="#6b4a36" stroke="none">
+    <text x="752" y="548" fill="#6b4a36">1</text>
+    <text x="856" y="548" fill="#6b4a36">2</text>
+    <text x="960" y="548" fill="#e8504a">3</text>
+    <text x="1064" y="548" fill="#e8504a">4</text>
+    <text x="440" y="593" fill="#6b4a36">5</text>
+    <text x="544" y="593" fill="#6b4a36">6</text>
+    <text x="648" y="593" fill="#6b4a36">7</text>
+    <text x="752" y="593" fill="#6b4a36">8</text>
+    <text x="856" y="593" fill="#6b4a36">9</text>
+    <text x="960" y="593" fill="#e8504a">10</text>
+    <text x="1064" y="593" fill="#e8504a">11</text>
+    <text x="440" y="638" fill="#6b4a36">12</text>
+    <text x="544" y="638" fill="#6b4a36">13</text>
+    <text x="648" y="638" fill="#6b4a36">14</text>
+    <text x="752" y="638" fill="#6b4a36">15</text>
+    <text x="856" y="638" fill="#6b4a36">16</text>
+    <text x="960" y="638" fill="#e8504a">17</text>
+    <text x="1064" y="638" fill="#e8504a">18</text>
+    <text x="440" y="683" fill="#6b4a36">19</text>
+    <text x="544" y="683" fill="#6b4a36">20</text>
+    <text x="648" y="683" fill="#6b4a36">21</text>
+    <text x="752" y="683" fill="#6b4a36">22</text>
+    <text x="856" y="683" fill="#6b4a36">23</text>
+    <text x="960" y="683" fill="#e8504a">24</text>
+    <text x="1064" y="683" fill="#e8504a">25</text>
+    <text x="440" y="728" fill="#6b4a36">26</text>
+    <text x="544" y="728" fill="#6b4a36">27</text>
+    <text x="648" y="728" fill="#6b4a36">28</text>
+    <text x="752" y="728" fill="#6b4a36">29</text>
+    <text x="856" y="728" fill="#6b4a36">30</text>
+    <text x="960" y="728" fill="#e8504a">31</text>
+    </g>
+    <path d="M470 418v20" stroke-width="6"/><circle cx="470" cy="438" r="5" fill="#c3c9d0" stroke-width="3"/>
+    <path d="M550 418v20" stroke-width="6"/><circle cx="550" cy="438" r="5" fill="#c3c9d0" stroke-width="3"/>
+    <path d="M630 418v20" stroke-width="6"/><circle cx="630" cy="438" r="5" fill="#c3c9d0" stroke-width="3"/>
+    <path d="M710 418v20" stroke-width="6"/><circle cx="710" cy="438" r="5" fill="#c3c9d0" stroke-width="3"/>
+    <path d="M790 418v20" stroke-width="6"/><circle cx="790" cy="438" r="5" fill="#c3c9d0" stroke-width="3"/>
+    <path d="M870 418v20" stroke-width="6"/><circle cx="870" cy="438" r="5" fill="#c3c9d0" stroke-width="3"/>
+    <path d="M950 418v20" stroke-width="6"/><circle cx="950" cy="438" r="5" fill="#c3c9d0" stroke-width="3"/>
+    <path d="M1030 418v20" stroke-width="6"/><circle cx="1030" cy="438" r="5" fill="#c3c9d0" stroke-width="3"/>
+    <path d="M1110 418v20" stroke-width="6"/><circle cx="1110" cy="438" r="5" fill="#c3c9d0" stroke-width="3"/>
+    <path d="M795 418l-60-30M795 418l60-30" stroke-width="3" fill="none"/><circle cx="795" cy="386" r="6" fill="#c3c9d0"/>
+    <!-- 今天圈起來、昨天打叉、明天星星、生日蛋糕 -->
+    <circle cx="690" cy="638" r="20" fill="none" stroke="#e8504a" stroke-width="5"/>
+    <path d="M572 626l26 24M598 626l-26 24" stroke="#5b8def" stroke-width="5"/>
+    <path d="M818 624l5 10l11 1l-8 7l3 11l-11-6l-10 6l3-11l-8-7l11-1z" fill="#ffd23f" stroke-width="2.5"/>
+    <rect x="490" y="728" width="30" height="16" rx="3" fill="#ff9fc0" stroke-width="2.5"/>
+    <path d="M505 728v-10" stroke-width="3"/><path d="M505 716q-4-6 0-10q4 4 0 10z" fill="#ffd23f" stroke-width="2"/>
+    </g>
+
+    <!-- ===== 時鐘 ===== -->
+    <circle cx="1385" cy="450" r="146" fill="#ff8a5b" stroke-width="5"/>
+    <circle cx="1385" cy="450" r="132" fill="#fffdf4"/>
+    <path d="M1385.0 322.0L1385.0 338.0 M1398.4 322.7L1397.3 332.6 M1411.6 324.8L1409.5 334.6 M1424.6 328.3L1421.5 337.8 M1437.1 333.1L1433.0 342.2 M1449.0 339.1L1441.0 353.0 M1460.2 346.4L1454.4 354.5 M1470.6 354.9L1464.0 362.3 M1480.1 364.4L1472.7 371.0 M1488.6 374.8L1480.5 380.6 M1495.9 386.0L1482.0 394.0 M1501.9 397.9L1492.8 402.0 M1506.7 410.4L1497.2 413.5 M1510.2 423.4L1500.4 425.5 M1512.3 436.6L1502.4 437.7 M1513.0 450.0L1497.0 450.0 M1512.3 463.4L1502.4 462.3 M1510.2 476.6L1500.4 474.5 M1506.7 489.6L1497.2 486.5 M1501.9 502.1L1492.8 498.0 M1495.9 514.0L1482.0 506.0 M1488.6 525.2L1480.5 519.4 M1480.1 535.6L1472.7 529.0 M1470.6 545.1L1464.0 537.7 M1460.2 553.6L1454.4 545.5 M1449.0 560.9L1441.0 547.0 M1437.1 566.9L1433.0 557.8 M1424.6 571.7L1421.5 562.2 M1411.6 575.2L1409.5 565.4 M1398.4 577.3L1397.3 567.4 M1385.0 578.0L1385.0 562.0 M1371.6 577.3L1372.7 567.4 M1358.4 575.2L1360.5 565.4 M1345.4 571.7L1348.5 562.2 M1332.9 566.9L1337.0 557.8 M1321.0 560.9L1329.0 547.0 M1309.8 553.6L1315.6 545.5 M1299.4 545.1L1306.0 537.7 M1289.9 535.6L1297.3 529.0 M1281.4 525.2L1289.5 519.4 M1274.1 514.0L1288.0 506.0 M1268.1 502.1L1277.2 498.0 M1263.3 489.6L1272.8 486.5 M1259.8 476.6L1269.6 474.5 M1257.7 463.4L1267.6 462.3 M1257.0 450.0L1273.0 450.0 M1257.7 436.6L1267.6 437.7 M1259.8 423.4L1269.6 425.5 M1263.3 410.4L1272.8 413.5 M1268.1 397.9L1277.2 402.0 M1274.1 386.0L1288.0 394.0 M1281.4 374.8L1289.5 380.6 M1289.9 364.4L1297.3 371.0 M1299.4 354.9L1306.0 362.3 M1309.8 346.4L1315.6 354.5 M1321.0 339.1L1329.0 353.0 M1332.9 333.1L1337.0 342.2 M1345.4 328.3L1348.5 337.8 M1358.4 324.8L1360.5 334.6 M1371.6 322.7L1372.7 332.6" stroke-width="2.5"/>
+    <g font-family="Arial Rounded MT Bold,Arial,sans-serif" font-weight="700" font-size="26" fill="#6b4a36" stroke="none" text-anchor="middle">
+            <text x="1439" y="365">1</text>
+      <text x="1479" y="405">2</text>
+      <text x="1493" y="459">3</text>
+      <text x="1479" y="513">4</text>
+      <text x="1439" y="553">5</text>
+      <text x="1385" y="567">6</text>
+      <text x="1331" y="553">7</text>
+      <text x="1291" y="513">8</text>
+      <text x="1277" y="459">9</text>
+      <text x="1291" y="405">10</text>
+      <text x="1331" y="365">11</text>
+      <text x="1385" y="351">12</text>
+    </g>
+    <path d="M1385 450L1327.9 493.8" stroke-width="12"/>
+    <path d="M1385 450L1327.9 493.8" stroke="#5b8def" stroke-width="6"/>
+    <path d="M1385 450L1281.0 450.0" stroke-width="9"/>
+    <path d="M1385 450L1281.0 450.0" stroke="#e8504a" stroke-width="4"/>
+    <circle cx="1385" cy="450" r="10" fill="#ffd23f"/>
+
+    <!-- ===== 小桌＋電子鐘 ===== -->
+    <rect x="236" y="930" width="190" height="18" rx="6" fill="#c8915e"/>
+    <path d="M252 948v110M410 948v110" stroke-width="8"/>
+    <rect x="270" y="872" width="124" height="58" rx="10" fill="#3d3550"/>
+    <rect x="280" y="880" width="104" height="42" rx="6" fill="#1f2a3a" stroke-width="3"/>
+    <text x="332" y="912" text-anchor="middle" font-family="Courier New,monospace" font-weight="700" font-size="30" fill="#7dff9a" stroke="none">7:45</text>
+    <path d="M370 872q14-34 30-30" fill="none" stroke-width="3"/>
+    <!-- 書包＋書 -->
+    <path d="M556 1070v-70q0-30 40-30h20q40 0 40 30v70z" fill="#5b8def"/>
+    <path d="M576 972q0-24 30-24q30 0 30 24" fill="none" stroke-width="5"/>
+    <rect x="572" y="1010" width="68" height="40" rx="8" fill="#7fb8e8" stroke-width="3.5"/>
+    <path d="M590 1022h32" stroke-width="3"/>
+    <rect x="666" y="1046" width="70" height="16" rx="3" fill="#ff7a8a" stroke-width="3"/>
+    <rect x="672" y="1030" width="62" height="16" rx="3" fill="#ffd23f" stroke-width="3"/>
+    <!-- 盆栽 -->
+    <path d="M1520 1060l-14-70h76l-14 70z" fill="#ff8a5b"/>
+    <path d="M1544 990q-40-60-6-110q20 50 6 110zM1544 990q30-70 50-80q4 50-50 80z" fill="#7fc89a" stroke-width="3.5"/>
+  </g>
+</svg>

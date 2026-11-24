@@ -490,5 +490,538 @@
         }
       ]
     }
-  ]
+  ],
+  "scene": {
+    "w": 1600,
+    "h": 1100,
+    "bg": "scenes/hobbies.svg",
+    "items": {
+      "hobby": {
+        "box": [
+          480,
+          150,
+          200,
+          66
+        ],
+        "lx": 760,
+        "ly": 160,
+        "la": "l"
+      },
+      "collection": {
+        "box": [
+          1322,
+          858,
+          62,
+          42
+        ],
+        "lx": 1420,
+        "ly": 890,
+        "la": "l"
+      },
+      "reading": {
+        "box": [
+          672,
+          902,
+          56,
+          134
+        ],
+        "lx": 790,
+        "ly": 930
+      },
+      "puzzle": {
+        "box": [
+          200,
+          806,
+          96,
+          74
+        ],
+        "lx": 248,
+        "ly": 884
+      },
+      "board game": {
+        "x": 96,
+        "y": 962,
+        "s": 40,
+        "lx": 90,
+        "ly": 906
+      },
+      "camera": {
+        "box": [
+          932,
+          954,
+          56,
+          56
+        ],
+        "lx": 860,
+        "ly": 940
+      },
+      "photo": {
+        "box": [
+          1123,
+          958,
+          55,
+          55
+        ],
+        "lx": 1250,
+        "ly": 980
+      },
+      "painting": {
+        "box": [
+          256,
+          414,
+          104,
+          70
+        ],
+        "lx": 432,
+        "ly": 268,
+        "la": "r"
+      },
+      "paintbrush": {
+        "box": [
+          222,
+          386,
+          46,
+          46
+        ],
+        "lx": 432,
+        "ly": 340,
+        "la": "r"
+      },
+      "sketchbook": {
+        "x": 56,
+        "y": 440,
+        "s": 36,
+        "lx": 24,
+        "ly": 268,
+        "la": "l"
+      },
+      "knitting": {
+        "box": [
+          698,
+          407,
+          35,
+          80
+        ],
+        "lx": 852,
+        "ly": 268,
+        "la": "r"
+      },
+      "sewing": {
+        "box": [
+          458,
+          398,
+          92,
+          44
+        ],
+        "lx": 500,
+        "ly": 268
+      },
+      "origami": {
+        "x": 620,
+        "y": 440,
+        "s": 36,
+        "lx": 620,
+        "ly": 352
+      },
+      "craft": {
+        "x": 576,
+        "y": 440,
+        "s": 34,
+        "lx": 610,
+        "ly": 268
+      },
+      "cooking": {
+        "x": 618.1,
+        "y": 652,
+        "s": 40,
+        "lx": 540,
+        "ly": 524
+      },
+      "baking": {
+        "x": 820,
+        "y": 650,
+        "s": 40,
+        "lx": 800,
+        "ly": 560
+      },
+      "gardening": {
+        "box": [
+          969,
+          550,
+          62,
+          148
+        ],
+        "lx": 900,
+        "ly": 520
+      },
+      "fishing": {
+        "box": [
+          1302,
+          654,
+          56,
+          134
+        ],
+        "lx": 1260,
+        "ly": 640
+      },
+      "camping": {
+        "x": 1240,
+        "y": 470,
+        "s": 90,
+        "lx": 1130,
+        "ly": 410
+      },
+      "hiking": {
+        "box": [
+          1316,
+          278,
+          39,
+          93
+        ],
+        "lx": 1440,
+        "ly": 380,
+        "la": "l"
+      },
+      "dancing": {
+        "box": [
+          221,
+          581,
+          58,
+          139
+        ],
+        "lx": 290,
+        "ly": 524
+      },
+      "singing": {
+        "box": [
+          67,
+          581,
+          58,
+          139
+        ],
+        "lx": 110,
+        "ly": 524
+      },
+      "magic trick": {
+        "x": 1446,
+        "y": 950,
+        "s": 40,
+        "lx": 1500,
+        "ly": 790
+      },
+      "chess": {
+        "box": [
+          156,
+          952,
+          92,
+          22
+        ],
+        "lx": 200,
+        "ly": 990
+      },
+      "comic book": {
+        "box": [
+          684,
+          964,
+          32,
+          32
+        ],
+        "lx": 790,
+        "ly": 1000
+      },
+      "novel": {
+        "x": 592,
+        "y": 1014,
+        "s": 36,
+        "lx": 532,
+        "ly": 784
+      },
+      "video game": {
+        "box": [
+          314,
+          964,
+          32,
+          32
+        ],
+        "lx": 360,
+        "ly": 800
+      },
+      "movie": {
+        "box": [
+          700,
+          796,
+          150,
+          96
+        ],
+        "lx": 775,
+        "ly": 840
+      },
+      "drawing": {
+        "box": [
+          70,
+          420,
+          50,
+          22
+        ],
+        "lx": 24,
+        "ly": 352,
+        "la": "l"
+      },
+      "telescope": {
+        "x": 1456,
+        "y": 252,
+        "s": 56,
+        "lx": 1456,
+        "ly": 160
+      },
+      "diary": {
+        "x": 1370,
+        "y": 858,
+        "s": 36,
+        "lx": 1340,
+        "ly": 780
+      },
+      "album": {
+        "box": [
+          1204,
+          872,
+          112,
+          30
+        ],
+        "lx": 1260,
+        "ly": 770
+      },
+      "yarn": {
+        "x": 810,
+        "y": 468,
+        "s": 40,
+        "lx": 806,
+        "ly": 352
+      }
+    },
+    "people": [
+      {
+        "p": {
+          "hair": "bob",
+          "hairColor": "#3a2a20",
+          "shirt": "#ffffff",
+          "apron": "#5bc0eb",
+          "skirt": "#ff8fb1",
+          "pose": "talk",
+          "face": "smile",
+          "eyes": "happy"
+        },
+        "x": 196,
+        "y": 498,
+        "h": 160
+      },
+      {
+        "p": {
+          "hair": "grandma",
+          "hairColor": "#d8d8d8",
+          "shirt": "#c56fa0",
+          "skirt": "#6b5b9b",
+          "sit": true,
+          "pose": "hold",
+          "face": "smile",
+          "acc": [
+            "glasses"
+          ]
+        },
+        "x": 716,
+        "y": 498,
+        "h": 150
+      },
+      {
+        "p": {
+          "hair": "long",
+          "hairColor": "#2e2018",
+          "shirt": "#ff5a6e",
+          "skirt": "#2e2b3a",
+          "pose": "talk",
+          "face": "talk"
+        },
+        "x": 96,
+        "y": 722,
+        "h": 156
+      },
+      {
+        "p": {
+          "hair": "ponytail",
+          "hairColor": "#c0602a",
+          "shirt": "#ffd23f",
+          "skirt": "#9b7be0",
+          "pose": "cheer",
+          "face": "laugh",
+          "eyes": "happy",
+          "skin": "tan"
+        },
+        "x": 250,
+        "y": 722,
+        "h": 156
+      },
+      {
+        "p": {
+          "hair": "short",
+          "hairColor": "#2e2018",
+          "shirt": "#ffffff",
+          "pants": "#4d4d63",
+          "apron": "#ff8f6b",
+          "acc": [
+            "chefhat"
+          ],
+          "pose": "talk",
+          "face": "laugh",
+          "eyes": "happy"
+        },
+        "x": 700,
+        "y": 762,
+        "h": 170,
+        "flip": true
+      },
+      {
+        "p": {
+          "hair": "spiky",
+          "hairColor": "#1f1a17",
+          "shirt": "#3fbf9f",
+          "pants": "#3d5a99",
+          "sit": true,
+          "pose": "hold",
+          "holding": "🎮",
+          "face": "wow",
+          "skin": "brown"
+        },
+        "x": 330,
+        "y": 1038,
+        "h": 150
+      },
+      {
+        "p": {
+          "hair": "pigtails",
+          "hairColor": "#4a2e1c",
+          "shirt": "#9b7be0",
+          "skirt": "#5bc0eb",
+          "sit": true,
+          "pose": "hold",
+          "holding": "💬",
+          "face": "laugh",
+          "eyes": "happy",
+          "skin": "light"
+        },
+        "x": 700,
+        "y": 1038,
+        "h": 150
+      },
+      {
+        "p": {
+          "hair": "short",
+          "hairColor": "#3a2a20",
+          "shirt": "#ff9f43",
+          "pants": "#3fa35b",
+          "pose": "wave",
+          "face": "smile",
+          "acc": [
+            "cap"
+          ],
+          "accColor": "#e5483b"
+        },
+        "x": 1336,
+        "y": 372,
+        "h": 104
+      },
+      {
+        "p": {
+          "hair": "bun",
+          "hairColor": "#a0522d",
+          "shirt": "#8bd16a",
+          "pants": "#3d5a99",
+          "pose": "talk",
+          "face": "smile",
+          "eyes": "happy",
+          "acc": [
+            "cap"
+          ],
+          "accColor": "#ffd23f"
+        },
+        "x": 1000,
+        "y": 700,
+        "h": 166
+      },
+      {
+        "p": {
+          "hair": "curly",
+          "hairColor": "#1f1a17",
+          "shirt": "#5b8def",
+          "pants": "#ffd23f",
+          "sit": true,
+          "pose": "talk",
+          "face": "smile",
+          "skin": "dark"
+        },
+        "x": 1330,
+        "y": 790,
+        "h": 150
+      },
+      {
+        "p": {
+          "hair": "short",
+          "hairColor": "#2e2018",
+          "shirt": "#2e2b3a",
+          "pants": "#2e2b3a",
+          "pose": "point",
+          "face": "laugh",
+          "eyes": "wink"
+        },
+        "x": 1520,
+        "y": 1060,
+        "h": 190,
+        "flip": true
+      },
+      {
+        "p": {
+          "hair": "spiky",
+          "hairColor": "#3a2a20",
+          "shirt": "#ff5a6e",
+          "pants": "#3d5a99",
+          "pose": "hold",
+          "holding": "📷",
+          "face": "laugh",
+          "eyes": "happy",
+          "skin": "tan"
+        },
+        "x": 960,
+        "y": 1084,
+        "h": 262
+      },
+      {
+        "p": {
+          "hair": "bob",
+          "hairColor": "#2e2018",
+          "shirt": "#ffd23f",
+          "skirt": "#5bc0eb",
+          "pose": "hold",
+          "holding": "🖼️",
+          "face": "talk"
+        },
+        "x": 1150,
+        "y": 1084,
+        "h": 254,
+        "flip": true
+      }
+    ],
+    "bubbles": [
+      {
+        "x": 1110,
+        "y": 700,
+        "w": 270,
+        "tail": "bl"
+      },
+      {
+        "x": 880,
+        "y": 720,
+        "w": 240,
+        "tail": "bl"
+      }
+    ]
+  }
 }

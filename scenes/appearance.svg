@@ -283,7 +283,7 @@
     
     
   </g>
-  <g transform="translate(150 1000)"><ellipse cx="0" cy="-14" rx="24" ry="16" fill="#9a9a9a"/><circle cx="20" cy="-30" r="14" fill="#9a9a9a"/><path d="M30 -40l-4-12l-6 8M16 -42l-6-10l-2 12" fill="#9a9a9a"/><circle cx="24" cy="-30" r="2" fill="#6b4a36" stroke="none"/><path d="M-22 -10q-14-6-12-20" fill="none" stroke="#9a9a9a" stroke-width="6"/></g>
+  <g transform="translate(150 1000)"><ellipse cx="0" cy="-14" rx="24" ry="16" fill="#9a9a9a"/><circle cx="20" cy="-30" r="14" fill="#9a9a9a"/><path d="M30 -40l-4-12l-6 8M16 -42l-6-10l-2 12" fill="#9a9a9a"/><circle cx="24" cy="-30" r="2" fill="#6b4a36" stroke="none"/><path d="M-22 -10q-14-6-12-20" fill="none" stroke="#9a9a9a" stroke-width="6"/><ellipse cx="46" cy="-4" rx="16" ry="6" fill="#fff"/><path d="M32 -6h28" stroke="#9fdcf7" stroke-width="4"/></g>
   <g transform="translate(382.5 560) scale(1.375 1.375)" stroke-width="3.5">
     <ellipse cx="100" cy="312" rx="56" ry="8" fill="rgba(80,52,30,.15)"/>
     <path d="M84 262v36M116 262v36" stroke="#6b4a36" stroke-width="22" stroke-linecap="round"/><path d="M84 262v36M116 262v36" stroke="#ffe0c4" stroke-width="15" stroke-linecap="round"/>
@@ -479,8 +479,8 @@
     
   </g>
   <!-- 懶洋洋睡在樹下 -->
-  <rect x="1776" y="700" width="30" height="300" fill="#b07a4f"/>
-  <g transform="translate(1693.625 794) scale(0.64375 0.64375)" stroke-width="3.5">
+  <rect x="1766" y="700" width="40" height="300" fill="#b07a4f"/><g fill="#8fcf76"><circle cx="1790" cy="680" r="60"/></g>
+  <g transform="translate(1671.625 794) scale(0.64375 0.64375)" stroke-width="3.5">
     <ellipse cx="100" cy="312" rx="56" ry="8" fill="rgba(80,52,30,.15)"/>
     <path d="M74 236h52v20h-52z" fill="#e8665a" stroke="#6b4a36" stroke-width="3.5"/><path d="M78 252l-6 48M122 252l6 48" stroke="#6b4a36" stroke-width="22" stroke-linecap="round"/><path d="M78 252l-6 48M122 252l6 48" stroke="#ffe0c4" stroke-width="15" stroke-linecap="round"/><ellipse cx="68" cy="306" rx="16" ry="9" fill="#6b4a36" stroke="#6b4a36" stroke-width="3"/><ellipse cx="132" cy="306" rx="16" ry="9" fill="#6b4a36" stroke="#6b4a36" stroke-width="3"/>
     <path d="M80 176Q67 203 66 214" stroke="#6b4a36" stroke-width="25" fill="none" stroke-linecap="round"/>
