@@ -10,6 +10,14 @@
     <rect width="1600" height="1100" fill="url(#sky)" stroke="none"/>
     <circle cx="1100" cy="100" r="44" fill="#ffd23f" stroke="none"/>
     <path d="M880 150q8-24 32-18q12-24 42-12q28-4 30 24q22 2 14 22h-118z" fill="#fff" stroke="none"/>
+    <path d="M680 250q8-20 28-14q12-20 36-10q22-2 24 20q18 2 12 18h-100z" fill="#fff" stroke="none"/>
+    <path d="M760 120q10-10 20 0q10-10 20 0M820 90q8-8 16 0q8-8 16 0M960 220q8-8 16 0q8-8 16 0" fill="none" stroke-width="3"/>
+    <!-- kite -->
+    <g transform="translate(130 -70)">
+    <path d="M790 300l30-40l30 40l-30 40z" fill="#ff8fb1"/><path d="M790 300h60M820 260v80" stroke-width="2.5"/>
+    <path d="M820 340q-10 30 10 50q-14 20 0 40" fill="none" stroke-width="2.5"/>
+    <g fill="#ffd23f" stroke-width="2"><path d="M824 362l8 4l-8 4z"/><path d="M822 400l8 4l-8 4z"/></g>
+    </g>
     <!-- hill with trail -->
     <path d="M1000 640q180-420 440-400q120 10 160 60V640z" fill="#8fd16a"/>
     <path d="M1180 600q80-40 40-90q-40-50 80-90q90-30 60-110q-10-30 60-40" fill="none" stroke="#e9c08e" stroke-width="14"/>
@@ -18,37 +26,33 @@
     <rect y="600" x="870" width="730" height="500" fill="url(#grass)" stroke="none"/>
     <path d="M870 600H1600" stroke-width="3"/>
     <!-- pond -->
-    <ellipse cx="1460" cy="830" rx="170" ry="70" fill="url(#water)"/>
-    <g fill="#8bd16a" stroke-width="3"><ellipse cx="1560" cy="850" rx="16" ry="7"/><ellipse cx="1520" cy="812" rx="13" ry="6"/></g>
+    <ellipse cx="1500" cy="790" rx="130" ry="56" fill="url(#water)"/>
+    <g fill="#8bd16a" stroke-width="3"><ellipse cx="1566" cy="812" rx="16" ry="7"/><ellipse cx="1546" cy="768" rx="13" ry="6"/></g>
     <!-- fishing rod -->
-    <path d="M1358.1 722.5L1468.1 632.5" stroke="#c98a50" stroke-width="5"/>
-    <path d="M1468.1 632.5q20 60 10 120" fill="none" stroke-width="2"/>
-    <circle cx="1478.1" cy="754.5" r="6" fill="#ff5a6e" stroke-width="2.5"/>
+    <path d="M1446.2 737.0L1516.2 657.0" stroke="#c98a50" stroke-width="5"/>
+    <path d="M1516.2 657.0q14 60 12 110" fill="none" stroke-width="2"/>
+    <circle cx="1528.2" cy="769.0" r="6" fill="#ff5a6e" stroke-width="2.5"/>
     <!-- garden bed -->
-    <rect x="880" y="672" width="210" height="34" rx="8" fill="#a0683c"/>
-    <g fill="#8bd16a" stroke-width="3"><path d="M906 672q-8-20 4-28q8 14-4 28q8-24 22-20q0 16-22 20"/><path d="M1056 672q-8-20 4-28q8 14-4 28q8-24 22-20q0 16-22 20"/></g>
+    <rect x="976" y="738" width="96" height="34" rx="8" fill="#a0683c"/>
+    <g fill="#8bd16a" stroke-width="3"><path d="M996 738q-8-20 4-28q8 14-4 28q8-24 22-20q0 16-22 20"/><path d="M1040 738q-8-20 4-28q8 14-4 28q8-24 22-20q0 16-22 20"/></g>
     <!-- watering can -->
-    <path d="M1031.1 625.3h36v26h-36z" fill="#5bc0eb"/>
-    <path d="M1067.1 631.3l26-14" stroke="#5bc0eb" stroke-width="7"/>
-    <path d="M1095.1 619.3q4 10 0 18M1101.1 623.3q4 12 0 22" fill="none" stroke="#7ad0f0" stroke-width="3"/>
-    <!-- bench with album, diary, collection -->
-    <rect x="1190" y="900" width="200" height="16" rx="5" fill="#c98a50"/>
-    <rect x="1190" y="870" width="200" height="14" rx="5" fill="#c98a50"/>
-    <path d="M1206 884v16M1374 884v16" stroke-width="5"/>
-    <path d="M1206 916v54M1374 916v54" stroke-width="7"/>
-    <!-- open album -->
-    <path d="M1206 900l6-26h44l4 26zM1260 900l4-26h44l6 26z" fill="#fff"/>
-    <g stroke-width="2"><rect x="1216" y="880" width="16" height="12" fill="#ff8fb1"/><rect x="1236" y="880" width="16" height="12" fill="#8bd16a"/><rect x="1268" y="880" width="16" height="12" fill="#5bc0eb"/><rect x="1288" y="880" width="16" height="12" fill="#ffd23f"/></g>
-    <!-- stamp collection case -->
-    <rect x="1322" y="858" width="62" height="42" rx="4" fill="#c98a50"/>
-    <rect x="1328" y="864" width="50" height="30" rx="2" fill="#fff4dc" stroke-width="2.5"/>
-    <g stroke-width="2"><rect x="1332" y="868" width="12" height="10" fill="#ff8fb1"/><rect x="1348" y="868" width="12" height="10" fill="#5bc0eb"/><rect x="1364" y="868" width="10" height="10" fill="#8bd16a"/><rect x="1332" y="882" width="12" height="9" fill="#ffd23f"/><rect x="1348" y="882" width="12" height="9" fill="#9b7be0"/><rect x="1364" y="882" width="10" height="9" fill="#ff8f6b"/></g>
+    <path d="M958.1 702.5h36v26h-36z" fill="#5bc0eb"/>
+    <path d="M994.1 708.5l26-14" stroke="#5bc0eb" stroke-width="7"/>
+    <path d="M1022.1 696.5q4 10 0 18M1028.1 700.5q4 12 0 22" fill="none" stroke="#7ad0f0" stroke-width="3"/>
+    <!-- picnic table with album, diary, collection -->
+    <rect x="1392" y="1000" width="204" height="16" rx="6" fill="#c98a50"/>
+    <path d="M1412 1016l-10 70M1576 1016l10 70" stroke-width="8"/>
+    <path d="M1402 1000l6-26h36l4 26zM1448 1000l4-26h36l6 26z" fill="#fff"/>
+    <g stroke-width="2"><rect x="1412" y="980" width="13" height="12" fill="#ff8fb1"/><rect x="1428" y="980" width="13" height="12" fill="#8bd16a"/><rect x="1456" y="980" width="13" height="12" fill="#5bc0eb"/><rect x="1472" y="980" width="13" height="12" fill="#ffd23f"/></g>
+    <rect x="1526" y="958" width="62" height="42" rx="4" fill="#c98a50"/>
+    <rect x="1532" y="964" width="50" height="30" rx="2" fill="#fff4dc" stroke-width="2.5"/>
+    <g stroke-width="2"><rect x="1536" y="968" width="12" height="10" fill="#ff8fb1"/><rect x="1552" y="968" width="12" height="10" fill="#5bc0eb"/><rect x="1568" y="968" width="10" height="10" fill="#8bd16a"/><rect x="1536" y="982" width="12" height="9" fill="#ffd23f"/><rect x="1552" y="982" width="12" height="9" fill="#9b7be0"/><rect x="1568" y="982" width="10" height="9" fill="#ff8f6b"/></g>
     <!-- magician box + hat -->
-    <rect x="1420" y="1000" width="70" height="60" rx="6" fill="#9b7be0"/>
-    <path d="M1430 1000h50" stroke="#ffd23f" stroke-width="4"/>
-    <path d="M1442 1000v-32h26v32" fill="#2e2b3a"/><path d="M1434 1000h42" stroke-width="5"/>
-    <path d="M1468.9 963.8l-30 -20" stroke="#2e2b3a" stroke-width="6"/><path d="M1438.9 943.8l-6 -4" stroke="#fff" stroke-width="6"/>
-    <g fill="#ffd23f" stroke-width="2"><path d="M1446 950l3 7l7 1l-5 5l1 7l-6-3l-6 3l1-7l-5-5l7-1z"/><path d="M1476 930l2 5l5 1l-4 4l1 5l-4-2l-4 2l1-5l-4-4l5-1z"/></g>
+    <rect x="884" y="1024" width="64" height="60" rx="6" fill="#9b7be0"/>
+    <path d="M892 1024h48" stroke="#ffd23f" stroke-width="4"/>
+    <path d="M902 1024v-30h26v30" fill="#2e2b3a"/><path d="M894 1024h42" stroke-width="5"/>
+    <path d="M934.3 997.9l-30 -20" stroke="#2e2b3a" stroke-width="6"/><path d="M904.3 977.9l-6 -4" stroke="#fff" stroke-width="6"/>
+    <g fill="#ffd23f" stroke-width="2"><path d="M906 966l3 7l7 1l-5 5l1 7l-6-3l-6 3l1-7l-5-5l7-1z"/><path d="M936 950l2 5l5 1l-4 4l1 5l-4-2l-4 2l1-5l-4-4l5-1z"/></g>
 
     <!-- ===== community center ===== -->
     <rect x="4" y="244" width="868" height="816" fill="url(#brick)"/>
@@ -117,8 +121,8 @@
     <rect x="24" y="706" width="300" height="12" fill="#e9b278"/>
     <path d="M160 706v-4" />
     <!-- mic stand for singer -->
-    <path d="M140 706l10-6l10 6M150 700V655.8" stroke-width="4" fill="none"/>
-    <rect x="121.2" y="627.8" width="14" height="22" rx="7" fill="#7a7488"/>
+    <path d="M140 706l10-6l10 6M150 700V655.5" stroke-width="4" fill="none"/>
+    <rect x="116.4" y="627.5" width="14" height="22" rx="7" fill="#7a7488"/>
     <g fill="#9b7be0" stroke="#9b7be0" stroke-width="3"><path d="M176 600v-22l14-4v20" fill="none"/><circle cx="172" cy="602" r="4"/><circle cx="186" cy="596" r="4"/></g>
     <!-- speaker -->
     <rect x="360" y="636" width="56" height="112" rx="6" fill="#2e2b3a"/>
