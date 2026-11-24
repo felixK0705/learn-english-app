@@ -1,0 +1,16 @@
+<!doctype html><meta charset="utf-8"><body style="margin:0;background:#fdf0d5;display:flex;flex-wrap:wrap;gap:6px;padding:10px"><script type="module">
+import { person } from '../js/characters.js';
+const list = [
+ { hair:'pigtails', shirt:'#ff7a8a', skirt:'#5b8def', face:'talk', pose:'talk' },
+ { hair:'spiky', shirt:'#ffd23f', pants:'#3fa35b', face:'laugh', pose:'wave', eyes:'happy' },
+ { hair:'short', shirt:'#fff', pants:'#4d4d63', apron:'#ff6f61', acc:['chefhat'], pose:'hold', holding:'🍳', face:'smile' },
+ { hair:'bob', hairColor:'#2e2018', shirt:'#7fc8b8', skirt:'#f2a516', pose:'cheer', face:'laugh', eyes:'happy', skin:'tan' },
+ { hair:'curly', hairColor:'#1f1a17', shirt:'#7a62d6', pants:'#2f9bd6', pose:'point', face:'wow', skin:'brown' },
+ { hair:'grandpa', hairColor:'#ddd', shirt:'#8ab06a', pants:'#6b5b4b', acc:['glasses'], pose:'hips', face:'smile' },
+ { hair:'grandma', hairColor:'#ccc', shirt:'#c56fa0', skirt:'#6b5b9b', acc:['glasses'], pose:'stand', face:'talk' },
+ { hair:'ponytail', hairColor:'#a0522d', shirt:'#2f9bd6', pants:'#ffd23f', pose:'stand', face:'smile', eyes:'wink', sit:true },
+ { hair:'long', hairColor:'#2e2018', shirt:'#fff', coat:true, skirt:'#a8d8f0', acc:['nursecap'], pose:'talk', face:'smile' },
+ { hair:'short', shirt:'#f2a516', pants:'#3d5a99', acc:['cap'], accColor:'#e5483b', pose:'wave', face:'talk', skin:'dark' },
+];
+document.body.innerHTML = list.map(o => `<div style="width:150px;height:240px">${person(o)}</div>`).join('');
+</script>

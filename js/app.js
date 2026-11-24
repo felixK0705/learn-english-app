@@ -222,7 +222,7 @@ function tabScene(body, topic) {
   const { html, items } = buildScene(topic);
   const phrases = topic.words.filter(w => w.type === 'phrase');
   body.innerHTML = `
-    <p class="scene-hint">${esc(topic.intro || '')}<span>${icon('volume-2')}點單字或對話泡泡就會發音<span class="only-m">・左右滑動看完整情境</span></span></p>
+    <p class="scene-hint">${esc(topic.intro || '')}<span>${icon('volume-2')}點單字或對話泡泡就會發音</span></p>
     ${html}
     <div class="find-bar" hidden></div>
     ${phrases.length ? `<div class="sec-head"><h3>實用片語</h3><small>點一下聽發音</small></div>

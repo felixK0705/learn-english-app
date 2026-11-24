@@ -68,6 +68,7 @@ fs.writeFileSync(path.join(root, 'data/search.json'), JSON.stringify(search));
 const staticFiles = ['./', 'index.html', 'manifest.webmanifest', 'css/app.css',
   ...fs.readdirSync(path.join(root, 'js')).map(f => 'js/' + f),
   ...fs.readdirSync(path.join(root, 'icons')).map(f => 'icons/' + f),
+  ...fs.readdirSync(path.join(root, 'scenes')).filter(f => f.endsWith('.svg')).map(f => 'scenes/' + f),
   'data/index.json', 'data/search.json', ...files.map(f => 'data/topics/' + f)];
 const hash = crypto.createHash('sha1');
 for (const f of staticFiles) if (f !== './') hash.update(fs.readFileSync(path.join(root, f)));
