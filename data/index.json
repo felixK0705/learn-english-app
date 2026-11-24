@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T07:34:53.409Z",
+ "generated": "2026-11-24T09:52:23.838Z",
  "categories": [
   {
    "id": "people",
@@ -14,6 +14,7 @@
      "title": "Greetings & Introductions",
      "zh": "打招呼與自我介紹",
      "emoji": "👋",
+     "icon": "icons/topics/greetings.svg",
      "backdrop": "street",
      "intro": "學會跟人打招呼、介紹自己，以及第一次見面常說的話。",
      "counts": {
@@ -28,6 +29,7 @@
      "title": "Family",
      "zh": "家庭",
      "emoji": "👨‍👩‍👧",
+     "icon": "icons/topics/family.svg",
      "backdrop": "home",
      "intro": "認識家人的稱呼，介紹自己的家庭與親戚。",
      "counts": {
@@ -42,6 +44,7 @@
      "title": "The Body",
      "zh": "身體",
      "emoji": "🧍",
+     "icon": "icons/topics/body.svg",
      "backdrop": "hospital",
      "intro": "認識身體各部位，並學會說明哪裡不舒服。",
      "counts": {
@@ -56,6 +59,7 @@
      "title": "Feelings",
      "zh": "情緒與感受",
      "emoji": "😊",
+     "icon": "icons/topics/feelings.svg",
      "backdrop": "park",
      "intro": "學會說出自己和別人的心情與感受。",
      "counts": {
@@ -70,6 +74,7 @@
      "title": "Appearance & Personality",
      "zh": "外表與個性",
      "emoji": "🧑‍🎤",
+     "icon": "icons/topics/appearance.svg",
      "backdrop": "classroom",
      "intro": "學會描述人的長相、身材與個性。",
      "counts": {
@@ -84,6 +89,7 @@
      "title": "Jobs & Occupations",
      "zh": "職業",
      "emoji": "👩‍💼",
+     "icon": "icons/topics/jobs.svg",
      "backdrop": "city",
      "intro": "認識各種職業，並談談自己的工作與夢想。",
      "counts": {
@@ -98,6 +104,7 @@
      "title": "Phone & Communication",
      "zh": "電話與通訊",
      "emoji": "📱",
+     "icon": "icons/topics/telephone.svg",
      "backdrop": "home",
      "intro": "學會使用手機、傳訊息與講電話時常用的字和說法。",
      "counts": {
@@ -112,6 +119,7 @@
      "title": "Polite Expressions",
      "zh": "禮貌用語與日常回應",
      "emoji": "🙏",
+     "icon": "icons/topics/polite.svg",
      "backdrop": "street",
      "intro": "學會日常生活中的禮貌用語、感謝、道歉與各種回應。",
      "counts": {
@@ -126,6 +134,7 @@
      "title": "Holidays & Festivals",
      "zh": "節日與慶典",
      "emoji": "🎆",
+     "icon": "icons/topics/holidays.svg",
      "backdrop": "party",
      "intro": "認識台灣與西方的重要節日，學會說祝福的話。",
      "counts": {
@@ -150,6 +159,7 @@
      "title": "House",
      "zh": "房屋與房間",
      "emoji": "🏠",
+     "icon": "icons/topics/house.svg",
      "backdrop": "home",
      "intro": "認識房子的各個部分，學會描述自己住的地方。",
      "counts": {
@@ -164,6 +174,7 @@
      "title": "Living Room",
      "zh": "客廳與家具",
      "emoji": "🛋️",
+     "icon": "icons/topics/living-room.svg",
      "backdrop": "home",
      "intro": "認識客廳裡的家具與擺設，學會招呼客人和放鬆聊天。",
      "counts": {
@@ -178,6 +189,7 @@
      "title": "Kitchen",
      "zh": "廚房與廚具",
      "emoji": "🍳",
+     "icon": "icons/topics/kitchen.svg",
      "backdrop": "kitchen",
      "intro": "認識廚房裡的設備與餐具，學會說煮飯和擺餐桌。",
      "counts": {
@@ -192,6 +204,7 @@
      "title": "Bathroom",
      "zh": "浴室與盥洗",
      "emoji": "🛁",
+     "icon": "icons/topics/bathroom.svg",
      "backdrop": "bathroom",
      "intro": "認識浴室裡的用品，學會說洗澡、洗手和整理儀容。",
      "counts": {
@@ -206,6 +219,7 @@
      "title": "Bedroom",
      "zh": "臥室",
      "emoji": "🛏️",
+     "icon": "icons/topics/bedroom.svg",
      "backdrop": "bedroom",
      "intro": "認識臥室裡的物品，學會說睡前與起床的日常用語。",
      "counts": {
@@ -220,6 +234,7 @@
      "title": "Daily Routine",
      "zh": "一天的作息",
      "emoji": "⏰",
+     "icon": "icons/topics/daily-routine.svg",
      "backdrop": "home",
      "intro": "學會用英文說從早到晚的每日作息與頻率副詞。",
      "counts": {
@@ -234,6 +249,7 @@
      "title": "Chores",
      "zh": "家事",
      "emoji": "🧹",
+     "icon": "icons/topics/chores.svg",
      "backdrop": "home",
      "intro": "學會說各種家事和打掃工作，與家人分工合作。",
      "counts": {
@@ -248,6 +264,7 @@
      "title": "Appliances",
      "zh": "家電用品",
      "emoji": "🔌",
+     "icon": "icons/topics/appliances.svg",
      "backdrop": "home",
      "intro": "認識生活中常用的家電，學會說開關、充電與使用方式。",
      "counts": {
@@ -262,6 +279,7 @@
      "title": "Positions",
      "zh": "位置與方位介系詞",
      "emoji": "📍",
+     "icon": "icons/topics/positions.svg",
      "backdrop": "park",
      "intro": "用 in、on、under 等介系詞，說出東西在哪裡、怎麼走。",
      "counts": {
@@ -286,6 +304,7 @@
      "title": "Fruits",
      "zh": "水果",
      "emoji": "🍎",
+     "icon": "icons/topics/fruits.svg",
      "backdrop": "shop",
      "intro": "在水果攤認識各種水果，學會挑選與購買的說法。",
      "counts": {
@@ -300,6 +319,7 @@
      "title": "Vegetables",
      "zh": "蔬菜",
      "emoji": "🥦",
+     "icon": "icons/topics/vegetables.svg",
      "backdrop": "farm",
      "intro": "認識常見的蔬菜，學會在菜市場與廚房裡談論它們。",
      "counts": {
@@ -314,6 +334,7 @@
      "title": "Meat and Seafood",
      "zh": "肉類與海鮮",
      "emoji": "🥩",
+     "icon": "icons/topics/meat-seafood.svg",
      "backdrop": "shop",
      "intro": "在傳統市場與超市認識各種肉類和海鮮的說法。",
      "counts": {
@@ -328,6 +349,7 @@
      "title": "Breakfast",
      "zh": "早餐店與早餐",
      "emoji": "🍳",
+     "icon": "icons/topics/breakfast.svg",
      "backdrop": "restaurant",
      "intro": "在早餐店點餐，認識中西式早餐的食物與說法。",
      "counts": {
@@ -342,6 +364,7 @@
      "title": "Drinks and Desserts",
      "zh": "飲料與甜點",
      "emoji": "🧋",
+     "icon": "icons/topics/drinks-desserts.svg",
      "backdrop": "shop",
      "intro": "在飲料店與甜點店點飲料、客製甜度冰塊，並認識各種甜點。",
      "counts": {
@@ -356,6 +379,7 @@
      "title": "At a Restaurant",
      "zh": "在餐廳",
      "emoji": "🍽️",
+     "icon": "icons/topics/restaurant.svg",
      "backdrop": "restaurant",
      "intro": "學會在餐廳訂位、點餐、詢問菜色和結帳的實用說法。",
      "counts": {
@@ -370,6 +394,7 @@
      "title": "Night Market Snacks",
      "zh": "夜市小吃",
      "emoji": "🏮",
+     "icon": "icons/topics/night-market.svg",
      "backdrop": "night",
      "intro": "逛夜市時，用英文介紹台灣小吃、點餐和跟老闆聊天。",
      "counts": {
@@ -384,6 +409,7 @@
      "title": "Tastes and Cooking",
      "zh": "味道與烹調方式",
      "emoji": "👩‍🍳",
+     "icon": "icons/topics/tastes-cooking.svg",
      "backdrop": "kitchen",
      "intro": "學會形容食物的味道，並認識常見的烹調動作與廚房用語。",
      "counts": {
@@ -398,6 +424,7 @@
      "title": "Fast Food",
      "zh": "速食店點餐",
      "emoji": "🍔",
+     "icon": "icons/topics/fast-food.svg",
      "backdrop": "restaurant",
      "intro": "在速食店點套餐、客製餐點、選擇內用或外帶的實用英文。",
      "counts": {
@@ -422,6 +449,7 @@
      "title": "Classroom",
      "zh": "教室與文具",
      "emoji": "🏫",
+     "icon": "icons/topics/classroom.svg",
      "backdrop": "classroom",
      "intro": "認識教室裡的物品與文具，學會上課時常用的說法。",
      "counts": {
@@ -436,6 +464,7 @@
      "title": "School Subjects",
      "zh": "學科與校園生活",
      "emoji": "📖",
+     "icon": "icons/topics/subjects.svg",
      "backdrop": "classroom",
      "intro": "學會各種學科、考試和校園活動的英文說法。",
      "counts": {
@@ -450,6 +479,7 @@
      "title": "In the Music Room",
      "zh": "在音樂教室",
      "emoji": "🎼",
+     "icon": "icons/topics/music-room.svg",
      "backdrop": "music",
      "intro": "認識各種樂器與音樂相關的說法，一起在音樂教室練習。",
      "counts": {
@@ -464,6 +494,7 @@
      "title": "Sports",
      "zh": "運動",
      "emoji": "⚽",
+     "icon": "icons/topics/sports.svg",
      "backdrop": "stadium",
      "intro": "認識各種運動項目和比賽用語，聊聊你喜歡的運動。",
      "counts": {
@@ -478,6 +509,7 @@
      "title": "Hobbies",
      "zh": "興趣與嗜好",
      "emoji": "🎨",
+     "icon": "icons/topics/hobbies.svg",
      "backdrop": "home",
      "intro": "談談你的興趣與休閒活動，學會介紹自己的嗜好。",
      "counts": {
@@ -492,6 +524,7 @@
      "title": "At the Park",
      "zh": "公園與遊樂場",
      "emoji": "🌳",
+     "icon": "icons/topics/park.svg",
      "backdrop": "park",
      "intro": "在公園與遊樂場玩耍時會用到的單字和句子。",
      "counts": {
@@ -506,6 +539,7 @@
      "title": "Birthday Party",
      "zh": "生日派對",
      "emoji": "🎂",
+     "icon": "icons/topics/party.svg",
      "backdrop": "party",
      "intro": "生日派對上的佈置、食物和祝福語，一次學起來。",
      "counts": {
@@ -520,6 +554,7 @@
      "title": "Computers and the Internet",
      "zh": "電腦與網路",
      "emoji": "💻",
+     "icon": "icons/topics/computer.svg",
      "backdrop": "office",
      "intro": "學會電腦設備和上網操作的英文，讓使用科技更得心應手。",
      "counts": {
@@ -534,6 +569,7 @@
      "title": "Colors and Shapes",
      "zh": "顏色與形狀",
      "emoji": "🌈",
+     "icon": "icons/topics/colors-shapes.svg",
      "backdrop": "classroom",
      "intro": "學會顏色和形狀的英文，並能描述東西的樣子。",
      "counts": {
@@ -558,6 +594,7 @@
      "title": "Town",
      "zh": "城市與地點",
      "emoji": "🏙️",
+     "icon": "icons/topics/town.svg",
      "backdrop": "city",
      "intro": "認識城市裡常見的建築與地點，學會介紹自己居住的地方。",
      "counts": {
@@ -572,6 +609,7 @@
      "title": "Transportation",
      "zh": "交通工具",
      "emoji": "🚌",
+     "icon": "icons/topics/transportation.svg",
      "backdrop": "street",
      "intro": "認識各種交通工具與搭車用語，學會在台灣搭捷運和公車。",
      "counts": {
@@ -586,6 +624,7 @@
      "title": "Directions",
      "zh": "問路與方向",
      "emoji": "🧭",
+     "icon": "icons/topics/directions.svg",
      "backdrop": "street",
      "intro": "學會用英文問路、指路，以及描述位置與方向。",
      "counts": {
@@ -600,6 +639,7 @@
      "title": "Supermarket",
      "zh": "超市與便利商店購物",
      "emoji": "🛒",
+     "icon": "icons/topics/supermarket.svg",
      "backdrop": "shop",
      "intro": "學會在超市和便利商店挑選商品、詢問價格與結帳。",
      "counts": {
@@ -614,6 +654,7 @@
      "title": "Clothes",
      "zh": "衣服與配件",
      "emoji": "👕",
+     "icon": "icons/topics/clothes.svg",
      "backdrop": "shop",
      "intro": "認識各種衣服和配件，學會試穿與購買衣物的用語。",
      "counts": {
@@ -628,6 +669,7 @@
      "title": "Hospital",
      "zh": "看病與健康",
      "emoji": "🏥",
+     "icon": "icons/topics/hospital.svg",
      "backdrop": "hospital",
      "intro": "學會描述身體不舒服的症狀，並在診所或醫院與醫生溝通。",
      "counts": {
@@ -642,6 +684,7 @@
      "title": "Airport",
      "zh": "機場與搭機",
      "emoji": "✈️",
+     "icon": "icons/topics/airport.svg",
      "backdrop": "airport",
      "intro": "學會在機場報到、通關和登機時會用到的單字與句子。",
      "counts": {
@@ -656,6 +699,7 @@
      "title": "Hotel",
      "zh": "飯店住宿",
      "emoji": "🏨",
+     "icon": "icons/topics/hotel.svg",
      "backdrop": "city",
      "intro": "學會訂房、辦理入住以及向飯店人員提出需求。",
      "counts": {
@@ -670,6 +714,7 @@
      "title": "Bank and Post Office",
      "zh": "銀行與郵局",
      "emoji": "🏦",
+     "icon": "icons/topics/bank-post.svg",
      "backdrop": "city",
      "intro": "學會在銀行辦理存提款與匯兌，以及在郵局寄信寄包裹。",
      "counts": {
@@ -694,6 +739,7 @@
      "title": "Zoo Animals",
      "zh": "動物園的動物",
      "emoji": "🦁",
+     "icon": "icons/topics/zoo-animals.svg",
      "backdrop": "zoo",
      "intro": "逛動物園時會看到的動物，以及描述牠們的簡單句子。",
      "counts": {
@@ -708,6 +754,7 @@
      "title": "Pets and Farm",
      "zh": "寵物與農場",
      "emoji": "🐶",
+     "icon": "icons/topics/pets-farm.svg",
      "backdrop": "farm",
      "intro": "認識常見的寵物與農場動物，學會說照顧牠們的日常用語。",
      "counts": {
@@ -722,6 +769,7 @@
      "title": "Sea Life and Beach",
      "zh": "海洋生物與海邊",
      "emoji": "🐬",
+     "icon": "icons/topics/sea.svg",
      "backdrop": "sea",
      "intro": "認識海裡的生物與沙灘上的東西，學會說去海邊玩的句子。",
      "counts": {
@@ -736,6 +784,7 @@
      "title": "Insects and Birds",
      "zh": "昆蟲與鳥類",
      "emoji": "🦋",
+     "icon": "icons/topics/insects-birds.svg",
      "backdrop": "garden",
      "intro": "認識花園與天空中的小昆蟲和鳥兒，學會描述牠們在做什麼。",
      "counts": {
@@ -750,6 +799,7 @@
      "title": "Plants and Flowers",
      "zh": "植物與花",
      "emoji": "🌻",
+     "icon": "icons/topics/plants.svg",
      "backdrop": "garden",
      "intro": "認識花草樹木的各部分，學會描述種植與照顧植物。",
      "counts": {
@@ -764,6 +814,7 @@
      "title": "Weather and Seasons",
      "zh": "天氣與季節",
      "emoji": "⛅",
+     "icon": "icons/topics/weather.svg",
      "backdrop": "sky",
      "intro": "學會用英文描述今天的天氣、四季的變化與穿著。",
      "counts": {
@@ -778,6 +829,7 @@
      "title": "Numbers",
      "zh": "數字",
      "emoji": "🔢",
+     "icon": "icons/topics/numbers.svg",
      "backdrop": "classroom",
      "intro": "學會基數、序數、次數與分數的說法，數數與買東西都用得上。",
      "counts": {
@@ -792,6 +844,7 @@
      "title": "Time and Calendar",
      "zh": "時間、星期與月份",
      "emoji": "🕒",
+     "icon": "icons/topics/time-calendar.svg",
      "backdrop": "office",
      "intro": "學會看時間、說星期和月份，安排每天的行程。",
      "counts": {
@@ -806,6 +859,7 @@
      "title": "Nature and Space",
      "zh": "自然景觀與宇宙",
      "emoji": "🏔️",
+     "icon": "icons/topics/nature-space.svg",
      "backdrop": "space",
      "intro": "從山川河流到星星與行星，認識地球與宇宙的樣貌。",
      "counts": {
