@@ -33,6 +33,10 @@ const NAV = [
   ['search', '#/search', 'search', '搜尋'],
   ['me', '#/me', 'user', '我的'],
 ];
+// 主題／分類圖示：有繪製的 SVG 就用，沒有則退回 emoji
+const tArt = t => t?.icon ? `<img class="t-ico" src="${t.icon}" alt="" draggable="false">` : (t?.emoji || '');
+const cArt = c => c?.id && CAT_ICONS.has(c.id) ? `<img class="t-ico" src="icons/cats/${c.id}.svg" alt="" draggable="false">` : (c?.emoji || '');
+const CAT_ICONS = new Set(['people', 'home', 'food', 'school', 'town', 'nature']);
 function renderChrome(active) {
   const links = NAV.map(([k, href, ic, label]) => `<a href="${href}" class="${k === active ? 'on' : ''}" ${k === active ? 'aria-current="page"' : ''}>${icon(ic)}<span>${label}</span>${k === 'review' && store.dueKeys().length ? `<em>${store.dueKeys().length}</em>` : ''}</a>`).join('');
   $('#sidenav').innerHTML = links;
@@ -151,7 +155,7 @@ async function renderHome() {
     <div class="side-feature">
       ${due ? `<a class="mini-card" href="#/review"><span class="mc-ic tone-violet">${icon('layers')}</span><div><b>${due} 個單字待複習</b><small>間隔複習，記得更牢</small></div>${icon('chevron-right', 'chev')}</a>`
         : `<div class="mini-card"><span class="mc-ic tone-green">${icon('circle-check')}</span><div><b>目前沒有待複習</b><small>收藏或答錯的字會自動加入</small></div></div>`}
-      ${last ? `<a class="mini-card" href="#/topic/${last.id}"><span class="mc-ic" style="background:${catOf(last.id).soft}">${last.emoji}</span><div><b>繼續學習</b><small>${esc(last.zh)}・${esc(last.title)}</small></div>${icon('chevron-right', 'chev')}</a>`
+      ${last ? `<a class="mini-card" href="#/topic/${last.id}"><span class="mc-ic" style="background:${catOf(last.id).soft}">${tArt(last)}</span><div><b>繼續學習</b><small>${esc(last.zh)}・${esc(last.title)}</small></div>${icon('chevron-right', 'chev')}</a>`
         : `<a class="mini-card" href="#/topic/greetings"><span class="mc-ic" style="background:#FFE680">👋</span><div><b>從這裡開始</b><small>打招呼與自我介紹</small></div>${icon('chevron-right', 'chev')}</a>`}
     </div>
   </section>
@@ -159,7 +163,7 @@ async function renderHome() {
     <div class="sec-head"><h2>生活情境</h2><small>${t.topics} 個主題</small></div>
     <div class="pills" role="tablist">
       <button class="pill ${homeFilter === 'all' ? 'on' : ''}" data-cat="all">全部</button>
-      ${INDEX.categories.map(c => `<button class="pill ${homeFilter === c.id ? 'on' : ''}" data-cat="${c.id}" style="--c:${c.color}"><span>${c.emoji}</span>${esc(c.zh)}</button>`).join('')}
+      ${INDEX.categories.map(c => `<button class="pill ${homeFilter === c.id ? 'on' : ''}" data-cat="${c.id}" style="--c:${c.color}"><span>${cArt(c)}</span>${esc(c.zh)}</button>`).join('')}
     </div>
     <div id="topicList"></div>
   </section>`;
@@ -167,7 +171,7 @@ async function renderHome() {
   const paint = () => {
     const cats = INDEX.categories.filter(c => homeFilter === 'all' || c.id === homeFilter);
     list.innerHTML = cats.map(c => `<div class="cat-block" style="--c:${c.color};--soft:${c.soft}">
-      <h3 class="cat-title"><span>${c.emoji}</span>${esc(c.zh)}<small>${esc(c.en)}</small></h3>
+      <h3 class="cat-title"><span>${cArt(c)}</span>${esc(c.zh)}<small>${esc(c.en)}</small></h3>
       <div class="tgrid">${c.topics.map(t => topicCard(t, c)).join('')}</div></div>`).join('');
   };
   paint();
@@ -186,7 +190,7 @@ function topicCard(t, c) {
   const pct = Math.round(Math.min(1, seen / total) * 100);
   const best = store.state.quiz[t.id]?.best;
   return `<a class="tcard" href="#/topic/${t.id}" style="--c:${c.color};--soft:${c.soft}">
-    <span class="tcard-art">${t.emoji}</span>
+    <span class="tcard-art">${tArt(t)}</span>
     ${best != null ? `<em class="tcard-best" title="測驗最佳成績">${icon('trophy')}${best}</em>` : ''}
     <h4>${esc(t.title)}</h4><p>${esc(t.zh)}</p>
     <div class="tcard-foot"><span>${total} 字・${t.counts.sentences} 句</span>${pct ? `<span class="tcard-pct">${pct}%</span>` : ''}</div>
@@ -385,7 +389,7 @@ function tabTalk(body, topic) {
 function tabQuiz(body, topic) {
   const best = store.state.quiz[topic.id]?.best;
   body.innerHTML = `<div class="quiz-start">
-    <div class="qs-art">${topic.emoji}</div>
+    <div class="qs-art">${tArt(topicMeta[topic.id]?.meta || topic)}</div>
     <h3>${esc(topic.zh)}小測驗</h3>
     <p class="muted">共 10 題，混合五種題型</p>
     <ul class="qs-types">
@@ -520,7 +524,7 @@ function renderMe() {
       <section class="panel">
         <div class="panel-h"><h3>各類別進度</h3></div>
         ${INDEX.categories.map(c => { const total = c.topics.reduce((a, t) => a + t.counts.words + t.counts.phrases, 0); const seen = c.topics.reduce((a, t) => a + store.seenCount(t.id), 0);
-          return `<div class="prog" style="--c:${c.color}"><span class="prog-ic" style="background:${c.soft}">${c.emoji}</span><span class="prog-name">${esc(c.zh)}</span><div class="progress"><i style="width:${(seen / total) * 100}%"></i></div><small>${seen}/${total}</small></div>`; }).join('')}
+          return `<div class="prog" style="--c:${c.color}"><span class="prog-ic" style="background:${c.soft}">${cArt(c)}</span><span class="prog-name">${esc(c.zh)}</span><div class="progress"><i style="width:${(seen / total) * 100}%"></i></div><small>${seen}/${total}</small></div>`; }).join('')}
       </section>
     </div>
     <div class="me-col">

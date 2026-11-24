@@ -1,0 +1,12 @@
+<!doctype html><meta charset="utf-8"><title>Icon preview</title>
+<body style="margin:0;padding:16px;background:#f3f2ee;font:13px Fredoka,sans-serif;color:#26221e">
+<div id="g" style="display:grid;grid-template-columns:repeat(auto-fill,120px);gap:14px"></div>
+<script type="module">
+const idx = await (await fetch('../data/index.json')).json();
+const rows = [];
+for (const c of idx.categories) {
+  rows.push(`<div style="background:${c.soft};border-radius:22px;padding:12px;text-align:center"><div style="width:76px;height:76px;margin:0 auto 6px;border-radius:50%;background:#fff;display:grid;place-items:center"><img src="../icons/cats/${c.id}.svg" style="width:74%;height:74%" onerror="this.replaceWith('${c.emoji}')"></div><b>[cat] ${c.id}</b></div>`);
+  for (const t of c.topics) rows.push(`<div style="background:${c.soft};border-radius:22px;padding:12px;text-align:center"><div style="width:76px;height:76px;margin:0 auto 6px;border-radius:50%;background:#fff;display:grid;place-items:center"><img src="../icons/topics/${t.id}.svg" style="width:78%;height:78%" onerror="this.replaceWith('${t.emoji}')"></div><b>${t.id}</b><div style="display:flex;gap:6px;justify-content:center;margin-top:6px"><img src="../icons/topics/${t.id}.svg" style="width:32px" onerror="this.remove()"><img src="../icons/topics/${t.id}.svg" style="width:20px" onerror="this.remove()"></div></div>`);
+}
+document.getElementById('g').innerHTML = rows.join('');
+</script>

@@ -53,7 +53,7 @@ const index = {
       totals.sentences += d.sentences.length; totals.dialogues += d.dialogues.length;
       d.words.forEach((w, i) => search.push([w.en, w.zh, w.emoji, id, w.type === 'phrase' ? 'p' : 'w', i]));
       d.sentences.forEach((s, i) => search.push([s.en, s.zh, '💬', id, 's', i]));
-      return { id, title: d.title, zh: d.zh, emoji: d.emoji, backdrop: d.backdrop, intro: d.intro,
+      return { id, title: d.title, zh: d.zh, emoji: d.emoji, icon: fs.existsSync(path.join(root, 'icons', 'topics', id + '.svg')) ? `icons/topics/${id}.svg` : undefined, backdrop: d.backdrop, intro: d.intro,
         counts: { words, phrases, sentences: d.sentences.length, dialogues: d.dialogues.length } };
     })
   })).filter(c => c.topics.length)
@@ -67,7 +67,8 @@ fs.writeFileSync(path.join(root, 'data/search.json'), JSON.stringify(search));
 // 離線快取清單
 const staticFiles = ['./', 'index.html', 'manifest.webmanifest', 'css/app.css',
   ...fs.readdirSync(path.join(root, 'js')).map(f => 'js/' + f),
-  ...fs.readdirSync(path.join(root, 'icons')).map(f => 'icons/' + f),
+  ...fs.readdirSync(path.join(root, 'icons')).filter(f => f.includes('.')).map(f => 'icons/' + f),
+  ...['topics', 'cats'].flatMap(d => fs.readdirSync(path.join(root, 'icons', d)).filter(f => f.endsWith('.svg')).map(f => `icons/${d}/` + f)),
   ...fs.readdirSync(path.join(root, 'scenes')).filter(f => f.endsWith('.svg')).map(f => 'scenes/' + f),
   'data/index.json', 'data/search.json', ...files.map(f => 'data/topics/' + f)];
 const hash = crypto.createHash('sha1');

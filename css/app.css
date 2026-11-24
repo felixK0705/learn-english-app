@@ -686,3 +686,11 @@ input.switch:checked::after { transform: translateX(20px); }
   .q-feedback.no { color: #ffb9ae; box-shadow: 0 4px 0 #6b2a22; }
   .opt.ok { color: #a6ecb4; } .opt.no { color: #ffb9ae; }
 }
+
+/* 繪製的主題／分類圖示 */
+.t-ico { display: block; width: 100%; height: 100%; object-fit: contain; }
+.tcard-art .t-ico { width: 78%; height: 78%; }
+.pill .t-ico { width: 1.35em; height: 1.35em; }
+.cat-title .t-ico { width: 74%; height: 74%; }
+.mc-ic .t-ico, .prog-ic .t-ico { width: 74%; height: 74%; }
+.qs-art .t-ico { width: 1em; height: 1em; }
