@@ -1,0 +1,166 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1100">
+  <defs>
+    <pattern id="dots" width="34" height="34" patternUnits="userSpaceOnUse"><circle cx="17" cy="17" r="2.6" fill="#f5dfb4"/></pattern>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><rect width="40" height="40" fill="#e4eef7"/><path d="M0 .5H40M.5 0V40" stroke="#d3e1ee" stroke-width="2"/></pattern>
+    <pattern id="plank" width="160" height="46" patternUnits="userSpaceOnUse"><rect width="160" height="46" fill="#e6b27a"/><path d="M0 45H160M80 0V46" stroke="#cf9659" stroke-width="3"/></pattern>
+    <pattern id="carpet" width="30" height="30" patternUnits="userSpaceOnUse"><rect width="30" height="30" fill="#9aa9c4"/><circle cx="15" cy="15" r="2" fill="#8798b6"/></pattern>
+    <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d6f1fc"/><stop offset="1" stop-color="#9fd6f2"/></linearGradient>
+    <linearGradient id="scr" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f4fbff"/><stop offset="1" stop-color="#e3f1fb"/></linearGradient>
+  </defs>
+  <g stroke="#6b4a36" stroke-width="4" stroke-linejoin="round" stroke-linecap="round">
+    <!-- ===== 家（左） ===== -->
+    <rect width="740" height="1100" fill="#fdf0d5" stroke="none"/>
+    <rect width="740" height="900" fill="url(#dots)" stroke="none"/>
+    <rect y="900" width="740" height="200" fill="url(#plank)" stroke="none"/>
+    <path d="M0 900H740"/>
+    <!-- ===== 辦公室（右） ===== -->
+    <rect x="740" width="860" height="900" fill="url(#grid)" stroke="none"/>
+    <rect x="740" y="900" width="860" height="200" fill="url(#carpet)" stroke="none"/>
+    <path d="M740 900H1600"/>
+    <!-- 中間牆 -->
+    <rect x="722" y="0" width="24" height="1100" fill="#f2c48d"/>
+
+    <!-- 家：牆上置物架＋路由器 -->
+    <path d="M70 470H330" stroke-width="10"/>
+    <path d="M86 470l14 26M314 470l-14 26" stroke-width="6"/>
+    <rect x="150" y="430" width="110" height="40" rx="10" fill="#fff"/>
+    <path d="M168 430l-10-40M242 430l10-40" stroke-width="5"/>
+    <circle cx="172" cy="452" r="4" fill="#7dd87d" stroke="none"/><circle cx="188" cy="452" r="4" fill="#7dd87d" stroke="none"/><circle cx="204" cy="452" r="4" fill="#ffd23f" stroke="none"/>
+    <g fill="none" stroke="#5b8def" stroke-width="5">
+      <path d="M180 372q25-22 50 0"/><path d="M168 360q37-34 74 0"/><path d="M156 348q49-46 98 0"/>
+    </g>
+    <path d="M104 470q-10-26 6-40q-22-4-16-26q20 4 22 26q8-24 30-20q-6 22-28 28" fill="#7fc89a" stroke-width="3.5"/>
+    <rect x="96" y="440" width="28" height="30" rx="4" fill="#ff8a5b"/>
+    <path d="M300 470v20q0 30 30 30h24V900" fill="none" stroke-width="3" stroke="#8c7a6b"/>
+    <!-- 畫框 -->
+    <rect x="470" y="300" width="0" height="0"/>
+    <!-- 地毯 -->
+    <ellipse cx="300" cy="985" rx="270" ry="50" fill="#ffb59e" stroke-width="3.5"/>
+    <!-- 沙發 -->
+    <rect x="40" y="690" width="380" height="120" rx="40" fill="#5fb7a6"/>
+    <rect x="70" y="780" width="320" height="56" rx="20" fill="#7fcdbd"/>
+    <rect x="22" y="740" width="70" height="150" rx="28" fill="#4fa594"/>
+    <rect x="368" y="740" width="70" height="150" rx="28" fill="#4fa594"/>
+    <rect x="70" y="830" width="320" height="58" rx="10" fill="#4fa594"/>
+    <path d="M60 888v16M400 888v16" stroke-width="8"/>
+    <rect x="96" y="716" width="80" height="62" rx="20" fill="#ffd23f" transform="rotate(-10 136 747)"/>
+    <!-- 茶几 / 電話小桌 -->
+    <rect x="474" y="764" width="120" height="16" rx="6" fill="#c8915e"/>
+    <rect x="486" y="780" width="96" height="70" rx="6" fill="#e6b27a"/>
+    <path d="M512 812h44" stroke-width="5"/>
+    <path d="M492 850v40M576 850v40" stroke-width="7"/>
+    <!-- 電話鈴聲線 -->
+    <g fill="none" stroke="#e8504a" stroke-width="5">
+      <path d="M478 690q-12 18 0 36M466 680q-20 28 0 56"/>
+      <path d="M590 690q12 18 0 36M602 680q20 28 0 56"/>
+    </g>
+    <!-- 放大鏡框：沙發上的手機 → 大手機 -->
+    <circle cx="230" cy="730" r="34" fill="none" stroke="#8a6fd1" stroke-width="4" stroke-dasharray="8 7"/>
+    <path d="M256 708L600 520M262 744L622 580" stroke="#8a6fd1" stroke-width="3" stroke-dasharray="8 7"/>
+
+    <!-- ===== 放大的智慧型手機 ===== -->
+    <g>
+      <rect x="616" y="96" width="256" height="480" rx="40" fill="#3d3550" stroke-width="5"/>
+      <rect x="630" y="124" width="228" height="420" rx="18" fill="url(#scr)"/>
+      <rect x="712" y="106" width="64" height="10" rx="5" fill="#241f30" stroke="none"/>
+      <!-- 狀態列 -->
+      <g fill="#3d3550" stroke="none">
+        <rect x="644" y="148" width="5" height="6"/><rect x="652" y="144" width="5" height="10"/><rect x="660" y="140" width="5" height="14"/><rect x="668" y="136" width="5" height="18"/>
+      </g>
+      <g fill="none" stroke="#3d3550" stroke-width="2.5"><path d="M684 146q9-8 18 0M688 150q5-4 10 0"/></g>
+      <circle cx="693" cy="153" r="2" fill="#3d3550" stroke="none"/>
+      <rect x="806" y="138" width="32" height="16" rx="3" fill="#fff" stroke="#3d3550" stroke-width="2.5"/>
+      <rect x="809" y="141" width="20" height="10" rx="1.5" fill="#7dd87d" stroke="none"/>
+      <rect x="839" y="143" width="3" height="6" fill="#3d3550" stroke="none"/>
+      <!-- 聯絡人列 -->
+      <rect x="630" y="164" width="228" height="48" fill="#dcd2fa" stroke-width="3"/>
+      <circle cx="660" cy="188" r="15" fill="#ffd0b0" stroke-width="3"/>
+      <path d="M648 184q12-16 24 0" fill="#5b3a24" stroke-width="2.5"/>
+      <rect x="684" y="178" width="70" height="9" rx="4" fill="#3d3550" stroke="none"/>
+      <rect x="684" y="193" width="44" height="7" rx="3" fill="#9a8fc0" stroke="none"/>
+      <circle cx="672" cy="200" r="5" fill="#7dd87d" stroke="#fff" stroke-width="2.5"/>
+      <!-- 對話 -->
+      <path d="M644 230h110q10 0 10 10v18q0 10-10 10h-100l-14 8v-36q0-10 4-10z" fill="#fff" stroke-width="3"/>
+      <path d="M656 244h86M656 256h56" stroke="#9a8fc0" stroke-width="4"/>
+      <path d="M760 282h74q10 0 10 10v34q0 10-10 10h-74q-10 0-10-10v-34q0-10 10-10z" fill="#8fe39a" stroke-width="3"/>
+      <path d="M644 352h104q8 0 8 8v76q0 8-8 8h-104q-8 0-8-8v-76q0-8 8-8z" fill="#fff" stroke-width="3"/>
+      <rect x="648" y="360" width="96" height="62" rx="4" fill="#bfe7fb" stroke-width="2.5"/>
+      <path d="M648 420l26-30l18 18l14-12l38 24z" fill="#7fc89a" stroke-width="2.5"/>
+      <circle cx="724" cy="374" r="7" fill="#ffd23f" stroke-width="2"/>
+      <path d="M738 454h96q10 0 10 10v18q0 10-10 10h-96q-10 0-10-10v-18q0-10 10-10z" fill="#8fe39a" stroke-width="3"/>
+      <path d="M748 468h76M748 480h48" stroke="#3a9a4d" stroke-width="4"/>
+      <!-- App 列 -->
+      <rect x="630" y="500" width="228" height="44" fill="#efeaff" stroke="none"/>
+      <rect x="646" y="506" width="30" height="30" rx="8" fill="#ff8a5b" stroke-width="2.5"/>
+      <rect x="696" y="506" width="30" height="30" rx="8" fill="#5b8def" stroke-width="2.5"/>
+      <rect x="746" y="506" width="30" height="30" rx="8" fill="#7dd87d" stroke-width="2.5"/>
+      <rect x="796" y="506" width="30" height="30" rx="8" fill="#ffd23f" stroke-width="2.5"/>
+      <path d="M654 521h14M711 512v18M704 521h14M761 512l-8 16h16zM811 512v18" stroke="#fff" stroke-width="3.5"/>
+      <rect x="630" y="124" width="228" height="420" rx="18" fill="none"/>
+    </g>
+
+    <!-- ===== 辦公室 ===== -->
+    <!-- 窗外城市 -->
+    <rect x="1290" y="70" width="280" height="250" rx="12" fill="#fff"/>
+    <rect x="1304" y="84" width="252" height="222" rx="6" fill="url(#glass)"/>
+    <path d="M1316 306V200h40v106M1366 306V160h46v146M1424 306V220h36v86M1470 306V180h44v126M1520 306V230h30v76" fill="#cfd8e6" stroke-width="3"/>
+    <path d="M1334 216h8M1334 236h8M1380 176h8M1396 176h8M1380 200h8M1396 200h8M1486 196h8M1500 196h8" stroke="#ffd23f" stroke-width="5"/>
+    <path d="M1430 84V306M1304 195H1556" stroke="#fff" stroke-width="8" opacity=".7"/>
+    <!-- 手機訊號塔（窗外） -->
+    <!-- 便利貼：電話號碼 -->
+    <rect x="1080" y="520" width="92" height="76" rx="4" fill="#fff3a8" transform="rotate(-4 1126 558)"/>
+    <g font-family="Arial Rounded MT Bold,Arial,sans-serif" font-weight="700" font-size="17" fill="#3d4a6b" stroke="none" transform="rotate(-4 1126 558)">
+      <text x="1090" y="552">555-</text><text x="1092" y="576">1234</text>
+    </g>
+    <!-- 書桌 -->
+    <rect x="1080" y="756" width="500" height="20" rx="6" fill="#c8915e"/>
+    <rect x="1440" y="776" width="124" height="124" rx="6" fill="#e6b27a"/>
+    <path d="M1462 816h80M1462 860h80" stroke-width="5"/>
+    <path d="M1096 776V900" stroke-width="9"/>
+    <!-- 螢幕：視訊通話 -->
+    <rect x="1120" y="590" width="200" height="140" rx="10" fill="#485a6e"/>
+    <rect x="1132" y="602" width="176" height="116" rx="5" fill="#ffe7c2" stroke-width="3"/>
+    <circle cx="1220" cy="650" r="24" fill="#c98e62" stroke-width="3"/>
+    <path d="M1196 644q2-30 24-30q24 0 26 30q-14-10-26-10q-12 0-24 10z" fill="#2e2018" stroke-width="3"/>
+    <path d="M1180 718q4-30 40-30q36 0 40 30z" fill="#e8504a" stroke-width="3"/>
+    <circle cx="1212" cy="650" r="2.5" fill="#6b4a36" stroke="none"/><circle cx="1228" cy="650" r="2.5" fill="#6b4a36" stroke="none"/>
+    <path d="M1212 660q8 6 16 0" fill="none" stroke-width="2.5"/>
+    <rect x="1268" y="694" width="34" height="18" rx="9" fill="#e8504a" stroke-width="2.5"/>
+    <path d="M1276 703h18" stroke="#fff" stroke-width="3"/>
+    <rect x="1138" y="608" width="50" height="16" rx="8" fill="#fff" stroke-width="2"/>
+    <circle cx="1148" cy="616" r="4" fill="#4cc75a" stroke="none"/>
+    <path d="M1156 616h24" stroke="#4cc75a" stroke-width="4"/>
+    <rect x="1250" y="606" width="52" height="38" rx="4" fill="#9fd3f7" stroke-width="2.5"/>
+    <path d="M1220 730v18M1196 752h48" stroke-width="7"/>
+    <!-- 筆電：網路＋下載 -->
+    <path d="M1340 748h126l12 10H1328z" fill="#c3c9d0"/>
+    <rect x="1348" y="652" width="110" height="96" rx="6" fill="#485a6e"/>
+    <rect x="1356" y="660" width="94" height="80" rx="3" fill="#fff" stroke-width="2.5"/>
+    <rect x="1356" y="660" width="94" height="12" rx="2" fill="#dcd2fa" stroke-width="2"/>
+    <rect x="1366" y="720" width="74" height="10" rx="5" fill="#e8eef5" stroke-width="2"/>
+    <rect x="1366" y="720" width="46" height="10" rx="5" fill="#5b8def" stroke-width="2"/>
+    <path d="M1446 694v14l-6-6M1446 708l6-6" stroke="#5b8def" stroke-width="2.5" fill="none" opacity="0"/>
+    <!-- 桌上電話＋答錄機 -->
+    <rect x="1490" y="710" width="80" height="46" rx="10" fill="#ff8a5b"/>
+    <path d="M1488 704q0-18 20-18h44q20 0 20 18v10h-18v-6h-48v6h-18z" fill="#e26d55"/>
+    <g fill="#fff" stroke-width="2"><rect x="1508" y="722" width="10" height="7" rx="2"/><rect x="1524" y="722" width="10" height="7" rx="2"/><rect x="1540" y="722" width="10" height="7" rx="2"/><rect x="1508" y="736" width="10" height="7" rx="2"/><rect x="1524" y="736" width="10" height="7" rx="2"/><rect x="1540" y="736" width="10" height="7" rx="2"/></g>
+    <!-- 答錄機（語音信箱） -->
+    <rect x="1480" y="624" width="92" height="56" rx="8" fill="#5b8def" transform="translate(0 0)"/>
+    <rect x="1490" y="634" width="46" height="26" rx="4" fill="#dff4ff" stroke-width="2.5"/>
+    <circle cx="1504" cy="647" r="7" fill="#fff" stroke-width="2"/><circle cx="1522" cy="647" r="7" fill="#fff" stroke-width="2"/>
+    <path d="M1504 654h18" stroke-width="2"/>
+    <circle cx="1554" cy="642" r="7" fill="#e8504a" stroke-width="2.5"/>
+    <path d="M1548 666h14" stroke-width="3"/>
+    <path d="M1526 680v30" stroke-width="3"/>
+    <!-- 充電器（插座＋線） -->
+    <rect x="1576" y="860" width="18" height="30" rx="4" fill="#fff"/>
+    <path d="M1582 870v6M1588 870v6" stroke-width="2.5"/>
+    <path d="M1576 878q-30 0-30-30v-74" fill="none" stroke="#3d3550" stroke-width="4"/>
+    <!-- 椅子 -->
+    <rect x="1000" y="800" width="90" height="16" rx="6" fill="#3d4a6b"/>
+    <path d="M1045 816v60M1010 890h70M1045 876l-30 14M1045 876l30 14" stroke-width="6"/>
+    <rect x="996" y="690" width="22" height="120" rx="8" fill="#3d4a6b"/>
+    <!-- 盆栽 -->
+    <path d="M790 900l10-70h60l10 70z" fill="#ff8a5b" opacity="0"/>
+  </g>
+</svg>

@@ -1,0 +1,232 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1100">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#bfe6fb"/><stop offset="1" stop-color="#e8f6fd"/></linearGradient>
+    <pattern id="brick" width="60" height="30" patternUnits="userSpaceOnUse"><rect width="60" height="30" fill="#f6b48c"/><path d="M0 29H60M30 0V15M0 15H60M60 15V30" stroke="#e79a70" stroke-width="2.5"/></pattern>
+    <pattern id="wood" width="100" height="24" patternUnits="userSpaceOnUse"><rect width="100" height="24" fill="#e9c08e"/><path d="M0 23H100M50 0V24" stroke="#d3a46c" stroke-width="2.5"/></pattern>
+    <pattern id="tile" width="40" height="40" patternUnits="userSpaceOnUse"><rect width="40" height="40" fill="#f3f0e8"/><path d="M0 39.5H40M39.5 0V40" stroke="#ddd6c6" stroke-width="2"/></pattern>
+    <pattern id="court" width="80" height="24" patternUnits="userSpaceOnUse"><rect width="80" height="24" fill="#f0c27a"/><path d="M0 23H80" stroke="#d9a65c" stroke-width="2.5"/></pattern>
+  </defs>
+  <g stroke="#6b4a36" stroke-width="4" stroke-linejoin="round" stroke-linecap="round">
+    <rect width="1600" height="1100" fill="url(#sky)" stroke="none"/>
+    <!-- clouds + sun -->
+    <circle cx="1500" cy="70" r="40" fill="#ffd23f" stroke="none"/>
+    <path d="M1200 150q8-24 32-18q12-24 42-12q28-4 30 24q22 2 14 22h-118z" fill="#fff" stroke="none"/>
+    <path d="M600 60q8-20 28-14q12-20 36-10q22-2 24 20q18 2 12 18h-100z" fill="#fff" stroke="none"/>
+    <!-- ground -->
+    <rect y="1052" width="1600" height="48" fill="#a8d77f" stroke="none"/>
+    <path d="M0 1052H1600" />
+
+    <!-- building shell -->
+    <rect x="4" y="244" width="1592" height="816" fill="url(#brick)"/>
+    <!-- rooftop parapet and fence -->
+    <rect x="-2" y="244" width="1604" height="18" rx="4" fill="#d9d4ca"/>
+    <path d="M440 244V198M440 204H1450M440 224H1450" stroke="#8d98a3" stroke-width="5" fill="none"/>
+    <g stroke="#8d98a3" stroke-width="4"><path d="M520 244V198"/><path d="M600 244V198"/><path d="M680 244V198"/><path d="M760 244V198"/><path d="M840 244V198"/><path d="M920 244V198"/><path d="M1000 244V198"/><path d="M1080 244V198"/><path d="M1160 244V198"/><path d="M1240 244V198"/><path d="M1320 244V198"/><path d="M1400 244V198"/></g>
+    <!-- bell tower on roof -->
+    <g transform="translate(70 0)">
+    <rect x="1380" y="104" width="150" height="140" fill="#f6b48c"/>
+    <path d="M1366 108L1455 30l89 78z" fill="#e5483b"/>
+    <path d="M1404 222v-78q51-40 102 0v78z" fill="#5a4a6a"/>
+    <path d="M1455 150v10" stroke-width="4"/>
+    <path d="M1430 210q0-50 25-50q25 0 25 50z" fill="#ffcf3f"/>
+    <circle cx="1455" cy="214" r="6" fill="#e3a21a"/>
+    <path d="M1415 168q-10 10-6 22M1495 168q10 10 6 22" fill="none" stroke="#ffcf3f" stroke-width="3"/>
+    </g>
+    <!-- potted plants on roof -->
+    <path d="M470 244l6-30h40l6 30z" fill="#ff8f6b"/><path d="M496 214q-30-30-6-54q10 24 6 54q4-34 30-44q8 26-30 44" fill="#8bd16a"/>
+    <path d="M1150 244l6-30h40l6 30z" fill="#ff8f6b"/><path d="M1176 214q-30-30-6-54q10 24 6 54q4-34 30-44q8 26-30 44" fill="#8bd16a"/>
+
+    <!-- ===== interiors ===== -->
+    <!-- F3 -->
+    <rect x="20" y="262" width="384" height="245" fill="#fff4d6"/>
+    <rect x="412" y="262" width="376" height="245" fill="#e3f4ea"/>
+    <rect x="804" y="262" width="380" height="245" fill="#fde5ea"/>
+    <rect x="1200" y="262" width="380" height="245" fill="#e8ecff"/>
+    <!-- F2 -->
+    <rect x="20" y="525" width="318" height="247" fill="#f3e6d2"/>
+    <rect x="346" y="525" width="514" height="247" fill="#fff1c9"/>
+    <rect x="876" y="525" width="336" height="247" fill="#e6f6fb"/>
+    <rect x="1228" y="525" width="352" height="247" fill="#f1e7fb"/>
+    <!-- F1 -->
+    <rect x="20" y="790" width="620" height="262" fill="#e9f3dc"/>
+    <rect x="648" y="790" width="344" height="262" fill="#fff0dd"/>
+    <rect x="1008" y="790" width="572" height="262" fill="#e3ecf7"/>
+    <!-- floors -->
+    <rect x="20" y="493" width="1560" height="14" fill="url(#wood)" stroke="none"/>
+    <rect x="20" y="758" width="1560" height="14" fill="url(#wood)" stroke="none"/>
+    <rect x="20" y="1038" width="1560" height="14" fill="url(#tile)" stroke="none"/>
+    
+    <!-- walls between rooms -->
+    <rect x="396" y="262" width="16" height="245" fill="#d9d4ca"/><rect x="788" y="262" width="16" height="245" fill="#d9d4ca"/><rect x="1184" y="262" width="16" height="245" fill="#d9d4ca"/>
+    <rect x="330" y="525" width="16" height="247" fill="#d9d4ca"/><rect x="860" y="525" width="16" height="247" fill="#d9d4ca"/><rect x="1212" y="525" width="16" height="247" fill="#d9d4ca"/>
+    <rect x="632" y="790" width="16" height="262" fill="#d9d4ca"/><rect x="992" y="790" width="16" height="262" fill="#d9d4ca"/>
+    <!-- slabs -->
+    <rect x="4" y="507" width="1592" height="18" fill="#d9d4ca"/>
+    <rect x="4" y="772" width="1592" height="18" fill="#d9d4ca"/>
+    <rect x="4" y="244" width="1592" height="18" fill="#d9d4ca"/>
+    <rect x="4" y="262" width="1592" height="790" fill="none"/>
+
+    <!-- === MATH room === -->
+<g transform="translate(34 282) scale(.8) translate(-34 -282)">
+    <rect x="34" y="282" width="210" height="118" rx="6" fill="#3f7f62"/>
+    <g fill="none" stroke="#fff" stroke-width="5"><path d="M56 316h30M71 301v30"/><path d="M108 316h30"/><circle cx="123" cy="304" r="3" fill="#fff"/><circle cx="123" cy="328" r="3" fill="#fff"/><path d="M160 304l22 24M182 304l-22 24"/><path d="M200 310h26M200 322h26"/>
+    <path d="M60 356l9-8v40M84 372h20M94 362v20M116 356l9-8v40M138 366h20M138 376h20M172 352q18-6 20 10q-4 14-20 28h24" stroke="#ffd23f"/></g>
+    <rect x="30" y="398" width="218" height="8" rx="3" fill="#c98a50"/>
+</g>
+
+    <path d="M226 446V507M332 446V507" stroke-width="8"/>
+    <rect x="214" y="436" width="130" height="14" rx="5" fill="#f2c48d"/>
+    <path d="M316 398h68v22h-68z" fill="#ff8f6b"/>
+    <path d="M322 420V468M378 420V468" stroke-width="6"/>
+    <rect x="312" y="468" width="76" height="12" rx="5" fill="#ff8f6b"/>
+    <path d="M320 480L316 507M380 480L384 507" stroke-width="5"/>
+
+    <!-- === SCIENCE lab === -->
+    <rect x="440" y="290" width="150" height="10" rx="4" fill="#c98a50"/>
+    <g stroke-width="3"><path d="M454 290v-26h16v26" fill="#bfe9ff"/><path d="M488 290l6-30h14l6 30z" fill="#ffd0e0"/><path d="M528 290v-34h12v34" fill="#c9f2b8"/><circle cx="566" cy="276" r="13" fill="#fff59d"/></g>
+    <rect x="420" y="430" width="230" height="18" rx="5" fill="#8d98a3"/>
+    <rect x="432" y="448" width="206" height="59" fill="#c3c9d0"/>
+    <path d="M535 448V507" stroke-width="3"/>
+    <!-- flask -->
+    <path d="M590 430l-26 0l6-10l4-28v-16h12v16l4 28l6 10z" fill="#9fe07f"/>
+    <path d="M574 376h20" stroke-width="4"/>
+    <circle cx="582" cy="364" r="5" fill="#fff" stroke-width="2"/><circle cx="590" cy="350" r="4" fill="#fff" stroke-width="2"/>
+    <!-- question bubble poster -->
+    <!-- === ENGLISH room === -->
+    <rect x="826" y="282" width="226" height="118" rx="6" fill="#3f7f62"/>
+    <g fill="none" stroke="#fff" stroke-width="5">
+      <path d="M846 340l16-44l16 44M852 324h20"/><path d="M890 296v44M890 296q22 0 22 11q0 11-22 11q24 0 24 11q0 11-24 11"/><path d="M948 302q-14-10-26 2q-10 18 2 32q12 10 24 0"/>
+      <path d="M962 296h0"/>
+    </g>
+    <g fill="none" stroke="#ffd23f" stroke-width="4"><path d="M972 304q10-14 22-4q8 10-6 18q-6 4-6 12"/><circle cx="982" cy="342" r="2" fill="#ffd23f"/></g>
+    <path d="M846 370h80M846 386h56" stroke="#e8f3ee" stroke-width="4"/>
+    <rect x="822" y="398" width="234" height="8" rx="3" fill="#c98a50"/>
+    <!-- alphabet strip -->
+    <g stroke-width="2.5"><rect x="1066" y="282" width="20" height="20" rx="3" fill="#ff8fb1"/><rect x="1090" y="282" width="20" height="20" rx="3" fill="#ffd23f"/><rect x="1114" y="282" width="20" height="20" rx="3" fill="#8bd16a"/><rect x="1138" y="282" width="20" height="20" rx="3" fill="#5bc0eb"/><rect x="1162" y="282" width="20" height="20" rx="3" fill="#9b7be0"/></g>
+    <path d="M1065.3 407.8L1040 380" stroke="#c98a50" stroke-width="5"/>
+
+    <!-- === CHINESE room === -->
+    <rect x="1222" y="282" width="150" height="104" rx="6" fill="#3f7f62"/>
+    <g fill="none" stroke="#fff" stroke-width="6"><path d="M1240 316h50M1265 296v26q-6 26-28 42M1267 328q10 22 28 36"/><path d="M1312 300v56M1312 300h44v56M1312 328h44M1316 356h36" stroke-width="5"/></g>
+    <rect x="1218" y="384" width="158" height="8" rx="3" fill="#c98a50"/>
+    <path d="M1392 446V507M1484 446V507" stroke-width="8"/>
+    <rect x="1380" y="436" width="116" height="14" rx="5" fill="#f2c48d"/>
+    <path d="M1498 398h68v22h-68z" fill="#5b8def"/>
+    <path d="M1504 420V468M1560 420V468" stroke-width="6"/>
+    <rect x="1494" y="468" width="76" height="12" rx="5" fill="#5b8def"/>
+    <path d="M1502 480L1498 507M1562 480L1566 507" stroke-width="5"/>
+
+    <!-- === LIBRARY === -->
+    <rect x="26" y="616" width="150" height="142" fill="#c98a50"/>
+    <path d="M26 618H176M26 690H176" stroke-width="6"/>
+    <rect x="34" y="634" width="16" height="54" fill="#ff8f6b" stroke-width="3"/><rect x="52" y="641" width="16" height="47" fill="#5bc0eb" stroke-width="3"/><rect x="70" y="636" width="16" height="52" fill="#8bd16a" stroke-width="3"/><rect x="88" y="643" width="16" height="45" fill="#ffd23f" stroke-width="3"/><rect x="106" y="638" width="16" height="50" fill="#9b7be0" stroke-width="3"/><rect x="124" y="645" width="16" height="43" fill="#ff8fb1" stroke-width="3"/><rect x="142" y="640" width="16" height="48" fill="#5b8def" stroke-width="3"/><rect x="160" y="635" width="16" height="53" fill="#ff8f6b" stroke-width="3"/><rect x="34" y="702" width="16" height="52" fill="#ff8f6b" stroke-width="3"/><rect x="52" y="709" width="16" height="45" fill="#5bc0eb" stroke-width="3"/><rect x="70" y="704" width="16" height="50" fill="#8bd16a" stroke-width="3"/><rect x="88" y="711" width="16" height="43" fill="#ffd23f" stroke-width="3"/><rect x="106" y="706" width="16" height="48" fill="#9b7be0" stroke-width="3"/><rect x="124" y="713" width="16" height="41" fill="#ff8fb1" stroke-width="3"/><rect x="142" y="708" width="16" height="46" fill="#5b8def" stroke-width="3"/><rect x="160" y="703" width="16" height="51" fill="#ff8f6b" stroke-width="3"/>
+    <path d="M198 710V758M248 710V758" stroke-width="8"/>
+    <rect x="186" y="700" width="74" height="14" rx="5" fill="#f2c48d"/>
+    <path d="M258 663h68v22h-68z" fill="#8bd16a"/>
+    <path d="M264 685V733M320 685V733" stroke-width="6"/>
+    <rect x="254" y="733" width="76" height="12" rx="5" fill="#8bd16a"/>
+    <path d="M262 745L258 758M322 745L326 758" stroke-width="5"/>
+
+    <!-- === SOCIAL STUDIES room === -->
+    <rect x="366" y="542" width="164" height="100" rx="6" fill="#cfeec2"/>
+    <path d="M366 600h164M450 542v100" stroke="#fff" stroke-width="8"/>
+    <g stroke-width="3"><path d="M380 590v-16l12-10l12 10v16z" fill="#ff8fb1"/><path d="M470 588v-26h22v26z" fill="#5bc0eb"/><path d="M496 588v-18h18v18z" fill="#ffd23f"/><path d="M386 634v-14l10-8l10 8v14z" fill="#ffd23f"/><circle cx="490" cy="622" r="11" fill="#8bd16a"/></g>
+    <!-- globe on stand -->
+    <path d="M572 718V758M648 718V758" stroke-width="8"/>
+    <rect x="560" y="708" width="100" height="14" rx="5" fill="#e9b97e"/>
+    <path d="M590 708h40l-8-10h-24z" fill="#c98a50"/>
+    <path d="M610 698v-12" stroke-width="5"/>
+    <path d="M574 634a40 40 0 0 0 56 56" fill="none" stroke="#c98a50" stroke-width="5"/>
+    <circle cx="610" cy="652" r="32" fill="#7ad0f0"/>
+    <path d="M588 642q12-8 20 2q-4 12 6 18q-4 14-18 10q-2-12-10-18z" fill="#8bd16a" stroke-width="3"/>
+    <path d="M616 630q12 0 18 12q-8 4-16 0z" fill="#8bd16a" stroke-width="3"/>
+    <!-- pyramid poster + vase (history) -->
+    <rect x="652" y="542" width="96" height="76" rx="4" fill="#fff3c4"/>
+    <path d="M662 606l26-42l26 42zM700 606l18-28l18 28z" fill="#f2c048" stroke-width="3"/>
+    <circle cx="732" cy="560" r="7" fill="#ff9f43" stroke="none"/>
+    <rect x="680" y="712" width="44" height="46" fill="#d9d4ca"/>
+    <path d="M688 712q-10-20 4-38q-8-10 2-16h16q10 6 2 16q14 18 4 38z" fill="#5bc0eb"/>
+    <path d="M692 690q10 6 20 0" fill="none" stroke="#fff" stroke-width="3"/>
+    <path d="M754.9 675.8L726 600" stroke="#c98a50" stroke-width="5"/>
+
+    <!-- === ART room === -->
+    <!-- art club poster -->
+    <rect x="888" y="606" width="64" height="84" rx="4" fill="#fff"/>
+    <rect x="896" y="614" width="48" height="34" rx="3" fill="#ffd0e0" stroke-width="3"/>
+    <path d="M904 640q-6-18 14-20q18 0 18 12q0 8-10 8q-6 0-4 6q-2 6-10 4q-6-2-8-10z" fill="#ffe8a8" stroke-width="2.5"/>
+    <g stroke-width="2"><circle cx="912" cy="628" r="3" fill="#e5483b"/><circle cx="922" cy="625" r="3" fill="#5bc0eb"/></g>
+    <g stroke-width="2.5"><circle cx="904" cy="664" r="7" fill="#ffe0c4"/><circle cx="920" cy="664" r="7" fill="#c98e62"/><circle cx="936" cy="664" r="7" fill="#f5c79e"/></g>
+    <path d="M898 680h44" stroke="#9b7be0" stroke-width="5"/>
+    <!-- easel -->
+    <g transform="translate(64 6)"><path d="M934 752L972 618M1040 752L1002 618M987 618V752" stroke="#c98a50" stroke-width="7"/>
+    <rect x="930" y="606" width="112" height="86" rx="4" fill="#fff"/>
+    <path d="M938 676q20-36 48-18q22-36 50-6v32h-98z" fill="#9fe07f" stroke-width="3"/>
+    <circle cx="1014" cy="628" r="12" fill="#ffd23f" stroke-width="3"/>
+    <path d="M916 692h140" stroke="#c98a50" stroke-width="7"/></g>
+    <path d="M1120.0 700.0l-30-26" stroke="#c98a50" stroke-width="5"/>
+    <path d="M1090.0 674.0l-6-6" stroke="#e5483b" stroke-width="7"/>
+
+    <!-- === GYM (P.E.) === -->
+    <rect x="1228" y="758" width="352" height="14" fill="url(#court)" stroke="none"/>
+    <rect x="1490" y="560" width="76" height="54" rx="4" fill="#fff"/>
+    <rect x="1512" y="580" width="32" height="24" fill="none" stroke="#e5483b" stroke-width="3"/>
+    <path d="M1508 614h40" stroke="#e5483b" stroke-width="5"/>
+    <path d="M1510 616l6 26h24l6-26M1520 616l4 26M1536 616l-4 26" fill="none" stroke="#fff" stroke-width="2.5"/>
+    <rect x="1250" y="560" width="110" height="60" rx="4" fill="#fff"/>
+    <path d="M1262 576h40M1262 590h60M1262 604h30" stroke="#9fb3c8" stroke-width="4"/>
+    <!-- mats + cones -->
+    <rect x="1250" y="746" width="90" height="14" rx="5" fill="#5bc0eb"/>
+    <path d="M1470 758l10-30h8l10 30z" fill="#ff9f43"/><path d="M1476 746h24" stroke="#fff" stroke-width="3"/>
+    <path d="M1530 758l10-30h8l10 30z" fill="#ff9f43"/><path d="M1536 746h24" stroke="#fff" stroke-width="3"/>
+
+    <!-- === HALLWAY === -->
+    <g>
+      <rect x="150" y="808" width="270" height="104" rx="6" fill="#c98a50"/>
+      <rect x="160" y="818" width="250" height="84" rx="4" fill="#f4dcae"/>
+      <rect x="170" y="824" width="104" height="72" fill="#fff" stroke-width="3"/>
+      <path d="M170 842h104M170 860h104M170 878h104M191 824v72M212 824v72M233 824v72M254 824v72" stroke="#9fb3c8" stroke-width="2"/>
+      <g stroke="none"><rect x="193" y="844" width="17" height="14" fill="#ff8fb1"/><rect x="214" y="862" width="17" height="14" fill="#8bd16a"/><rect x="235" y="844" width="17" height="14" fill="#5bc0eb"/><rect x="256" y="880" width="17" height="14" fill="#ffd23f"/><rect x="193" y="880" width="17" height="14" fill="#9b7be0"/></g>
+      <rect x="306" y="822" width="92" height="76" rx="4" fill="#fff" stroke-width="3"/>
+      <rect x="306" y="822" width="92" height="20" rx="4" fill="#e5483b" stroke-width="3"/>
+      <g fill="#9fb3c8" stroke="none"><circle cx="322" cy="856" r="3.5"/><circle cx="337" cy="856" r="3.5"/><circle cx="352" cy="856" r="3.5"/><circle cx="367" cy="856" r="3.5"/><circle cx="382" cy="856" r="3.5"/><circle cx="322" cy="870" r="3.5"/><circle cx="337" cy="870" r="3.5"/><circle cx="352" cy="870" r="3.5"/><circle cx="367" cy="870" r="3.5"/><circle cx="382" cy="870" r="3.5"/><circle cx="322" cy="884" r="3.5"/><circle cx="337" cy="884" r="3.5"/><circle cx="352" cy="884" r="3.5"/><circle cx="367" cy="884" r="3.5"/><circle cx="382" cy="884" r="3.5"/></g>
+      <circle cx="352" cy="870" r="7" fill="none" stroke="#e5483b" stroke-width="3"/>
+    </g>
+    <!-- subject textbook cubby -->
+    <rect x="30" y="940" width="96" height="98" fill="#f2c48d"/>
+    <rect x="30" y="940" width="96" height="12" fill="#e9b278"/>
+    <path d="M30 990h96" stroke-width="4"/>
+    <rect x="38" y="954" width="14" height="34" fill="#ff8f6b" stroke-width="3"/><rect x="54" y="961" width="14" height="27" fill="#5bc0eb" stroke-width="3"/><rect x="70" y="956" width="14" height="32" fill="#8bd16a" stroke-width="3"/><rect x="86" y="963" width="14" height="25" fill="#ffd23f" stroke-width="3"/><rect x="102" y="958" width="14" height="30" fill="#9b7be0" stroke-width="3"/><rect x="38" y="996" width="14" height="40" fill="#ff8f6b" stroke-width="3"/><rect x="54" y="1003" width="14" height="33" fill="#5bc0eb" stroke-width="3"/><rect x="70" y="998" width="14" height="38" fill="#8bd16a" stroke-width="3"/><rect x="86" y="1005" width="14" height="31" fill="#ffd23f" stroke-width="3"/><rect x="102" y="1000" width="14" height="36" fill="#9b7be0" stroke-width="3"/>
+    <!-- lockers -->
+    <g>
+      <rect x="560" y="820" width="70" height="218" fill="#5b8def"/>
+      <path d="M595 820V1038" stroke-width="3"/>
+      <g stroke="#3d64b8" stroke-width="3"><path d="M568 836h20M568 844h20M602 836h20M602 844h20"/></g>
+    </g>
+    <!-- hallway: doors -->
+    <rect x="30" y="820" width="90" height="100" rx="4" fill="#e9c08e"/>
+    <rect x="44" y="832" width="62" height="40" rx="3" fill="#bfe6fb" stroke-width="3"/>
+
+    <!-- === CAFETERIA === -->
+    <rect x="670" y="812" width="300" height="70" rx="6" fill="#fff"/>
+    <path d="M680 840h80M680 860h60M800 836h150M800 852h120M800 868h140" stroke="#ffcf9a" stroke-width="6"/>
+    <path d="M712 976V1038M838 976V1038" stroke-width="8"/>
+    <rect x="700" y="966" width="150" height="14" rx="5" fill="#ff9f43"/>
+    <path d="M856 940h68v22h-68z" fill="#5bc0eb"/>
+    <path d="M862 962V1010M918 962V1010" stroke-width="6"/>
+    <rect x="852" y="1010" width="76" height="12" rx="5" fill="#5bc0eb"/>
+    <path d="M860 1022L856 1038M920 1022L924 1038" stroke-width="5"/>
+    <!-- serving counter -->
+    <rect x="660" y="900" width="0" height="0"/>
+
+    <!-- === GYM / assembly hall === -->
+    <path d="M1030 812h540" stroke="#ff8fb1" stroke-width="6"/>
+    <g stroke-width="3"><path d="M1040 812l20 30l20-30z" fill="#ffd23f"/><path d="M1084 812l20 30l20-30z" fill="#5bc0eb"/><path d="M1128 812l20 30l20-30z" fill="#ff8fb1"/><path d="M1172 812l20 30l20-30z" fill="#8bd16a"/><path d="M1216 812l20 30l20-30z" fill="#9b7be0"/><path d="M1260 812l20 30l20-30z" fill="#ffd23f"/><path d="M1304 812l20 30l20-30z" fill="#5bc0eb"/><path d="M1348 812l20 30l20-30z" fill="#ff8fb1"/><path d="M1392 812l20 30l20-30z" fill="#8bd16a"/><path d="M1436 812l20 30l20-30z" fill="#9b7be0"/><path d="M1480 812l20 30l20-30z" fill="#ffd23f"/><path d="M1524 812l20 30l20-30z" fill="#5bc0eb"/></g>
+    <!-- stage -->
+    <rect x="1030" y="986" width="370" height="54" fill="#c98a50"/>
+    <rect x="1030" y="982" width="370" height="12" fill="#e9b278"/>
+    <!-- podium + mic -->
+    <path d="M1305.4 986h60l-8-70h-44z" fill="#8a5a3c"/>
+    <path d="M1335.4 916L1309.4 889.5" stroke-width="4"/>
+    <rect x="1299.4" y="875.5" width="14" height="20" rx="7" fill="#7a7488"/>
+  </g>
+</svg>

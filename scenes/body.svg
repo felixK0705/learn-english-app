@@ -1,0 +1,215 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1800 1100">
+<defs>
+  <pattern id="wall" width="48" height="48" patternUnits="userSpaceOnUse"><rect width="48" height="48" fill="#e4f4ee"/><path d="M24 14v20M14 24h20" stroke="#d2ece2" stroke-width="5" stroke-linecap="round"/></pattern>
+  <pattern id="floor" width="70" height="70" patternUnits="userSpaceOnUse"><rect width="70" height="70" fill="#f3e2c3"/><rect width="35" height="35" fill="#ecd4ab"/><rect x="35" y="35" width="35" height="35" fill="#ecd4ab"/></pattern>
+</defs>
+<g stroke="#6b4a36" stroke-width="4" stroke-linejoin="round" stroke-linecap="round">
+  <rect width="1800" height="1100" fill="url(#wall)" stroke="none"/>
+  <rect y="880" width="1800" height="220" fill="url(#floor)" stroke="none"/><path d="M0 880H1800"/>
+  <rect y="860" width="1800" height="20" fill="#bfe0d2" stroke="none"/>
+  <!-- 身高尺 -->
+  <rect x="448" y="560" width="44" height="320" rx="6" fill="#fff6c8"/>
+  <path d="M448 600h20M448 640h14M448 680h20M448 720h14M448 760h20M448 800h14M448 840h20" stroke-width="3"/>
+  <!-- 體重計 -->
+  <rect x="404" y="1004" width="132" height="36" rx="12" fill="#d9dde2"/><rect x="448" y="1014" width="44" height="14" rx="4" fill="#9fe0a8"/>
+  <g transform="translate(379.375 722) scale(0.90625)" stroke-width="3.5">
+    <ellipse cx="100" cy="312" rx="56" ry="8" fill="rgba(80,52,30,.15)"/>
+    <path d="M84 262v36M116 262v36" stroke="#6b4a36" stroke-width="22" stroke-linecap="round"/><path d="M84 262v36M116 262v36" stroke="#ffe0c4" stroke-width="15" stroke-linecap="round"/>
+         <path d="M64 268l12-48h48l12 48q-36 10-72 0z" fill="#f2a516" stroke="#6b4a36" stroke-width="3.5" stroke-linejoin="round"/>
+         <ellipse cx="80" cy="306" rx="16" ry="10" fill="#6b4a36" stroke="#6b4a36" stroke-width="3"/><ellipse cx="120" cy="306" rx="16" ry="10" fill="#6b4a36" stroke="#6b4a36" stroke-width="3"/>
+    <path d="M80 176Q63 194 58 196" stroke="#6b4a36" stroke-width="25" fill="none" stroke-linecap="round"/>
+   <path d="M80 176Q63 194 58 196" stroke="#7fc8b8" stroke-width="18" fill="none" stroke-linecap="round"/>
+   <circle cx="58" cy="196" r="10.5" fill="#ffe0c4" stroke="#6b4a36" stroke-width="3.5"/>
+    <path d="M70 182q0-22 30-22q30 0 30 22v46q-30 8-60 0z" fill="#7fc8b8" stroke="#6b4a36" stroke-width="3.5" stroke-linejoin="round"/>
+    
+    <path d="M120 176Q137 194 142 196" stroke="#6b4a36" stroke-width="25" fill="none" stroke-linecap="round"/>
+   <path d="M120 176Q137 194 142 196" stroke="#7fc8b8" stroke-width="18" fill="none" stroke-linecap="round"/>
+   <circle cx="142" cy="196" r="10.5" fill="#ffe0c4" stroke="#6b4a36" stroke-width="3.5"/>
+    <path d="M150 70q46 10 34 70q-6 26-24 34q10-34-2-56z" fill="#5b3a24" stroke="#6b4a36" stroke-width="3.5"/>
+    <circle cx="38" cy="108" r="11" fill="#ffe0c4" stroke="#6b4a36" stroke-width="3.5"/><circle cx="162" cy="108" r="11" fill="#ffe0c4" stroke="#6b4a36" stroke-width="3.5"/>
+    <ellipse cx="100" cy="98" rx="62" ry="58" fill="#ffe0c4" stroke="#6b4a36" stroke-width="3.5"/>
+    <ellipse cx="62" cy="122" rx="12" ry="8" fill="#ff9a9a" opacity=".75"/><ellipse cx="138" cy="122" rx="12" ry="8" fill="#ff9a9a" opacity=".75"/>
+    <path d="M70 104q8-10 16 0M114 104q8-10 16 0" fill="none" stroke="#6b4a36" stroke-width="4.5" stroke-linecap="round"/>
+    <path d="M97 112q3 4 6 0" fill="none" stroke="#6b4a36" stroke-width="3" stroke-linecap="round"/>
+    <path d="M86 124q14 12 28 0" fill="none" stroke="#6b4a36" stroke-width="4" stroke-linecap="round"/>
+    <path d="M40 98q-2-62 60-62q62 0 60 62q-30-10-46-34q-24 26-74 34z" fill="#5b3a24" stroke="#6b4a36" stroke-width="3.5"/>
+    
+    
+  </g>
+  <!-- 背對的小朋友 -->
+  
+  <path d="M176 910L174 1020" fill="none" stroke="#6b4a36" stroke-width="38" stroke-linecap="round" stroke-linejoin="round"/><path d="M176 910L174 1020" fill="none" stroke="#ffe0c4" stroke-width="30" stroke-linecap="round" stroke-linejoin="round"/><path d="M224 910L226 1020" fill="none" stroke="#6b4a36" stroke-width="38" stroke-linecap="round" stroke-linejoin="round"/><path d="M224 910L226 1020" fill="none" stroke="#ffe0c4" stroke-width="30" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="170" cy="1044" rx="22" ry="13" fill="#6b4a36"/><ellipse cx="230" cy="1044" rx="22" ry="13" fill="#6b4a36"/>
+  <path d="M148 840h104l8 80h-50l-10-30l-10 30h-50z" fill="#e8665a"/>
+  <path d="M156 730Q110 660 130 590" fill="none" stroke="#6b4a36" stroke-width="36" stroke-linecap="round" stroke-linejoin="round"/><path d="M156 730Q110 660 130 590" fill="none" stroke="#ffe0c4" stroke-width="28" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M244 730Q290 660 270 590" fill="none" stroke="#6b4a36" stroke-width="36" stroke-linecap="round" stroke-linejoin="round"/><path d="M244 730Q290 660 270 590" fill="none" stroke="#ffe0c4" stroke-width="28" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="130" cy="582" r="17" fill="#ffe0c4"/><circle cx="270" cy="582" r="17" fill="#ffe0c4"/>
+  <path d="M142 730q0-30 58-30q58 0 58 30l-4 118q-54 12-108 0z" fill="#5b8def"/>
+  <path d="M142 730q8-10 22-4M258 730q-8-10-22-4" fill="none" stroke="#5b8def" stroke-width="16"/>
+  <path d="M200 710v110" stroke="#4a78d0" stroke-width="3" stroke-dasharray="6 8"/>
+  <circle cx="200" cy="642" r="62" fill="#3a2a20"/>
+  <circle cx="138" cy="650" r="12" fill="#ffe0c4"/><circle cx="262" cy="650" r="12" fill="#ffe0c4"/>
+  <path d="M180 604q20-14 40 0" fill="none" stroke="#5a463a" stroke-width="4"/>
+
+  <!-- 嘴巴放大圖 -->
+  
+  <path d="M650 354L860 370" stroke-dasharray="2 9" stroke-width="4"/>
+  <circle cx="560" cy="360" r="92" fill="#fff" stroke-width="5"/>
+  <g transform="translate(560 366)">
+    <path d="M-72 -20q72-26 144 0q-8 92-72 92q-64 0-72-92z" fill="#b8323a"/>
+    <path d="M-62 -14q62-18 124 0v22q-62 12-124 0z" fill="#fff" stroke-width="2.5"/>
+    <path d="M-38 -18v24M-14 -22v28M10 -22v28M34 -18v24" stroke-width="2.5"/>
+    <path d="M-40 50q-6-40 40-40q46 0 40 40q-10 18-40 18q-30 0-40-18z" fill="#ff8fa3" stroke-width="3"/>
+    <path d="M0 22v26" stroke="#e86f86" stroke-width="3.5"/>
+    <path d="M-72 -20q72-26 144 0q-8 92-72 92q-64 0-72-92z" fill="none" stroke="#ff7a8a" stroke-width="13"/>
+    <path d="M-80 -24q80-30 160 0q-8 104-80 104q-72 0-80-104z" fill="none" stroke-width="4"/>
+  </g>
+  <!-- 海報 -->
+  
+  <rect x="1446" y="34" width="350" height="480" rx="14" fill="#fff"/>
+  <rect x="1458" y="46" width="326" height="456" rx="8" fill="#eaf6fb" stroke-width="2.5"/>
+  <circle cx="1456" cy="44" r="7" fill="#ff6f61"/><circle cx="1786" cy="44" r="7" fill="#ff6f61"/>
+  <!-- 身體輪廓 -->
+  <g fill="#cfe3f0" stroke-width="3.5">
+    <path d="M1576 200L1566 400" fill="none" stroke="#6b4a36" stroke-width="34" stroke-linecap="round" stroke-linejoin="round"/><path d="M1576 200L1566 400" fill="none" stroke="#cfe3f0" stroke-width="26" stroke-linecap="round" stroke-linejoin="round"/><path d="M1668 200L1678 400" fill="none" stroke="#6b4a36" stroke-width="34" stroke-linecap="round" stroke-linejoin="round"/><path d="M1668 200L1678 400" fill="none" stroke="#cfe3f0" stroke-width="26" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M1596 420L1592 500" fill="none" stroke="#6b4a36" stroke-width="40" stroke-linecap="round" stroke-linejoin="round"/><path d="M1596 420L1592 500" fill="none" stroke="#cfe3f0" stroke-width="32" stroke-linecap="round" stroke-linejoin="round"/><path d="M1648 420L1652 500" fill="none" stroke="#6b4a36" stroke-width="40" stroke-linecap="round" stroke-linejoin="round"/><path d="M1648 420L1652 500" fill="none" stroke="#cfe3f0" stroke-width="32" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="1608" y="160" width="28" height="30" fill="#cfe3f0"/>
+    <path d="M1566 214q0-30 30-30h52q30 0 30 30l-8 210h-96z" fill="#cfe3f0"/>
+    <circle cx="1622" cy="116" r="52" fill="#cfe3f0"/>
+  </g>
+  <!-- 大腦 -->
+  <path d="M1584 112q-6-34 26-40q12-12 26-2q30-6 34 22q14 18-4 32q-8 16-30 12q-16 10-32 0q-26 2-20-24z" fill="#ffb3c4" stroke-width="3"/>
+  <path d="M1602 92q10 8 2 20M1626 82q-6 14 6 24M1644 100q-10 6-4 18M1596 124q14-2 20 6" fill="none" stroke="#e8869c" stroke-width="3"/>
+  <!-- 骨頭（左手臂） -->
+  <g transform="translate(1571 300) rotate(3) scale(.9 1)">
+    <path d="M-5 -78h10v156h-10z" fill="#fffdf2" stroke-width="2.5"/>
+    <g fill="#fffdf2" stroke-width="2.5"><circle cx="-8" cy="-80" r="9"/><circle cx="8" cy="-80" r="9"/><circle cx="-8" cy="80" r="9"/><circle cx="8" cy="80" r="9"/></g>
+    <path d="M-5 -72h10v144h-10z" fill="#fffdf2" stroke="none"/>
+  </g>
+  <!-- 血管（右手臂） -->
+  <path d="M1656 216q14 30 18 80q4 50 4 100M1672 290q-8 20-2 40M1676 350q10 14 4 34M1656 216q-8 30 0 60" fill="none" stroke="#e8323a" stroke-width="4"/>
+  <path d="M1706 434q-12 18-12 26a12 12 0 0 0 24 0q0-8-12-26z" fill="#e8323a" stroke-width="3"/>
+  <!-- 肺 -->
+  <path d="M1614 214q-40-4-42 50q-2 44 22 48q20 0 20-30z" fill="#ff9fae" stroke-width="3"/>
+  <path d="M1630 214q40-4 42 50q2 44-22 48q-20 0-20-30z" fill="#ff9fae" stroke-width="3"/>
+  <path d="M1622 196v26M1622 222l-12 14M1622 222l12 14" fill="none" stroke-width="3.5"/>
+  <!-- 心臟 -->
+  <path d="M1634 296q-20-20-6-32q10-6 16 6q6-12 16-6q14 12-6 32l-10 10z" fill="#e8323a" stroke-width="3"/>
+  <!-- 胃 -->
+  <path d="M1616 330q30-10 40 14q8 30-26 42q-26 6-36-10q20 2 26-12q4-16-4-34z" fill="#ffb347" stroke-width="3"/>
+  <!-- 床 -->
+  <rect x="1782" y="640" width="24" height="300" rx="8" fill="#c98e62"/>
+  <rect x="1500" y="830" width="300" height="56" rx="14" fill="#fff"/>
+  <rect x="1500" y="878" width="300" height="20" rx="6" fill="#a8d8f0"/>
+  <path d="M1516 898v120M1770 898v120" stroke-width="10"/>
+  <rect x="1690" y="792" width="96" height="44" rx="18" fill="#fffdf6"/>
+  <g transform="translate(1721.25 642) scale(-0.8125 0.8125)" stroke-width="3.5">
+    <ellipse cx="100" cy="312" rx="56" ry="8" fill="rgba(80,52,30,.15)"/>
+    <path d="M74 236h52v20h-52z" fill="#3fa35b" stroke="#6b4a36" stroke-width="3.5"/><path d="M78 252l-6 48M122 252l6 48" stroke="#6b4a36" stroke-width="22" stroke-linecap="round"/><path d="M78 252l-6 48M122 252l6 48" stroke="#f5c79e" stroke-width="15" stroke-linecap="round"/><ellipse cx="68" cy="306" rx="16" ry="9" fill="#6b4a36" stroke="#6b4a36" stroke-width="3"/><ellipse cx="132" cy="306" rx="16" ry="9" fill="#6b4a36" stroke="#6b4a36" stroke-width="3"/>
+    <path d="M80 176Q45 144 22 96" stroke="#6b4a36" stroke-width="25" fill="none" stroke-linecap="round"/>
+   <path d="M80 176Q45 144 22 96" stroke="#ffd23f" stroke-width="18" fill="none" stroke-linecap="round"/>
+   <circle cx="22" cy="96" r="10.5" fill="#f5c79e" stroke="#6b4a36" stroke-width="3.5"/>
+    <path d="M70 182q0-22 30-22q30 0 30 22v46q-30 8-60 0z" fill="#ffd23f" stroke="#6b4a36" stroke-width="3.5" stroke-linejoin="round"/>
+    
+    <path d="M120 176Q155 144 178 96" stroke="#6b4a36" stroke-width="25" fill="none" stroke-linecap="round"/>
+   <path d="M120 176Q155 144 178 96" stroke="#ffd23f" stroke-width="18" fill="none" stroke-linecap="round"/>
+   <circle cx="178" cy="96" r="10.5" fill="#f5c79e" stroke="#6b4a36" stroke-width="3.5"/>
+    
+    <circle cx="38" cy="108" r="11" fill="#f5c79e" stroke="#6b4a36" stroke-width="3.5"/><circle cx="162" cy="108" r="11" fill="#f5c79e" stroke="#6b4a36" stroke-width="3.5"/>
+    <ellipse cx="100" cy="98" rx="62" ry="58" fill="#f5c79e" stroke="#6b4a36" stroke-width="3.5"/>
+    <ellipse cx="62" cy="122" rx="12" ry="8" fill="#ff9a9a" opacity=".75"/><ellipse cx="138" cy="122" rx="12" ry="8" fill="#ff9a9a" opacity=".75"/>
+    <path d="M68 96l14 8l-14 8M132 96l-14 8l14 8" fill="none" stroke="#6b4a36" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/><path d="M64 80l18 6M136 80l-18 6" stroke="#6b4a36" stroke-width="4" stroke-linecap="round"/>
+    <path d="M97 112q3 4 6 0" fill="none" stroke="#6b4a36" stroke-width="3" stroke-linecap="round"/>
+    <path d="M84 130q8-8 16 0q8-8 16 0" fill="none" stroke="#6b4a36" stroke-width="4" stroke-linecap="round"/>
+    <g fill="#1f1a17" stroke="#6b4a36" stroke-width="3.5"><circle cx="50" cy="80" r="18"/><circle cx="68" cy="52" r="20"/><circle cx="100" cy="40" r="22"/><circle cx="132" cy="52" r="20"/><circle cx="150" cy="80" r="18"/></g>
+      <path d="M44 84q20-30 56-32q36 2 56 32" fill="#1f1a17" stroke="none"/>
+    
+    <path d="M12 40l10 8M4 64l14 2M184 40l-10 8M194 64l-14 2" stroke="#e8504a" stroke-width="5" stroke-linecap="round"/><path d="M100 4l-6 12h10l-6 12" fill="none" stroke="#e8504a" stroke-width="4"/>
+  </g>
+  <!-- 藥箱 -->
+  <rect x="1240" y="760" width="96" height="70" rx="10" fill="#fff"/><path d="M1288 776v38M1269 795h38" stroke="#e8504a" stroke-width="9"/>
+  <rect x="1226" y="830" width="124" height="50" fill="#c98e62"/><path d="M1238 880v20M1338 880v20" stroke-width="6"/>
+  <g transform="translate(1261.25 684) scale(1.1875)" stroke-width="3.5">
+    <ellipse cx="100" cy="312" rx="56" ry="8" fill="rgba(80,52,30,.15)"/>
+    <path d="M84 262v36M116 262v36" stroke="#6b4a36" stroke-width="22" stroke-linecap="round"/><path d="M84 262v36M116 262v36" stroke="#ffe0c4" stroke-width="15" stroke-linecap="round"/>
+         <path d="M64 268l12-48h48l12 48q-36 10-72 0z" fill="#a8d8f0" stroke="#6b4a36" stroke-width="3.5" stroke-linejoin="round"/>
+         <ellipse cx="80" cy="306" rx="16" ry="10" fill="#6b4a36" stroke="#6b4a36" stroke-width="3"/><ellipse cx="120" cy="306" rx="16" ry="10" fill="#6b4a36" stroke="#6b4a36" stroke-width="3"/>
+    <path d="M80 176Q67 203 66 214" stroke="#6b4a36" stroke-width="25" fill="none" stroke-linecap="round"/>
+   <path d="M80 176Q67 203 66 214" stroke="#fff" stroke-width="18" fill="none" stroke-linecap="round"/>
+   <circle cx="66" cy="214" r="10.5" fill="#ffe0c4" stroke="#6b4a36" stroke-width="3.5"/>
+    <path d="M70 182q0-22 30-22q30 0 30 22v46q-30 8-60 0z" fill="#fff" stroke="#6b4a36" stroke-width="3.5" stroke-linejoin="round"/>
+    <path d="M100 166v62" stroke="#6b4a36" stroke-width="3"/><circle cx="106" cy="186" r="2.5" fill="#6b4a36"/><circle cx="106" cy="204" r="2.5" fill="#6b4a36"/>
+    <path d="M120 176Q146 184 160 176" stroke="#6b4a36" stroke-width="25" fill="none" stroke-linecap="round"/>
+   <path d="M120 176Q146 184 160 176" stroke="#fff" stroke-width="18" fill="none" stroke-linecap="round"/>
+   <circle cx="160" cy="176" r="10.5" fill="#ffe0c4" stroke="#6b4a36" stroke-width="3.5"/>
+    <path d="M32 92q-6-70 68-70q74 0 68 70l8 92q-30 10-50-4l-2-90h-48l-2 90q-20 14-50 4z" fill="#2e2018" stroke="#6b4a36" stroke-width="3.5"/>
+    <circle cx="38" cy="108" r="11" fill="#ffe0c4" stroke="#6b4a36" stroke-width="3.5"/><circle cx="162" cy="108" r="11" fill="#ffe0c4" stroke="#6b4a36" stroke-width="3.5"/>
+    <ellipse cx="100" cy="98" rx="62" ry="58" fill="#ffe0c4" stroke="#6b4a36" stroke-width="3.5"/>
+    <ellipse cx="62" cy="122" rx="12" ry="8" fill="#ff9a9a" opacity=".75"/><ellipse cx="138" cy="122" rx="12" ry="8" fill="#ff9a9a" opacity=".75"/>
+    <ellipse cx="78" cy="102" rx="6" ry="8" fill="#6b4a36"/><ellipse cx="122" cy="102" rx="6" ry="8" fill="#6b4a36"/><circle cx="80" cy="99" r="2.2" fill="#fff"/><circle cx="124" cy="99" r="2.2" fill="#fff"/>
+    <path d="M97 112q3 4 6 0" fill="none" stroke="#6b4a36" stroke-width="3" stroke-linecap="round"/>
+    <path d="M86 120q14 4 28 0q-2 18-14 18q-12 0-14-18z" fill="#e8504a" stroke="#6b4a36" stroke-width="3.5" stroke-linejoin="round"/><path d="M92 132q8-5 16 0" fill="#ff9a9a" stroke="none"/>
+    <path d="M40 98q0-62 60-62q60 0 60 62q-34-8-52-36q-6 22-68 36z" fill="#2e2018" stroke="#6b4a36" stroke-width="3.5"/>
+    <path d="M66 50h68l-8-22h-52z" fill="#fff" stroke="#6b4a36" stroke-width="3.5"/><path d="M94 32h12M100 26v12" stroke="#ff5a5a" stroke-width="4"/>
+    
+  </g>
+  <!-- 大男孩 -->
+  
+  <!-- 腿 -->
+  <path d="M866 730L862 870L866 982" fill="none" stroke="#6b4a36" stroke-width="50" stroke-linecap="round" stroke-linejoin="round"/><path d="M866 730L862 870L866 982" fill="none" stroke="#ffe0c4" stroke-width="42" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M934 730L938 870L934 982" fill="none" stroke="#6b4a36" stroke-width="50" stroke-linecap="round" stroke-linejoin="round"/><path d="M934 730L938 870L934 982" fill="none" stroke="#ffe0c4" stroke-width="42" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M846 866q16 12 32 0M922 866q16 12 32 0" fill="none" stroke-width="3.5"/>
+  <!-- 腳與腳趾 -->
+  <path d="M842 978h46q14 26 4 44q-30 10-74 2q-10-24 24-46z" fill="#ffe0c4"/>
+  <path d="M912 978h46q34 22 24 46q-44 8-74-2q-10-18 4-44z" fill="#ffe0c4"/>
+  <g fill="#ffe0c4" stroke-width="3">
+    <circle cx="818" cy="1022" r="9"/><circle cx="834" cy="1026" r="8"/><circle cx="849" cy="1028" r="7"/><circle cx="862" cy="1028" r="6"/><circle cx="874" cy="1027" r="5.5"/>
+    <circle cx="982" cy="1022" r="9"/><circle cx="966" cy="1026" r="8"/><circle cx="951" cy="1028" r="7"/><circle cx="938" cy="1028" r="6"/><circle cx="926" cy="1027" r="5.5"/>
+  </g>
+  <!-- 短褲 -->
+  <path d="M830 636h140l12 112h-66l-16-52l-16 52h-66z" fill="#4d7fd6"/>
+  <path d="M830 652h140" stroke="#3a64b5" stroke-width="5"/>
+  <!-- 左手（放下） -->
+  <path d="M834 470Q802 520 800 578Q796 640 792 676" fill="none" stroke="#6b4a36" stroke-width="46" stroke-linecap="round" stroke-linejoin="round"/><path d="M834 470Q802 520 800 578Q796 640 792 676" fill="none" stroke="#ffe0c4" stroke-width="38" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M792 676m-24 0a24 26 0 1 0 48 0a24 26 0 1 0-48 0" fill="#ffe0c4"/>
+  <path d="M808 664q14 2 14 16" fill="none" stroke-width="3.5"/>
+  <!-- 右手（向旁邊伸出、手掌張開） -->
+  <path d="M966 470Q1010 500 1050 500Q1096 500 1128 476" fill="none" stroke="#6b4a36" stroke-width="46" stroke-linecap="round" stroke-linejoin="round"/><path d="M966 470Q1010 500 1050 500Q1096 500 1128 476" fill="none" stroke="#ffe0c4" stroke-width="38" stroke-linecap="round" stroke-linejoin="round"/>
+  <g>
+    <rect x="1130" y="392" width="17" height="70" rx="8.5" fill="#ffe0c4"/>
+    <rect x="1149" y="380" width="17" height="80" rx="8.5" fill="#ffe0c4"/>
+    <rect x="1168" y="386" width="17" height="76" rx="8.5" fill="#ffe0c4"/>
+    <rect x="1187" y="402" width="15" height="62" rx="7.5" fill="#ffe0c4"/>
+    <path d="M1134 474q-26-6-36-34q-4-12 8-14q10-2 16 10q6 14 20 18z" fill="#ffe0c4"/>
+    <path d="M1128 444h76q2 46-20 58h-38q-20-10-18-58z" fill="#ffe0c4"/>
+    <path d="M1132 444h68" stroke="#ffe0c4" stroke-width="8"/>
+    <g fill="#fff0f0" stroke-width="2.2"><rect x="1133.5" y="396" width="10" height="12" rx="5"/><rect x="1152.5" y="384" width="10" height="12" rx="5"/><rect x="1171.5" y="390" width="10" height="12" rx="5"/><rect x="1189.5" y="406" width="10" height="11" rx="5"/><ellipse cx="1105" cy="430" rx="5" ry="6" transform="rotate(-30 1105 430)"/></g>
+    <path d="M1144 488q18 6 36 0" fill="none" stroke-width="3"/>
+  </g>
+  <!-- 背心 -->
+  <path d="M826 476q0-30 30-34h88q30 4 30 34v40h-148z" fill="#ffe0c4"/>
+  <path d="M828 470q2-22 28-26q6 34 44 34q38 0 44-34q26 4 28 26l4 176h-152z" fill="#ff8a5b"/>
+  <path d="M856 444q-6-10 2-14M944 444q6-10-2-14" fill="none"/>
+  <circle cx="900" cy="560" r="20" fill="#ffd23f"/><path d="M892 560l6 7l11-14" fill="none" stroke-width="3.5"/>
+  <!-- 脖子 -->
+  <rect x="880" y="398" width="40" height="52" fill="#ffe0c4"/>
+  <path d="M880 446q20 14 40 0" fill="none" stroke-width="3"/>
+  <!-- 頭 -->
+  <circle cx="796" cy="316" r="21" fill="#ffe0c4"/><circle cx="1004" cy="316" r="21" fill="#ffe0c4"/>
+  <path d="M792 310q8-8 10 6M1008 310q-8-8-10 6" fill="none" stroke-width="3"/>
+  <circle cx="900" cy="306" r="102" fill="#ffe0c4"/>
+  <path d="M802 296q-8-112 98-114q106 2 98 114q-20-34-56-44q-10 18-42 20q12-10 10-22q-30 18-72 22q14-8 16-18q-32 12-52 42z" fill="#3a2a20"/>
+  <path d="M848 280q16-10 30 0M922 280q16-10 30 0" fill="none" stroke-width="5"/>
+  <ellipse cx="864" cy="306" rx="10" ry="13" fill="#6b4a36" stroke="none"/><ellipse cx="936" cy="306" rx="10" ry="13" fill="#6b4a36" stroke="none"/>
+  <circle cx="867" cy="301" r="3.5" fill="#fff" stroke="none"/><circle cx="939" cy="301" r="3.5" fill="#fff" stroke="none"/>
+  <ellipse cx="838" cy="342" rx="16" ry="10" fill="#ff9a9a" opacity=".7" stroke="none"/><ellipse cx="962" cy="342" rx="16" ry="10" fill="#ff9a9a" opacity=".7" stroke="none"/>
+  <path d="M894 330q6 8 12 0" fill="none" stroke-width="3.5"/>
+  <!-- 張開的嘴：嘴唇、牙齒、舌頭 -->
+  <path d="M866 352q34-8 68 0q-4 44-34 44q-30 0-34-44z" fill="#b8323a"/>
+  <path d="M872 355q28-5 56 0v9q-28 4-56 0z" fill="#fff" stroke-width="2"/>
+  <ellipse cx="900" cy="385" rx="18" ry="9" fill="#ff8fa3" stroke="none"/>
+  <path d="M866 352q34-8 68 0q-4 44-34 44q-30 0-34-44z" fill="none" stroke="#ff7a8a" stroke-width="6"/>
+  <path d="M862 350q38-10 76 0q-4 50-38 50q-34 0-38-50z" fill="none" stroke-width="3"/>
+
+</g>
+</svg>

@@ -463,5 +463,575 @@
         }
       ]
     }
-  ]
+  ],
+  "scene": {
+    "w": 1600,
+    "h": 1100,
+    "bg": "scenes/subjects.svg",
+    "items": {
+      "subject": {
+        "box": [
+          30,
+          940,
+          96,
+          98
+        ],
+        "lx": 76,
+        "ly": 852
+      },
+      "math": {
+        "box": [
+          34,
+          282,
+          170,
+          96
+        ],
+        "lx": 118,
+        "ly": 388
+      },
+      "science": {
+        "box": [
+          420,
+          340,
+          230,
+          153
+        ],
+        "lx": 508,
+        "ly": 330
+      },
+      "English": {
+        "box": [
+          826,
+          282,
+          226,
+          118
+        ],
+        "lx": 890,
+        "ly": 404
+      },
+      "Chinese": {
+        "box": [
+          1222,
+          282,
+          150,
+          104
+        ],
+        "lx": 1297,
+        "ly": 392
+      },
+      "history": {
+        "box": [
+          652,
+          542,
+          96,
+          76
+        ],
+        "lx": 716,
+        "ly": 626
+      },
+      "geography": {
+        "box": [
+          574,
+          618,
+          72,
+          90
+        ],
+        "lx": 604,
+        "ly": 544
+      },
+      "art": {
+        "box": [
+          994,
+          612,
+          112,
+          86
+        ],
+        "lx": 1050,
+        "ly": 532
+      },
+      "P.E.": {
+        "box": [
+          1368,
+          616,
+          64,
+          154
+        ],
+        "lx": 1400,
+        "ly": 530
+      },
+      "social studies": {
+        "box": [
+          366,
+          542,
+          164,
+          100
+        ],
+        "lx": 452,
+        "ly": 648
+      },
+      "homework": {
+        "x": 224,
+        "y": 700,
+        "s": 36,
+        "lx": 214,
+        "ly": 608
+      },
+      "test": {
+        "x": 252,
+        "y": 436,
+        "s": 36,
+        "lx": 250,
+        "ly": 300
+      },
+      "exam": {
+        "x": 1414,
+        "y": 436,
+        "s": 36,
+        "lx": 1378,
+        "ly": 304
+      },
+      "quiz": {
+        "x": 772,
+        "y": 392,
+        "s": 34,
+        "lx": 736,
+        "ly": 270
+      },
+      "grade": {
+        "box": [
+          335,
+          434,
+          30,
+          30
+        ],
+        "lx": 352,
+        "ly": 266
+      },
+      "schedule": {
+        "box": [
+          168,
+          822,
+          108,
+          76
+        ],
+        "lx": 216,
+        "ly": 916
+      },
+      "lesson": {
+        "box": [
+          1081,
+          329,
+          74,
+          175
+        ],
+        "lx": 1004,
+        "ly": 404
+      },
+      "recess": {
+        "box": [
+          438,
+          896,
+          174,
+          154
+        ],
+        "lx": 525,
+        "ly": 794
+      },
+      "cafeteria": {
+        "box": [
+          648,
+          790,
+          344,
+          248
+        ],
+        "lx": 740,
+        "ly": 890
+      },
+      "library": {
+        "box": [
+          26,
+          616,
+          150,
+          142
+        ],
+        "lx": 84,
+        "ly": 532
+      },
+      "principal": {
+        "box": [
+          1221,
+          810,
+          79,
+          188
+        ],
+        "lx": 1130,
+        "ly": 850
+      },
+      "uniform": {
+        "box": [
+          737,
+          85,
+          67,
+          159
+        ],
+        "lx": 640,
+        "ly": 164
+      },
+      "gym": {
+        "box": [
+          1228,
+          525,
+          352,
+          233
+        ],
+        "lx": 1300,
+        "ly": 640
+      },
+      "bell": {
+        "box": [
+          1496,
+          156,
+          60,
+          64
+        ],
+        "lx": 1440,
+        "ly": 160,
+        "la": "r",
+        "line": [
+          1506,
+          190
+        ]
+      },
+      "hallway": {
+        "box": [
+          140,
+          920,
+          290,
+          118
+        ],
+        "lx": 290,
+        "ly": 998
+      },
+      "dictionary": {
+        "box": [
+          1517,
+          434,
+          30,
+          30
+        ],
+        "lx": 1512,
+        "ly": 266
+      },
+      "report card": {
+        "box": [
+          888,
+          159,
+          36,
+          36
+        ],
+        "lx": 1040,
+        "ly": 164
+      },
+      "semester": {
+        "box": [
+          306,
+          822,
+          92,
+          76
+        ],
+        "lx": 356,
+        "ly": 916
+      },
+      "club": {
+        "box": [
+          888,
+          606,
+          64,
+          84
+        ],
+        "lx": 920,
+        "ly": 534
+      },
+      "assembly": {
+        "box": [
+          1380,
+          920,
+          200,
+          118
+        ],
+        "lx": 1476,
+        "ly": 840
+      }
+    },
+    "people": [
+      {
+        "p": {
+          "hair": "pigtails",
+          "hairColor": "#2e2018",
+          "shirt": "#ffffff",
+          "skirt": "#3d5a99",
+          "pose": "talk",
+          "face": "talk",
+          "acc": [
+            "bow"
+          ]
+        },
+        "x": 770,
+        "y": 246,
+        "h": 178
+      },
+      {
+        "p": {
+          "hair": "short",
+          "hairColor": "#5b3a24",
+          "shirt": "#ffffff",
+          "pants": "#3d5a99",
+          "pose": "hold",
+          "holding": "🧾",
+          "face": "laugh",
+          "eyes": "happy"
+        },
+        "x": 906,
+        "y": 246,
+        "h": 178,
+        "flip": true
+      },
+      {
+        "p": {
+          "hair": "bob",
+          "hairColor": "#3a2a20",
+          "shirt": "#ff8fb1",
+          "skirt": "#3d5a99",
+          "sit": true,
+          "pose": "hold",
+          "holding": "💯",
+          "face": "laugh",
+          "eyes": "happy"
+        },
+        "x": 350,
+        "y": 507,
+        "h": 150,
+        "flip": true
+      },
+      {
+        "p": {
+          "hair": "curly",
+          "hairColor": "#1f1a17",
+          "shirt": "#ffffff",
+          "coat": true,
+          "pants": "#5b8def",
+          "pose": "wave",
+          "face": "wow",
+          "acc": [
+            "glasses"
+          ],
+          "skin": "brown"
+        },
+        "x": 712,
+        "y": 507,
+        "h": 160
+      },
+      {
+        "p": {
+          "hair": "long",
+          "hairColor": "#a0522d",
+          "shirt": "#3fbf9f",
+          "skirt": "#3d3a6b",
+          "pose": "point",
+          "face": "talk"
+        },
+        "x": 1118,
+        "y": 507,
+        "h": 196,
+        "flip": true
+      },
+      {
+        "p": {
+          "hair": "ponytail",
+          "hairColor": "#2e2018",
+          "shirt": "#ffd23f",
+          "skirt": "#e5483b",
+          "sit": true,
+          "pose": "hold",
+          "holding": "📖",
+          "face": "smile",
+          "skin": "light"
+        },
+        "x": 1532,
+        "y": 507,
+        "h": 150,
+        "flip": true
+      },
+      {
+        "p": {
+          "hair": "short",
+          "hairColor": "#2e2018",
+          "shirt": "#5bc0eb",
+          "pants": "#4d4d63",
+          "sit": true,
+          "pose": "talk",
+          "face": "smile",
+          "eyes": "happy"
+        },
+        "x": 292,
+        "y": 772,
+        "h": 150,
+        "flip": true
+      },
+      {
+        "p": {
+          "hair": "grandpa",
+          "hairColor": "#ddd",
+          "shirt": "#8ab06a",
+          "pants": "#6b5b4b",
+          "pose": "point",
+          "face": "talk",
+          "acc": [
+            "glasses"
+          ]
+        },
+        "x": 806,
+        "y": 772,
+        "h": 190,
+        "flip": true
+      },
+      {
+        "p": {
+          "hair": "bun",
+          "hairColor": "#c0602a",
+          "shirt": "#ff9f43",
+          "skirt": "#7a62d6",
+          "pose": "talk",
+          "face": "smile",
+          "eyes": "happy"
+        },
+        "x": 1150,
+        "y": 772,
+        "h": 160,
+        "flip": true
+      },
+      {
+        "p": {
+          "hair": "spiky",
+          "hairColor": "#3a2a20",
+          "shirt": "#ffffff",
+          "pants": "#e5483b",
+          "pose": "hold",
+          "holding": "🏀",
+          "face": "laugh",
+          "eyes": "happy",
+          "skin": "tan"
+        },
+        "x": 1400,
+        "y": 772,
+        "h": 172
+      },
+      {
+        "p": {
+          "hair": "ponytail",
+          "hairColor": "#4a2e1c",
+          "shirt": "#ffffff",
+          "skirt": "#3d5a99",
+          "pose": "cheer",
+          "face": "laugh",
+          "eyes": "happy",
+          "skin": "tan"
+        },
+        "x": 470,
+        "y": 1052,
+        "h": 172
+      },
+      {
+        "p": {
+          "hair": "spiky",
+          "hairColor": "#1f1a17",
+          "shirt": "#ffffff",
+          "pants": "#3d5a99",
+          "pose": "wave",
+          "face": "laugh",
+          "skin": "brown"
+        },
+        "x": 580,
+        "y": 1052,
+        "h": 172,
+        "flip": true
+      },
+      {
+        "p": {
+          "hair": "curly",
+          "hairColor": "#5b3a24",
+          "shirt": "#ffd23f",
+          "pants": "#3fa35b",
+          "sit": true,
+          "pose": "hold",
+          "holding": "🍙",
+          "face": "laugh",
+          "eyes": "happy"
+        },
+        "x": 890,
+        "y": 1052,
+        "h": 160,
+        "flip": true
+      },
+      {
+        "p": {
+          "hair": "grandma",
+          "hairColor": "#cfcfcf",
+          "shirt": "#c56fa0",
+          "skirt": "#6b5b9b",
+          "pose": "talk",
+          "face": "talk",
+          "acc": [
+            "glasses"
+          ]
+        },
+        "x": 1260,
+        "y": 1000,
+        "h": 210
+      },
+      {
+        "p": {
+          "hair": "pigtails",
+          "hairColor": "#2e2018",
+          "shirt": "#ffffff",
+          "skirt": "#3d5a99",
+          "sit": true,
+          "pose": "hold",
+          "face": "smile"
+        },
+        "x": 1420,
+        "y": 1052,
+        "h": 140
+      },
+      {
+        "p": {
+          "hair": "short",
+          "hairColor": "#a0522d",
+          "shirt": "#ffffff",
+          "pants": "#3d5a99",
+          "sit": true,
+          "pose": "hold",
+          "face": "smile",
+          "skin": "tan"
+        },
+        "x": 1530,
+        "y": 1052,
+        "h": 140
+      }
+    ],
+    "bubbles": [
+      {
+        "x": 420,
+        "y": 30,
+        "w": 290,
+        "tail": "br"
+      },
+      {
+        "x": 980,
+        "y": 24,
+        "w": 400,
+        "tail": "bl"
+      }
+    ]
+  }
 }

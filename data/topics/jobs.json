@@ -469,5 +469,761 @@
         }
       ]
     }
-  ]
+  ],
+  "scene": {
+    "w": 1600,
+    "h": 1100,
+    "bg": "scenes/jobs.svg",
+    "items": {
+      "teacher": {
+        "box": [
+          423,
+          199,
+          74,
+          161
+        ],
+        "lx": 460,
+        "ly": 110
+      },
+      "scientist": {
+        "box": [
+          883,
+          199,
+          74,
+          161
+        ],
+        "lx": 920,
+        "ly": 110
+      },
+      "artist": {
+        "box": [
+          1153,
+          199,
+          74,
+          161
+        ],
+        "lx": 1190,
+        "ly": 110
+      },
+      "singer": {
+        "box": [
+          1403,
+          199,
+          74,
+          161
+        ],
+        "lx": 1440,
+        "ly": 110
+      },
+      "photographer": {
+        "box": [
+          193,
+          469,
+          74,
+          161
+        ],
+        "lx": 230,
+        "ly": 380
+      },
+      "reporter": {
+        "box": [
+          613,
+          199,
+          74,
+          161
+        ],
+        "lx": 650,
+        "ly": 110
+      },
+      "lawyer": {
+        "box": [
+          543,
+          469,
+          74,
+          161
+        ],
+        "lx": 580,
+        "ly": 380
+      },
+      "banker": {
+        "box": [
+          893,
+          469,
+          74,
+          161
+        ],
+        "lx": 930,
+        "ly": 380
+      },
+      "work": {
+        "box": [
+          1213,
+          469,
+          74,
+          161
+        ],
+        "lx": 1250,
+        "ly": 380
+      },
+      "writer": {
+        "box": [
+          1413,
+          469,
+          74,
+          161
+        ],
+        "lx": 1450,
+        "ly": 380
+      },
+      "baker": {
+        "box": [
+          73,
+          737,
+          74,
+          161
+        ],
+        "lx": 110,
+        "ly": 650
+      },
+      "salesperson": {
+        "box": [
+          263,
+          737,
+          74,
+          161
+        ],
+        "lx": 300,
+        "ly": 650
+      },
+      "cook": {
+        "box": [
+          433,
+          737,
+          74,
+          161
+        ],
+        "lx": 470,
+        "ly": 650
+      },
+      "waiter": {
+        "box": [
+          583,
+          737,
+          74,
+          161
+        ],
+        "lx": 620,
+        "ly": 650
+      },
+      "doctor": {
+        "box": [
+          743,
+          737,
+          74,
+          161
+        ],
+        "lx": 780,
+        "ly": 650
+      },
+      "nurse": {
+        "box": [
+          883,
+          737,
+          74,
+          161
+        ],
+        "lx": 920,
+        "ly": 650
+      },
+      "dentist": {
+        "box": [
+          1033,
+          737,
+          74,
+          161
+        ],
+        "lx": 1070,
+        "ly": 650
+      },
+      "vet": {
+        "box": [
+          1183,
+          737,
+          74,
+          161
+        ],
+        "lx": 1220,
+        "ly": 650
+      },
+      "barber": {
+        "box": [
+          1483,
+          737,
+          74,
+          161
+        ],
+        "lx": 1520,
+        "ly": 650
+      },
+      "driver": {
+        "box": [
+          351,
+          850,
+          67,
+          146
+        ],
+        "lx": 385,
+        "ly": 1008
+      },
+      "police officer": {
+        "box": [
+          511,
+          850,
+          67,
+          146
+        ],
+        "lx": 560,
+        "ly": 1008
+      },
+      "farmer": {
+        "box": [
+          666,
+          850,
+          67,
+          146
+        ],
+        "lx": 720,
+        "ly": 1008
+      },
+      "engineer": {
+        "box": [
+          821,
+          850,
+          67,
+          146
+        ],
+        "lx": 860,
+        "ly": 1008
+      },
+      "firefighter": {
+        "box": [
+          1116,
+          850,
+          67,
+          146
+        ],
+        "lx": 1150,
+        "ly": 1008
+      },
+      "mechanic": {
+        "box": [
+          1271,
+          850,
+          67,
+          146
+        ],
+        "lx": 1316,
+        "ly": 1008
+      },
+      "pilot": {
+        "box": [
+          236,
+          262,
+          50,
+          40
+        ],
+        "lx": 110,
+        "ly": 268,
+        "line": [
+          262,
+          282
+        ]
+      },
+      "job": {
+        "box": [
+          1016,
+          404,
+          74,
+          86
+        ],
+        "lx": 1053,
+        "ly": 496
+      },
+      "company": {
+        "box": [
+          1080,
+          30,
+          140,
+          48
+        ],
+        "lx": 1232,
+        "ly": 14,
+        "la": "l"
+      },
+      "salary": {
+        "x": 760,
+        "y": 558,
+        "s": 44,
+        "lx": 790,
+        "ly": 446
+      }
+    },
+    "people": [
+      {
+        "p": {
+          "hair": "bun",
+          "hairColor": "#3a2a20",
+          "shirt": "#ff8a5b",
+          "skirt": "#4d7fd6",
+          "acc": [
+            "glasses"
+          ],
+          "pose": "hold",
+          "holding": "📚",
+          "face": "talk"
+        },
+        "x": 460,
+        "y": 364,
+        "h": 175
+      },
+      {
+        "p": {
+          "hair": "curly",
+          "hairColor": "#1f1a17",
+          "shirt": "#ffffff",
+          "coat": true,
+          "pants": "#4d4d63",
+          "acc": [
+            "glasses"
+          ],
+          "pose": "hold",
+          "holding": "🧪",
+          "face": "wow",
+          "skin": "brown"
+        },
+        "x": 920,
+        "y": 364,
+        "h": 175,
+        "flip": true
+      },
+      {
+        "p": {
+          "hair": "long",
+          "hairColor": "#a0522d",
+          "shirt": "#c56fa0",
+          "pants": "#3d5a99",
+          "acc": [
+            "cap"
+          ],
+          "accColor": "#e8504a",
+          "pose": "hold",
+          "holding": "🎨",
+          "face": "smile"
+        },
+        "x": 1190,
+        "y": 364,
+        "h": 175,
+        "flip": true
+      },
+      {
+        "p": {
+          "hair": "pigtails",
+          "hairColor": "#2e2018",
+          "shirt": "#ffd23f",
+          "skirt": "#ff6f8f",
+          "pose": "cheer",
+          "holding": "🎤",
+          "face": "laugh",
+          "eyes": "happy",
+          "skin": "tan"
+        },
+        "x": 1440,
+        "y": 364,
+        "h": 175
+      },
+      {
+        "p": {
+          "hair": "short",
+          "hairColor": "#3a2a20",
+          "shirt": "#3fa35b",
+          "pants": "#6b5b4b",
+          "pose": "hold",
+          "holding": "📷",
+          "face": "smile"
+        },
+        "x": 230,
+        "y": 634,
+        "h": 175
+      },
+      {
+        "p": {
+          "hair": "bob",
+          "hairColor": "#2e2018",
+          "shirt": "#e8504a",
+          "skirt": "#3d4a6b",
+          "pose": "hold",
+          "holding": "🎙️",
+          "face": "smile"
+        },
+        "x": 650,
+        "y": 364,
+        "h": 175,
+        "flip": true
+      },
+      {
+        "p": {
+          "hair": "short",
+          "hairColor": "#1f1a17",
+          "shirt": "#3d4a6b",
+          "pants": "#2d3550",
+          "pose": "hold",
+          "holding": "💼",
+          "face": "smile",
+          "skin": "tan"
+        },
+        "x": 580,
+        "y": 634,
+        "h": 175,
+        "flip": true
+      },
+      {
+        "p": {
+          "hair": "ponytail",
+          "hairColor": "#5b3a24",
+          "shirt": "#9fd3f7",
+          "skirt": "#3d4a6b",
+          "pose": "talk",
+          "face": "smile"
+        },
+        "x": 930,
+        "y": 634,
+        "h": 175,
+        "flip": true
+      },
+      {
+        "p": {
+          "hair": "spiky",
+          "hairColor": "#3a2a20",
+          "shirt": "#ffffff",
+          "pants": "#4d4d63",
+          "stripe": "#5b8def",
+          "sit": true,
+          "pose": "talk",
+          "face": "smile"
+        },
+        "x": 1250,
+        "y": 634,
+        "h": 175,
+        "flip": true
+      },
+      {
+        "p": {
+          "hair": "grandpa",
+          "hairColor": "#cfcfcf",
+          "shirt": "#8ab06a",
+          "pants": "#6b5b4b",
+          "acc": [
+            "glasses"
+          ],
+          "pose": "hold",
+          "holding": "📝",
+          "face": "smile"
+        },
+        "x": 1450,
+        "y": 634,
+        "h": 175
+      },
+      {
+        "p": {
+          "hair": "short",
+          "hairColor": "#5b3a24",
+          "shirt": "#ffffff",
+          "pants": "#6b5b4b",
+          "apron": "#f2c48d",
+          "acc": [
+            "chefhat"
+          ],
+          "pose": "hold",
+          "holding": "🥖",
+          "face": "laugh",
+          "eyes": "happy"
+        },
+        "x": 110,
+        "y": 902,
+        "h": 175
+      },
+      {
+        "p": {
+          "hair": "ponytail",
+          "hairColor": "#2e2018",
+          "shirt": "#7fc8b8",
+          "skirt": "#ff8a5b",
+          "apron": "#ff8fa3",
+          "pose": "hold",
+          "holding": "🛍️",
+          "face": "talk",
+          "skin": "tan"
+        },
+        "x": 300,
+        "y": 902,
+        "h": 175,
+        "flip": true
+      },
+      {
+        "p": {
+          "hair": "short",
+          "hairColor": "#1f1a17",
+          "shirt": "#ffffff",
+          "pants": "#4d4d63",
+          "apron": "#ff6f61",
+          "acc": [
+            "chefhat"
+          ],
+          "pose": "hold",
+          "holding": "🍳",
+          "face": "smile",
+          "skin": "brown"
+        },
+        "x": 470,
+        "y": 902,
+        "h": 175
+      },
+      {
+        "p": {
+          "hair": "short",
+          "hairColor": "#3a2a20",
+          "shirt": "#ffffff",
+          "pants": "#2d2d38",
+          "pose": "hold",
+          "holding": "🍝",
+          "face": "smile"
+        },
+        "x": 620,
+        "y": 902,
+        "h": 175,
+        "flip": true
+      },
+      {
+        "p": {
+          "hair": "short",
+          "hairColor": "#6b6b6b",
+          "shirt": "#ffffff",
+          "coat": true,
+          "pants": "#4d7fd6",
+          "acc": [
+            "glasses"
+          ],
+          "pose": "talk",
+          "face": "smile"
+        },
+        "x": 780,
+        "y": 902,
+        "h": 175
+      },
+      {
+        "p": {
+          "hair": "bun",
+          "hairColor": "#2e2018",
+          "shirt": "#ffc2d1",
+          "skirt": "#ffffff",
+          "acc": [
+            "nursecap"
+          ],
+          "pose": "wave",
+          "face": "smile",
+          "skin": "tan"
+        },
+        "x": 920,
+        "y": 902,
+        "h": 175,
+        "flip": true
+      },
+      {
+        "p": {
+          "hair": "bob",
+          "hairColor": "#a0522d",
+          "shirt": "#ffffff",
+          "coat": true,
+          "pants": "#5fb7a6",
+          "pose": "hold",
+          "holding": "🪥",
+          "face": "smile"
+        },
+        "x": 1070,
+        "y": 902,
+        "h": 175
+      },
+      {
+        "p": {
+          "hair": "curly",
+          "hairColor": "#5b3a24",
+          "shirt": "#9bd77f",
+          "pants": "#3d5a99",
+          "pose": "hold",
+          "holding": "🐶",
+          "face": "laugh",
+          "eyes": "happy",
+          "skin": "dark"
+        },
+        "x": 1220,
+        "y": 902,
+        "h": 175
+      },
+      {
+        "p": {
+          "hair": "spiky",
+          "hairColor": "#1f1a17",
+          "shirt": "#ffffff",
+          "stripe": "#e8504a",
+          "pants": "#2d2d38",
+          "pose": "hold",
+          "holding": "✂️",
+          "face": "smile"
+        },
+        "x": 1520,
+        "y": 902,
+        "h": 175,
+        "flip": true
+      },
+      {
+        "p": {
+          "hair": "curly",
+          "hairColor": "#3a2a20",
+          "shirt": "#ffffff",
+          "pants": "#6b5b4b",
+          "sit": true,
+          "face": "smile",
+          "eyes": "happy",
+          "pose": "stand"
+        },
+        "x": 1390,
+        "y": 902,
+        "h": 160
+      },
+      {
+        "p": {
+          "hair": "short",
+          "hairColor": "#3a2a20",
+          "shirt": "#5b8def",
+          "pants": "#3d4a6b",
+          "acc": [
+            "cap"
+          ],
+          "accColor": "#3d4a6b",
+          "pose": "wave",
+          "face": "smile"
+        },
+        "x": 385,
+        "y": 1000,
+        "h": 160
+      },
+      {
+        "p": {
+          "hair": "short",
+          "hairColor": "#1f1a17",
+          "shirt": "#3d5a99",
+          "pants": "#2d3550",
+          "acc": [
+            "cap"
+          ],
+          "accColor": "#2d3550",
+          "pose": "hips",
+          "face": "smile",
+          "skin": "tan"
+        },
+        "x": 545,
+        "y": 1000,
+        "h": 160
+      },
+      {
+        "p": {
+          "hair": "grandpa",
+          "hairColor": "#ddd",
+          "shirt": "#ff8a5b",
+          "pants": "#4d7fd6",
+          "acc": [
+            "cap"
+          ],
+          "accColor": "#f2c48d",
+          "pose": "wave",
+          "face": "laugh",
+          "eyes": "happy"
+        },
+        "x": 700,
+        "y": 1000,
+        "h": 160
+      },
+      {
+        "p": {
+          "hair": "short",
+          "hairColor": "#5b3a24",
+          "shirt": "#ff8a5b",
+          "pants": "#3d5a99",
+          "acc": [
+            "helmet"
+          ],
+          "accColor": "#ffd23f",
+          "pose": "hold",
+          "holding": "📐",
+          "face": "smile"
+        },
+        "x": 855,
+        "y": 1000,
+        "h": 160
+      },
+      {
+        "p": {
+          "hair": "short",
+          "hairColor": "#3a2a20",
+          "shirt": "#f2a516",
+          "pants": "#3d3d3d",
+          "stripe": "#ffe28a",
+          "acc": [
+            "helmet"
+          ],
+          "accColor": "#e8504a",
+          "pose": "hold",
+          "holding": "🧯",
+          "face": "smile",
+          "skin": "brown"
+        },
+        "x": 1150,
+        "y": 1000,
+        "h": 160
+      },
+      {
+        "p": {
+          "hair": "short",
+          "hairColor": "#1f1a17",
+          "shirt": "#5b8def",
+          "pants": "#5b8def",
+          "acc": [
+            "cap"
+          ],
+          "accColor": "#e8504a",
+          "pose": "hold",
+          "holding": "🔧",
+          "face": "smile"
+        },
+        "x": 1305,
+        "y": 1000,
+        "h": 160,
+        "flip": true
+      }
+    ],
+    "bubbles": [
+      {
+        "x": 660,
+        "y": 2,
+        "w": 300,
+        "tail": "bl"
+      },
+      {
+        "x": 410,
+        "y": 2,
+        "w": 240,
+        "tail": "bl"
+      }
+    ]
+  }
 }

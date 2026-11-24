@@ -23,7 +23,7 @@
     <rect x="30" y="440" width="270" height="262" rx="10" fill="#4b3b55"/>
     <rect x="20" y="430" width="290" height="22" rx="6" fill="#5d4a69"/>
     <rect x="50" y="470" width="230" height="64" rx="6" fill="#5d4a69"/>
-    <path d="M142 482h46v40h-46z" fill="#fff" stroke-width="3"/><path d="M150 494h30M150 504h30M150 514h20" stroke-width="2"/>
+    
     <rect x="22" y="556" width="286" height="30" rx="4" fill="#fff"/>
     <path d="M42 556v18M62 556v18M82 556v18M102 556v18M122 556v18M142 556v18M162 556v18M182 556v18M202 556v18M222 556v18M242 556v18M262 556v18M282 556v18" stroke-width="7"/>
     <rect x="20" y="586" width="290" height="16" rx="4" fill="#5d4a69"/>
@@ -31,10 +31,14 @@
     <!-- 鋼琴椅 -->
     <rect x="104" y="660" width="122" height="22" rx="8" fill="#e2574c"/>
     <path d="M116 682l-6 66M214 682l6 66" stroke-width="8"/>
-    <!-- 牆上的畫 -->
-    <rect x="72" y="296" width="180" height="120" rx="6" fill="#d79a5c"/>
-    <rect x="86" y="310" width="152" height="92" rx="3" fill="#fff4cf"/>
-    <path d="M86 402l44-46l30 28l30-34l48 52z" fill="#7cc66a" stroke-width="3"/><circle cx="208" cy="334" r="12" fill="#ffd23f" stroke-width="3"/>
+    <!-- 鏡子 -->
+    <ellipse cx="165" cy="350" rx="62" ry="74" fill="#e6b27a"/>
+    <ellipse cx="165" cy="350" rx="48" ry="60" fill="url(#mirror)"/>
+    <path d="M140 316l34-34M144 350l46-46" stroke="#fff" stroke-width="7"/>
+    <!-- 鋼琴上的相框 -->
+    <rect x="226" y="372" width="66" height="58" rx="5" fill="#d79a5c"/>
+    <rect x="236" y="382" width="46" height="38" rx="3" fill="#fff4cf"/>
+    <path d="M236 420l14-16l10 9l10-12l12 19z" fill="#7cc66a" stroke-width="2.5"/><circle cx="270" cy="392" r="5" fill="#ffd23f" stroke-width="2.5"/>
     <!-- 窗戶與窗簾 -->
     <rect x="400" y="104" width="270" height="360" rx="10" fill="#fff"/>
     <rect x="416" y="120" width="238" height="328" rx="5" fill="url(#glass)"/>
@@ -72,13 +76,15 @@
     <path d="M818 702l10-18l10 8l8-20l10 18l8-10l10 22z" fill="#ffd23f" stroke="none"/>
     <path d="M800 700l96-14M806 686l92 14" stroke="#8a5a3c" stroke-width="10"/>
     <rect x="718" y="694" width="260" height="12" rx="4" fill="#cfc3b5"/>
-    <!-- 鏡子 -->
-    <ellipse cx="848" cy="330" rx="80" ry="104" fill="#e6b27a"/>
-    <ellipse cx="848" cy="330" rx="64" ry="88" fill="url(#mirror)"/>
-    <path d="M818 280l40-40M824 316l56-56" stroke="#fff" stroke-width="7"/>
-    <!-- 時鐘（壁鐘）-->
+    <!-- 壁鐘 -->
+    <circle cx="848" cy="300" r="66" fill="#e6b27a"/>
+    <circle cx="848" cy="300" r="52" fill="#fffaf0"/>
+    <g stroke-width="5"><path d="M848 256v8M848 336v8M804 300h8M884 300h8"/></g>
+    <path d="M848 300V268M848 300l22 14" stroke-width="6"/>
+    <circle cx="848" cy="300" r="5" fill="#6b4a36"/>
+    <path d="M848 366v30" stroke-width="5"/><circle cx="848" cy="404" r="12" fill="#ffd23f"/>
     <!-- 電燈開關 -->
-    <rect x="990" y="384" width="28" height="42" rx="6" fill="#fff"/><rect x="999" y="394" width="10" height="20" rx="3" fill="#e9e3d8" stroke-width="3"/>
+    <rect x="1298" y="296" width="28" height="42" rx="6" fill="#fff"/><rect x="1307" y="306" width="10" height="20" rx="3" fill="#e9e3d8" stroke-width="3"/>
     <!-- 書架 -->
     <rect x="1050" y="170" width="230" height="532" rx="8" fill="#b9794d"/>
     <rect x="1064" y="184" width="202" height="504" rx="4" fill="#8f5a37"/>
@@ -109,12 +115,12 @@
     <ellipse cx="760" cy="890" rx="390" ry="78" fill="url(#rugp)"/>
     <ellipse cx="760" cy="890" rx="350" ry="58" fill="none" stroke="#fff" stroke-width="5" stroke-dasharray="14 10"/>
     <!-- 茶几 -->
-    <path d="M594 842l-10 70M846 842l10 70M630 842l-4 50M810 842l4 50" stroke-width="10"/>
-    <rect x="564" y="818" width="312" height="28" rx="10" fill="#f9a46b"/>
+    <path d="M674 842l-10 70M866 842l10 70M706 842l-4 50M834 842l4 50" stroke-width="10"/>
+    <rect x="644" y="818" width="252" height="28" rx="10" fill="#f9a46b"/>
     <!-- 雜誌 -->
-    <path d="M600 818l8-18h66l-6 18z" fill="#ff6f8f" stroke-width="3"/><path d="M614 808h44" stroke="#fff" stroke-width="3"/>
+    <path d="M666 818l8-18h66l-6 18z" fill="#ff6f8f" stroke-width="3"/><path d="M680 808h44" stroke="#fff" stroke-width="3"/>
     <!-- 遙控器 -->
-    <rect x="770" y="806" width="56" height="14" rx="6" fill="#3b3b42" transform="rotate(-8 798 813)"/><circle cx="782" cy="814" r="3" fill="#ff5a4e" stroke="none"/><circle cx="796" cy="811" r="2.5" fill="#ffd23f" stroke="none"/><circle cx="808" cy="809" r="2.5" fill="#ffd23f" stroke="none"/>
+    <rect x="780" y="806" width="56" height="14" rx="6" fill="#3b3b42" transform="rotate(-8 808 813)" /><circle cx="792" cy="814" r="3" fill="#ff5a4e" stroke="none"/><circle cx="806" cy="811" r="2.5" fill="#ffd23f" stroke="none"/><circle cx="818" cy="809" r="2.5" fill="#ffd23f" stroke="none"/>
     <!-- 扶手椅 -->
     <rect x="1374" y="700" width="200" height="150" rx="34" fill="#f2a516"/>
     <rect x="1356" y="772" width="58" height="136" rx="24" fill="#de9410"/>
