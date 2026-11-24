@@ -107,10 +107,17 @@
     <path d="M1334 216h8M1334 236h8M1380 176h8M1396 176h8M1380 200h8M1396 200h8M1486 196h8M1500 196h8" stroke="#ffd23f" stroke-width="5"/>
     <path d="M1430 84V306M1304 195H1556" stroke="#fff" stroke-width="8" opacity=".7"/>
     <!-- 手機訊號塔（窗外） -->
-    <!-- 便利貼：電話號碼 -->
-    <rect x="1080" y="520" width="92" height="76" rx="4" fill="#fff3a8" transform="rotate(-4 1126 558)"/>
-    <g font-family="Arial Rounded MT Bold,Arial,sans-serif" font-weight="700" font-size="17" fill="#3d4a6b" stroke="none" transform="rotate(-4 1126 558)">
-      <text x="1090" y="552">555-</text><text x="1092" y="576">1234</text>
+    <!-- 便利貼：電話號碼、密碼 -->
+    <rect x="1150" y="372" width="96" height="76" rx="4" fill="#fff3a8" transform="rotate(-4 1198 410)"/>
+    <g font-family="Arial Rounded MT Bold,Arial,sans-serif" font-weight="700" font-size="18" fill="#3d4a6b" stroke="none" transform="rotate(-4 1198 410)">
+      <text x="1160" y="404">555-</text><text x="1162" y="430">1234</text>
+    </g>
+    <path d="M1180 372h36" stroke="#ff8a5b" stroke-width="6" transform="rotate(-4 1198 410)"/>
+    <rect x="1168" y="470" width="88" height="70" rx="4" fill="#ffc8dc" transform="rotate(5 1212 505)"/>
+    <g transform="rotate(5 1212 505)">
+      <rect x="1180" y="486" width="22" height="18" rx="3" fill="#ffd23f" stroke-width="2.5"/>
+      <path d="M1184 486v-6q0-8 7-8q7 0 7 8v6" fill="none" stroke-width="2.5"/>
+      <g fill="#3d4a6b" stroke="none"><circle cx="1184" cy="522" r="4"/><circle cx="1198" cy="522" r="4"/><circle cx="1212" cy="522" r="4"/><circle cx="1226" cy="522" r="4"/><circle cx="1240" cy="522" r="4"/></g>
     </g>
     <!-- 書桌 -->
     <rect x="1080" y="756" width="500" height="20" rx="6" fill="#c8915e"/>

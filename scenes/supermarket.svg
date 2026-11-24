@@ -28,6 +28,7 @@
 <path d="M60 340q14-18 34-10q12-18 34-8q20 2 18 20q-44 6-86-2z" fill="#fff" stroke="none"/>
 <rect x="20" y="300" width="400" height="352" fill="url(#glass)" stroke="none"/>
 <rect x="14" y="294" width="412" height="358" fill="none" stroke-width="8"/><path d="M220 300V652" stroke-width="8"/><rect x="186" y="470" width="10" height="70" rx="5" fill="#c3c9d0"/><rect x="244" y="470" width="10" height="70" rx="5" fill="#c3c9d0"/>
+<g stroke-width="3"><path d="M310 650l-6-40h104l-6 40z" fill="#e5483b"/><path d="M306 622l-6-40h112l-6 40z" fill="#ff6f61"/><path d="M302 594l-6-40h120l-6 40z" fill="#ff8f7f"/><path d="M318 568q38-40 76 0" fill="none" stroke-width="5"/><path d="M314 600h88M318 628h80" stroke="#c0392b"/></g>
 <path d="M700 22v36M980 22v36" stroke-width="3"/>
 <rect x="660" y="56" width="360" height="86" rx="18" fill="#3fa35b"/><rect x="672" y="68" width="336" height="62" rx="12" fill="#56c271"/>
 <g transform="translate(800 74)"><path d="M0 6h14l12 36h40l10-26H20" fill="none" stroke="#fff" stroke-width="7"/><circle cx="30" cy="50" r="5" fill="#fff" stroke="none"/><circle cx="62" cy="50" r="5" fill="#fff" stroke="none"/></g>

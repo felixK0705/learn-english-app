@@ -54,9 +54,9 @@
     <rect x="498" y="624" width="60" height="40" rx="4" fill="#b2dc9d"/><rect x="498" y="674" width="60" height="40" rx="4" fill="#b2dc9d"/><rect x="498" y="724" width="60" height="40" rx="4" fill="#b2dc9d"/>
     <path d="M518 644h20M518 694h20M518 744h20" stroke-width="5"/>
     <!-- 檯燈 -->
-    <path d="M558 590v-10h20" fill="none" stroke-width="5"/>
-    <path d="M562 580l-18 -60l-26 10" fill="none" stroke-width="6"/>
-    <path d="M486 540l30 -30l26 26z" fill="#ff8f6b"/>
+    <path d="M384 590h26" stroke-width="6"/>
+    <path d="M396 588l14-58l26 12" fill="none" stroke-width="6"/>
+    <path d="M454 552l-30-30l-26 26z" fill="#ff8f6b"/>
 
     <!-- 海報 -->
     <rect x="392" y="280" width="156" height="170" rx="6" fill="#ffe08a"/>
