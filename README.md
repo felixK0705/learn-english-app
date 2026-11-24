@@ -37,3 +37,9 @@ js/backdrops.js  情境背景 SVG 插畫     js/quiz.js       測驗
 js/store.js      學習紀錄（localStorage） js/speech.js   語音朗讀
 data/topics/*.json  主題內容            tools/build-index.mjs  索引產生器
 ```
+
+## 授權與出處
+
+- 單字插圖：改作自 [OpenMoji](https://openmoji.org)（CC BY-SA 4.0），描邊顏色改為繪本咖啡色。`icons/e/` 內的檔案依 CC BY-SA 4.0 釋出。重新產生：`npm pack openmoji` 解壓到 `/tmp/om` 後執行 `node tools/build-emoji.mjs`。
+- 介面圖示：[Lucide](https://lucide.dev)（ISC）。
+- 情境插圖、主題圖示與人物：本專案原創。

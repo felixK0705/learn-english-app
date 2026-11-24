@@ -1,3 +1,4 @@
+import { emoSrc } from './emoji.js';
 // 繪本風人物產生器：大頭、腮紅、圓眼、全身，可換髮型／服裝／姿勢／配件
 // person(opts) 回傳 <svg> 字串；viewBox 200×320，腳底在 y=316
 const INK = '#6b4a36';
@@ -81,7 +82,8 @@ export function person(o = {}) {
   const coat = o.coat ? `<path d="M100 166v62" stroke="${INK}" stroke-width="3"/><circle cx="106" cy="186" r="2.5" fill="${INK}"/><circle cx="106" cy="204" r="2.5" fill="${INK}"/>` : '';
   const stripe = o.stripe ? `<path d="M74 192h52M72 208h56" stroke="${o.stripe}" stroke-width="7"/>` : '';
   const accTop = (o.acc || []).map(a => typeof ACC[a] === 'function' ? ACC[a](o.accColor || '#ff5a5a') : ACC[a] || '').join('');
-  const holding = o.holding ? `<text x="${o.pose === "cheer" ? 178 : 100}" y="${o.pose === "cheer" ? 70 : 196}" font-size="46" text-anchor="middle" dominant-baseline="middle">${o.holding}</text>` : '';
+  const hx = o.pose === "cheer" ? 178 : 100, hy = o.pose === "cheer" ? 70 : 196, hsrc = o.holding && emoSrc(o.holding);
+  const holding = !o.holding ? '' : hsrc ? `<image href="${hsrc}" x="${hx - 25}" y="${hy - 25}" width="50" height="50"/>` : `<text x="${hx}" y="${hy}" font-size="46" text-anchor="middle" dominant-baseline="middle">${o.holding}</text>`;
   return `<svg class="pp" viewBox="0 0 200 320" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
     <ellipse cx="100" cy="312" rx="56" ry="8" fill="rgba(80,52,30,.15)"/>
     ${legs}

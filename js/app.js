@@ -1,5 +1,6 @@
 // 情境英語圖鑑 — 主程式（hash 路由 + 各頁面）
 import { store, keyOf } from './store.js';
+import { emo } from './emoji.js';
 import { speak, stop, speechSupported, englishVoices } from './speech.js';
 import { buildScene } from './scene.js';
 import { runQuiz } from './quiz.js';
@@ -78,7 +79,7 @@ function openWord(topicId, w, { silent = false } = {}) {
     modal.innerHTML = `<div class="modal-bg" data-close></div>
     <div class="modal-card" role="dialog" aria-modal="true" aria-label="${esc(w.en)}" style="--c:${c.color};--soft:${c.soft}">
       <button class="icon-btn modal-x" data-close aria-label="關閉">${icon('x')}</button>
-      <div class="wd-art">${w.emoji}</div>
+      <div class="wd-art">${emo(w.emoji)}</div>
       <div class="wd-head">
         <h2>${esc(w.en)}</h2>
         ${w.type === 'phrase' ? '<span class="badge">片語</span>' : ''}
@@ -141,7 +142,7 @@ async function renderHome() {
   <section class="feature">
     ${dailyWord ? `<article class="wotd">
       <div class="wotd-circle"></div>
-      <div class="wotd-art">${dailyWord.emoji}</div>
+      <div class="wotd-art">${emo(dailyWord.emoji)}</div>
       <div class="wotd-txt">
         <span class="wotd-tag">${icon('sparkles')}今日一字</span>
         <h3>${esc(dailyWord.en)}</h3>
@@ -211,7 +212,7 @@ async function renderTopic(id, tab = 'scene') {
   const c = catOf(id), m = topicMeta[id].meta;
   const topic = await getTopic(id);
   store.setLast(id);
-  setTop({ title: `${esc(topic.title)} <span class="tb-zh">${esc(topic.zh)}</span>`, back: true, crumb: `${c.emoji} ${esc(c.zh)}` });
+  setTop({ title: `${esc(topic.title)} <span class="tb-zh">${esc(topic.zh)}</span>`, back: true, crumb: `<span class="crumb-ic">${cArt(c)}</span>${esc(c.zh)}` });
   const total = m.counts.words + m.counts.phrases;
   const pct = Math.round(Math.min(1, store.seenCount(id) / total) * 100);
   view.innerHTML = `<div class="topic-page" style="--c:${c.color};--soft:${c.soft}">
@@ -230,7 +231,7 @@ function tabScene(body, topic) {
     ${html}
     <div class="find-bar" hidden></div>
     ${phrases.length ? `<div class="sec-head"><h3>實用片語</h3><small>點一下聽發音</small></div>
-      <div class="phrase-grid">${phrases.map(p => `<button class="phrase" data-i="${topic.words.indexOf(p)}"><span class="phrase-emoji">${p.emoji}</span><span class="phrase-txt"><b>${esc(p.en)}</b><small>${esc(p.zh)}</small></span>${icon('volume-2', 'phrase-ic')}</button>`).join('')}</div>` : ''}
+      <div class="phrase-grid">${phrases.map(p => `<button class="phrase" data-i="${topic.words.indexOf(p)}"><span class="phrase-emoji">${emo(p.emoji)}</span><span class="phrase-txt"><b>${esc(p.en)}</b><small>${esc(p.zh)}</small></span>${icon('volume-2', 'phrase-ic')}</button>`).join('')}</div>` : ''}
     <div class="sec-head"><h3>情境對話</h3><a class="link" href="#/topic/${topic.id}/talk">全部 ${topic.sentences.length} 句型 ${icon('arrow-right')}</a></div>
     ${dialogueHtml(topic.dialogues[0])}`;
 
@@ -334,7 +335,7 @@ function tabWords(body, topic) {
       <div class="wgrid">${list.map(({ w, i }) => {
         const k = keyOf(topic.id, w.en), fav = store.isFav(k);
         return `<div class="wcard ${store.state.seen[k] ? 'seen' : ''}" data-i="${i}" role="button" tabindex="0" aria-label="${esc(w.en)}，點擊發音">
-          <span class="wcard-art">${w.emoji}</span>
+          <span class="wcard-art">${emo(w.emoji)}</span>
           <div class="wcard-txt"><b>${esc(w.en)}</b>${kkHtml(w)}${store.settings().showZh ? `<span class="zh">${esc(w.zh)}</span>` : ''}</div>
           <div class="wcard-actions">
             <button class="icon-btn sm ${fav ? 'active' : ''}" data-fav="${i}" aria-label="收藏">${icon(fav ? 'bookmark-check' : 'bookmark')}</button>
@@ -420,7 +421,7 @@ async function renderReview() {
     <div id="favList" class="wgrid"></div></div>`;
   const favWords = await resolveKeys(favKeys);
   const favList = $('#favList');
-  favList.innerHTML = favWords.map(({ w }, n) => `<div class="wcard" data-n="${n}" role="button" tabindex="0"><span class="wcard-art">${w.emoji}</span><div class="wcard-txt"><b>${esc(w.en)}</b>${kkHtml(w)}<span class="zh">${esc(w.zh)}</span></div><div class="wcard-actions"><button class="icon-btn sm" data-more="${n}" aria-label="詳細">${icon('chevron-right')}</button></div></div>`).join('')
+  favList.innerHTML = favWords.map(({ w }, n) => `<div class="wcard" data-n="${n}" role="button" tabindex="0"><span class="wcard-art">${emo(w.emoji)}</span><div class="wcard-txt"><b>${esc(w.en)}</b>${kkHtml(w)}<span class="zh">${esc(w.zh)}</span></div><div class="wcard-actions"><button class="icon-btn sm" data-more="${n}" aria-label="詳細">${icon('chevron-right')}</button></div></div>`).join('')
     || `<div class="empty-card">${icon('bookmark')}<p>還沒有收藏的單字<br><small>在單字卡上按書籤圖示，或測驗答錯的字，都會加入複習清單</small></p></div>`;
   favList.onclick = e => {
     const more = e.target.closest('[data-more]'), card = e.target.closest('.wcard');
@@ -456,8 +457,8 @@ function flashcards(cards, zhFirst) {
     view.innerHTML = `<div class="fc-wrap">
       <div class="fc-top"><span>${i + 1} / ${cards.length}</span><div class="progress"><i style="width:${(i / cards.length) * 100}%"></i></div></div>
       <div class="fc" tabindex="0" role="button" aria-label="翻面"><div class="fc-in">
-        <div class="fc-face front"><div class="fc-art">${zhFirst ? '🤔' : w.emoji}</div><h3>${zhFirst ? esc(w.zh) : esc(w.en)}</h3>${zhFirst ? '' : kkHtml(w)}<small class="muted">點卡片翻面</small></div>
-        <div class="fc-face back"><div class="fc-art">${w.emoji}</div><h3>${esc(w.en)}</h3>${kkHtml(w)}<p class="fc-zh">${esc(w.zh)}</p>${w.ex ? `<p class="fc-ex">${esc(w.ex)}<br><small>${esc(w.exZh || '')}</small></p>` : ''}</div>
+        <div class="fc-face front"><div class="fc-art">${emo(zhFirst ? '🤔' : w.emoji)}</div><h3>${zhFirst ? esc(w.zh) : esc(w.en)}</h3>${zhFirst ? '' : kkHtml(w)}<small class="muted">點卡片翻面</small></div>
+        <div class="fc-face back"><div class="fc-art">${emo(w.emoji)}</div><h3>${esc(w.en)}</h3>${kkHtml(w)}<p class="fc-zh">${esc(w.zh)}</p>${w.ex ? `<p class="fc-ex">${esc(w.ex)}<br><small>${esc(w.exZh || '')}</small></p>` : ''}</div>
       </div></div>
       <div class="fc-btns">
         <button class="btn" data-say="${esc(w.en)}">${icon('volume-2')}發音</button>
@@ -487,7 +488,7 @@ async function renderSearch(q = '') {
     hits = data.filter(r => r[0].toLowerCase().includes(s) || r[1].includes(s))
       .sort((a, b) => (b[0].toLowerCase() === s) - (a[0].toLowerCase() === s) || b[0].toLowerCase().startsWith(s) - a[0].toLowerCase().startsWith(s) || a[0].length - b[0].length).slice(0, 120);
     res.innerHTML = hits.length ? `<p class="muted small">找到 ${hits.length} 筆${hits.length === 120 ? '以上' : ''}・點一下聽發音</p>` + hits.map((r, n) => `<div class="sr" data-n="${n}" role="button" tabindex="0">
-      <span class="sr-art" style="background:${catOf(r[3]).soft}">${r[2]}</span>
+      <span class="sr-art" style="background:${catOf(r[3]).soft}">${emo(r[2])}</span>
       <div class="sr-txt"><b>${esc(r[0])}</b><span>${esc(r[1])}</span><small>${r[4] === 's' ? '句型' : r[4] === 'p' ? '片語' : '單字'}・${esc(topicMeta[r[3]]?.meta.zh || '')}</small></div>
       ${r[4] !== 's' ? `<button class="icon-btn sm" data-more="${n}" aria-label="詳細">${icon('chevron-right')}</button>` : `<a class="icon-btn sm" href="#/topic/${r[3]}/talk" aria-label="前往主題">${icon('chevron-right')}</a>`}
     </div>`).join('') : `<div class="empty-card">${icon('search')}<p>找不到「${esc(s)}」相關的內容</p></div>`;
@@ -554,6 +555,7 @@ function renderMe() {
         </div>
       </section>
       <p class="foot">情境英語圖鑑 · ${INDEX.totals.entries} 筆內容 · 資料版本 ${INDEX.generated.slice(0, 10)}</p>
+      <p class="foot">單字插圖改作自 <a href="https://openmoji.org" target="_blank" rel="noopener">OpenMoji</a>（CC BY-SA 4.0）· 圖示 <a href="https://lucide.dev" target="_blank" rel="noopener">Lucide</a>（ISC）</p>
     </div></div>`;
   const me = $('.me-grid');
   me.addEventListener('change', e => {

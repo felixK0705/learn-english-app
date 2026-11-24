@@ -3,6 +3,7 @@ import { store, keyOf } from './store.js';
 import { speak } from './speech.js';
 import { esc, $, shuffle, sample, beep, burst } from './util.js';
 import { icon } from './icons.js';
+import { emo } from './emoji.js';
 
 const TYPES = ['pic', 'listen', 'zh', 'spell', 'order'];
 
@@ -38,9 +39,9 @@ export function runQuiz(body, topic, { onDone }) {
     onDone(pts); store.activity(qs.length);
     const stars = [1, 2, 3].map(n => `<span class="${pts >= [30, 60, 90][n - 1] ? 'on' : ''}">${icon('star')}</span>`).join('');
     body.innerHTML = `<div class="result-card">
-      <div class="qs-art">${pts >= 60 ? '🏆' : '📚'}</div><div class="stars">${stars}</div>
+      <div class="qs-art">${emo(pts >= 60 ? '🏆' : '📚')}</div><div class="stars">${stars}</div>
       <h3>${pts} 分</h3><p class="muted">答對 ${score} / ${qs.length} 題${pts === 100 ? '，太厲害了！' : pts >= 60 ? '，做得好！' : '，再接再厲！'}</p>
-      ${wrong.length ? `<div class="wrong-list"><h4>這些要再加強・已加入複習清單</h4>${wrong.map(w => `<button class="wl-row" data-say="${esc(w.en)}"><span class="wl-art">${w.emoji || '💬'}</span><span class="wl-txt"><b>${esc(w.en)}</b><small>${esc(w.zh)}</small></span>${icon('volume-2')}</button>`).join('')}</div>` : ''}
+      ${wrong.length ? `<div class="wrong-list"><h4>這些要再加強・已加入複習清單</h4>${wrong.map(w => `<button class="wl-row" data-say="${esc(w.en)}"><span class="wl-art">${emo(w.emoji || '💬')}</span><span class="wl-txt"><b>${esc(w.en)}</b><small>${esc(w.zh)}</small></span>${icon('volume-2')}</button>`).join('')}</div>` : ''}
       <div class="row"><button class="btn primary lg" data-again>${icon('rotate-ccw')}再玩一次</button><a class="btn lg" href="#/review">${icon('layers')}去複習</a></div></div>`;
     window.scrollTo({ top: 0, behavior: 'smooth' });
     if (pts >= 60) { const r = $('.qs-pic', body).getBoundingClientRect(); burst(r.left + r.width / 2, r.top + r.height / 2); }
@@ -69,11 +70,11 @@ export function runQuiz(body, topic, { onDone }) {
     const head = `<div class="q-prog"><span>${i + 1} / ${qs.length}</span><div class="progress"><i style="width:${(i / qs.length) * 100}%"></i></div><span class="q-score">${icon('circle-check')}${score}</span></div>`;
     const next = `<div class="q-feedback" hidden><span class="qf-ic"></span><div class="qf-txt"></div><button class="btn lg q-next">${i + 1 === qs.length ? '看結果' : '繼續'}${icon('arrow-right')}</button></div>`;
     if (q.type === 'pic' || q.type === 'listen' || q.type === 'zh') {
-      const prompt = q.type === 'pic' ? `<p class="q-ask">這是什麼？</p><div class="q-pic">${q.w.emoji}</div>`
+      const prompt = q.type === 'pic' ? `<p class="q-ask">這是什麼？</p><div class="q-pic">${emo(q.w.emoji)}</div>`
         : q.type === 'listen' ? `<p class="q-ask">聽聽看，是哪一個？</p><button class="q-listen" data-replay aria-label="再聽一次">${icon('volume-2')}</button>`
-        : `<p class="q-ask">「${esc(q.w.zh)}」的英文是？</p><div class="q-pic sm">${q.w.emoji}</div>`;
+        : `<p class="q-ask">「${esc(q.w.zh)}」的英文是？</p><div class="q-pic sm">${emo(q.w.emoji)}</div>`;
       const opt = o => q.type === 'listen'
-        ? `<button class="opt pic" data-en="${esc(o.en)}"><span>${o.emoji}</span><small>${esc(o.zh.split(/[；;]/)[0])}</small></button>`
+        ? `<button class="opt pic" data-en="${esc(o.en)}"><span>${emo(o.emoji)}</span><small>${esc(o.zh.split(/[；;]/)[0])}</small></button>`
         : `<button class="opt" data-en="${esc(o.en)}">${esc(o.en)}</button>`;
       body.innerHTML = `<div class="quiz">${head}${prompt}<div class="opts ${q.type === 'listen' ? 'grid' : ''}">${q.opts.map(opt).join('')}</div>${next}</div>`;
       if (q.type === 'listen') { speak(q.w.en); $('[data-replay]', body).onclick = () => speak(q.w.en); }
@@ -89,7 +90,7 @@ export function runQuiz(body, topic, { onDone }) {
       const letters = q.w.en.toLowerCase().split('');
       const extra = sample('abcdefghijklmnoprstuwy'.split('').filter(c => !letters.includes(c)), 2);
       const tiles = shuffle([...letters, ...extra]);
-      body.innerHTML = `<div class="quiz">${head}<p class="q-ask">拼出這個單字：${esc(q.w.zh)}</p><div class="q-pic">${q.w.emoji}</div>
+      body.innerHTML = `<div class="quiz">${head}<p class="q-ask">拼出這個單字：${esc(q.w.zh)}</p><div class="q-pic">${emo(q.w.emoji)}</div>
         <div class="spell-slots">${letters.map(() => '<span class="slot"></span>').join('')}</div>
         <div class="tiles">${tiles.map((c, n) => `<button class="tile" data-n="${n}">${c}</button>`).join('')}</div>
         <div class="row"><button class="btn sm" data-undo>${icon('delete')}刪除</button><button class="btn sm" data-hint>${icon('volume-2')}聽提示</button></div>${next}</div>`;

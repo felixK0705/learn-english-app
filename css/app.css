@@ -694,3 +694,8 @@ input.switch:checked::after { transform: translateX(20px); }
 .cat-title .t-ico { width: 74%; height: 74%; }
 .mc-ic .t-ico, .prog-ic .t-ico { width: 74%; height: 74%; }
 .qs-art .t-ico { width: 1em; height: 1em; }
+
+/* emoji 插圖 */
+img.emo { display: inline-block; width: 1.15em; height: 1.15em; vertical-align: -0.2em; object-fit: contain; pointer-events: none; }
+.si-obj img.emo, .sp-p img.emo { display: block; width: 1.06em; height: 1.06em; vertical-align: 0; }
+.crumb-ic { display: inline-block; width: 1.25em; height: 1.25em; vertical-align: -0.28em; margin-right: 4px; }
