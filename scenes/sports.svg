@@ -1,0 +1,132 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1100">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#a9dcf7"/><stop offset="1" stop-color="#def2fc"/></linearGradient>
+    <pattern id="grass" width="120" height="60" patternUnits="userSpaceOnUse"><rect width="120" height="60" fill="#8fd16a"/><rect width="60" height="60" fill="#9bd977"/></pattern>
+    <pattern id="crowd" width="36" height="30" patternUnits="userSpaceOnUse"><rect width="36" height="30" fill="#c9d3e6"/><circle cx="9" cy="12" r="7" fill="#ff8fb1"/><circle cx="27" cy="12" r="7" fill="#ffd23f"/><rect x="2" y="20" width="14" height="10" fill="#5b8def"/><rect x="20" y="20" width="14" height="10" fill="#ff8f6b"/></pattern>
+    <pattern id="water" width="80" height="30" patternUnits="userSpaceOnUse"><rect width="80" height="30" fill="#5ec4ee"/><path d="M0 15q10-8 20 0t20 0t20 0t20 0" fill="none" stroke="#9fe0f8" stroke-width="3"/></pattern>
+    <pattern id="courtp" width="80" height="40" patternUnits="userSpaceOnUse"><rect width="80" height="40" fill="#f0b46a"/><path d="M0 39H80" stroke="#dc9c52" stroke-width="2.5"/></pattern>
+    <pattern id="brick" width="60" height="30" patternUnits="userSpaceOnUse"><rect width="60" height="30" fill="#c9b3f0"/><path d="M0 29H60M30 0V15M0 15H60M60 15V30" stroke="#b39ae6" stroke-width="2.5"/></pattern>
+  </defs>
+  <g stroke="#6b4a36" stroke-width="4" stroke-linejoin="round" stroke-linecap="round">
+    <rect width="1600" height="1100" fill="url(#sky)" stroke="none"/>
+    <path d="M220 90q8-24 32-18q12-24 42-12q28-4 30 24q22 2 14 22h-118z" fill="#fff" stroke="none" transform="translate(320 -40)"/>
+    <!-- mountains -->
+    <path d="M1150 340L1330 70l120 120l60-60l120 140V340z" fill="#9fb6d8"/>
+    <path d="M1288 120l42-50l42 50l-20 14l-22-14l-20 16z" fill="#fff"/>
+    <path d="M1482 160l28-30l36 42l-18 8l-18-12z" fill="#fff"/>
+    <!-- frozen pond at mountain foot -->
+    <ellipse cx="1420" cy="300" rx="170" ry="36" fill="#d6f1fb"/>
+    <path d="M1300 300q40-14 80 0M1440 292q50-12 100 2" fill="none" stroke="#a8dcef" stroke-width="4"/>
+    <path d="M1546 316v-28h34v28" fill="none" stroke="#ff5a6e" stroke-width="5"/>
+    <!-- ski run -->
+    <path d="M1330 74q-60 90-50 190h80q0-110-30-190z" fill="#f4f8ff"/>
+    <g fill="#3fa35b" stroke-width="3"><path d="M1190 290l20-50l20 50z"/><path d="M1440 250l18-44l18 44z"/><path d="M1500 260l18-44l18 44z"/></g>
+    <!-- golf hill -->
+    <path d="M380 340q120-110 340-40V340z" fill="#7cc65a"/>
+    <ellipse cx="560" cy="282" rx="80" ry="16" fill="#a8e08a"/>
+    <!-- stadium stands -->
+    <path d="M700 330V170q225-90 450 0V330z" fill="#e1e7f2"/>
+    <path d="M716 330V186q209-80 418 0V330z" fill="url(#crowd)"/>
+    <path d="M716 230q209-70 418 0M716 280q209-60 418 0" fill="none" stroke="#fff" stroke-width="6"/>
+    <path d="M700 170q225-90 450 0" fill="none" stroke-width="5"/>
+    <g stroke-width="3"><path d="M740 150V100l30 10l-30 10" fill="#ff5a6e"/><path d="M1110 150V100l30 10l-30 10" fill="#5b8def"/></g>
+    <!-- scoreboard -->
+    <path d="M870 120V90M980 120V90" stroke-width="8"/>
+    <rect x="820" y="12" width="210" height="84" rx="10" fill="#2e2b3a"/>
+    <rect x="836" y="26" width="76" height="56" rx="6" fill="#111"/><rect x="938" y="26" width="76" height="56" rx="6" fill="#111"/>
+    <path d="M860 40v28M884 40h-16v14h16v14h-16" fill="none" stroke="#ff5a6e" stroke-width="5"/>
+    <path d="M966 40h20v28M966 68h20" fill="none" stroke="#ffd23f" stroke-width="5"/>
+    <circle cx="925" cy="46" r="3" fill="#fff" stroke="none"/><circle cx="925" cy="62" r="3" fill="#fff" stroke="none"/>
+
+    <!-- field -->
+    <rect y="330" width="1600" height="360" fill="url(#grass)" stroke="none"/>
+    <path d="M0 330H1600" />
+    <path d="M30 360H1180M600 360V578" stroke="#fff" stroke-width="5" fill="none"/>
+    <ellipse cx="600" cy="460" rx="70" ry="34" fill="none" stroke="#fff" stroke-width="5"/>
+    <!-- soccer goal -->
+    <path d="M40 540V400h150v140" fill="none" stroke="#fff" stroke-width="10"/>
+    <path d="M40 540V400h150v140" fill="none" stroke-width="3"/>
+    <g stroke="#e0e8f0" stroke-width="2"><path d="M55 404V540"/><path d="M70 404V540"/><path d="M85 404V540"/><path d="M100 404V540"/><path d="M115 404V540"/><path d="M130 404V540"/><path d="M145 404V540"/><path d="M160 404V540"/><path d="M175 404V540"/><path d="M44 419H186"/><path d="M44 434H186"/><path d="M44 449H186"/><path d="M44 464H186"/><path d="M44 479H186"/><path d="M44 494H186"/><path d="M44 509H186"/><path d="M44 524H186"/></g>
+    <!-- baseball base + mound -->
+    <ellipse cx="1110" cy="580" rx="80" ry="12" fill="#e2b27a" stroke="none"/>
+    <path d="M1150 578l14-7l14 7l-14 7z" fill="#fff" stroke-width="3"/>
+    <!-- bat in batter's hands -->
+    <path d="M1117.5 515.2L1157.5 441.20000000000005" stroke="#c98a50" stroke-width="13"/>
+    <path d="M1117.5 515.2L1157.5 441.20000000000005" stroke="#e9b278" stroke-width="7"/>
+    <!-- coach clipboard -->
+    <rect x="895.0" y="468.8" width="34" height="44" rx="4" fill="#c98a50" transform="rotate(10 912.0 490.8)"/>
+    <rect x="901.0" y="474.8" width="22" height="30" rx="2" fill="#fff" stroke-width="2.5" transform="rotate(10 912.0 490.8)"/>
+    <!-- track -->
+    <rect y="584" width="1210" height="106" fill="#e8805a"/>
+    <path d="M0 620H1210M0 655H1210" stroke="#fff" stroke-width="4"/>
+    <path d="M0 584H1210M0 690H1210" />
+    <!-- finish line -->
+    <g stroke="none"><rect x="750" y="586" width="12" height="13" fill="#2e2b3a"/><rect x="762" y="599" width="12" height="13" fill="#2e2b3a"/><rect x="750" y="612" width="12" height="13" fill="#2e2b3a"/><rect x="762" y="625" width="12" height="13" fill="#2e2b3a"/><rect x="750" y="638" width="12" height="13" fill="#2e2b3a"/><rect x="762" y="651" width="12" height="13" fill="#2e2b3a"/><rect x="750" y="664" width="12" height="13" fill="#2e2b3a"/><rect x="762" y="677" width="12" height="13" fill="#2e2b3a"/><rect x="762" y="586" width="12" height="13" fill="#fff"/><rect x="750" y="599" width="12" height="13" fill="#fff"/><rect x="762" y="612" width="12" height="13" fill="#fff"/><rect x="750" y="625" width="12" height="13" fill="#fff"/><rect x="762" y="638" width="12" height="13" fill="#fff"/><rect x="750" y="651" width="12" height="13" fill="#fff"/><rect x="762" y="664" width="12" height="13" fill="#fff"/><rect x="750" y="677" width="12" height="13" fill="#fff"/></g>
+    <path d="M750 584V540M774 584V540" stroke-width="5"/>
+    <path d="M750 550h24" stroke="#ffd23f" stroke-width="5"/>
+    <!-- ===== bottom: pool ===== -->
+    <rect y="690" width="1600" height="410" fill="#d9dfe8" stroke="none"/>
+    <path d="M0 690H1600"/>
+    <rect x="16" y="730" width="320" height="350" rx="16" fill="#f2f5f8"/>
+    <rect x="34" y="748" width="284" height="314" rx="10" fill="url(#water)"/>
+    <g stroke="#ff5a6e" stroke-width="5" stroke-dasharray="10 10"><path d="M34 852H318M34 956H318"/></g>
+    <!-- diving board / ladder -->
+    <path d="M300 740v-30M318 740v-30M300 716h18M300 728h18" stroke="#8d98a3" stroke-width="5"/>
+
+    <!-- ===== basketball court ===== -->
+    <rect x="350" y="700" width="600" height="390" fill="url(#courtp)"/>
+    <ellipse cx="650" cy="1000" rx="90" ry="34" fill="none" stroke="#fff" stroke-width="5"/>
+    <path d="M350 900H950M650 900V1090" stroke="#fff" stroke-width="5"/>
+    
+    <!-- hoop -->
+    <!-- bench with sneakers -->
+    
+    <!-- racket in kid B's hand -->
+    <path d="M829.0 976.0L865.0 924.0" stroke="#2e2b3a" stroke-width="7"/>
+    <ellipse cx="881.0" cy="894.0" rx="24" ry="32" fill="#fff" stroke="#ff5a6e" stroke-width="6" transform="rotate(34 881.0 894.0)"/>
+    <g transform="rotate(34 881.0 894.0)" stroke="#c3c9d0" stroke-width="1.5"><path d="M871.0 868.0v52M881.0 864.0v60M891.0 868.0v52M861.0 884.0h40M859.0 896.0h44M861.0 908.0h40"/></g>
+
+    <!-- ===== podium ===== -->
+    <rect x="960" y="900" width="76" height="180" fill="#e3e8f0"/>
+    <rect x="1030" y="860" width="100" height="220" fill="#ffd23f"/>
+    <rect x="1126" y="930" width="74" height="150" fill="#ffb36b"/>
+    <path d="M1060 900l0 0" />
+    <circle cx="1080" cy="960" r="22" fill="#fff" stroke-width="3"/><path d="M1076 950l6-4v28" fill="none" stroke-width="4"/>
+    <circle cx="998" cy="960" r="16" fill="#fff" stroke-width="3"/><path d="M991 955q8-8 14 0q2 6-14 14h16" fill="none" stroke-width="3"/>
+    <circle cx="1163" cy="990" r="16" fill="#fff" stroke-width="3"/><path d="M1157 983q10-6 13 2q-2 5-7 5q7 0 7 5q-4 7-13 4" fill="none" stroke-width="3"/>
+    <!-- flags string -->
+    <path d="M880 1094h320" stroke-width="3"/>
+    <g stroke-width="3"></g>
+
+    <!-- ===== sports hall (3 storeys, open front) ===== -->
+    <rect x="1210" y="380" width="390" height="720" fill="url(#brick)"/>
+    <path d="M1196 386h420l-26-40h-368z" fill="#9b7be0"/>
+    <path d="M1300 346v-30l40 12l-40 12" fill="#ffd23f" stroke-width="3"/>
+    <rect x="1222" y="396" width="176" height="220" rx="8" fill="#fff4dc"/>
+    <rect x="1412" y="396" width="176" height="220" rx="8" fill="#fff4dc"/>
+    <rect x="1222" y="632" width="176" height="220" rx="8" fill="#fff4dc"/>
+    <rect x="1412" y="632" width="176" height="220" rx="8" fill="#fff4dc"/>
+    <rect x="1222" y="868" width="176" height="220" rx="8" fill="#fff4dc"/>
+    <rect x="1412" y="868" width="176" height="220" rx="8" fill="#fff4dc"/>
+    <!-- boxing ring ropes -->
+    <path d="M1234 560h152M1234 586h152M1234 534h152" stroke="#ff5a6e" stroke-width="4"/><path d="M1236 528v84M1384 528v84" stroke-width="7"/>
+    <rect x="1230" y="604" width="160" height="12" fill="#5bc0eb"/>
+    <!-- karate mat -->
+    <rect x="1420" y="596" width="160" height="16" rx="3" fill="#8bd16a" stroke-width="3"/>
+    <path d="M1460 470h80" stroke="#c98a50" stroke-width="5"/>
+    <!-- bowling lane -->
+    <path d="M1236 848l70-80h70v80z" fill="#e9b278"/><path d="M1300 848l60-70" stroke="#fff" stroke-width="3"/>
+    <!-- table tennis table -->
+    <rect x="1426" y="800" width="146" height="14" rx="3" fill="#3fa35b" stroke-width="3"/><path d="M1499 786v28" stroke="#fff" stroke-width="5"/><path d="M1499 786v28" stroke-width="2"/><path d="M1440 814v34M1558 814v34" stroke-width="5"/>
+    <!-- gymnastics mat -->
+    <rect x="1236" y="1060" width="148" height="18" rx="9" fill="#5bc0eb" stroke-width="3"/>
+    <!-- badminton net -->
+    <path d="M1426 1080h146M1499 1080v-80" stroke-width="4"/><path d="M1432 1006h134" stroke="#fff" stroke-width="3"/><g stroke="#c3c9d0" stroke-width="1.5"><path d="M1432 1014h134M1432 1022h134M1432 1030h134"/></g>
+    <rect x="1222" y="396" width="176" height="220" rx="8" fill="none" stroke-width="5"/>
+    <rect x="1412" y="396" width="176" height="220" rx="8" fill="none" stroke-width="5"/>
+    <rect x="1222" y="632" width="176" height="220" rx="8" fill="none" stroke-width="5"/>
+    <rect x="1412" y="632" width="176" height="220" rx="8" fill="none" stroke-width="5"/>
+    <rect x="1222" y="868" width="176" height="220" rx="8" fill="none" stroke-width="5"/>
+    <rect x="1412" y="868" width="176" height="220" rx="8" fill="none" stroke-width="5"/>
+  </g>
+</svg>

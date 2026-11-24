@@ -1,0 +1,174 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1100">
+  <defs>
+    <pattern id="wall" width="80" height="80" patternUnits="userSpaceOnUse"><rect width="80" height="80" fill="#e9e6fb"/><path d="M40 0V80" stroke="#ddd8f6" stroke-width="18"/></pattern>
+    <pattern id="floor" width="160" height="50" patternUnits="userSpaceOnUse"><rect width="160" height="50" fill="#d9b48a"/><path d="M0 49H160M80 0V50" stroke="#c39a6c" stroke-width="3"/></pattern>
+    <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#c9ecfb"/><stop offset="1" stop-color="#9fd6f2"/></linearGradient>
+    <linearGradient id="scr" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#7fc6f0"/><stop offset="1" stop-color="#5aa6e0"/></linearGradient>
+  </defs>
+  <g stroke="#6b4a36" stroke-width="4" stroke-linejoin="round" stroke-linecap="round">
+    <rect width="1600" height="1100" fill="#e9e6fb" stroke="none"/>
+    <rect width="1600" height="760" fill="url(#wall)" stroke="none"/>
+    <rect y="760" width="1600" height="340" fill="url(#floor)" stroke="none"/>
+    <rect y="746" width="1600" height="18" fill="#c9c0f0"/>
+    <!-- rug -->
+    <ellipse cx="1180" cy="1050" rx="330" ry="44" fill="#ffd0a8"/>
+    <ellipse cx="1180" cy="1050" rx="290" ry="32" fill="none" stroke="#ff9f6b" stroke-width="5"/>
+
+    <!-- window -->
+    <rect x="60" y="300" width="290" height="250" rx="12" fill="#fff"/>
+    <rect x="76" y="316" width="258" height="218" rx="6" fill="url(#glass)"/>
+    <path d="M110 380q14-20 36-12q12-22 38-10q24 0 22 24q-48 6-96-2z" fill="#fff" stroke="none"/>
+    <path d="M76 480q60-34 130-8t128-10V534H76z" fill="#9bd77f" stroke="none"/>
+    <path d="M205 316V534M76 425H334" stroke="#fff" stroke-width="10"/>
+    <!-- curtain rod -->
+    <path d="M40 290H370" stroke-width="8"/>
+    <path d="M46 294q16 120 4 250q30-6 48-56q-24-90-12-194z" fill="#ffb4c6"/>
+    <path d="M364 294q-16 120-4 250q-30-6-48-56q24-90 12-194z" fill="#ffb4c6"/>
+
+    <!-- wall clock-like Wi-Fi shelf -->
+    <path d="M1170 214H1570" stroke-width="10"/>
+    <path d="M1190 214l14 28M1550 214l-14 28" stroke-width="6"/>
+    <!-- router (internet) -->
+    <rect x="1220" y="170" width="140" height="44" rx="10" fill="#fff"/>
+    <path d="M1240 170l-14-60M1340 170l14-60" stroke-width="6"/>
+    <g stroke-width="2.5"><circle cx="1250" cy="192" r="5" fill="#8bd16a"/><circle cx="1270" cy="192" r="5" fill="#8bd16a"/><circle cx="1290" cy="192" r="5" fill="#ffd23f"/></g>
+    <circle cx="1334" cy="192" r="12" fill="#7ad0f0" stroke-width="3"/><path d="M1322 192h24M1334 180q-8 12 0 24q8-12 0-24" fill="none" stroke-width="2"/>
+    <!-- wifi waves -->
+    <g fill="none" stroke="#3fa35b" stroke-width="7">
+      <path d="M1272 104q18-16 36 0"/><path d="M1256 86q34-30 68 0"/><path d="M1240 68q50-44 100 0"/>
+    </g>
+    <circle cx="1290" cy="118" r="7" fill="#3fa35b" stroke="none"/>
+    <!-- software box + books -->
+    <rect x="1420" y="118" width="70" height="96" rx="6" fill="#ff8f6b"/>
+    <circle cx="1455" cy="158" r="20" fill="#e9eef3"/><circle cx="1455" cy="158" r="6" fill="#ff8f6b"/>
+    <path d="M1430 198h50" stroke="#fff" stroke-width="5"/>
+    <g stroke-width="3"><rect x="1500" y="150" width="18" height="64" fill="#5bc0eb"/><rect x="1520" y="160" width="16" height="54" fill="#ffd23f"/><rect x="1538" y="146" width="18" height="68" fill="#8bd16a"/></g>
+
+    <!-- sofa -->
+    <rect x="40" y="700" width="420" height="190" rx="40" fill="#5bc0eb"/>
+    <rect x="22" y="780" width="70" height="170" rx="30" fill="#7fd0f2"/>
+    <rect x="408" y="780" width="70" height="170" rx="30" fill="#7fd0f2"/>
+    <rect x="80" y="860" width="340" height="86" rx="18" fill="#7fd0f2"/>
+    <path d="M250 866v74" stroke-width="3"/>
+    <path d="M60 950v24M440 950v24" stroke-width="10"/>
+
+    <!-- ===== desk ===== -->
+    <path d="M572 680V900M1090 680V900" stroke-width="14"/>
+    <rect x="930" y="668" width="150" height="190" rx="8" fill="#e9b278"/>
+    <rect x="944" y="684" width="122" height="74" rx="6" fill="#f2c48d"/><rect x="944" y="770" width="122" height="74" rx="6" fill="#f2c48d"/>
+    <path d="M986 720h38M986 806h38" stroke-width="6"/>
+    <path d="M548 640h564l-10 36H558z" fill="#f2c48d"/>
+    <path d="M550 642h560" stroke-width="5"/>
+    <!-- monitor -->
+    <path d="M720 600h52v40h-52z" fill="#8d98a3"/>
+    <rect x="676" y="634" width="140" height="12" rx="5" fill="#8d98a3"/>
+    <rect x="548" y="236" width="396" height="372" rx="16" fill="#2e2b3a"/>
+    <rect x="564" y="252" width="364" height="324" rx="6" fill="url(#scr)"/>
+    <circle cx="746" cy="592" r="5" fill="#8bd16a" stroke="none"/>
+    <!-- desktop icons -->
+    <g stroke-width="3">
+      <rect x="580" y="270" width="46" height="42" rx="10" fill="#ffd23f"/><path d="M603 278l5 10l11 2l-8 8l2 11l-10-5l-10 5l2-11l-8-8l11-2z" fill="#fff" stroke-width="2"/>
+      <path d="M580 346h18l6 6h22v30h-46z" fill="#ffcf5a"/>
+      <rect x="586" y="410" width="34" height="44" rx="3" fill="#fff"/><path d="M592 424h22M592 434h22M592 444h14" stroke="#9fb3c8" stroke-width="2.5"/>
+    </g>
+    <!-- browser window -->
+    <rect x="642" y="264" width="272" height="300" rx="8" fill="#fff"/>
+    <path d="M642 290h272" stroke-width="3"/>
+    <g stroke-width="2"><circle cx="656" cy="277" r="5" fill="#ff5a6e"/><circle cx="672" cy="277" r="5" fill="#ffd23f"/><circle cx="688" cy="277" r="5" fill="#8bd16a"/></g>
+    <rect x="652" y="298" width="252" height="20" rx="10" fill="#eef1f6" stroke-width="2.5"/>
+    <path d="M664 308h90" stroke="#9fb3c8" stroke-width="4"/>
+    <!-- website -->
+    <rect x="652" y="328" width="252" height="70" rx="6" fill="#ffd0e0" stroke-width="3"/>
+    <path d="M664 388l30-36l24 22l20-14l34 28z" fill="#8bd16a" stroke-width="2.5"/><circle cx="870" cy="350" r="12" fill="#ffd23f" stroke-width="2.5"/>
+    <path d="M664 416h170M664 432h200M664 448h120" stroke="#c3c9d0" stroke-width="6"/>
+    <path d="M664 470h104" stroke="#2f7ae5" stroke-width="6"/><path d="M664 480h104" stroke="#2f7ae5" stroke-width="2.5"/>
+    <rect x="664" y="500" width="110" height="36" rx="18" fill="#3fbf9f" stroke-width="3"/>
+    <path d="M690 518h58" stroke="#fff" stroke-width="5"/>
+    <!-- mouse cursor -->
+    <path d="M716 522l0 30l8-8l6 12l6-3l-6-12l11 0z" fill="#fff" stroke-width="2.5"/>
+    <!-- webcam -->
+    <rect x="714" y="206" width="64" height="32" rx="14" fill="#f1f3f6"/>
+    <circle cx="746" cy="222" r="10" fill="#2e2b3a"/><circle cx="749" cy="219" r="3" fill="#fff" stroke="none"/>
+    <!-- keyboard -->
+    <path d="M610 660h270l12 16H598z" fill="#f1f3f6"/>
+    <g stroke-width="2" fill="#c3c9d0"><path d="M616 664h250M612 670h258" stroke="#c3c9d0" stroke-width="4"/></g>
+    <!-- tower (computer) -->
+    <rect x="962" y="470" width="110" height="172" rx="10" fill="#4a4458"/>
+    <rect x="976" y="486" width="82" height="12" rx="4" fill="#2e2b3a" stroke-width="3"/>
+    <rect x="976" y="506" width="82" height="12" rx="4" fill="#2e2b3a" stroke-width="3"/>
+    <circle cx="1017" cy="600" r="10" fill="#7ad0f0" stroke-width="3"/>
+    <rect x="990" y="540" width="22" height="8" rx="2" fill="#2e2b3a" stroke-width="2"/><rect x="1020" y="540" width="22" height="8" rx="2" fill="#2e2b3a" stroke-width="2"/>
+    <!-- usb drive plugged in -->
+
+    <!-- headphones on desk stand -->
+
+    <!-- desk lamp-ish plant -->
+    <g transform="translate(56 0)">
+    <!-- printer cabinet -->
+    <rect x="1124" y="640" width="200" height="190" rx="8" fill="#f2c48d"/>
+    <rect x="1138" y="656" width="172" height="76" rx="6" fill="#f9d7ac"/><rect x="1138" y="742" width="172" height="74" rx="6" fill="#f9d7ac"/>
+    <path d="M1206 692h36M1206 778h36" stroke-width="6"/>
+    <rect x="1110" y="628" width="228" height="16" rx="6" fill="#e9b278"/>
+    <!-- printer -->
+    <path d="M1164 520h120v40h-120z" fill="#fff"/>
+    <path d="M1176 520l10-40h76l10 40" fill="#fff"/>
+    <rect x="1140" y="556" width="168" height="72" rx="12" fill="#c3c9d0"/>
+    <rect x="1160" y="576" width="128" height="10" rx="4" fill="#2e2b3a"/>
+    <circle cx="1288" cy="606" r="6" fill="#8bd16a" stroke-width="2.5"/>
+    <!-- document coming out -->
+    <path d="M1170 584h108v40l-6 30h-96l-6-30z" fill="#fff"/>
+    <path d="M1186 600h70M1186 612h76M1186 624h50M1186 636h66" stroke="#9fb3c8" stroke-width="3"/>
+
+    <g transform="translate(0 44)">
+    <!-- coffee table + tablet -->
+    <path d="M396 930V1010M640 930V1010" stroke-width="12"/>
+    <rect x="370" y="914" width="296" height="22" rx="8" fill="#f2c48d"/>
+    <path d="M448 914l-20-30" stroke-width="7"/>
+    <rect x="412" y="756" width="236" height="160" rx="18" fill="#2e2b3a"/>
+    <rect x="424" y="768" width="212" height="136" rx="8" fill="#ffe9c9"/>
+    <rect x="424" y="768" width="212" height="18" rx="6" fill="#ffd9a8" stroke="none"/>
+    <!-- battery icon in status bar -->
+    <rect x="602" y="772" width="22" height="11" rx="2" fill="#fff" stroke-width="2"/><rect x="604" y="774" width="14" height="7" fill="#8bd16a" stroke="none"/>
+    <!-- app grid -->
+    <g stroke-width="3">
+      <rect x="440" y="798" width="44" height="44" rx="12" fill="#ff5a6e"/>
+      <path d="M448 810h28v20h-28zM448 810l14 12l14-12" fill="#fff" stroke-width="2.5"/>
+      <rect x="500" y="798" width="44" height="44" rx="12" fill="#3fbf9f"/>
+      <path d="M510 810h24q6 0 6 6v8q0 6-6 6h-12l-8 6v-6h-4q-6 0-6-6v-8q0-6 6-6z" fill="#fff" stroke-width="2.5"/>
+      <rect x="560" y="798" width="44" height="44" rx="12" fill="#ffd23f"/>
+      <path d="M582 806l5 10l11 2l-8 8l2 11l-10-5l-10 5l2-11l-8-8l11-2z" fill="#fff" stroke-width="2.5"/>
+      <rect x="440" y="852" width="44" height="44" rx="12" fill="#9b7be0"/><circle cx="462" cy="874" r="11" fill="#fff" stroke-width="2.5"/>
+      <rect x="500" y="852" width="44" height="44" rx="12" fill="#5b8def"/><path d="M512 884l10-18l10 18z" fill="#fff" stroke-width="2.5"/>
+      <rect x="560" y="852" width="44" height="44" rx="12" fill="#ff9f43"/><path d="M572 864h20M572 874h20M572 884h12" stroke="#fff" stroke-width="3"/>
+    </g>
+    <!-- power bank cable to tablet -->
+    <path d="M640 900q20 6 18 14" fill="none" stroke-width="3"/>
+
+    </g>
+    </g>
+    <!-- wall socket + charger -->
+    <rect x="1520" y="690" width="44" height="54" rx="8" fill="#fff"/>
+    <g fill="#6b4a36" stroke="none"><rect x="1534" y="706" width="5" height="12" rx="2"/><rect x="1546" y="706" width="5" height="12" rx="2"/></g>
+    <rect x="1522" y="722" width="40" height="34" rx="6" fill="#f1f3f6"/>
+    <path d="M1542 756q-10 120-60 170q-40 30-120 10q-40-6-60-26" fill="none" stroke-width="5"/>
+    <path d="M1542 756q-10 120-60 170q-40 30-120 10q-40-6-60-26" fill="none" stroke="#e9eef3" stroke-width="2"/>
+
+    <g transform="translate(40 0)">
+    <!-- low table + laptop -->
+    <path d="M1022 980V1062M1236 980V1062" stroke-width="12"/>
+    <rect x="1000" y="964" width="260" height="20" rx="8" fill="#f2c48d"/>
+    <path d="M1030 964h204l-14-10h-176z" fill="#c3c9d0"/>
+    <rect x="1044" y="820" width="176" height="134" rx="10" fill="#4a4458"/>
+    <rect x="1054" y="830" width="156" height="114" rx="4" fill="#f4f7ff"/>
+    <circle cx="1132" cy="850" r="12" fill="#ffd0a8" stroke-width="3"/>
+    <rect x="1080" y="870" width="104" height="18" rx="5" fill="#fff" stroke-width="2.5"/>
+    <path d="M1088 879h40" stroke="#9fb3c8" stroke-width="4"/>
+    <rect x="1080" y="896" width="104" height="18" rx="5" fill="#fff" stroke-width="2.5"/>
+    <g fill="#6b4a36" stroke="none"><circle cx="1092" cy="905" r="3"/><circle cx="1102" cy="905" r="3"/><circle cx="1112" cy="905" r="3"/><circle cx="1122" cy="905" r="3"/><circle cx="1132" cy="905" r="3"/></g>
+    <rect x="1104" y="920" width="56" height="16" rx="8" fill="#5b8def" stroke-width="2.5"/>
+    <!-- USB drive in laptop side -->
+    <rect x="1018" y="934" width="18" height="12" rx="2" fill="#c3c9d0" stroke-width="2.5"/>
+    <rect x="990" y="928" width="30" height="24" rx="6" fill="#ff5a6e"/>
+    </g>
+  </g>
+</svg>

@@ -81,7 +81,7 @@ export function person(o = {}) {
   const coat = o.coat ? `<path d="M100 166v62" stroke="${INK}" stroke-width="3"/><circle cx="106" cy="186" r="2.5" fill="${INK}"/><circle cx="106" cy="204" r="2.5" fill="${INK}"/>` : '';
   const stripe = o.stripe ? `<path d="M74 192h52M72 208h56" stroke="${o.stripe}" stroke-width="7"/>` : '';
   const accTop = (o.acc || []).map(a => typeof ACC[a] === 'function' ? ACC[a](o.accColor || '#ff5a5a') : ACC[a] || '').join('');
-  const holding = o.holding ? `<text x="100" y="${o.pose === 'cheer' ? 104 : 196}" font-size="46" text-anchor="middle" dominant-baseline="middle">${o.holding}</text>` : '';
+  const holding = o.holding ? `<text x="${o.pose === "cheer" ? 178 : 100}" y="${o.pose === "cheer" ? 70 : 196}" font-size="46" text-anchor="middle" dominant-baseline="middle">${o.holding}</text>` : '';
   return `<svg class="pp" viewBox="0 0 200 320" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
     <ellipse cx="100" cy="312" rx="56" ry="8" fill="rgba(80,52,30,.15)"/>
     ${legs}

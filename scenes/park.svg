@@ -1,0 +1,219 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1100">
+  <defs>
+    <pattern id="grass" width="48" height="48" patternUnits="userSpaceOnUse"><rect width="48" height="48" fill="#a6dc7e"/><path d="M10 30l3-7l3 7M32 14l3-7l3 7" fill="none" stroke="#8fcc68" stroke-width="2.5"/></pattern>
+    <pattern id="sand" width="24" height="24" patternUnits="userSpaceOnUse"><rect width="24" height="24" fill="#f7dc9a"/><circle cx="6" cy="8" r="1.6" fill="#e5c271"/><circle cx="17" cy="17" r="1.6" fill="#e5c271"/></pattern>
+    <pattern id="pave" width="50" height="30" patternUnits="userSpaceOnUse"><rect width="50" height="30" fill="#efe2cb"/><path d="M0 29H50M25 0V15M0 15H50M0 15V30M50 15V30" stroke="#dccaa9" stroke-width="2.5"/></pattern>
+    <linearGradient id="water" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#8fd3f4"/><stop offset="1" stop-color="#5fb8e8"/></linearGradient>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#bfe8fb"/><stop offset="1" stop-color="#e4f6fd"/></linearGradient>
+  </defs>
+  <g stroke="#6b4a36" stroke-width="4" stroke-linejoin="round" stroke-linecap="round">
+    <!-- 天空 -->
+    <rect width="1600" height="1100" fill="url(#sky)" stroke="none"/>
+    <circle cx="1490" cy="90" r="46" fill="#ffd23f" stroke="none"/>
+    <path d="M480 150q20-34 60-24q18-34 62-20q40 0 40 36q-80 16-162 8z" fill="#fff" stroke="none"/>
+    <path d="M1180 90q16-28 50-20q14-28 52-16q32 2 32 30q-68 12-134 6z" fill="#fff" stroke="none"/>
+    <!-- 風箏 -->
+    <path d="M960 70l46 40l-46 60l-46-60z" fill="#ff7a8a"/>
+    <path d="M960 70v100M914 110h92" stroke-width="3"/>
+    <path d="M960 170q-14 22 6 38q-16 18 4 36" fill="none" stroke-width="3"/>
+    <path d="M954 190l-10 6l10 4zM964 222l-10 6l10 4z" fill="#ffd23f" stroke-width="2.5"/>
+    <path d="M960 170Q990 230 1011 286" fill="none" stroke-width="2" stroke="#8c7a6b"/>
+
+    <!-- 遠景山丘 -->
+    <path d="M0 440Q200 380 420 420T780 380T1120 330T1600 360V700H0z" fill="#8fcf6e" stroke="none"/>
+    <!-- 小山丘（前景） -->
+    <path d="M820 520Q960 300 1140 340Q1250 370 1300 520z" fill="#7cc35c"/>
+    <path d="M900 470q30-20 60-4M1040 420q30-14 56 2" fill="none" stroke="#6ab04a" stroke-width="3"/>
+    <!-- 草地主體 -->
+    <path d="M0 470Q300 440 600 470T1200 470T1600 480V1100H0z" fill="url(#grass)" stroke="none"/>
+    <path d="M0 470Q300 440 600 470T1200 470T1600 480" fill="none"/>
+
+    <!-- 步道 -->
+    <path d="M760 1100Q820 940 1000 900T1600 820V940Q1300 960 1140 1000T980 1100z" fill="url(#pave)"/>
+    <!-- 廣場（噴水池、雕像） -->
+    <ellipse cx="900" cy="840" rx="250" ry="70" fill="url(#pave)"/>
+
+    <!-- ===== 遊樂場 ===== -->
+    <!-- 遊樂場地墊 -->
+    <path d="M0 520H590V1100H0z" fill="#ffd9a0" stroke="none" opacity=".55"/>
+    <!-- 圍欄 -->
+    <g stroke-width="4">
+      <path d="M590 520V1100" stroke="#c8915e" stroke-width="6"/>
+      <path d="M0 520H590" stroke="#c8915e" stroke-width="6"/>
+    </g>
+    <!-- 溜滑梯 -->
+    <g>
+      <path d="M44 610V372M108 610V372" stroke-width="7"/>
+      <path d="M44 420h64M44 470h64M44 520h64M44 570h64" stroke-width="5"/>
+      <rect x="34" y="350" width="86" height="24" rx="6" fill="#ff8a5b"/>
+      <path d="M44 350V316h66v34" fill="none" stroke-width="6"/>
+      <path d="M112 360q60 10 90 120q20 80 70 120h20v20h-34q-60-30-86-120q-24-90-60-112z" fill="#ffd23f"/>
+      <path d="M118 380q48 14 74 104q22 80 66 112" fill="none" stroke="#f2a516" stroke-width="5"/>
+    </g>
+    <!-- 盪鞦韆 -->
+    <g>
+      <path d="M318 616L350 380L382 616M530 616L498 380L466 616" fill="none" stroke="#e8504a" stroke-width="9"/>
+      <path d="M340 382H508" stroke="#e8504a" stroke-width="10"/>
+      <path d="M392 384V560M432 384V560M466 384V542M496 384V542" stroke-width="3"/>
+      <rect x="386" y="556" width="52" height="12" rx="5" fill="#5b8def"/>
+      <rect x="460" y="538" width="42" height="12" rx="5" fill="#5b8def"/>
+    </g>
+    <!-- 攀爬架 -->
+    <g fill="none" stroke-width="6">
+      <path d="M30 800Q130 600 240 800" stroke="#5b8def"/>
+      <path d="M62 800Q130 650 208 800" stroke="#5b8def"/>
+      <path d="M130 800V680" stroke="#5b8def"/>
+      <path d="M42 760H226M70 712H192M98 680h62" stroke="#ff8a5b"/>
+      <path d="M22 802H248" stroke-width="5"/>
+    </g>
+    <!-- 蹺蹺板 -->
+    <g>
+      <path d="M396 846l20-46l20 46z" fill="#e8504a"/>
+      <path d="M276 786L556 830" stroke="#ffd23f" stroke-width="16"/>
+      <path d="M276 786L556 830" stroke-width="3" opacity="0"/>
+      <rect x="270" y="772" width="24" height="10" rx="4" fill="#5b8def" transform="rotate(9 282 777)"/>
+      <rect x="532" y="816" width="24" height="10" rx="4" fill="#5b8def" transform="rotate(9 544 821)"/>
+      <path d="M286 770v-16M546 814v-16" stroke-width="5"/>
+    </g>
+    <!-- 沙坑 -->
+    <g>
+      <path d="M24 940h240l20 120H8z" fill="#c8915e"/>
+      <path d="M34 950h220l14 100H22z" fill="url(#sand)" stroke-width="3"/>
+      <path d="M70 1030q30-40 60 0z" fill="#f2cf7c" stroke-width="3"/>
+      <path d="M180 994h28l-4 30h-20z" fill="#5b8def" stroke-width="3"/>
+      <path d="M182 994q12-16 24 0" fill="none" stroke-width="3"/>
+      <path d="M216 1030l26-20" stroke="#ff8a5b" stroke-width="5"/>
+      <path d="M236 1004l14 4l-4 12z" fill="#ff8a5b" stroke-width="3"/>
+    </g>
+    <!-- 旋轉木馬（小型轉盤） -->
+    <g>
+      <path d="M310 900q130-60 260 0z" fill="#ff7a8a"/>
+      <path d="M310 900q32-10 52 0q22-14 46 0q20-14 44 0q22-14 46 0q22-10 62 0" fill="#fff" stroke-width="3"/>
+      <circle cx="440" cy="846" r="8" fill="#ffd23f"/>
+      <path d="M340 904v112M400 904v120M480 904v120M540 904v112" stroke-width="5"/>
+      <ellipse cx="440" cy="1030" rx="140" ry="28" fill="#5fb7a6"/>
+      <ellipse cx="440" cy="1024" rx="140" ry="28" fill="#7fd0c0"/>
+      <!-- 木馬 -->
+      <path d="M380 990q0-20 24-22l14-14q8-4 12 4l-4 10q10 6 8 22z" fill="#fff" stroke-width="3"/>
+      <path d="M386 990v14M426 990v14" stroke-width="4"/>
+      <path d="M474 994q0-20 24-22l14-14q8-4 12 4l-4 10q10 6 8 22z" fill="#ffd23f" stroke-width="3"/>
+      <path d="M480 994v12M520 994v12" stroke-width="4"/>
+    </g>
+    <!-- 遊樂場招牌 -->
+    <path d="M590 560V500" stroke-width="6"/>
+    <rect x="548" y="456" width="84" height="52" rx="10" fill="#ff8a5b"/>
+    <path d="M570 496l12-24l12 24M588 496l8-14l8 14" fill="none" stroke="#fff" stroke-width="4"/>
+
+    <!-- ===== 池塘＋橋 ===== -->
+    <ellipse cx="900" cy="600" rx="250" ry="72" fill="url(#water)"/>
+    <path d="M700 590q20-6 40 0M1010 620q20-6 40 0M880 640q20-6 40 0" fill="none" stroke="#fff" stroke-width="4"/>
+    <g fill="#7fc89a" stroke-width="3"><ellipse cx="1080" cy="584" rx="22" ry="8"/><ellipse cx="740" cy="630" rx="18" ry="7"/></g>
+    <circle cx="1084" cy="580" r="6" fill="#ff9fc0" stroke-width="2.5"/>
+    <!-- 橋 -->
+    <path d="M800 620Q880 520 960 620" fill="none" stroke="#c8915e" stroke-width="18"/>
+    <path d="M800 620Q880 520 960 620" fill="none" stroke-width="3"/>
+    <path d="M806 584Q880 490 954 584" fill="none" stroke="#a66f42" stroke-width="6"/>
+    <path d="M824 590v-28M852 570v-32M880 562v-34M908 570v-32M936 590v-28" stroke="#a66f42" stroke-width="5"/>
+
+    <!-- ===== 大樹＋松鼠 ===== -->
+    <path d="M1352 600l12-170h36l12 170z" fill="#a66f42"/>
+    <path d="M1376 470l-50-30M1392 450l40-34" stroke="#a66f42" stroke-width="12"/>
+    <path d="M1250 380q-30-70 40-100q10-70 90-60q60-40 110 20q70 10 60 80q40 50-10 100q-30 40-90 20q-50 30-110 0q-70 10-90-60z" fill="#5fae4a"/>
+    <g fill="#ff7a8a" stroke-width="3"><circle cx="1310" cy="330" r="9"/><circle cx="1440" cy="300" r="9"/><circle cx="1470" cy="400" r="9"/><circle cx="1350" cy="410" r="9"/></g>
+
+    <!-- ===== 冰淇淋車 ===== -->
+    <g>
+      <path d="M1440 640v-110q0-14 14-14h96l30 40q10 12 10 26v58z" fill="#fff"/>
+      <path d="M1440 560h150" stroke="#ff9fc0" stroke-width="10"/>
+      <rect x="1456" y="574" width="60" height="40" rx="6" fill="#bfe7fb" stroke-width="3"/>
+      <path d="M1534 528h22l22 32h-44z" fill="#bfe7fb" stroke-width="3"/>
+      <path d="M1470 516l20-40l20 40z" fill="#f2c48d"/>
+      <circle cx="1490" cy="472" r="18" fill="#ff9fc0"/>
+      <circle cx="1490" cy="456" r="10" fill="#fff3a8"/>
+      <circle cx="1470" cy="646" r="18" fill="#4a4a55"/><circle cx="1470" cy="646" r="6" fill="#d9dde2"/>
+      <circle cx="1566" cy="646" r="18" fill="#4a4a55"/><circle cx="1566" cy="646" r="6" fill="#d9dde2"/>
+    </g>
+
+    <!-- ===== 噴水池 ===== -->
+    <g>
+      <ellipse cx="840" cy="820" rx="120" ry="34" fill="#c3c9d0"/>
+      <ellipse cx="840" cy="812" rx="104" ry="24" fill="url(#water)" stroke-width="3"/>
+      <rect x="826" y="740" width="28" height="70" rx="6" fill="#d9dde2"/>
+      <ellipse cx="840" cy="740" rx="44" ry="12" fill="#d9dde2"/>
+      <ellipse cx="840" cy="736" rx="34" ry="7" fill="url(#water)" stroke-width="2.5"/>
+      <path d="M840 730q-10-60-50 4M840 730q10-60 50 4M840 730v-56" fill="none" stroke="#5fb8e8" stroke-width="5"/>
+      <g fill="#bfe7fb" stroke="none"><circle cx="790" cy="740" r="4"/><circle cx="890" cy="740" r="4"/><circle cx="840" cy="670" r="5"/><circle cx="770" cy="806" r="3"/><circle cx="910" cy="806" r="3"/></g>
+    </g>
+    <!-- ===== 雕像 ===== -->
+    <g>
+      <rect x="1000" y="780" width="96" height="70" rx="4" fill="#d9dde2"/>
+      <rect x="990" y="770" width="116" height="16" rx="4" fill="#c3c9d0"/>
+      <rect x="990" y="846" width="116" height="16" rx="4" fill="#c3c9d0"/>
+      <path d="M1036 770v-60h24v60z" fill="#b8c4cf"/>
+      <path d="M1032 716q16-14 32 0l-4 -40h-24z" fill="#b8c4cf"/>
+      <circle cx="1048" cy="660" r="20" fill="#b8c4cf"/>
+      <path d="M1062 690l30-40" stroke="#6b4a36" stroke-width="16"/><path d="M1062 690l30-40" stroke="#b8c4cf" stroke-width="10"/>
+      <path d="M1034 690l-14 40" stroke="#6b4a36" stroke-width="16"/><path d="M1034 690l-14 40" stroke="#b8c4cf" stroke-width="10"/>
+    </g>
+
+    <!-- ===== 花圃 ===== -->
+    <path d="M1150 720q100-30 200 0q-100 28-200 0z" fill="#8a5a3a" opacity="0"/>
+    <!-- 野餐墊 -->
+    <path d="M876 452h120l20 40h-160z" fill="#ff7a8a"/>
+    <path d="M906 452l-8 40M936 452v40M966 452l8 40M866 472h140" stroke="#fff" stroke-width="5"/>
+    <!-- 灑水器 -->
+    <g>
+      <path d="M1380 716v-20" stroke-width="5"/>
+      <ellipse cx="1380" cy="718" rx="18" ry="6" fill="#5b8def"/>
+      <rect x="1370" y="682" width="20" height="16" rx="5" fill="#ffd23f"/>
+      <path d="M1380 682q-40-50-90 8M1380 682q40-50 90 8M1380 682q-20-56-50-16M1380 682q20-56 50-16" fill="none" stroke="#5fb8e8" stroke-width="4" stroke-dasharray="8 7"/>
+      <path d="M1396 718q50 6 60-20" fill="none" stroke="#3fa35b" stroke-width="5"/>
+    </g>
+    <!-- 資源回收桶 -->
+    <g>
+      <path d="M1170 790h56l-6 74h-44z" fill="#3fa35b"/>
+      <rect x="1164" y="780" width="68" height="14" rx="5" fill="#2e8a48"/>
+      <path d="M1186 816l12-18l12 18zM1190 830h16" fill="none" stroke="#fff" stroke-width="4"/>
+    </g>
+    <!-- 長椅 -->
+    <g>
+      <rect x="1250" y="800" width="160" height="14" rx="5" fill="#c8915e"/>
+      <rect x="1250" y="770" width="160" height="12" rx="5" fill="#c8915e"/>
+      <rect x="1250" y="752" width="160" height="12" rx="5" fill="#c8915e"/>
+      <path d="M1264 814v34M1396 814v34M1266 760v40M1394 760v40" stroke-width="6"/>
+    </g>
+    <!-- 腳踏車 -->
+    <g transform="translate(40 0)">
+      <circle cx="1440" cy="838" r="28" fill="none" stroke-width="5"/>
+      <circle cx="1520" cy="838" r="28" fill="none" stroke-width="5"/>
+      <path d="M1440 838l26-44h44l10 44M1466 794l18 44l36-44M1460 784h20M1510 794l-4-16h16" fill="none" stroke="#e8504a" stroke-width="6"/>
+      <circle cx="1484" cy="838" r="5" fill="#6b4a36"/>
+    </g>
+    <!-- 小狗（用牽繩） -->
+    <g transform="translate(70 36)">
+      <path d="M1290 1006q0-22 26-22h34q20 0 22 20v12h-82z" fill="#f2c48d"/>
+      <circle cx="1378" cy="984" r="20" fill="#f2c48d"/>
+      <path d="M1366 970q-12 4-10 22q10-4 12-14zM1392 968q12 4 10 22q-10-4-12-14z" fill="#c8915e" stroke-width="3"/>
+      <circle cx="1372" cy="982" r="3" fill="#6b4a36" stroke="none"/><circle cx="1386" cy="982" r="3" fill="#6b4a36" stroke="none"/>
+      <ellipse cx="1380" cy="992" rx="5" ry="4" fill="#6b4a36" stroke="none"/>
+      <path d="M1296 1016v24M1312 1016v24M1340 1016v24M1356 1016v24" stroke-width="7"/>
+      <path d="M1292 996q-16-10-12-26" fill="none" stroke-width="5"/>
+      <path d="M1362 1000h22" stroke="#e8504a" stroke-width="5"/>
+    </g>
+    <path d="M1444 1036Q1340 1020 1296 940" fill="none" stroke="#e8504a" stroke-width="3.5"/>
+    <!-- 嬰兒車 -->
+    <g transform="translate(-6 60)">
+      <path d="M1580 920q0-50-50-50v50z" fill="#8a6fd1"/>
+      <path d="M1600 920h-110q0 40 40 40h30q40 0 40-40z" fill="#c5a3ff"/>
+      <path d="M1490 920l-20-30h-14" fill="none" stroke-width="5"/>
+      <circle cx="1574" cy="972" r="13" fill="#fff" stroke-width="4"/><circle cx="1510" cy="972" r="13" fill="#fff" stroke-width="4"/>
+      <circle cx="1546" cy="906" r="12" fill="#ffe0c4" stroke-width="3"/>
+    </g>
+    <!-- 跳繩 -->
+    <path d="M1156 600Q1120 420 1200 424Q1280 420 1244 600" fill="none" stroke="#ff7a8a" stroke-width="4"/>
+    <!-- 花圃 -->
+    <!-- 花圃（池塘左） -->
+    <path d="M600 712q60-20 110 0q-55 18-110 0z" fill="#8a5a3a"/>
+    <g stroke-width="3"><path d="M616 708v-12M690 708v-12" stroke="#3fa35b"/><circle cx="616" cy="694" r="7" fill="#ffd23f"/><circle cx="690" cy="694" r="7" fill="#c58cf0"/></g>
+  </g>
+</svg>

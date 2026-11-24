@@ -490,5 +490,505 @@
         }
       ]
     }
-  ]
+  ],
+  "scene": {
+    "w": 1600,
+    "h": 1100,
+    "bg": "scenes/sports.svg",
+    "items": {
+      "soccer": {
+        "x": 262,
+        "y": 578,
+        "s": 38,
+        "lx": 240,
+        "ly": 596
+      },
+      "basketball": {
+        "box": [
+          495,
+          962,
+          50,
+          50
+        ],
+        "lx": 394,
+        "ly": 900
+      },
+      "baseball": {
+        "x": 1050,
+        "y": 578,
+        "s": 30,
+        "lx": 1010,
+        "ly": 336
+      },
+      "tennis": {
+        "x": 652,
+        "y": 1086,
+        "s": 36,
+        "lx": 652,
+        "ly": 1004
+      },
+      "badminton": {
+        "x": 1500,
+        "y": 1000,
+        "s": 48,
+        "lx": 1500,
+        "ly": 878
+      },
+      "volleyball": {
+        "x": 250,
+        "y": 990,
+        "s": 50,
+        "lx": 130,
+        "ly": 980
+      },
+      "table tennis": {
+        "x": 1530,
+        "y": 786,
+        "s": 44,
+        "lx": 1500,
+        "ly": 642
+      },
+      "golf": {
+        "x": 600,
+        "y": 282,
+        "s": 60,
+        "lx": 480,
+        "ly": 200
+      },
+      "swimming": {
+        "x": 120,
+        "y": 850,
+        "s": 76,
+        "lx": 226,
+        "ly": 790
+      },
+      "skating": {
+        "x": 1380,
+        "y": 320,
+        "s": 44,
+        "lx": 1250,
+        "ly": 170
+      },
+      "skiing": {
+        "x": 1324,
+        "y": 200,
+        "s": 60,
+        "lx": 1400,
+        "ly": 16,
+        "la": "l",
+        "line": [
+          1336,
+          160
+        ]
+      },
+      "gymnastics": {
+        "x": 1310,
+        "y": 1060,
+        "s": 60,
+        "lx": 1310,
+        "ly": 878
+      },
+      "boxing": {
+        "x": 1310,
+        "y": 600,
+        "s": 48,
+        "lx": 1310,
+        "ly": 406
+      },
+      "karate": {
+        "x": 1500,
+        "y": 596,
+        "s": 58,
+        "lx": 1500,
+        "ly": 406
+      },
+      "bowling": {
+        "x": 1330,
+        "y": 846,
+        "s": 46,
+        "lx": 1310,
+        "ly": 642
+      },
+      "bat": {
+        "box": [
+          1110,
+          435,
+          56,
+          86
+        ],
+        "lx": 1156,
+        "ly": 336
+      },
+      "stadium": {
+        "box": [
+          700,
+          120,
+          450,
+          210
+        ],
+        "lx": 860,
+        "ly": 240
+      },
+      "goal": {
+        "box": [
+          36,
+          396,
+          158,
+          148
+        ],
+        "lx": 114,
+        "ly": 440
+      },
+      "hockey": {
+        "x": 1480,
+        "y": 318,
+        "s": 44,
+        "lx": 1480,
+        "ly": 170
+      },
+      "referee": {
+        "box": [
+          451,
+          437,
+          58,
+          139
+        ],
+        "lx": 480,
+        "ly": 336
+      },
+      "coach": {
+        "box": [
+          833,
+          418,
+          66,
+          157
+        ],
+        "lx": 866,
+        "ly": 336
+      },
+      "team": {
+        "box": [
+          570,
+          440,
+          170,
+          140
+        ],
+        "lx": 655,
+        "ly": 336
+      },
+      "player": {
+        "box": [
+          302,
+          442,
+          56,
+          134
+        ],
+        "lx": 320,
+        "ly": 336
+      },
+      "champion": {
+        "box": [
+          1048,
+          706,
+          64,
+          152
+        ],
+        "lx": 1080,
+        "ly": 604
+      },
+      "medal": {
+        "x": 998,
+        "y": 900,
+        "s": 44,
+        "lx": 998,
+        "ly": 1000
+      },
+      "trophy": {
+        "box": [
+          1063,
+          777,
+          34,
+          34
+        ],
+        "lx": 1155,
+        "ly": 840
+      },
+      "football": {
+        "x": 790,
+        "y": 578,
+        "s": 38,
+        "lx": 912,
+        "ly": 596,
+        "line": [
+          790,
+          560
+        ]
+      },
+      "scoreboard": {
+        "box": [
+          820,
+          12,
+          210,
+          84
+        ],
+        "lx": 1100,
+        "ly": 20,
+        "la": "l"
+      },
+      "race": {
+        "box": [
+          510,
+          556,
+          270,
+          128
+        ],
+        "lx": 420,
+        "ly": 596
+      },
+      "cycling": {
+        "x": 96,
+        "y": 690,
+        "s": 62,
+        "lx": 96,
+        "ly": 546
+      },
+      "jersey": {
+        "box": [
+          596,
+          505,
+          27,
+          32
+        ],
+        "lx": 772,
+        "ly": 596,
+        "line": [
+          610,
+          519
+        ]
+      },
+      "sneakers": {
+        "box": [
+          487,
+          1061,
+          66,
+          22
+        ],
+        "lx": 404,
+        "ly": 996
+      },
+      "racket": {
+        "box": [
+          849,
+          858,
+          70,
+          120
+        ],
+        "lx": 884,
+        "ly": 944
+      },
+      "helmet": {
+        "box": [
+          1080,
+          437,
+          60,
+          30
+        ],
+        "lx": 1000,
+        "ly": 432,
+        "line": [
+          1091,
+          447
+        ]
+      }
+    },
+    "people": [
+      {
+        "p": {
+          "hair": "spiky",
+          "hairColor": "#2e2018",
+          "shirt": "#ff5a6e",
+          "stripe": "#fff",
+          "pants": "#fff",
+          "pose": "point",
+          "face": "laugh",
+          "eyes": "happy",
+          "skin": "tan"
+        },
+        "x": 330,
+        "y": 578,
+        "h": 150
+      },
+      {
+        "p": {
+          "hair": "short",
+          "hairColor": "#1f1a17",
+          "shirt": "#2e2b3a",
+          "stripe": "#fff",
+          "pants": "#2e2b3a",
+          "pose": "wave",
+          "face": "talk"
+        },
+        "x": 480,
+        "y": 578,
+        "h": 156
+      },
+      {
+        "p": {
+          "hair": "ponytail",
+          "hairColor": "#4a2e1c",
+          "shirt": "#ff5a6e",
+          "stripe": "#fff",
+          "pants": "#fff",
+          "pose": "cheer",
+          "face": "laugh",
+          "eyes": "happy"
+        },
+        "x": 610,
+        "y": 578,
+        "h": 146
+      },
+      {
+        "p": {
+          "hair": "curly",
+          "hairColor": "#1f1a17",
+          "shirt": "#ff5a6e",
+          "stripe": "#fff",
+          "pants": "#fff",
+          "pose": "cheer",
+          "face": "laugh",
+          "eyes": "happy",
+          "skin": "brown"
+        },
+        "x": 700,
+        "y": 578,
+        "h": 146,
+        "flip": true
+      },
+      {
+        "p": {
+          "hair": "short",
+          "hairColor": "#3a2a20",
+          "shirt": "#3fa35b",
+          "pants": "#4d4d63",
+          "pose": "talk",
+          "face": "talk",
+          "acc": [
+            "cap"
+          ],
+          "accColor": "#3fa35b"
+        },
+        "x": 866,
+        "y": 578,
+        "h": 176
+      },
+      {
+        "p": {
+          "hair": "short",
+          "hairColor": "#2e2018",
+          "shirt": "#5b8def",
+          "pants": "#fff",
+          "pose": "hold",
+          "face": "smile",
+          "acc": [
+            "helmet"
+          ],
+          "accColor": "#5b8def",
+          "skin": "light"
+        },
+        "x": 1110,
+        "y": 578,
+        "h": 150
+      },
+      {
+        "p": {
+          "hair": "bob",
+          "hairColor": "#2e2018",
+          "shirt": "#ffd23f",
+          "pants": "#3d5a99",
+          "pose": "cheer",
+          "face": "laugh",
+          "eyes": "happy",
+          "skin": "tan"
+        },
+        "x": 560,
+        "y": 682,
+        "h": 120
+      },
+      {
+        "p": {
+          "hair": "spiky",
+          "hairColor": "#5b3a24",
+          "shirt": "#9b7be0",
+          "pants": "#3d5a99",
+          "pose": "hips",
+          "face": "wow"
+        },
+        "x": 664,
+        "y": 682,
+        "h": 120
+      },
+      {
+        "p": {
+          "hair": "short",
+          "hairColor": "#2e2018",
+          "shirt": "#ff9f43",
+          "stripe": "#fff",
+          "pants": "#3d5a99",
+          "shoes": "#ff5a6e",
+          "pose": "hold",
+          "holding": "🏀",
+          "face": "talk",
+          "skin": "brown"
+        },
+        "x": 520,
+        "y": 1084,
+        "h": 250
+      },
+      {
+        "p": {
+          "hair": "pigtails",
+          "hairColor": "#4a2e1c",
+          "shirt": "#5bc0eb",
+          "skirt": "#ffffff",
+          "shoes": "#ffd23f",
+          "pose": "talk",
+          "face": "talk"
+        },
+        "x": 784,
+        "y": 1084,
+        "h": 240
+      },
+      {
+        "p": {
+          "hair": "bob",
+          "hairColor": "#1f1a17",
+          "shirt": "#ff5a6e",
+          "stripe": "#fff",
+          "pants": "#fff",
+          "pose": "hold",
+          "holding": "🏆",
+          "face": "laugh",
+          "eyes": "happy",
+          "skin": "light"
+        },
+        "x": 1080,
+        "y": 860,
+        "h": 170
+      }
+    ],
+    "bubbles": [
+      {
+        "x": 684,
+        "y": 702,
+        "w": 250,
+        "tail": "bl"
+      },
+      {
+        "x": 346,
+        "y": 702,
+        "w": 300,
+        "tail": "br"
+      }
+    ]
+  }
 }
