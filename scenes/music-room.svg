@@ -1,0 +1,229 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1100">
+  <defs>
+    <pattern id="dots" width="40" height="40" patternUnits="userSpaceOnUse"><circle cx="10" cy="10" r="3" fill="#f6b8c8"/><circle cx="30" cy="30" r="3" fill="#f6b8c8"/></pattern>
+    <pattern id="plank" width="180" height="50" patternUnits="userSpaceOnUse"><rect width="180" height="50" fill="#eab37c"/><path d="M0 49H180M90 0V50" stroke="#d39a60" stroke-width="3"/></pattern>
+    <pattern id="stageplank" width="120" height="30" patternUnits="userSpaceOnUse"><rect width="120" height="30" fill="#c98a50"/><path d="M0 29H120M60 0V30" stroke="#a96e3a" stroke-width="3"/></pattern>
+    <pattern id="peg" width="26" height="26" patternUnits="userSpaceOnUse"><rect width="26" height="26" fill="#f4dcae"/><circle cx="13" cy="13" r="2.6" fill="#d8b77e"/></pattern>
+    <pattern id="stars" width="120" height="110" patternUnits="userSpaceOnUse"><rect width="120" height="110" fill="#4b4580"/><path d="M30 24l3 7l7 1l-5 5l1 7l-6-3l-6 3l1-7l-5-5l7-1z" fill="#ffd23f" opacity=".55"/><circle cx="90" cy="70" r="3" fill="#fff" opacity=".6"/><circle cx="70" cy="20" r="2" fill="#fff" opacity=".5"/></pattern>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff0a8"/><stop offset=".55" stop-color="#ffcf3f"/><stop offset="1" stop-color="#e3a21a"/></linearGradient>
+    <linearGradient id="steel" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#cfd5dc"/><stop offset=".5" stop-color="#f6f7f9"/><stop offset="1" stop-color="#b8c0c9"/></linearGradient>
+    <linearGradient id="light" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff6b0" stop-opacity=".75"/><stop offset="1" stop-color="#fff6b0" stop-opacity="0"/></linearGradient>
+  </defs>
+  <g stroke="#6b4a36" stroke-width="4" stroke-linejoin="round" stroke-linecap="round">
+    <!-- wall + floor -->
+    <rect width="1600" height="1100" fill="#fcd9e1" stroke="none"/>
+    <rect width="1600" height="700" fill="url(#dots)" stroke="none"/>
+    <rect y="700" width="1600" height="400" fill="url(#plank)" stroke="none"/>
+    <rect y="686" width="1600" height="18" fill="#f7a8bd"/>
+    <!-- garland of notes along the top wall -->
+    <path d="M400 18q90 40 180 0q90 40 180 0q60 26 110 4" fill="none" stroke-width="3"/>
+    <g stroke-width="3">
+      <path d="M470 34l14 26l14-26z" fill="#ffd23f"/><path d="M560 26l14 26l14-26z" fill="#7fc8b8"/><path d="M650 34l14 26l14-26z" fill="#ff8fb1"/><path d="M740 26l14 26l14-26z" fill="#5bc0eb"/>
+    </g>
+
+    <!-- ======== STAGE (right) ======== -->
+    <rect x="1172" y="0" width="428" height="690" fill="url(#stars)"/>
+    <path d="M1180 690L1260 120h28l40 570z" fill="url(#light)" stroke="none"/>
+    <path d="M1400 690L1440 120h28l80 570z" fill="url(#light)" stroke="none"/>
+    <!-- karaoke screen hanging -->
+    <path d="M1260 0V84M1376 0V84" stroke-width="3"/>
+    <rect x="1236" y="84" width="164" height="112" rx="10" fill="#2e2b3a"/>
+    <rect x="1248" y="96" width="140" height="88" rx="4" fill="#7ad0f0"/>
+    <path d="M1260 130h90M1260 152h112M1260 172h70" stroke="#fff" stroke-width="7"/>
+    <path d="M1260 130h44" stroke="#ff5a6e" stroke-width="7"/>
+    <circle cx="1312" cy="116" r="7" fill="#ffd23f" stroke-width="2.5"/>
+    <!-- rock banner -->
+    <path d="M1418 86h156l-14 40l14 40h-156l14-40z" fill="#ffd23f"/>
+    <path d="M1500 94l-26 40h18l-12 30l34-44h-18l14-26z" fill="#ff5a6e" stroke-width="3"/>
+    <path d="M1446 112v28M1446 112l14-4v26" fill="none" stroke-width="3"/><circle cx="1442" cy="142" r="5" fill="#6b4a36"/><circle cx="1456" cy="136" r="5" fill="#6b4a36"/>
+    <path d="M1546 108l3 7l7 1l-5 5l1 7l-6-3l-6 3l1-7l-5-5l7-1z" fill="#fff" stroke-width="2.5"/>
+    <!-- valance + curtains -->
+    <path d="M1150 0H1600V58q-28 26-56 0q-28 26-56 0q-28 26-56 0q-28 26-56 0q-28 26-56 0q-28 26-56 0q-28 26-56 0q-28 26-56 0z" fill="#e5483b"/>
+    <path d="M1150 0h52q-8 300 30 520q-20 20-10 40q-28 70-24 130h-48z" fill="#e5483b"/>
+    <path d="M1166 40q-6 260 20 470" fill="none" stroke="#b8322a" stroke-width="4"/>
+    <circle cx="1218" cy="540" r="12" fill="#ffd23f"/>
+    <path d="M1600 40q-26 240 0 650" fill="#e5483b"/>
+    <!-- speaker -->
+    <rect x="1206" y="556" width="58" height="118" rx="8" fill="#2e2b3a"/>
+    <circle cx="1235" cy="588" r="16" fill="#4a4458"/><circle cx="1235" cy="588" r="6" fill="#7a7488"/>
+    <circle cx="1235" cy="638" r="21" fill="#4a4458"/><circle cx="1235" cy="638" r="9" fill="#7a7488"/>
+    <!-- mic stand -->
+    <path d="M1383.2 684l14-6l14 6M1397.2 678V595.0L1359.2 571.0" stroke-width="5" fill="none"/>
+    <rect x="1339.2" y="551.0" width="20" height="30" rx="10" fill="#7a7488" transform="rotate(-25 1349.2 566.0)"/>
+    <!-- drum kit -->
+    <path d="M1502.0 637.5h52M1528.0 637.5V684M1508.0 684l20-14l20 14" stroke-width="6" fill="none"/>
+    <ellipse cx="1528.0" cy="631.5" rx="30" ry="9" fill="#e5483b"/>
+    <path d="M1575.5 618.0v54M1559.5 684l16-12l16 12" stroke-width="4" fill="none"/>
+    <path d="M1539.5 604.0v38q30 10 60 0v-38z" fill="#ff5a6e"/>
+    <ellipse cx="1569.5" cy="604.0" rx="30" ry="9" fill="#fff"/>
+    <path d="M1539.5 624.0q30 10 60 0" fill="none" stroke-width="3"/>
+    <path d="M1591.5 534.0V684" stroke-width="4"/>
+    <ellipse cx="1591.5" cy="532.0" rx="22" ry="6" fill="url(#gold)"/>
+    <path d="M1565.5 594.0l-18 20M1506.8 617.8l-22-16" stroke="#c98a50" stroke-width="5"/>
+    <!-- stage floor -->
+    <rect x="1150" y="676" width="450" height="20" fill="url(#stageplank)"/>
+    <rect x="1150" y="694" width="450" height="74" fill="#b8703f"/>
+    <path d="M1150 694H1600" stroke-width="5"/>
+    <g fill="#ffd23f" stroke-width="3"><circle cx="1200" cy="730" r="7"/><circle cx="1320" cy="730" r="7"/><circle cx="1440" cy="730" r="7"/><circle cx="1560" cy="730" r="7"/></g>
+
+    <!-- ======== left: instrument cabinet ======== -->
+    <rect x="18" y="268" width="356" height="452" rx="10" fill="#f2c48d"/>
+    <rect x="34" y="284" width="324" height="420" rx="6" fill="#e9b278"/>
+    <path d="M30 404H362M30 548H362" stroke-width="9"/>
+    <path d="M196 284V404" stroke-width="3" stroke="#c98a50"/>
+    <rect x="12" y="700" width="368" height="22" rx="6" fill="#f2c48d"/>
+    <!-- castanets drawn (shelf 1 right) -->
+    <g transform="translate(286 400)">
+      <path d="M-34 -6q-6-30 22-34q22 2 20 28z" fill="#e5483b"/>
+      <path d="M-4 -2q-4-30 24-34q24 2 22 30z" fill="#c8322a"/>
+      <path d="M-14 -40q12-14 24 0" fill="none" stroke-width="3"/>
+    </g>
+    <!-- harmonica drawn (shelf 2 left) -->
+    <g transform="translate(110 544)">
+      <rect x="-56" y="-30" width="112" height="30" rx="6" fill="url(#steel)"/>
+      <rect x="-50" y="-22" width="100" height="14" rx="2" fill="#5bc0eb" stroke-width="3"/>
+      <path d="M-38 -22v14M-26 -22v14M-14 -22v14M-2 -22v14M10 -22v14M22 -22v14M34 -22v14" stroke-width="2.5"/>
+    </g>
+    <!-- recorder drawn (bottom shelf, leaning) -->
+    <g transform="translate(96 700) rotate(-62)">
+      <rect x="0" y="-11" width="150" height="22" rx="10" fill="#fff4dc"/>
+      <path d="M0 -11h22v22h-22z" fill="#f2c48d" stroke-width="3"/>
+      <path d="M150 -12q14 0 14 12q0 12-14 12" fill="#fff4dc"/>
+      <g fill="#6b4a36" stroke="none"><circle cx="50" cy="0" r="4"/><circle cx="70" cy="0" r="4"/><circle cx="90" cy="0" r="4"/><circle cx="110" cy="0" r="4"/><circle cx="128" cy="0" r="4"/></g>
+    </g>
+
+    <!-- ======== blackboard ======== -->
+    <rect x="410" y="72" width="352" height="214" rx="12" fill="#c98a50"/>
+    <rect x="424" y="86" width="324" height="186" rx="6" fill="#3f7f62"/>
+    <g stroke="#e8f3ee" stroke-width="2.5" opacity=".9"><path d="M446 132H730M446 148H730M446 164H730M446 180H730M446 196H730"/></g>
+    <path d="M466 210q-14-60 4-96q14-6 10 18q-6 24-24 46q-12 18 4 26q18 6 22-10q2-18-16-16q-12 4-8 16" fill="none" stroke="#fff" stroke-width="4"/>
+    <ellipse cx="520" cy="188" rx="9.0" ry="6.5" transform="rotate(-20 520 188)" fill="#fff" stroke="none"/><path d="M528.0 186v-40.0" stroke="#fff" stroke-width="3"/><ellipse cx="560" cy="172" rx="9.0" ry="6.5" transform="rotate(-20 560 172)" fill="#fff" stroke="none"/><path d="M568.0 170v-40.0" stroke="#fff" stroke-width="3"/><ellipse cx="600" cy="156" rx="9.0" ry="6.5" transform="rotate(-20 600 156)" fill="#fff" stroke="none"/><path d="M608.0 154v-40.0" stroke="#fff" stroke-width="3"/>
+    <g><ellipse cx="660" cy="180" rx="14" ry="10" transform="rotate(-20 660 180)" fill="#ffd23f" stroke="none"/><path d="M672 176v-60q16 6 28 26" fill="none" stroke="#ffd23f" stroke-width="5"/></g>
+    <rect x="410" y="284" width="352" height="12" rx="4" fill="#e9b278"/>
+    <rect x="450" y="276" width="26" height="8" rx="3" fill="#fff" stroke-width="2"/><rect x="700" y="276" width="20" height="8" rx="3" fill="#ffd23f" stroke-width="2"/>
+    <!-- concert poster -->
+    <path d="M832 26l3 10" stroke-width="3"/>
+    <rect x="782" y="32" width="100" height="140" rx="6" fill="#fff4dc" transform="rotate(4 832 102)"/>
+    <g transform="rotate(4 832 102)">
+      <rect x="792" y="42" width="80" height="62" rx="4" fill="#ff8fb1" stroke-width="3"/>
+      <path d="M832 52l7 15l16 2l-12 11l3 16l-14-8l-14 8l3-16l-12-11l16-2z" fill="#ffd23f" stroke-width="3"/>
+      <path d="M796 120h72M796 136h56M796 152h64" stroke="#c98a50" stroke-width="5"/>
+    </g>
+    <circle cx="832" cy="32" r="5" fill="#e5483b"/>
+    <!-- teacher pointer -->
+    <path d="M790.5 576.1L738 262" stroke="#c98a50" stroke-width="6"/>
+
+    <!-- ======== pegboard with brass/woodwind ======== -->
+    <rect x="900" y="26" width="256" height="300" rx="10" fill="url(#peg)"/>
+    <!-- trombone -->
+    <g>
+      <path d="M918 56H1100M918 80H1100" stroke="url(#gold)" stroke-width="9"/>
+      <path d="M918 56H1100M918 80H1100" fill="none" stroke-width="2"/>
+      <path d="M918 56q-14 12 0 24" fill="none" stroke="#e3a21a" stroke-width="8"/>
+      <path d="M1040 50v36M1060 50v36" stroke-width="5"/>
+      <path d="M1100 58l40-22v66l-40-22z" fill="url(#gold)"/>
+      <ellipse cx="1140" cy="69" rx="8" ry="33" fill="#ffcf3f"/>
+    </g>
+    <!-- clarinet -->
+    <g>
+      <rect x="1120" y="150" width="18" height="140" rx="6" fill="#2e2b3a"/>
+      <path d="M1120 290h18l10 26h-38z" fill="#2e2b3a"/>
+      <path d="M1124 150l5-16l5 16" fill="#7a7488"/>
+      <g fill="url(#steel)" stroke-width="2"><rect x="1117" y="186" width="24" height="5" rx="2"/><rect x="1117" y="228" width="24" height="5" rx="2"/><rect x="1117" y="266" width="24" height="5" rx="2"/></g>
+      <g fill="#cfd5dc" stroke="none"><circle cx="1129" cy="206" r="3"/><circle cx="1129" cy="246" r="3"/><circle cx="1129" cy="216" r="3"/></g>
+    </g>
+    <!-- pegs -->
+    <g fill="#c98a50" stroke-width="3"><circle cx="1040" cy="170" r="6"/><circle cx="944" cy="186" r="6"/></g>
+
+    <!-- ======== choir riser ======== -->
+    <rect x="944" y="662" width="232" height="60" fill="#b9a3e8"/>
+    <path d="M944 662h232" stroke-width="5"/>
+    <g fill="#9b7be0" stroke="none"><circle cx="990" cy="692" r="8"/><circle cx="1060" cy="692" r="8"/><circle cx="1130" cy="692" r="8"/></g>
+    <!-- ======== grand piano ======== -->
+    <path d="M520 640L726 488L752 640z" fill="#3a3046"/>
+    <path d="M640 640L660 552" stroke-width="5"/>
+    <rect x="508" y="636" width="256" height="64" rx="14" fill="#2f2a3d"/>
+    <path d="M528 652h218" stroke="#5a5070" stroke-width="5"/>
+    <!-- music stand + sheet music -->
+    <path d="M552 642L536 584h-48l8 58z" fill="#2f2a3d"/>
+    <rect x="494" y="586" width="48" height="40" rx="3" fill="#fff" transform="rotate(-8 518 606)" stroke-width="3"/>
+    <g transform="rotate(-8 518 606)" stroke-width="1.5" stroke="#9aa"><path d="M498 596h40M498 604h40M498 612h40"/></g>
+    <g fill="#6b4a36" stroke="none"><circle cx="504" cy="608" r="3"/><circle cx="518" cy="600" r="3"/><circle cx="532" cy="610" r="3"/></g>
+    <!-- keyboard -->
+    <rect x="469.1" y="648.5" width="56.89999999999998" height="18" rx="4" fill="#fff"/>
+    <path d="M487.1 648.5v9M497.1 648.5v9M509.1 648.5v9M519.1 648.5v9" stroke-width="4"/>
+    <!-- legs + lyre -->
+    <path d="M528 698h22l-4 58h-14zM722 698h22l-4 58h-14z" fill="#2f2a3d"/>
+    <path d="M600 698v40M612 698v40" stroke-width="4"/><rect x="590" y="736" width="32" height="8" rx="3" fill="url(#gold)" stroke-width="3"/>
+    <!-- bench -->
+    <rect x="372" y="700" width="104" height="16" rx="5" fill="#2f2a3d"/>
+    <path d="M384 716V760M464 716V760" stroke-width="7"/>
+
+    <!-- ======== xylophone ======== -->
+    <path d="M30 1000l34 50M230 1000l-34 50M64 1050h132" stroke-width="7" fill="none"/>
+    <path d="M22 942h216l-12 60H34z" fill="#c98a50"/>
+    <g stroke-width="3">
+      <rect x="40" y="924" width="20" height="62" rx="4" fill="#ff5a6e"/>
+      <rect x="66" y="928" width="20" height="56" rx="4" fill="#ff9f43"/>
+      <rect x="92" y="932" width="20" height="50" rx="4" fill="#ffd23f"/>
+      <rect x="118" y="936" width="20" height="44" rx="4" fill="#8bd16a"/>
+      <rect x="144" y="940" width="20" height="38" rx="4" fill="#5bc0eb"/>
+      <rect x="170" y="944" width="20" height="32" rx="4" fill="#5b8def"/>
+      <rect x="196" y="948" width="20" height="26" rx="4" fill="#9b7be0"/>
+    </g>
+    <path d="M70 916l60 -40M150 920l50-46" stroke="#c98a50" stroke-width="5"/>
+    <circle cx="130" cy="876" r="10" fill="#ff5a6e"/><circle cx="200" cy="874" r="10" fill="#ff5a6e"/>
+
+    <!-- cymbals (behind hands) -->
+    <g>
+      <ellipse cx="258.3" cy="937.6" rx="14" ry="38" fill="url(#gold)"/>
+      <ellipse cx="254.3" cy="937.6" rx="5" ry="10" fill="#e3a21a" stroke-width="3"/>
+      <ellipse cx="377.7" cy="937.6" rx="14" ry="38" fill="url(#gold)"/>
+      <ellipse cx="381.7" cy="937.6" rx="5" ry="10" fill="#e3a21a" stroke-width="3"/>
+      <path d="M232.3 907.6l-10-8M228.3 937.6h-14M232.3 967.6l-10 8M403.7 907.6l10-8M407.7 937.6h14M403.7 967.6l10 8" stroke="#e3a21a" stroke-width="4"/>
+    </g>
+
+    <!-- orchestra music stands -->
+    <path d="M542 1050V932M516 1050l26-22l26 22" stroke-width="5" fill="none"/>
+    <path d="M504 892h76l-6 44h-64z" fill="#4a4458"/>
+    <rect x="512" y="884" width="60" height="44" rx="3" fill="#fff" stroke-width="3"/>
+    <path d="M518 896h48M518 904h48M518 912h48" stroke="#9aa" stroke-width="1.5"/>
+    <g fill="#6b4a36" stroke="none"><circle cx="528" cy="904" r="3"/><circle cx="548" cy="896" r="3"/><circle cx="560" cy="912" r="3"/></g><path d="M682 1050V932M656 1050l26-22l26 22" stroke-width="5" fill="none"/>
+    <path d="M644 892h76l-6 44h-64z" fill="#4a4458"/>
+    <rect x="652" y="884" width="60" height="44" rx="3" fill="#fff" stroke-width="3"/>
+    <path d="M658 896h48M658 904h48M658 912h48" stroke="#9aa" stroke-width="1.5"/>
+    <g fill="#6b4a36" stroke="none"><circle cx="668" cy="904" r="3"/><circle cx="688" cy="896" r="3"/><circle cx="700" cy="912" r="3"/></g><path d="M822 1050V932M796 1050l26-22l26 22" stroke-width="5" fill="none"/>
+    <path d="M784 892h76l-6 44h-64z" fill="#4a4458"/>
+    <rect x="792" y="884" width="60" height="44" rx="3" fill="#fff" stroke-width="3"/>
+    <path d="M798 896h48M798 904h48M798 912h48" stroke="#9aa" stroke-width="1.5"/>
+    <g fill="#6b4a36" stroke="none"><circle cx="808" cy="904" r="3"/><circle cx="828" cy="896" r="3"/><circle cx="840" cy="912" r="3"/></g>
+
+    <!-- conductor podium + baton -->
+    <rect x="992" y="1076" width="140" height="22" rx="6" fill="#9b7be0"/>
+    <path d="M1004.5 930.8l-44 -26" stroke="#fff" stroke-width="5"/>
+    <path d="M1004.5 930.8l-44 -26" stroke-width="1.5"/>
+    <path d="M944.5 880.8q8 10 0 20M932.5 872.8q14 18 0 36" fill="none" stroke="#9b7be0" stroke-width="3"/>
+
+    <!-- audience chairs -->
+    <path d="M1196 922h88v26h-88z" fill="#ffb4c6"/>
+    <path d="M1204 948V1040M1276 948V1040" stroke-width="8"/>
+    <rect x="1190" y="1040" width="100" height="16" rx="6" fill="#ffb4c6"/>
+    <path d="M1200 1056L1194 1090M1280 1056L1286 1090" stroke-width="7"/>
+    <path d="M1332 922h88v26h-88z" fill="#ffb4c6"/>
+    <path d="M1340 948V1040M1412 948V1040" stroke-width="8"/>
+    <rect x="1326" y="1040" width="100" height="16" rx="6" fill="#ffb4c6"/>
+    <path d="M1336 1056L1330 1090M1416 1056L1422 1090" stroke-width="7"/>
+
+    <!-- tambourine in singer's free hand -->
+    <circle cx="1282.6" cy="615.1" r="24" fill="#fff4dc"/>
+    <circle cx="1282.6" cy="615.1" r="17" fill="none" stroke="#c98a50" stroke-width="4"/>
+    <g fill="url(#gold)" stroke-width="2.5"><circle cx="1282.6" cy="640.1" r="5"/><circle cx="1257.6" cy="615.1" r="5"/><circle cx="1264.6" cy="597.1" r="5"/><circle cx="1264.6" cy="633.1" r="5"/></g>
+    <!-- dancer motion marks -->
+    <path d="M1432 1024q-14-20 0-34M1608 1024q14-20 0-34M1460 1076h-26M1580 1076h26" fill="none" stroke="#ff5a6e" stroke-width="3.5"/>
+    <!-- song notes above choir -->
+    <g fill="#9b7be0" stroke="#9b7be0" stroke-width="3">
+      <path d="M1150 436v-30l18-6v28" fill="none"/><circle cx="1146" cy="438" r="5"/><circle cx="1164" cy="430" r="5"/>
+      <path d="M1186 468v-26" fill="none"/><circle cx="1182" cy="470" r="5"/>
+    </g>
+  </g>
+</svg>

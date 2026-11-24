@@ -1,0 +1,160 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1100">
+  <defs>
+    <pattern id="wall" width="60" height="60" patternUnits="userSpaceOnUse"><rect width="60" height="60" fill="#dff1e6"/><path d="M0 30h60" stroke="#cfe8d8" stroke-width="2"/></pattern>
+    <pattern id="floor" width="120" height="44" patternUnits="userSpaceOnUse"><rect width="120" height="44" fill="#e9c08e"/><path d="M0 43H120M60 0V44" stroke="#d3a46c" stroke-width="3"/></pattern>
+    <pattern id="cork" width="22" height="22" patternUnits="userSpaceOnUse"><rect width="22" height="22" fill="#d9a066"/><circle cx="6" cy="8" r="1.8" fill="#b97f45"/><circle cx="16" cy="16" r="1.8" fill="#b97f45"/></pattern>
+    <linearGradient id="steel" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#cfd5dc"/><stop offset=".5" stop-color="#f6f7f9"/><stop offset="1" stop-color="#b8c0c9"/></linearGradient>
+  </defs>
+  <g stroke="#6b4a36" stroke-width="4" stroke-linejoin="round" stroke-linecap="round">
+    <rect width="1600" height="1100" fill="#dff1e6" stroke="none"/>
+    <rect width="1600" height="660" fill="url(#wall)" stroke="none"/>
+    <rect y="660" width="1600" height="440" fill="url(#floor)" stroke="none"/>
+    <rect y="644" width="1600" height="20" fill="#9fd3b4"/>
+    <!-- window-ish sunlight panel at top between title and board -->
+
+    <!-- lockers -->
+    <g>
+      <rect x="18" y="292" width="350" height="388" rx="8" fill="#5b8def"/>
+      <path d="M134 292V680M250 292V680" stroke-width="4"/>
+      <g fill="#7aa6f5" stroke-width="3">
+        <rect x="30" y="306" width="92" height="360" rx="5"/><rect x="146" y="306" width="92" height="360" rx="5"/><rect x="262" y="306" width="92" height="360" rx="5"/>
+      </g>
+      <g stroke="#3d64b8" stroke-width="4"><path d="M50 330h52M50 342h52M50 354h52M166 330h52M166 342h52M166 354h52M282 330h52M282 342h52M282 354h52"/></g>
+      <g fill="#ffd23f" stroke-width="3"><rect x="104" y="470" width="10" height="34" rx="4"/><rect x="220" y="470" width="10" height="34" rx="4"/><rect x="336" y="470" width="10" height="34" rx="4"/></g>
+      <g fill="#fff" stroke-width="2.5"><rect x="62" y="390" width="30" height="16" rx="3"/><rect x="178" y="390" width="30" height="16" rx="3"/><rect x="294" y="390" width="30" height="16" rx="3"/></g>
+    </g>
+
+    <!-- clock -->
+    <circle cx="800" cy="52" r="40" fill="#fff"/>
+    <circle cx="800" cy="52" r="40" fill="none" stroke="#ff8f6b" stroke-width="8"/>
+    <circle cx="800" cy="52" r="44" fill="none"/>
+    <path d="M800 52V28M800 52l16 10" stroke-width="5"/>
+    <g fill="#6b4a36" stroke="none"><circle cx="800" cy="20" r="3"/><circle cx="800" cy="84" r="3"/><circle cx="768" cy="52" r="3"/><circle cx="832" cy="52" r="3"/></g>
+
+    <!-- blackboard -->
+    <rect x="456" y="100" width="688" height="300" rx="12" fill="#c98a50"/>
+    <rect x="472" y="116" width="656" height="268" rx="6" fill="#3f7f62"/>
+    <g fill="none" stroke="#f4fbf6" stroke-width="5">
+      <path d="M506 210l22-62l22 62M514 188h28"/>
+      <path d="M572 148v62M572 148q30 0 30 15q0 15-30 15q34 0 34 16q0 16-34 16"/>
+      <path d="M672 156q-20-12-34 4q-12 22 4 42q16 12 32-2"/>
+      <path d="M510 256l12-12v56M546 272h28M560 258v28M588 256l12-12v56M618 266h24M618 280h24M660 250q20-6 22 12q-4 16-22 32h26"/>
+      <path d="M720 200q20-40 40 0q20 40 40 0q20-40 40 0" stroke="#ffd23f"/>
+    </g>
+    <g stroke="#f4fbf6" stroke-width="4" fill="none">
+      <circle cx="1010" cy="200" r="22" stroke="#ff9fb4"/><path d="M1010 222v70M1010 262q-24-14-30-4q12 18 30 14M1010 252q22-16 30-6q-12 18-30 14" stroke="#9fe07f"/>
+      <circle cx="1010" cy="200" r="8" fill="#ffd23f" stroke="#ffd23f"/>
+    </g>
+    <rect x="452" y="398" width="696" height="14" rx="5" fill="#e9b278"/>
+    <!-- chalk + board eraser on tray -->
+    <rect x="590" y="388" width="34" height="10" rx="4" fill="#fff" stroke-width="3"/>
+    <rect x="630" y="388" width="26" height="10" rx="4" fill="#ffd23f" stroke-width="3"/>
+    <rect x="662" y="388" width="22" height="10" rx="4" fill="#ff9fb4" stroke-width="3"/>
+    <rect x="860" y="372" width="76" height="26" rx="6" fill="#ffb36b"/>
+    <rect x="860" y="388" width="76" height="10" rx="3" fill="#6b6b78" stroke-width="3"/>
+    <!-- pointer -->
+    <path d="M1097.6 528.7L1060 336" stroke="#c98a50" stroke-width="6"/>
+
+    <!-- projector hanging from ceiling -->
+    <path d="M1222 0V54" stroke-width="7"/>
+    <rect x="1170" y="52" width="108" height="46" rx="12" fill="#f1f3f6"/>
+    <circle cx="1186" cy="75" r="14" fill="#7ad0f0"/><circle cx="1186" cy="75" r="6" fill="#2e2b3a"/>
+    <path d="M1214 66h50M1214 80h50" stroke="#c3c9d0" stroke-width="4"/>
+    <path d="M1172 66L1146 104M1172 84l-20 26" stroke="#fff3a8" stroke-width="4" opacity=".9"/>
+
+    <!-- map -->
+    <path d="M1316 40h250" stroke-width="5"/>
+    <rect x="1312" y="44" width="258" height="174" rx="6" fill="#9fd8f2"/>
+    <path d="M1336 78q30-18 56 0q8 22-8 40q-26 24-14 50q-30-6-36-40q-12-30 2-50z" fill="#8bd16a" stroke-width="3"/>
+    <path d="M1420 70q36-14 64 4q26-6 50 10q6 26-20 30q-22 2-26 24q-14 30-30 10q-10-26-26-34q-22-14-12-44z" fill="#ffd96b" stroke-width="3"/>
+    <path d="M1520 160q18-8 30 6q-6 20-24 16q-14-8-6-22z" fill="#ff9fb4" stroke-width="3"/>
+    <rect x="1306" y="216" width="270" height="12" rx="5" fill="#c98a50"/>
+
+    <!-- corkboard -->
+    <rect x="1330" y="276" width="250" height="176" rx="8" fill="#c98a50"/>
+    <rect x="1342" y="288" width="226" height="152" rx="4" fill="url(#cork)"/>
+    <rect x="1362" y="308" width="80" height="104" rx="2" fill="#fff" transform="rotate(-4 1402 360)"/>
+    <path d="M1374 334h56M1374 350h56M1374 366h40M1374 382h50" stroke="#9fb3c8" stroke-width="3" transform="rotate(-4 1402 360)"/>
+    <rect x="1476" y="314" width="76" height="62" rx="2" fill="#fff59d" transform="rotate(5 1514 345)"/>
+    <path d="M1490 336l14 14l26-26" fill="none" stroke="#3fa35b" stroke-width="5"/>
+    <circle cx="1514" cy="318" r="7" fill="#5b8def" stroke-width="3"/>
+    <rect x="1470" y="392" width="70" height="38" rx="2" fill="#ffd0e0" transform="rotate(-3 1505 411)"/>
+    <circle cx="1505" cy="396" r="6" fill="#3fa35b" stroke-width="3"/>
+
+    <!-- low bookcase -->
+    <rect x="1340" y="560" width="236" height="150" rx="8" fill="#f2c48d"/>
+    <path d="M1346 634H1570" stroke-width="6"/>
+    <g stroke-width="3"><rect x="1360" y="580" width="18" height="52" fill="#ff8f6b"/><rect x="1380" y="586" width="16" height="46" fill="#5bc0eb"/><rect x="1398" y="578" width="20" height="54" fill="#8bd16a"/><rect x="1420" y="590" width="16" height="42" fill="#ffd23f"/>
+    <rect x="1470" y="650" width="20" height="54" fill="#9b7be0"/><rect x="1492" y="656" width="16" height="48" fill="#ff8fb1"/><rect x="1510" y="648" width="20" height="56" fill="#5b8def"/><rect x="1532" y="660" width="18" height="44" fill="#ff8f6b"/></g>
+    <!-- globe on lockers -->
+    <path d="M306 292l-26 0l10-12h32l10 12z" fill="#c98a50"/>
+    <path d="M306 282V266" stroke-width="5"/>
+    <path d="M262 214a46 46 0 0 0 64 64" fill="none" stroke="#c98a50" stroke-width="6"/>
+    <circle cx="304" cy="232" r="36" fill="#7ad0f0"/>
+    <path d="M278 220q14-10 24 2q-4 14 8 22q-6 16-20 10q-2-14-12-20z" fill="#8bd16a" stroke-width="3"/>
+    <path d="M312 206q14 0 20 14q-10 6-18 0z" fill="#8bd16a" stroke-width="3"/>
+    <!-- trash can drawn shadow spot -->
+    <!-- teacher's desk -->
+    <rect x="440" y="626" width="360" height="94" rx="6" fill="#d9a46a"/>
+    <rect x="456" y="640" width="150" height="66" rx="5" fill="#e9b97e"/>
+    <path d="M512 668h38" stroke-width="6"/>
+    <rect x="428" y="610" width="384" height="20" rx="6" fill="#f2c48d"/>
+    <!-- stapler -->
+    <g>
+      <path d="M470 610h76v-10h-76z" fill="#8d98a3"/>
+      <path d="M468 600q4-22 34-24h46q8 2 6 14l-6 10z" fill="#e5483b"/>
+      <path d="M540 584l-62 10" stroke="#ff8f80" stroke-width="3"/>
+    </g>
+    <!-- calculator -->
+    <g transform="rotate(-6 600 586)">
+      <rect x="574" y="552" width="56" height="70" rx="8" fill="#5b8def"/>
+      <rect x="582" y="560" width="40" height="16" rx="3" fill="#cdeccf" stroke-width="3"/>
+      <g fill="#fff" stroke-width="2"><rect x="582" y="582" width="10" height="9" rx="2"/><rect x="597" y="582" width="10" height="9" rx="2"/><rect x="612" y="582" width="10" height="9" rx="2"/>
+      <rect x="582" y="595" width="10" height="9" rx="2"/><rect x="597" y="595" width="10" height="9" rx="2"/><rect x="612" y="595" width="10" height="9" fill="#ff8f6b" rx="2"/>
+      <rect x="582" y="608" width="10" height="9" rx="2"/><rect x="597" y="608" width="10" height="9" rx="2"/><rect x="612" y="608" width="10" height="9" rx="2"/></g>
+    </g>
+    <!-- markers -->
+    <g>
+      <rect x="760" y="556" width="16" height="52" rx="4" fill="#fff"/><rect x="760" y="540" width="16" height="20" rx="4" fill="#3fa35b"/>
+      <rect x="780" y="562" width="16" height="46" rx="4" fill="#fff"/><rect x="780" y="546" width="16" height="20" rx="4" fill="#e5483b"/>
+    </g>
+
+    <!-- student desks -->
+    <path d="M494 920h92v30h-92z" fill="#ff8f6b"/>
+    <path d="M502 950V1016M578 950V1016" stroke-width="8"/>
+    <rect x="488" y="1016" width="104" height="16" rx="6" fill="#ff8f6b"/>
+    <path d="M498 1032L492 1082M582 1032L588 1082" stroke-width="7"/>
+    <path d="M994 920h92v30h-92z" fill="#5bc0eb"/>
+    <path d="M1002 950V1016M1078 950V1016" stroke-width="8"/>
+    <rect x="988" y="1016" width="104" height="16" rx="6" fill="#5bc0eb"/>
+    <path d="M998 1032L992 1082M1082 1032L1088 1082" stroke-width="7"/>
+    <path d="M54 976V1086M428 976V1086" stroke="#6b4a36" stroke-width="13"/>
+    <path d="M54 976V1086M428 976V1086" stroke="#8d98a3" stroke-width="6"/>
+    <rect x="48" y="976" width="386" height="22" rx="4" fill="#d9a46a"/>
+    <rect x="36" y="962" width="410" height="18" rx="6" fill="#f2c48d"/>
+    <path d="M658 976V1086M974 976V1086" stroke="#6b4a36" stroke-width="13"/>
+    <path d="M658 976V1086M974 976V1086" stroke="#8d98a3" stroke-width="6"/>
+    <rect x="652" y="976" width="328" height="22" rx="4" fill="#d9a46a"/>
+    <rect x="640" y="962" width="352" height="18" rx="6" fill="#f2c48d"/>
+    <path d="M1208 976V1086M1422 976V1086" stroke="#6b4a36" stroke-width="13"/>
+    <path d="M1208 976V1086M1422 976V1086" stroke="#8d98a3" stroke-width="6"/>
+    <rect x="1202" y="976" width="226" height="22" rx="4" fill="#d9a46a"/>
+    <rect x="1190" y="962" width="250" height="18" rx="6" fill="#cfe6f7"/>
+    <!-- empty chair with backpack -->
+    <path d="M1482 894h92v30h-92z" fill="#9b7be0"/>
+    <path d="M1490 924V990M1566 924V990" stroke-width="8"/>
+    <rect x="1476" y="990" width="104" height="16" rx="6" fill="#9b7be0"/>
+    <path d="M1486 1006L1480 1086M1570 1006L1576 1086" stroke-width="7"/>
+    <!-- sharpener drawn on desk 1 -->
+    <g>
+      <rect x="378" y="924" width="42" height="38" rx="6" fill="#ff8fb1"/>
+      <rect x="386" y="914" width="26" height="12" rx="3" fill="#8d98a3"/>
+      <circle cx="399" cy="944" r="8" fill="#2e2b3a"/>
+      <path d="M420 936h12v14h-12" fill="#8d98a3" stroke-width="3"/>
+    </g>
+    <g transform="translate(134 952) rotate(-8)">
+      <rect x="0" y="-6" width="78" height="12" rx="2" fill="#ffd23f"/><path d="M78 -6l16 6l-16 6z" fill="#f5d6a8"/><path d="M89 -2l5 2l-5 2z" fill="#6b4a36" stroke="none"/>
+      <rect x="-10" y="-6" width="12" height="12" rx="3" fill="#ff8fb1"/></g>
+    <!-- rug -->
+  </g>
+</svg>

@@ -1,0 +1,311 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1100">
+  <defs>
+    <pattern id="tileA" width="40" height="40" patternUnits="userSpaceOnUse"><rect width="40" height="40" fill="#e9eef2"/><path d="M0 .5H40M.5 0V40" stroke="#cfd8df" stroke-width="3"/></pattern>
+    <pattern id="tileB" width="48" height="48" patternUnits="userSpaceOnUse"><rect width="48" height="48" fill="#f3dcb8"/><path d="M0 .5H48M.5 0V48" stroke="#e2c497" stroke-width="3"/></pattern>
+    <pattern id="brick" width="60" height="30" patternUnits="userSpaceOnUse"><rect width="60" height="30" fill="#f6e2c4"/><path d="M0 29H60M30 0V15M0 15H60M0 15V30M60 15V30" stroke="#ead0a8" stroke-width="2.5"/></pattern>
+    <pattern id="wdots" width="30" height="30" patternUnits="userSpaceOnUse"><circle cx="15" cy="15" r="2.4" fill="#ffffff" opacity=".7"/></pattern>
+    <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d6f1fc"/><stop offset="1" stop-color="#a7dbf3"/></linearGradient>
+    <linearGradient id="steel" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#d9dde2"/><stop offset=".5" stop-color="#f6f7f9"/><stop offset="1" stop-color="#c3c9d0"/></linearGradient>
+    <linearGradient id="xray" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2f4b66"/><stop offset="1" stop-color="#1d3047"/></linearGradient>
+  </defs>
+  <g stroke="#6b4a36" stroke-width="4" stroke-linejoin="round" stroke-linecap="round">
+    <!-- 天空 -->
+    <rect width="1600" height="1100" fill="#c4e9f8" stroke="none"/>
+    <path d="M30 330q20-34 60-24q18-34 62-20q40 0 40 36q-80 16-162 8z" fill="#fff" stroke="none"/>
+    <path d="M520 30q14-20 40-14q12-20 40-10q22 2 22 22q-52 10-102 2z" fill="#fff" stroke="none" opacity="0"/>
+    <!-- 遠方樹叢 -->
+    <path d="M0 900q40-80 100-56q50-60 120-6q40-16 76 24V1036H0z" fill="#9fd48a" stroke="none"/>
+    <!-- 馬路 -->
+    <rect y="1036" width="1600" height="64" fill="#a7afb8"/>
+    <path d="M0 1036H1600" stroke-width="5"/>
+    <path d="M20 1074h70M150 1074h70" stroke="#fff" stroke-width="8"/>
+
+    <!-- 建築外牆 -->
+    <rect x="296" y="52" width="1294" height="988" fill="url(#brick)"/>
+    <rect x="282" y="34" width="1322" height="30" rx="8" fill="#e8735a"/>
+    <path d="M1330 34v-6M1430 34v-6" stroke-width="5"/>
+    <rect x="1300" y="2" width="160" height="28" rx="8" fill="#5fb7a6"/>
+    <rect x="1310" y="6" width="22" height="20" rx="4" fill="#fff" stroke-width="3"/>
+    <path d="M1321 9v14M1314 16h14" stroke="#e8504a" stroke-width="4.5"/>
+    <path d="M1344 12h100M1344 22h70" stroke="#fff" stroke-width="5"/>
+
+    <!-- ===== 二樓房間 ===== -->
+    <rect x="308" y="66" width="392" height="304" fill="#d9f2ee"/>
+    <rect x="308" y="66" width="392" height="304" fill="url(#wdots)" stroke="none"/>
+    <rect x="716" y="66" width="424" height="304" fill="#e6e6f8"/>
+    <rect x="716" y="66" width="424" height="304" fill="url(#wdots)" stroke="none"/>
+    <rect x="1156" y="66" width="422" height="304" fill="#d6efdc"/>
+    <rect x="308" y="340" width="1270" height="30" fill="url(#tileA)" stroke="none"/>
+    <path d="M308 340H1578"/>
+    <rect x="296" y="370" width="1294" height="28" fill="#e2c9a4"/>
+
+    <!-- ===== 一樓房間 ===== -->
+    <rect x="308" y="398" width="292" height="638" fill="#fde3dc"/>
+    <rect x="616" y="398" width="534" height="638" fill="#fff1cf"/>
+    <rect x="616" y="398" width="534" height="638" fill="url(#wdots)" stroke="none"/>
+    <rect x="1166" y="398" width="412" height="638" fill="#dcecfa"/>
+    <rect x="308" y="980" width="1270" height="56" fill="url(#tileB)" stroke="none"/>
+    <path d="M308 980H1578"/>
+    <!-- 隔間牆 -->
+    <rect x="700" y="66" width="16" height="304" fill="#f6e2c4"/>
+    <rect x="1140" y="66" width="16" height="304" fill="#f6e2c4"/>
+    <rect x="600" y="398" width="16" height="638" fill="#f6e2c4"/>
+    <rect x="1150" y="398" width="16" height="638" fill="#f6e2c4"/>
+
+    <!-- ===== 牙醫室 ===== -->
+    <!-- 牙醫燈（牆上懸臂） -->
+    <path d="M316 150h60q20 0 30 14" fill="none" stroke-width="6"/>
+    <rect x="308" y="140" width="12" height="22" rx="3" fill="#c3c9d0"/>
+    <ellipse cx="414" cy="176" rx="24" ry="14" fill="#ffe28a" transform="rotate(30 414 176)"/>
+    <!-- 牙醫椅 -->
+    <path d="M440 150q-4-14 10-16h50q14 2 10 16l-8 140h-54z" fill="#5fb7a6"/>
+    <rect x="410" y="280" width="184" height="24" rx="12" fill="#5fb7a6"/>
+    <path d="M500 304v26" stroke-width="10"/>
+    <rect x="456" y="326" width="88" height="12" rx="5" fill="url(#steel)"/>
+    <!-- 漱口台 -->
+    <rect x="330" y="252" width="48" height="88" rx="8" fill="#fff"/>
+    <ellipse cx="354" cy="252" rx="28" ry="8" fill="#a7dbf3"/>
+    <!-- 器械盤 -->
+    <rect x="606" y="196" width="70" height="10" rx="4" fill="url(#steel)"/>
+    <path d="M618 196l6-12M634 196l2-14M650 196l-2-12M664 196l-4-10" stroke-width="3"/>
+    <path d="M641 206v134" stroke-width="5"/>
+    <!-- 牙齒海報 -->
+    <rect x="560" y="86" width="64" height="80" rx="6" fill="#fff"/>
+    <path d="M576 108q16-9 32 0q6 16-3 38q-4 7-7-4q-3-10-6 0q-3 11-7 4q-9-22-9-38z" fill="#fff" stroke-width="3"/>
+
+    <!-- ===== X 光 / 健康檢查 ===== -->
+    <rect x="732" y="84" width="140" height="160" rx="10" fill="#f5f7fa"/>
+    <rect x="744" y="96" width="116" height="136" rx="4" fill="url(#xray)" stroke-width="3"/>
+    <g fill="none" stroke="#e8f4ff" stroke-width="5">
+      <path d="M802 104v120"/>
+      <path d="M802 126q-28 0-42 12M802 144q-32 0-46 14M802 162q-32 0-46 14M802 180q-28 0-40 12"/>
+      <path d="M802 126q28 0 42 12M802 144q32 0 46 14M802 162q32 0 46 14M802 180q28 0 40 12"/>
+      <path d="M764 212q38 16 76 0"/>
+    </g>
+    <!-- X 光機 -->
+    <rect x="904" y="106" width="88" height="200" rx="10" fill="#b8c2d6"/>
+    <rect x="916" y="118" width="64" height="174" rx="6" fill="#dfe5ef"/>
+    <path d="M948 306v30" stroke-width="10"/>
+    <rect x="918" y="332" width="60" height="10" rx="4" fill="#8c97ab"/>
+    <path d="M996 84h36v32" fill="none" stroke-width="8"/>
+    <rect x="1012" y="112" width="40" height="32" rx="8" fill="#8c97ab"/>
+    <!-- 痛的病人（emoji 頭），手臂吊三角巾 -->
+    <g transform="translate(948 336)">
+      <path d="M-12 -62v56M12 -62v56" stroke="#6b4a36" stroke-width="20"/>
+      <path d="M-12 -62v56M12 -62v56" stroke="#4d7fd6" stroke-width="13"/>
+      <ellipse cx="-16" cy="0" rx="15" ry="8" fill="#6b4a36"/><ellipse cx="16" cy="0" rx="15" ry="8" fill="#6b4a36"/>
+      <path d="M-28 -112q0-16 28-16q28 0 28 16v52q-28 8-56 0z" fill="#ffd23f"/>
+      <path d="M-24 -108q-12 24-4 46" fill="none" stroke="#6b4a36" stroke-width="20"/>
+      <path d="M-24 -108q-12 24-4 46" fill="none" stroke="#ffd23f" stroke-width="13"/>
+      <circle cx="-28" cy="-60" r="9" fill="#ffe0c4" stroke-width="3.5"/>
+      <path d="M24 -108q14 20-6 32h-30" fill="none" stroke="#6b4a36" stroke-width="20"/>
+      <path d="M24 -108q14 20-6 32h-30" fill="none" stroke="#ffd23f" stroke-width="13"/>
+      <path d="M-22 -114l50 48q-30 10-52 0z" fill="#fff" stroke-width="3.5"/>
+      <circle cx="-14" cy="-76" r="9" fill="#ffe0c4" stroke-width="3.5"/>
+    </g>
+    <!-- 視力表 -->
+    <rect x="1062" y="80" width="64" height="124" rx="6" fill="#fff"/>
+    <g fill="#6b4a36" stroke="none">
+      <rect x="1085" y="92" width="18" height="18"/><rect x="1078" y="118" width="11" height="11"/><rect x="1097" y="118" width="11" height="11"/>
+      <rect x="1075" y="138" width="8" height="8"/><rect x="1090" y="138" width="8" height="8"/><rect x="1105" y="138" width="8" height="8"/>
+      <rect x="1073" y="155" width="6" height="6"/><rect x="1085" y="155" width="6" height="6"/><rect x="1097" y="155" width="6" height="6"/><rect x="1109" y="155" width="6" height="6"/>
+    </g>
+    <path d="M1074 176h40M1074 188h40" stroke="#e8504a" stroke-width="3"/>
+    <!-- 身高體重計 -->
+    <path d="M1094 214v114" stroke-width="8"/>
+    <g stroke-width="2.5"><path d="M1094 234h10M1094 254h10M1094 274h10M1094 294h10M1094 314h10"/></g>
+    <path d="M1094 224h-30" stroke-width="6"/>
+    <rect x="1050" y="324" width="84" height="16" rx="6" fill="#ff8f6b"/>
+
+    <!-- ===== 手術室 ===== -->
+    <path d="M1370 66v34" stroke-width="7"/>
+    <ellipse cx="1370" cy="116" rx="74" ry="22" fill="#cfd6de"/>
+    <ellipse cx="1342" cy="120" rx="16" ry="8" fill="#fff6b8" stroke-width="3"/><ellipse cx="1370" cy="125" rx="16" ry="8" fill="#fff6b8" stroke-width="3"/><ellipse cx="1398" cy="120" rx="16" ry="8" fill="#fff6b8" stroke-width="3"/>
+    <path d="M1314 140l-34 82h180l-34-82z" fill="#fffbe0" opacity=".6" stroke="none"/>
+    <rect x="1238" y="236" width="270" height="20" rx="8" fill="url(#steel)"/>
+    <path d="M1372 256v74" stroke-width="12"/>
+    <rect x="1320" y="326" width="104" height="12" rx="5" fill="#8c97ab"/>
+    <circle cx="1270" cy="210" r="24" fill="#ffe0c4"/>
+    <path d="M1248 204q4-28 24-28q20 0 22 24z" fill="#7fc89a"/>
+    <path d="M1260 214q4 4 8 0" fill="none" stroke-width="3"/>
+    <path d="M1292 196q100-16 210 0v42h-210z" fill="#7fc89a"/>
+    <path d="M1292 218q100-6 210 0" fill="none" stroke-width="3"/>
+    <!-- 監視器 -->
+    <path d="M1532 172v166" stroke-width="7"/>
+    <rect x="1498" y="110" width="68" height="62" rx="8" fill="#485a6e"/>
+    <path d="M1506 144h12l6-16l8 30l6-14h20" fill="none" stroke="#7dff9a" stroke-width="3"/>
+    <rect x="1510" y="332" width="44" height="9" rx="4" fill="#8c97ab"/>
+    <!-- 點滴架 -->
+    <path d="M1196 96v240" stroke-width="5"/>
+    <path d="M1180 96h32" stroke-width="5"/>
+    <rect x="1182" y="104" width="28" height="42" rx="10" fill="#d8f0ff"/>
+    <path d="M1196 146q0 40 46 60" fill="none" stroke-width="2.5"/>
+    <rect x="1182" y="332" width="28" height="8" rx="3" fill="#8c97ab"/>
+
+    <!-- ===== 救護車（戶外） ===== -->
+    <g>
+      <path d="M24 1010V900q0-14 14-14h150q10 0 16 8l50 58q10 10 10 24v34z" fill="#fff"/>
+      <path d="M190 896l46 54h-46z" fill="url(#glass)" stroke-width="3.5"/>
+      <rect x="24" y="960" width="240" height="18" fill="#e8504a" stroke-width="3"/>
+      <rect x="70" y="906" width="44" height="44" rx="6" fill="#fff" stroke-width="3"/>
+      <path d="M92 912v32M76 928h32" stroke="#e8504a" stroke-width="9"/>
+      <rect x="128" y="904" width="44" height="40" rx="5" fill="url(#glass)" stroke-width="3"/>
+      <rect x="66" y="872" width="44" height="16" rx="6" fill="#e8504a"/>
+      <rect x="112" y="876" width="22" height="12" rx="4" fill="#5b8def"/>
+      <circle cx="78" cy="1012" r="24" fill="#4a4a55"/><circle cx="78" cy="1012" r="9" fill="#d9dde2"/>
+      <circle cx="210" cy="1012" r="24" fill="#4a4a55"/><circle cx="210" cy="1012" r="9" fill="#d9dde2"/>
+      <rect x="258" y="980" width="12" height="10" rx="3" fill="#ffd23f" stroke-width="3"/>
+    </g>
+
+    <!-- ===== 急診室 ===== -->
+    <path d="M206 548h104v-10h-104z" fill="#e8735a"/>
+    <rect x="226" y="460" width="66" height="60" rx="8" fill="#e8504a"/>
+    <path d="M259 470v40M239 490h40" stroke="#fff" stroke-width="10"/>
+    <path d="M259 520v18" stroke-width="4"/>
+    <rect x="296" y="560" width="14" height="420" fill="url(#glass)"/>
+    <!-- 置物架 -->
+    <path d="M324 600H588" stroke-width="9"/>
+    <path d="M338 600l12 22M574 600l-12 22" stroke-width="5"/>
+    <!-- 疫苗瓶 -->
+    <rect x="490" y="564" width="20" height="34" rx="4" fill="#dff4ff"/><rect x="490" y="556" width="20" height="10" rx="3" fill="#ff8f6b"/>
+    <rect x="516" y="564" width="20" height="34" rx="4" fill="#dff4ff"/><rect x="516" y="556" width="20" height="10" rx="3" fill="#7fb8e8"/>
+    <rect x="542" y="564" width="20" height="34" rx="4" fill="#dff4ff"/><rect x="542" y="556" width="20" height="10" rx="3" fill="#ffd23f"/>
+    <path d="M494 582h12M520 582h12M546 582h12" stroke-width="3"/>
+    <!-- 輪椅 -->
+    <circle cx="412" cy="930" r="56" fill="none" stroke-width="7"/>
+    <circle cx="412" cy="930" r="44" fill="none" stroke-width="3"/>
+    <path d="M412 878v104M360 930h104M375 893l74 74M449 893l-74 74" stroke-width="2.5"/>
+    <circle cx="412" cy="930" r="8" fill="#8c97ab"/>
+    <path d="M440 800v100h-110" fill="none" stroke-width="8"/>
+    <path d="M440 800h18" stroke-width="8"/>
+    <path d="M346 900v50h-28" fill="none" stroke-width="6"/>
+    <circle cx="342" cy="972" r="10" fill="#8c97ab"/>
+    <!-- 頭痛病人坐在輪椅上 -->
+    <g>
+      <path d="M378 904v56M404 904v56" stroke="#6b4a36" stroke-width="20"/>
+      <path d="M378 904v56M404 904v56" stroke="#8a6fd1" stroke-width="13"/>
+      <ellipse cx="374" cy="968" rx="15" ry="8" fill="#6b4a36"/><ellipse cx="408" cy="968" rx="15" ry="8" fill="#6b4a36"/>
+      <rect x="330" y="890" width="120" height="16" rx="6" fill="#4d7fd6"/>
+      <path d="M360 884h62v20q-31 8-62 0z" fill="#8a6fd1"/>
+      <path d="M362 840q0-18 29-18q29 0 29 18v48q-29 8-58 0z" fill="#ff9fb5"/>
+      <path d="M366 842q-12 22-4 40" fill="none" stroke="#6b4a36" stroke-width="20"/>
+      <path d="M366 842q-12 22-4 40" fill="none" stroke="#ff9fb5" stroke-width="13"/>
+      <path d="M416 842q12 22 4 40" fill="none" stroke="#6b4a36" stroke-width="20"/>
+      <path d="M416 842q12 22 4 40" fill="none" stroke="#ff9fb5" stroke-width="13"/>
+      <circle cx="362" cy="884" r="9" fill="#ffe0c4" stroke-width="3.5"/><circle cx="420" cy="884" r="9" fill="#ffe0c4" stroke-width="3.5"/>
+    </g>
+
+    <!-- ===== 候診室 ===== -->
+    <!-- 流感症狀海報 -->
+    <rect x="640" y="414" width="130" height="176" rx="10" fill="#fff"/>
+    <rect x="650" y="424" width="110" height="64" rx="6" fill="#ffe3e0" stroke-width="3"/>
+    <g stroke-width="3">
+      <circle cx="670" cy="512" r="11" fill="#ffd23f"/><circle cx="705" cy="512" r="11" fill="#ffd23f"/><circle cx="740" cy="512" r="11" fill="#ffd23f"/>
+      <circle cx="670" cy="550" r="11" fill="#ffd23f"/><circle cx="705" cy="550" r="11" fill="#ffd23f"/><circle cx="740" cy="550" r="11" fill="#ffd23f"/>
+    </g>
+    <g stroke-width="2.5" fill="none">
+      <path d="M665 516q5-4 10 0M700 511h10M735 515q5 4 10 0M665 553q5 4 10 0M700 548q5 4 10 0M735 552h10"/>
+    </g>
+    <path d="M660 576h60" stroke="#e8504a" stroke-width="4"/>
+    <!-- 掛號日曆 -->
+    <rect x="1006" y="420" width="84" height="84" rx="8" fill="#fff"/>
+    <rect x="1006" y="420" width="84" height="22" rx="8" fill="#ff8f6b"/>
+    <path d="M1026 414v14M1070 414v14" stroke-width="5"/>
+    <g fill="#6b4a36" stroke="none"><circle cx="1024" cy="458" r="3"/><circle cx="1041" cy="458" r="3"/><circle cx="1058" cy="458" r="3"/><circle cx="1075" cy="458" r="3"/><circle cx="1024" cy="474" r="3"/><circle cx="1041" cy="474" r="3"/><circle cx="1075" cy="474" r="3"/><circle cx="1024" cy="490" r="3"/><circle cx="1041" cy="490" r="3"/><circle cx="1058" cy="490" r="3"/></g>
+    <circle cx="1058" cy="474" r="9" fill="none" stroke="#e8504a" stroke-width="3.5"/>
+    <!-- 長椅 -->
+    <rect x="644" y="922" width="452" height="20" rx="8" fill="#ff8f6b"/>
+    <path d="M664 942v42M1076 942v42M870 942v42" stroke-width="8"/>
+    <!-- 小圓桌 -->
+    <ellipse cx="1124" cy="896" rx="24" ry="7" fill="#d9a066"/>
+    <path d="M1124 903v77M1108 980h32" stroke-width="6"/>
+    <!-- 1 發燒 -->
+    <g transform="translate(690 922)">
+      <path d="M-14 12v48M14 12v48" stroke="#6b4a36" stroke-width="20"/><path d="M-14 12v48M14 12v48" stroke="#3d5a99" stroke-width="13"/>
+      <ellipse cx="-18" cy="66" rx="15" ry="8" fill="#6b4a36"/><ellipse cx="18" cy="66" rx="15" ry="8" fill="#6b4a36"/>
+      <path d="M-30 -6h60v22q-30 8-60 0z" fill="#3d5a99"/>
+      <path d="M-28 -54q0-18 28-18q28 0 28 18v50q-28 8-56 0z" fill="#ff7a8a"/>
+      <path d="M-24 -50q-12 22-4 42" fill="none" stroke="#6b4a36" stroke-width="20"/><path d="M-24 -50q-12 22-4 42" fill="none" stroke="#ff7a8a" stroke-width="13"/>
+      <path d="M24 -50q12 22 4 42" fill="none" stroke="#6b4a36" stroke-width="20"/><path d="M24 -50q12 22 4 42" fill="none" stroke="#ff7a8a" stroke-width="13"/>
+      <circle cx="-28" cy="-6" r="9" fill="#ffe0c4" stroke-width="3.5"/><circle cx="28" cy="-6" r="9" fill="#ffe0c4" stroke-width="3.5"/>
+    </g>
+    <!-- 2 咳嗽 -->
+    <g transform="translate(780 922)">
+      <path d="M-12 12v48M12 12v48" stroke="#6b4a36" stroke-width="20"/><path d="M-12 12v48M12 12v48" stroke="#ffe0c4" stroke-width="13"/>
+      <ellipse cx="-16" cy="66" rx="15" ry="8" fill="#e8504a"/><ellipse cx="16" cy="66" rx="15" ry="8" fill="#e8504a"/>
+      <path d="M-32 -6h64l6 24q-38 10-76 0z" fill="#ffd23f"/>
+      <path d="M-28 -54q0-18 28-18q28 0 28 18v50q-28 8-56 0z" fill="#7fc8b8"/>
+      <path d="M-24 -50q-12 22-4 42" fill="none" stroke="#6b4a36" stroke-width="20"/><path d="M-24 -50q-12 22-4 42" fill="none" stroke="#7fc8b8" stroke-width="13"/>
+      <path d="M24 -50q12 22 4 42" fill="none" stroke="#6b4a36" stroke-width="20"/><path d="M24 -50q12 22 4 42" fill="none" stroke="#7fc8b8" stroke-width="13"/>
+      <circle cx="-28" cy="-6" r="9" fill="#f5c79e" stroke-width="3.5"/><circle cx="28" cy="-6" r="9" fill="#f5c79e" stroke-width="3.5"/>
+    </g>
+    <!-- 3 感冒（裹毛毯） -->
+    <g transform="translate(870 922)">
+      <path d="M-14 12v48M14 12v48" stroke="#6b4a36" stroke-width="20"/><path d="M-14 12v48M14 12v48" stroke="#6b5b4b" stroke-width="13"/>
+      <ellipse cx="-18" cy="66" rx="15" ry="8" fill="#6b4a36"/><ellipse cx="18" cy="66" rx="15" ry="8" fill="#6b4a36"/>
+      <path d="M-38 -60q38-24 76 0l6 76q-44 12-88 0z" fill="#9ec9f0"/>
+      <path d="M-32 -30h64M-36 0h72" stroke="#fff" stroke-width="6"/>
+      <circle cx="0" cy="-12" r="9" fill="#ffe0c4" stroke-width="3.5"/>
+    </g>
+    <!-- 4 流鼻水（拿面紙） -->
+    <g transform="translate(960 922)">
+      <path d="M-14 12v48M14 12v48" stroke="#6b4a36" stroke-width="20"/><path d="M-14 12v48M14 12v48" stroke="#3fa35b" stroke-width="13"/>
+      <ellipse cx="-18" cy="66" rx="15" ry="8" fill="#6b4a36"/><ellipse cx="18" cy="66" rx="15" ry="8" fill="#6b4a36"/>
+      <path d="M-30 -6h60v22q-30 8-60 0z" fill="#3fa35b"/>
+      <path d="M-28 -54q0-18 28-18q28 0 28 18v50q-28 8-56 0z" fill="#f2a516"/>
+      <path d="M-24 -50q-12 22-4 42" fill="none" stroke="#6b4a36" stroke-width="20"/><path d="M-24 -50q-12 22-4 42" fill="none" stroke="#f2a516" stroke-width="13"/>
+      <path d="M24 -50q12 22 4 42" fill="none" stroke="#6b4a36" stroke-width="20"/><path d="M24 -50q12 22 4 42" fill="none" stroke="#f2a516" stroke-width="13"/>
+      <circle cx="-28" cy="-6" r="9" fill="#c98e62" stroke-width="3.5"/><circle cx="28" cy="-6" r="9" fill="#c98e62" stroke-width="3.5"/>
+      <path d="M26 -10l14-22l12 8l-10 20z" fill="#fff" stroke-width="3"/>
+    </g>
+    <!-- 5 肚子痛（抱肚子） -->
+    <g transform="translate(1050 922)">
+      <path d="M-14 12v48M14 12v48" stroke="#6b4a36" stroke-width="20"/><path d="M-14 12v48M14 12v48" stroke="#ffe0c4" stroke-width="13"/>
+      <ellipse cx="-18" cy="66" rx="15" ry="8" fill="#5b8def"/><ellipse cx="18" cy="66" rx="15" ry="8" fill="#5b8def"/>
+      <path d="M-34 -4h68l8 26q-42 10-84 0z" fill="#c56fa0"/>
+      <path d="M-28 -54q0-18 28-18q28 0 28 18v50q-28 8-56 0z" fill="#fff3a8"/>
+      <path d="M-24 -50q-10 30 12 32" fill="none" stroke="#6b4a36" stroke-width="20"/><path d="M-24 -50q-10 30 12 32" fill="none" stroke="#fff3a8" stroke-width="13"/>
+      <path d="M24 -50q10 30 -12 32" fill="none" stroke="#6b4a36" stroke-width="20"/><path d="M24 -50q10 30 -12 32" fill="none" stroke="#fff3a8" stroke-width="13"/>
+      <circle cx="-10" cy="-18" r="9" fill="#ffe0c4" stroke-width="3.5"/><circle cx="10" cy="-18" r="9" fill="#ffe0c4" stroke-width="3.5"/>
+    </g>
+
+    <!-- ===== 診療室 ===== -->
+    <!-- 藥櫃 -->
+    <rect x="1186" y="412" width="130" height="84" rx="8" fill="#fff"/>
+    <path d="M1251 412v84M1186 454h130" stroke-width="3"/>
+    <g stroke-width="3">
+      <rect x="1196" y="428" width="13" height="22" rx="3" fill="#ff8f6b"/><rect x="1214" y="432" width="13" height="18" rx="3" fill="#7fb8e8"/><rect x="1232" y="426" width="13" height="24" rx="3" fill="#ffd23f"/>
+      <rect x="1260" y="430" width="15" height="20" rx="3" fill="#9bd77f"/><rect x="1280" y="428" width="13" height="22" rx="3" fill="#ff8f6b"/><rect x="1298" y="432" width="12" height="18" rx="3" fill="#c5a3ff"/>
+      <rect x="1196" y="470" width="22" height="20" rx="3" fill="#fff3a8"/><rect x="1224" y="472" width="13" height="18" rx="3" fill="#7fb8e8"/><rect x="1262" y="466" width="13" height="24" rx="3" fill="#ff8f6b"/><rect x="1282" y="470" width="24" height="20" rx="3" fill="#9bd77f"/>
+    </g>
+    <!-- 血壓計 -->
+    <rect x="1482" y="410" width="80" height="92" rx="10" fill="#fff"/>
+    <circle cx="1522" cy="446" r="25" fill="#f6f7f9"/>
+    <path d="M1522 446l14-13" stroke="#e8504a" stroke-width="4"/>
+    <path d="M1504 444h4M1522 426v4M1540 444h-4" stroke-width="2.5"/>
+    <rect x="1498" y="478" width="48" height="14" rx="5" fill="#5b8def" stroke-width="3"/>
+    <path d="M1504 502q-8 26 8 40" fill="none" stroke-width="4"/>
+    <ellipse cx="1516" cy="550" rx="13" ry="9" fill="#5b8def" stroke-width="3"/>
+    <!-- 窗 -->
+    <rect x="1340" y="430" width="110" height="110" rx="10" fill="#fff"/>
+    <rect x="1350" y="440" width="90" height="90" rx="4" fill="url(#glass)"/>
+    <path d="M1395 440v90M1350 485h90" stroke="#fff" stroke-width="6"/>
+    <!-- 診療床 -->
+    <rect x="1176" y="888" width="190" height="22" rx="10" fill="#7fb8e8"/>
+    <rect x="1176" y="880" width="190" height="12" rx="6" fill="#fff" stroke-width="3"/>
+    <path d="M1190 910v70M1352 910v70" stroke-width="8"/>
+    <path d="M1176 890q-6-40 18-44h30q4 30-4 44z" fill="#fff" stroke-width="3.5"/>
+    <!-- 推車 -->
+    <rect x="1318" y="826" width="88" height="12" rx="5" fill="url(#steel)"/>
+    <rect x="1318" y="912" width="88" height="10" rx="4" fill="url(#steel)"/>
+    <path d="M1324 838v124M1400 838v124" stroke-width="5"/>
+    <circle cx="1326" cy="970" r="8" fill="#8c97ab"/><circle cx="1398" cy="970" r="8" fill="#8c97ab"/>
+    <rect x="1330" y="896" width="30" height="16" rx="3" fill="#fff" stroke-width="3"/>
+    <!-- 處方箋 -->
+    <g transform="rotate(-6 1372 808)">
+      <rect x="1346" y="792" width="54" height="34" rx="3" fill="#fff" stroke-width="3"/>
+      <path d="M1374 802h18M1352 812h40M1352 819h28" stroke="#5b8def" stroke-width="2.5"/>
+      <text x="1350" y="808" font-family="Georgia,serif" font-size="13" font-weight="700" fill="#e8504a" stroke="none">Rx</text>
+    </g>
+  </g>
+</svg>

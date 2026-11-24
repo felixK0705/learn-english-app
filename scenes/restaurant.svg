@@ -1,0 +1,139 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000">
+  <defs>
+    <pattern id="stripe" width="64" height="64" patternUnits="userSpaceOnUse"><rect width="64" height="64" fill="#fde4c4"/><rect x="22" width="18" height="64" fill="#f9d8b0"/><circle cx="8" cy="32" r="3" fill="#f6c99a"/></pattern>
+    <pattern id="check" width="100" height="100" patternUnits="userSpaceOnUse"><rect width="100" height="100" fill="#f7e8cf"/><rect width="50" height="50" fill="#e6c193"/><rect x="50" y="50" width="50" height="50" fill="#e6c193"/></pattern>
+    <pattern id="ktile" width="40" height="40" patternUnits="userSpaceOnUse"><rect width="40" height="40" fill="#fbfdfd"/><path d="M0 .5H40M.5 0V40" stroke="#cde6ea" stroke-width="3"/></pattern>
+    <pattern id="cloth" width="36" height="36" patternUnits="userSpaceOnUse"><rect width="36" height="36" fill="#fff"/><rect width="18" height="36" fill="#ffd9d4"/><rect width="36" height="18" fill="#ffd9d4" opacity=".7"/></pattern>
+    <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d4f0fb"/><stop offset="1" stop-color="#9fd6f2"/></linearGradient>
+    <linearGradient id="steel" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f4f6f8"/><stop offset="1" stop-color="#c3c9d0"/></linearGradient>
+    <g id="chairR">
+      <path d="M0 0v230" stroke-width="12"/>
+      <rect x="-6" y="0" width="16" height="96" rx="6" fill="#c0703f"/>
+      <rect x="-8" y="132" width="68" height="16" rx="6" fill="#d98a52"/>
+      <path d="M4 148v82M52 148v82" stroke-width="9"/>
+    </g>
+  </defs>
+  <g stroke="#6b4a36" stroke-width="4" stroke-linejoin="round" stroke-linecap="round">
+    <!-- 牆與地板 -->
+    <rect width="1600" height="1000" fill="url(#stripe)" stroke="none"/>
+    <rect y="608" width="1240" height="194" fill="#c9824f" stroke="none"/>
+    <g fill="#d8955f" stroke-width="3">
+      <rect x="216" y="630" width="96" height="150" rx="8"/><rect x="336" y="630" width="96" height="150" rx="8"/><rect x="456" y="630" width="96" height="150" rx="8"/>
+      <rect x="816" y="630" width="96" height="150" rx="8"/><rect x="936" y="630" width="96" height="150" rx="8"/><rect x="1056" y="630" width="96" height="150" rx="8"/>
+    </g>
+    <rect y="600" width="1240" height="16" fill="#a9653b"/>
+    <rect y="800" width="1600" height="200" fill="url(#check)" stroke="none"/>
+    <path d="M0 800H1600"/>
+    <!-- 掛畫 -->
+    <rect x="226" y="300" width="150" height="112" rx="6" fill="#ffd23f"/>
+    <rect x="238" y="312" width="126" height="88" fill="#bfe6f5"/>
+    <path d="M238 400l34-40l24 26l22-34l46 48z" fill="#8fd17a" stroke-width="3"/>
+    <circle cx="340" cy="332" r="10" fill="#ff8f6b" stroke-width="3"/>
+    <!-- 壁燈 -->
+    <path d="M484 470v-26" stroke-width="5"/><path d="M462 470h44l-8 34h-28z" fill="#ffd23f"/>
+    <circle cx="484" cy="512" r="40" fill="#fff4b0" opacity=".45" stroke="none"/>
+
+    <!-- 大門 -->
+    <rect x="22" y="332" width="176" height="472" rx="8" fill="#8e5232"/>
+    <rect x="40" y="350" width="140" height="452" rx="4" fill="#b56c42"/>
+    <rect x="54" y="366" width="112" height="226" rx="6" fill="url(#glass)"/>
+    <path d="M70 400l40-26M70 440l70-50" stroke="#fff" stroke-width="6" opacity=".7"/>
+    <rect x="58" y="614" width="104" height="164" rx="6" fill="#c97d4f"/>
+    <circle cx="164" cy="604" r="8" fill="#ffd23f"/>
+    <rect x="70" y="404" width="80" height="0"/>
+    <!-- 地墊 -->
+    <rect x="10" y="806" width="200" height="22" rx="8" fill="#7fbf8a"/>
+
+    <!-- 櫃台（訂位／結帳） -->
+    <rect x="590" y="646" width="200" height="156" fill="#b5683f"/>
+    <rect x="604" y="680" width="80" height="104" rx="6" fill="#6e3f25"/>
+    <rect x="698" y="664" width="80" height="120" rx="6" fill="#c97d4f"/>
+    <rect x="582" y="630" width="216" height="18" rx="6" fill="#8a4f2e"/>
+    <!-- 菜單架 -->
+    <rect x="708" y="686" width="26" height="72" rx="4" fill="#e5483b" transform="rotate(-6 721 722)"/>
+    <rect x="738" y="690" width="26" height="72" rx="4" fill="#3fa35b" transform="rotate(5 751 726)"/>
+    <path d="M715 702h14M745 706h14" stroke="#ffd23f" stroke-width="3"/>
+    <rect x="702" y="738" width="70" height="30" rx="4" fill="#8a4f2e"/>
+    <!-- 訂位簿 -->
+    <path d="M598 630l6-18h28l2 18zM634 630l2-18h28l6 18z" fill="#fff"/>
+    <path d="M610 620h18M612 625h16M642 620h18M640 625h18" stroke-width="2"/>
+    <path d="M656 604l14-20" stroke="#3b6fd6" stroke-width="5"/>
+    <!-- 帳單夾 -->
+    <rect x="680" y="622" width="44" height="10" rx="3" fill="#3b3b42"/>
+    <path d="M688 622l2-20h30l-2 20z" fill="#fff" stroke-width="3"/>
+    <path d="M696 610h16M694 616h18" stroke-width="2"/>
+    <!-- 小費罐 -->
+    <path d="M732 590h36v36q0 6-6 6h-24q-6 0-6-6z" fill="#e3f4fb" opacity=".85"/>
+    <path d="M728 588h44" stroke-width="5"/>
+
+    <g transform="translate(0 -78)"><!-- 黑板（今日特餐） -->
+    <rect x="890" y="118" width="270" height="250" rx="12" fill="#a8693e"/>
+    <rect x="906" y="134" width="238" height="218" rx="6" fill="#3e5f4f"/>
+    <path d="M944 146l9 18 20 3-14 14 3 20-18-9-18 9 3-20-14-14 20-3z" fill="#ffd23f" stroke-width="3"/>
+    <ellipse cx="1008" cy="214" rx="44" ry="10" fill="#fff" stroke="#e9f1ec" stroke-width="3"/>
+    <path d="M974 210q34-40 68 0" fill="#ffb347" stroke="#e9f1ec" stroke-width="3"/>
+    <path d="M990 196q8-6 14 0M1010 194q8-6 14 2" stroke="#fff" stroke-width="3" fill="none"/>
+    <!-- 份量 S/M/L -->
+    <g stroke="#e9f1ec" stroke-width="3">
+      <path d="M1060 190q8-10 14 0z" fill="#ffb347"/><path d="M1058 190h18q-1 14-9 14q-8 0-9-14z" fill="#fff"/>
+      <path d="M1084 186q10-14 20 0z" fill="#ffb347"/><path d="M1081 186h26q-1 18-13 18q-12 0-13-18z" fill="#fff"/>
+      <path d="M1113 180q14-18 28 0z" fill="#ffb347"/><path d="M1109 180h36q-1 24-18 24q-17 0-18-24z" fill="#fff"/>
+    </g>
+    <!-- 素食 -->
+    <path d="M934 296q0-36 34-40q2 36-34 40z" fill="#7cd36b" stroke="#e9f1ec" stroke-width="3"/>
+    <path d="M934 296q10-18 24-30" stroke="#e9f1ec" stroke-width="2.5"/>
+    <path d="M990 270h70M990 290h50" stroke="#e9f1ec" stroke-width="4"/>
+    <!-- 過敏警示（花生禁止） -->
+    <circle cx="1104" cy="292" r="26" fill="#fff" stroke="#ff5a4a" stroke-width="5"/>
+    <path d="M1094 276q-10 8 0 16q-10 8 0 16q12 6 20-4q4-8-2-12q8-6 2-14q-8-8-20-2z" fill="#e2b36b" stroke-width="2.5"/>
+    <path d="M1086 274l36 36" stroke="#ff5a4a" stroke-width="5"/>
+    <path d="M940 330h40M996 330h40" stroke="#e9f1ec" stroke-width="3" stroke-dasharray="6 8"/>
+    <rect x="900" y="352" width="250" height="12" rx="5" fill="#8a4f2e"/>
+
+    </g>
+    <!-- 椅子 -->
+    <use href="#chairR" x="806" y="598"/>
+    <use href="#chairR" x="1216" y="598" transform="translate(2432 0) scale(-1 1)"/>
+    <!-- 四人餐桌（透視桌面） -->
+    <path d="M884 732l-6 112M1146 732l6 112M920 742l-2 82M1110 742l2 82" stroke-width="10"/>
+    <path d="M898 630h234l34 74H864z" fill="url(#cloth)"/>
+    <path d="M864 704h302v38q-150 14-302 0z" fill="#ffd9d4"/>
+    <path d="M864 742q24 10 50 0q24 10 50 0q24 10 50 0q24 10 50 0q24 10 50 0q24 10 52 0" fill="none" stroke-width="3"/>
+    <!-- 後方兩份餐具 -->
+    <ellipse cx="962" cy="646" rx="26" ry="7" fill="#fff"/>
+    <ellipse cx="1066" cy="646" rx="26" ry="7" fill="#fff"/>
+    <!-- 前方左：盤子＋叉子＋刀子＋餐巾 -->
+    <ellipse cx="946" cy="686" rx="38" ry="10" fill="#fff"/>
+    <ellipse cx="946" cy="686" rx="24" ry="5" fill="none" stroke="#cfd6dc" stroke-width="3"/>
+    <path d="M928 682l18-30l18 30z" fill="#ff7a6b" stroke-width="3"/>
+    <path d="M946 652v30" stroke-width="2.5"/>
+    <path d="M896 696v-30M890 668v10q0 6 6 6q6 0 6-6v-10M896 668v10" stroke="#8d98a3" stroke-width="3.5"/>
+    <path d="M996 696v-30q8 4 6 18h-6" stroke="#8d98a3" stroke-width="3.5" fill="#dfe4e9"/>
+    <!-- 前方右：湯匙 -->
+    <path d="M1112 698v-22" stroke="#8d98a3" stroke-width="4"/>
+    <ellipse cx="1112" cy="670" rx="7" ry="10" fill="#dfe4e9" stroke="#8d98a3" stroke-width="3"/>
+    <ellipse cx="1060" cy="690" rx="34" ry="9" fill="#fff"/>
+
+    <!-- 廚房 -->
+    <rect x="1240" width="360" height="800" fill="url(#ktile)" stroke="none"/>
+    <rect x="1222" width="20" height="804" fill="#a9653b"/>
+    <g transform="translate(0 -64)"><!-- 上方層架與鍋子 -->
+    <path d="M1252 214H1592" stroke-width="10"/>
+    <path d="M1266 214l12 24M1578 214l-12 24" stroke-width="6"/>
+    <path d="M1288 212v-34h56v34z" fill="#8d98a3"/><path d="M1280 178h72" stroke-width="6"/>
+    <path d="M1376 212q0-40 34-40q34 0 34 40z" fill="#ff8f6b"/><circle cx="1410" cy="168" r="6" fill="#6b4a36" stroke="none"/>
+    <rect x="1470" y="168" width="34" height="44" rx="6" fill="#ffd23f"/><rect x="1514" y="178" width="30" height="34" rx="6" fill="#86cdbf"/>
+    </g>
+    <g transform="translate(0 -340)"><!-- 點單夾 -->
+    <path d="M1256 520H1376" stroke-width="6"/>
+    <path d="M1266 522h30v52h-30zM1306 522h30v44h-30zM1344 522h28v56h-28z" fill="#fffbe8" stroke-width="3"/>
+    <path d="M1272 536h18M1272 546h14M1312 536h18M1312 546h12M1350 536h16M1350 546h12" stroke-width="2"/>
+    </g>
+    <!-- 出菜台 -->
+    <rect x="1240" y="588" width="360" height="214" fill="#7fc4b5"/>
+    <rect x="1258" y="606" width="150" height="176" rx="8" fill="#97d3c6"/>
+    <rect x="1428" y="606" width="156" height="176" rx="8" fill="#97d3c6"/>
+    <path d="M1392 690v24M1444 690v24" stroke-width="7"/>
+    <rect x="1236" y="566" width="368" height="24" rx="6" fill="url(#steel)"/>
+  </g>
+</svg>

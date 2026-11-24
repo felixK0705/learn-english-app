@@ -526,5 +526,672 @@
         }
       ]
     }
-  ]
+  ],
+  "scene": {
+    "w": 1600,
+    "h": 1100,
+    "bg": "scenes/music-room.svg",
+    "items": {
+      "maracas": {
+        "x": 80,
+        "y": 400,
+        "s": 56,
+        "lx": 80,
+        "ly": 410,
+        "r": -10
+      },
+      "piano": {
+        "box": [
+          508,
+          488,
+          256,
+          216
+        ],
+        "lx": 650,
+        "ly": 704
+      },
+      "karaoke": {
+        "box": [
+          1236,
+          84,
+          164,
+          112
+        ],
+        "lx": 1318,
+        "ly": 200
+      },
+      "applause": {
+        "box": [
+          1359,
+          1000,
+          34,
+          34
+        ],
+        "lx": 1380,
+        "ly": 806
+      },
+      "accordion": {
+        "x": 290,
+        "y": 700,
+        "s": 78,
+        "lx": 290,
+        "ly": 724
+      },
+      "recorder": {
+        "box": [
+          90,
+          560,
+          90,
+          140
+        ],
+        "lx": 96,
+        "ly": 724
+      },
+      "drum": {
+        "box": [
+          1538,
+          596,
+          66,
+          66
+        ],
+        "lx": 1596,
+        "ly": 380,
+        "la": "r",
+        "line": [
+          1570,
+          604
+        ]
+      },
+      "violin": {
+        "box": [
+          454,
+          986,
+          35,
+          35
+        ],
+        "lx": 472,
+        "ly": 806
+      },
+      "guitar": {
+        "box": [
+          1394,
+          581,
+          36,
+          36
+        ],
+        "lx": 1494,
+        "ly": 702,
+        "line": true
+      },
+      "dance": {
+        "box": [
+          1480,
+          890,
+          80,
+          191
+        ],
+        "lx": 1524,
+        "ly": 790
+      },
+      "trumpet": {
+        "box": [
+          734,
+          986,
+          35,
+          35
+        ],
+        "lx": 748,
+        "ly": 806
+      },
+      "horn": {
+        "x": 1052,
+        "y": 236,
+        "s": 60,
+        "lx": 1050,
+        "ly": 244
+      },
+      "saxophone": {
+        "box": [
+          874,
+          986,
+          35,
+          35
+        ],
+        "lx": 898,
+        "ly": 806
+      },
+      "audience": {
+        "box": [
+          1180,
+          904,
+          250,
+          70
+        ],
+        "lx": 1240,
+        "ly": 806
+      },
+      "handbell": {
+        "x": 286,
+        "y": 544,
+        "s": 56,
+        "lx": 286,
+        "ly": 554
+      },
+      "music teacher": {
+        "box": [
+          814,
+          458,
+          111,
+          264
+        ],
+        "lx": 876,
+        "ly": 724
+      },
+      "banjo": {
+        "x": 944,
+        "y": 258,
+        "s": 80,
+        "lx": 944,
+        "ly": 254,
+        "r": -18
+      },
+      "microphone": {
+        "box": [
+          1337,
+          549,
+          64,
+          150
+        ],
+        "lx": 1270,
+        "ly": 380,
+        "line": [
+          1345,
+          563
+        ]
+      },
+      "song": {
+        "box": [
+          1138,
+          396,
+          56,
+          80
+        ],
+        "lx": 1004,
+        "ly": 416
+      },
+      "rock music": {
+        "box": [
+          1418,
+          86,
+          156,
+          80
+        ],
+        "lx": 1498,
+        "ly": 172
+      },
+      "band": {
+        "box": [
+          1240,
+          466,
+          360,
+          92
+        ],
+        "lx": 1440,
+        "ly": 290
+      },
+      "concert": {
+        "box": [
+          780,
+          30,
+          106,
+          146
+        ],
+        "lx": 832,
+        "ly": 184
+      },
+      "stage": {
+        "box": [
+          1150,
+          676,
+          450,
+          92
+        ],
+        "lx": 1152,
+        "ly": 702,
+        "la": "l"
+      },
+      "note": {
+        "box": [
+          644,
+          110,
+          60,
+          84
+        ],
+        "lx": 676,
+        "ly": 204
+      },
+      "sheet music": {
+        "box": [
+          490,
+          580,
+          60,
+          50
+        ],
+        "lx": 588,
+        "ly": 478,
+        "line": [
+          530,
+          600
+        ]
+      },
+      "speaker": {
+        "box": [
+          1206,
+          556,
+          58,
+          118
+        ],
+        "lx": 1250,
+        "ly": 290,
+        "line": [
+          1235,
+          570
+        ]
+      },
+      "cymbals": {
+        "box": [
+          236,
+          898,
+          163,
+          80
+        ],
+        "lx": 320,
+        "ly": 806
+      },
+      "tambourine": {
+        "box": [
+          1257,
+          589,
+          54,
+          54
+        ],
+        "lx": 1346,
+        "ly": 702
+      },
+      "castanets": {
+        "box": [
+          250,
+          356,
+          76,
+          46
+        ],
+        "lx": 280,
+        "ly": 410
+      },
+      "harmonica": {
+        "box": [
+          54,
+          512,
+          112,
+          34
+        ],
+        "lx": 110,
+        "ly": 554
+      },
+      "xylophone": {
+        "box": [
+          22,
+          916,
+          216,
+          90
+        ],
+        "lx": 130,
+        "ly": 1010
+      },
+      "flute": {
+        "box": [
+          594,
+          986,
+          35,
+          35
+        ],
+        "lx": 612,
+        "ly": 806
+      },
+      "trombone": {
+        "box": [
+          914,
+          34,
+          236,
+          66
+        ],
+        "lx": 1016,
+        "ly": 100
+      },
+      "clarinet": {
+        "box": [
+          1110,
+          132,
+          40,
+          186
+        ],
+        "lx": 1092,
+        "ly": 330
+      },
+      "conductor": {
+        "box": [
+          1018,
+          882,
+          88,
+          211
+        ],
+        "lx": 1062,
+        "ly": 806
+      },
+      "choir": {
+        "box": [
+          944,
+          490,
+          232,
+          176
+        ],
+        "lx": 1112,
+        "ly": 416
+      },
+      "orchestra": {
+        "box": [
+          410,
+          880,
+          540,
+          60
+        ],
+        "lx": 1070,
+        "ly": 722,
+        "line": [
+          946,
+          900
+        ]
+      }
+    },
+    "people": [
+      {
+        "p": {
+          "hair": "pigtails",
+          "hairColor": "#4a2e1c",
+          "shirt": "#ffd23f",
+          "skirt": "#5b8def",
+          "sit": true,
+          "pose": "talk",
+          "face": "smile",
+          "eyes": "happy"
+        },
+        "x": 430,
+        "y": 760,
+        "h": 230
+      },
+      {
+        "p": {
+          "hair": "bun",
+          "hairColor": "#3a2a20",
+          "shirt": "#7a62d6",
+          "skirt": "#3d3a6b",
+          "pose": "point",
+          "face": "talk",
+          "acc": [
+            "glasses"
+          ],
+          "shoes": "#3d3a6b"
+        },
+        "x": 870,
+        "y": 726,
+        "h": 296,
+        "flip": true
+      },
+      {
+        "p": {
+          "hair": "bob",
+          "hairColor": "#2e2018",
+          "shirt": "#ffffff",
+          "skirt": "#e5483b",
+          "pose": "hold",
+          "face": "talk",
+          "skin": "tan",
+          "holding": "🎼"
+        },
+        "x": 990,
+        "y": 666,
+        "h": 176
+      },
+      {
+        "p": {
+          "hair": "short",
+          "hairColor": "#5b3a24",
+          "shirt": "#ffffff",
+          "pants": "#e5483b",
+          "pose": "hold",
+          "face": "talk",
+          "holding": "🎼"
+        },
+        "x": 1060,
+        "y": 666,
+        "h": 176
+      },
+      {
+        "p": {
+          "hair": "ponytail",
+          "hairColor": "#a0522d",
+          "shirt": "#ffffff",
+          "skirt": "#e5483b",
+          "pose": "hold",
+          "face": "talk",
+          "skin": "light",
+          "holding": "🎼"
+        },
+        "x": 1130,
+        "y": 666,
+        "h": 176
+      },
+      {
+        "p": {
+          "hair": "spiky",
+          "hairColor": "#1f1a17",
+          "shirt": "#2e2b3a",
+          "stripe": "#ffd23f",
+          "pants": "#5b8def",
+          "pose": "talk",
+          "face": "laugh",
+          "eyes": "happy"
+        },
+        "x": 1312,
+        "y": 684,
+        "h": 220
+      },
+      {
+        "p": {
+          "hair": "long",
+          "hairColor": "#c0602a",
+          "shirt": "#ff5a6e",
+          "pants": "#2e2b3a",
+          "pose": "hold",
+          "holding": "🎸",
+          "face": "laugh",
+          "eyes": "wink"
+        },
+        "x": 1412,
+        "y": 684,
+        "h": 220
+      },
+      {
+        "p": {
+          "hair": "curly",
+          "hairColor": "#1f1a17",
+          "shirt": "#3fbf9f",
+          "pants": "#2e2b3a",
+          "sit": true,
+          "pose": "talk",
+          "face": "laugh",
+          "skin": "brown"
+        },
+        "x": 1528,
+        "y": 684,
+        "h": 200
+      },
+      {
+        "p": {
+          "hair": "spiky",
+          "hairColor": "#3a2a20",
+          "shirt": "#3fa35b",
+          "pants": "#4d4d63",
+          "pose": "cheer",
+          "face": "laugh",
+          "eyes": "happy"
+        },
+        "x": 318,
+        "y": 1086,
+        "h": 212
+      },
+      {
+        "p": {
+          "hair": "long",
+          "hairColor": "#2e2018",
+          "shirt": "#ff8fb1",
+          "skirt": "#7a62d6",
+          "pose": "hold",
+          "holding": "🎻",
+          "face": "smile",
+          "eyes": "happy"
+        },
+        "x": 472,
+        "y": 1086,
+        "h": 212
+      },
+      {
+        "p": {
+          "hair": "short",
+          "hairColor": "#1f1a17",
+          "shirt": "#5bc0eb",
+          "pants": "#3d5a99",
+          "pose": "hold",
+          "holding": "🪈",
+          "face": "smile",
+          "skin": "dark"
+        },
+        "x": 612,
+        "y": 1086,
+        "h": 212
+      },
+      {
+        "p": {
+          "hair": "bob",
+          "hairColor": "#c0602a",
+          "shirt": "#ff9f43",
+          "skirt": "#3fa35b",
+          "pose": "hold",
+          "holding": "🎺",
+          "face": "wow",
+          "acc": [
+            "bow"
+          ]
+        },
+        "x": 752,
+        "y": 1086,
+        "h": 212
+      },
+      {
+        "p": {
+          "hair": "curly",
+          "hairColor": "#3a2a20",
+          "shirt": "#ffd23f",
+          "pants": "#e5483b",
+          "pose": "hold",
+          "holding": "🎷",
+          "face": "smile",
+          "skin": "tan"
+        },
+        "x": 892,
+        "y": 1086,
+        "h": 212
+      },
+      {
+        "p": {
+          "hair": "short",
+          "hairColor": "#2e2018",
+          "shirt": "#2e2b3a",
+          "pants": "#2e2b3a",
+          "pose": "cheer",
+          "face": "smile",
+          "eyes": "happy",
+          "acc": [
+            "bow"
+          ]
+        },
+        "x": 1062,
+        "y": 1096,
+        "h": 236,
+        "flip": true
+      },
+      {
+        "p": {
+          "hair": "pigtails",
+          "hairColor": "#2e2018",
+          "shirt": "#7fc8b8",
+          "skirt": "#ff8fb1",
+          "sit": true,
+          "pose": "hold",
+          "holding": "👏",
+          "face": "laugh",
+          "eyes": "happy"
+        },
+        "x": 1240,
+        "y": 1088,
+        "h": 184
+      },
+      {
+        "p": {
+          "hair": "short",
+          "hairColor": "#a0522d",
+          "shirt": "#f2a516",
+          "pants": "#4d7fd6",
+          "sit": true,
+          "pose": "hold",
+          "holding": "👏",
+          "face": "laugh",
+          "eyes": "happy",
+          "skin": "tan"
+        },
+        "x": 1376,
+        "y": 1088,
+        "h": 184
+      },
+      {
+        "p": {
+          "hair": "ponytail",
+          "hairColor": "#2e2018",
+          "shirt": "#ff5a6e",
+          "skirt": "#ffd23f",
+          "pose": "cheer",
+          "face": "laugh",
+          "eyes": "happy",
+          "skin": "brown"
+        },
+        "x": 1520,
+        "y": 1084,
+        "h": 214
+      }
+    ],
+    "bubbles": [
+      {
+        "x": 684,
+        "y": 346,
+        "w": 266,
+        "tail": "br"
+      },
+      {
+        "x": 384,
+        "y": 316,
+        "w": 290,
+        "tail": "bl"
+      }
+    ]
+  }
 }

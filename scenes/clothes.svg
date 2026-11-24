@@ -1,0 +1,180 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1100">
+  <defs>
+    <pattern id="stripe" width="60" height="60" patternUnits="userSpaceOnUse"><rect width="60" height="60" fill="#fde4e4"/><rect width="30" height="60" fill="#fbd6d8"/></pattern>
+    <pattern id="plank" width="180" height="50" patternUnits="userSpaceOnUse"><rect width="180" height="50" fill="#e6b27a"/><path d="M0 49H180M90 0V50" stroke="#cf9659" stroke-width="3"/></pattern>
+    <pattern id="knit" width="12" height="12" patternUnits="userSpaceOnUse"><path d="M0 0l6 6l6-6" fill="none" stroke="#d9785f" stroke-width="2"/></pattern>
+    <pattern id="pj" width="22" height="22" patternUnits="userSpaceOnUse"><rect width="22" height="22" fill="#bfe0ff"/><circle cx="6" cy="6" r="2.5" fill="#fff"/><circle cx="17" cy="16" r="2.5" fill="#ffd23f"/></pattern>
+    <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#eaf8ff"/><stop offset="1" stop-color="#c3e6f7"/></linearGradient>
+  </defs>
+  <g stroke="#6b4a36" stroke-width="4" stroke-linejoin="round" stroke-linecap="round">
+    <!-- 牆與地板 -->
+    <rect width="1600" height="1100" fill="url(#stripe)" stroke="none"/>
+    <rect y="0" width="1600" height="44" fill="#f7b7bd" stroke="none"/>
+    <path d="M0 44H1600" stroke-width="3"/>
+    <g fill="#fff" stroke="none" opacity=".8">
+      <path d="M460 44l26 30l26-30z"/><path d="M560 44l26 30l26-30z"/><path d="M660 44l26 30l26-30z"/><path d="M760 44l26 30l26-30z"/><path d="M860 44l26 30l26-30z"/><path d="M960 44l26 30l26-30z"/>
+    </g>
+    <rect y="760" width="1600" height="340" fill="url(#plank)" stroke="none"/>
+    <rect y="744" width="1600" height="18" fill="#fff"/>
+    <!-- 地毯 -->
+    <ellipse cx="770" cy="1000" rx="330" ry="62" fill="#ffd9a0" stroke-width="3.5"/>
+    <ellipse cx="770" cy="1000" rx="300" ry="48" fill="none" stroke="#f2a516" stroke-width="3" stroke-dasharray="10 10"/>
+
+    <!-- ===== 左牆：鞋架 ===== -->
+    <g>
+      <path d="M40 360H372M40 490H372M40 620H372" stroke-width="10"/>
+      <path d="M56 360l14 22M356 360l-14 22M56 490l14 22M356 490l-14 22M56 620l14 22M356 620l-14 22" stroke-width="6"/>
+    </g>
+
+    <!-- ===== 吊衣桿 ===== -->
+    <path d="M396 112H1004" stroke-width="10"/>
+    <path d="M396 112V60M1004 112V60" stroke-width="7"/>
+    <path d="M396 56H1004" stroke-width="4" stroke="#c8a27c"/>
+    <!-- 衣架掛鉤 -->
+    <g fill="none" stroke-width="4">
+      <path d="M440 132v-14q0-12 9-12q8 0 8 9"/><path d="M528 132v-14q0-12 9-12q8 0 8 9"/><path d="M616 132v-14q0-12 9-12q8 0 8 9"/><path d="M704 132v-14q0-12 9-12q8 0 8 9"/><path d="M792 132v-14q0-12 9-12q8 0 8 9"/><path d="M880 132v-14q0-12 9-12q8 0 8 9"/><path d="M968 132v-14q0-12 9-12q8 0 8 9"/>
+    </g>
+    <!-- T-shirt -->
+    <g transform="translate(440 120)">
+      <path d="M-24 22L-48 36L-38 60L-28 55V132H28V55L38 60L48 36L24 22Q0 36-24 22Z" fill="#ff8a5b"/>
+      <path d="M-12 70h24" stroke="#fff" stroke-width="7"/>
+      <path d="M-34 22L0 10L34 22" fill="none" stroke-width="4"/>
+    </g>
+    <!-- shirt（長袖襯衫） -->
+    <g transform="translate(528 120)">
+      <path d="M-24 22L-42 32L-52 124L-38 126L-28 62V146H28V62L38 126L52 124L42 32L24 22Q0 30-24 22Z" fill="#9fd3f7"/>
+      <path d="M-24 22L-4 44L0 30L4 44L24 22" fill="#fff" stroke-width="3.5"/>
+      <path d="M0 44V146" stroke-width="3"/>
+      <circle cx="6" cy="64" r="2.5" fill="#6b4a36" stroke="none"/><circle cx="6" cy="86" r="2.5" fill="#6b4a36" stroke="none"/><circle cx="6" cy="108" r="2.5" fill="#6b4a36" stroke="none"/>
+      <rect x="10" y="56" width="14" height="14" rx="2" fill="none" stroke-width="3"/>
+    </g>
+    <!-- sweater -->
+    <g transform="translate(616 120)">
+      <path d="M-26 22L-46 34L-56 122L-40 126L-30 64V140H30V64L40 126L56 122L46 34L26 22Q0 38-26 22Z" fill="#ffb59e"/>
+      <path d="M-26 22L-46 34L-56 122L-40 126L-30 64V140H30V64L40 126L56 122L46 34L26 22Q0 38-26 22Z" fill="url(#knit)" stroke="none"/>
+      <path d="M-30 128H30M-56 112l16 4M56 112l-16 4" stroke="#e26d55" stroke-width="7"/>
+      <path d="M-26 22Q0 38 26 22" fill="none" stroke="#e26d55" stroke-width="6"/>
+    </g>
+    <!-- jacket -->
+    <g transform="translate(704 120)">
+      <path d="M-30 18q30-20 60 0" fill="#3fa35b"/>
+      <path d="M-26 22L-46 34L-56 126L-40 130L-32 66V146H32V66L40 130L56 126L46 34L26 22Q0 34-26 22Z" fill="#5cbf75"/>
+      <path d="M0 30V146" stroke-width="3.5"/>
+      <path d="M0 30V146" stroke="#ffd23f" stroke-width="2" stroke-dasharray="4 4"/>
+      <path d="M-26 104h16v18h-16zM10 104h16v18h-16z" fill="#3fa35b" stroke-width="3"/>
+      <path d="M-32 140H32" stroke="#3fa35b" stroke-width="8"/>
+    </g>
+    <!-- raincoat -->
+    <g transform="translate(792 120)">
+      <path d="M-24 26q-6-34 24-34q30 0 24 34z" fill="#ffd23f"/>
+      <path d="M-24 24L-44 36L-54 128L-38 132L-32 70L-40 196H40L32 70L38 132L54 128L44 36L24 24Q0 34-24 24Z" fill="#ffd23f"/>
+      <path d="M0 34V196" stroke-width="3.5"/>
+      <circle cx="-8" cy="64" r="4" fill="#fff" stroke-width="3"/><circle cx="-8" cy="104" r="4" fill="#fff" stroke-width="3"/><circle cx="-8" cy="144" r="4" fill="#fff" stroke-width="3"/>
+      <path d="M-36 178H36" stroke="#f2a516" stroke-width="5"/>
+    </g>
+    <!-- dress -->
+    <g transform="translate(880 120)">
+      <path d="M-16 22L-22 30L-18 76L-52 182H52L18 76L22 30L16 22Q0 34-16 22Z" fill="#c58cf0"/>
+      <path d="M-18 76H18" stroke-width="4"/>
+      <path d="M-16 22L-12 10M16 22L12 10" stroke-width="4"/>
+      <g fill="#fff" stroke="none"><circle cx="-24" cy="140" r="5"/><circle cx="8" cy="120" r="5"/><circle cx="28" cy="160" r="5"/><circle cx="-6" cy="164" r="5"/><circle cx="0" cy="50" r="4"/></g>
+      <path d="M-34 18L0 6L34 18" fill="none" stroke-width="4"/>
+    </g>
+    <!-- skirt（夾式衣架） -->
+    <g transform="translate(968 120)">
+      <path d="M-36 24H36" stroke-width="6"/>
+      <path d="M0 12L-30 24M0 12L30 24" fill="none" stroke-width="3"/>
+      <path d="M-28 32H28L46 120H-46Z" fill="#ff7a8a"/>
+      <path d="M-28 32H28" stroke-width="7"/>
+      <path d="M-14 38L-22 118M0 38V118M14 38L22 118" stroke-width="3"/>
+      <rect x="-32" y="22" width="10" height="14" rx="2" fill="#c3c9d0" stroke-width="3"/><rect x="22" y="22" width="10" height="14" rx="2" fill="#c3c9d0" stroke-width="3"/>
+    </g>
+
+    <!-- 尺寸表海報 -->
+    <rect x="860" y="574" width="130" height="130" rx="10" fill="#fff"/>
+    <path d="M876 600h98" stroke="#ff7a8a" stroke-width="5"/>
+    <g font-family="Arial Rounded MT Bold,Arial,sans-serif" font-weight="700" fill="#6b4a36" stroke="none" text-anchor="middle">
+      <text x="888" y="640" font-size="18">S</text><text x="925" y="640" font-size="22">M</text><text x="964" y="640" font-size="26">L</text>
+    </g>
+    <path d="M880 666h22M914 666h22M948 666h28M880 682h22M914 682h22M948 682h28" stroke="#9fd3f7" stroke-width="5"/>
+    <!-- ===== 飾品玻璃櫃 ===== -->
+    <rect x="1010" y="96" width="292" height="468" rx="12" fill="#c8915e"/>
+    <rect x="1024" y="110" width="264" height="440" rx="6" fill="url(#glass)"/>
+    <path d="M1024 222H1288M1024 372H1288M1024 522H1288" stroke-width="8"/>
+    <path d="M1036 122l40 40M1036 150l20 20" stroke="#fff" stroke-width="5" opacity=".8"/>
+    <rect x="990" y="84" width="332" height="20" rx="8" fill="#a66f42"/>
+    <!-- 飾品展示座 -->
+    <path d="M1064 372q21-30 42 0z" fill="#fff" stroke-width="3"/>
+    <rect x="1200" y="356" width="50" height="16" rx="5" fill="#ff7a8a" stroke-width="3"/>
+    <path d="M1206 222l8-16h22l8 16z" fill="#fff" stroke-width="3"/>
+
+    <!-- ===== 假人：西裝＋領帶＋口罩 ===== -->
+    <g>
+      <path d="M1346 600v150" stroke-width="7"/>
+      <ellipse cx="1346" cy="752" rx="40" ry="10" fill="#8c97ab"/>
+      <path d="M1316 430h60l-4 172h-22l-4-130l-4 130h-22z" fill="#3d4a6b"/>
+      <path d="M1294 290q0-34 52-34q52 0 52 34l-4 146h-96z" fill="#4a5a82"/>
+      <path d="M1328 258l18 50l18-50z" fill="#fff" stroke-width="3.5"/>
+      <path d="M1340 270h12l-2 10l8 64l-12 16l-12-16l8-64z" fill="#e8504a" stroke-width="3"/>
+      <path d="M1328 258l-6 26l14 8l10 16M1364 258l6 26l-14 8l-10 16" fill="none" stroke-width="3.5"/>
+      <rect x="1360" y="300" width="22" height="10" rx="2" fill="#fff" stroke-width="2.5"/>
+      <circle cx="1338" cy="380" r="3" fill="#6b4a36" stroke="none"/><circle cx="1338" cy="404" r="3" fill="#6b4a36" stroke="none"/>
+      <path d="M1294 290q-16 60-10 140M1398 290q16 60 10 140" fill="none" stroke-width="4"/>
+      <path d="M1336 230v28h20v-28z" fill="#f2dcc5"/>
+      <ellipse cx="1346" cy="200" rx="34" ry="38" fill="#f2dcc5"/>
+      <path d="M1318 204q28-8 56 0l-4 26q-24 10-48 0z" fill="#9fd3f7" stroke-width="3.5"/>
+      <path d="M1322 214q24-6 48 0M1324 222q22-4 44 0" fill="none" stroke-width="2"/>
+      <path d="M1314 206l-6-4M1378 206l6-4" stroke-width="2.5"/>
+    </g>
+
+    <!-- ===== 試衣間 ===== -->
+    <rect x="1414" y="60" width="178" height="700" fill="#fff6e6"/>
+    <rect x="1404" y="50" width="196" height="40" rx="8" fill="#5fb7a6"/>
+    <path d="M1490 64v-6q0-8 6-8q6 0 6 6M1470 80l26-14l26 14z" fill="none" stroke="#fff" stroke-width="3.5"/>
+    <path d="M1414 112H1592" stroke-width="7"/>
+    <rect x="1494" y="200" width="70" height="300" rx="30" fill="url(#glass)"/>
+    <path d="M1420 112q14 120 4 300q20 180 2 340h60q-10-160 10-340q-14-180 4-300z" fill="#ff8a5b"/>
+    <path d="M1440 140q8 140-2 300M1462 140q-6 160 6 320" fill="none" stroke="#e26d55" stroke-width="4"/>
+    <rect x="1500" y="700" width="70" height="40" rx="6" fill="#ffd9a0"/>
+    <path d="M1404 760V50" stroke-width="8"/>
+
+    <!-- ===== 衣帽架 ===== -->
+    <g>
+      <path d="M150 790V1050" stroke-width="10"/>
+      <path d="M150 1050l-50 14M150 1050l50 14M150 1050v16" stroke-width="8"/>
+      <path d="M150 830q-30 0-40 -22M150 830q30 0 40 -22M150 900q-28 0-36-18M150 900q28 0 36-18" fill="none" stroke-width="6"/>
+      <circle cx="150" cy="786" r="9" fill="#c8915e"/>
+      <!-- 圍巾 -->
+      <path d="M186 808q20 6 18 30l-4 150h-28l2-140q-10-16 12-40z" fill="#5b8def"/>
+      <path d="M174 860h28M174 900h26M174 940h26" stroke="#fff" stroke-width="7"/>
+      <path d="M176 988l-2 14M186 988v14M196 988l2 14" stroke-width="3"/>
+    </g>
+
+    <!-- ===== 中央展示桌 ===== -->
+    <path d="M560 862L590 830H980L1010 862Z" fill="#f2c48d"/>
+    <rect x="560" y="860" width="450" height="24" rx="4" fill="#e6a868"/>
+    <rect x="574" y="884" width="422" height="74" fill="#f9d7ac"/>
+    <path d="M580 958v40M990 958v40" stroke-width="8"/>
+    <!-- 牛仔褲 -->
+    <g>
+      <rect x="590" y="826" width="66" height="16" rx="5" fill="#3d6fb6"/><rect x="592" y="812" width="62" height="16" rx="5" fill="#4d7fd6"/><rect x="594" y="798" width="58" height="16" rx="5" fill="#3d6fb6"/>
+      <path d="M604 806h12" stroke="#ffd23f" stroke-width="2.5"/>
+    </g>
+    <!-- 長褲 -->
+    <g>
+      <rect x="672" y="826" width="66" height="16" rx="5" fill="#c9a26b"/><rect x="674" y="812" width="62" height="16" rx="5" fill="#d9b47e"/><rect x="676" y="798" width="58" height="16" rx="5" fill="#c9a26b"/>
+    </g>
+    <!-- 短褲 -->
+    <g>
+      <rect x="754" y="826" width="60" height="16" rx="5" fill="#ff7a8a"/><rect x="756" y="812" width="56" height="16" rx="5" fill="#ffd23f"/>
+    </g>
+    <!-- 睡衣 -->
+    <g>
+      <rect x="830" y="824" width="70" height="18" rx="5" fill="url(#pj)"/><rect x="832" y="808" width="66" height="18" rx="5" fill="url(#pj)"/>
+      <path d="M842 812l8 6l8-6" fill="none" stroke-width="2.5"/>
+    </g>
+    <!-- 襪子籃 -->
+    <path d="M916 806h72l-8 36h-56z" fill="#e6b27a"/>
+    <path d="M922 818h62M926 830h54" stroke-width="2.5"/>
+  </g>
+</svg>
