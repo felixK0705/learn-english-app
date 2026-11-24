@@ -575,8 +575,8 @@ async function route() {
   currentNav = ['review', 'search', 'me'].includes(page) ? page : 'home';
   renderChrome(currentNav);
   document.body.dataset.page = page === 'topic' && !topicMeta[a] ? 'notfound' : (page || 'home');
-  if (page === 'topic' && topicMeta[a]) { document.body.style.setProperty('--page', catOf(a).soft); document.body.style.setProperty('--c', catOf(a).color); }
-  else { document.body.style.removeProperty('--page'); document.body.style.removeProperty('--c'); }
+  if (page === 'topic' && topicMeta[a]) { document.body.style.setProperty('--c', catOf(a).color); }
+  else { document.body.style.removeProperty('--c'); }
   popCtl?.hide(); popCtl = null;
   try {
     if (page === 'topic') await renderTopic(a, b);
